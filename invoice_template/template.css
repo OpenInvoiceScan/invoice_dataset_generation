@@ -1,0 +1,143 @@
+/**/
+
+:root {
+    --colorPrincipal: #65B234;
+    --colorSecundario: #093145;
+    --globalPadding: 20px;
+}
+
+@page {
+    margin: 0;
+    size: A4;
+  }
+
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    /* Agrega cualquier otro estilo necesario */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.full-height {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+main
+{
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.mt40 {
+    margin-top: 40px;
+}
+
+.data_container{
+    /* Add space between */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer {
+    background-color: var(--colorPrincipal); /* Color azul corporativo */
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    height: 100px;
+
+}
+
+header {
+ /* Color azul corporativo */
+    display: flex;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    align-items: center;
+    min-height: 50px;
+    padding: 10px 20px;
+    justify-content: space-between;
+}
+
+header img {
+    width: 200px;
+    height: auto;
+}
+
+hr {
+    border: 1px solid var(--colorSecundario); /* Cambiado a un gris suave para las líneas */
+    width: 100%;
+}
+
+
+.info-title {
+    font-weight: bold;
+    color: var(--colorPrincipal); /* Color azul corporativo */
+}
+
+
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+    width: 100%;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.1); /* Sombra suave para dar profundidad */
+    font-family: Arial, sans-serif; /* Tipografía más moderna */
+}
+
+th, td { /* Líneas en gris suave */
+    padding: 12px 15px; /* Ajuste en el padding para más espacio */
+    text-align: left;
+    transition: background-color 0.3s ease-in-out; /* Transición suave del color de fondo al pasar el ratón */
+}
+
+th {
+    background-color: var(--colorPrincipal); /* Un color más vibrante para los encabezados */
+    color: white; /* Texto en color blanco para contraste */
+    font-weight: normal; /* Estilo de la fuente más ligero */
+}
+
+/* Añade estilos para el primer th para hacerlo más distintivo si es necesario */
+th:first-child {
+    border-top-left-radius: 10px; /* Esquinas redondeadas para suavizar la apariencia */
+}
+
+/* Similar para el último th */
+th:last-child {
+    border-top-right-radius: 10px;
+}
+
+/* Redondear las esquinas inferiores de la última fila */
+tr:last-child td:first-child {
+    border-bottom-left-radius: 10px;
+}
+
+tr:last-child td:last-child {
+    border-bottom-right-radius: 10px;
+}
+
+
+.totals {
+    text-align: right;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+
+h1 {
+    color: var(--colorPrincipal); /* Color azul corporativo */
+}
