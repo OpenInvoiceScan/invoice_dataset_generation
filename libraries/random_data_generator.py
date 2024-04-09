@@ -57,4 +57,3 @@ def generate_invoice():
     return json.dumps(invoice, indent=2)
 
 # Generate and print the fake invoice JSON
-print(generate_invoice())

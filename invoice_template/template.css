@@ -141,3 +141,12 @@ tr:last-child td:last-child {
 h1 {
     color: var(--colorPrincipal); /* Color azul corporativo */
 }
+
+p {
+    overflow: auto;
+}
+
+
+section {
+    max-width: 500px;
+}

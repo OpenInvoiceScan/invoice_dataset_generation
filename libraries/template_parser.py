@@ -39,7 +39,6 @@ def parse_template(json, template_dir , output_pdf_path, output_pdf_name):
     
     # Construye la ruta hacia el logo, asumiendo que está en un subdirectorio 'img'
     logo_path = 'file://' + os.path.join(abs_template_dir, 'img', 'logo.png')
-    print(logo_path)
     
 
     # Usar Jinja2 para rellenar la plantilla con los datos. `render` reemplaza las variables en la plantilla con los valores dados
