@@ -1,0 +1,56 @@
+{
+  "invoice_id": 887882,
+  "issue_date": "2024-04-27",
+  "due_date": "2024-05-23",
+  "issuer": {
+    "name": "Snow, Brown and Cain",
+    "address": "11688 Sydney Spur\nFrankstad, WY 53755",
+    "phone": "(292)944-3942",
+    "email": "robert85@mason-crane.com",
+    "tax_id": "SPs522vCg700"
+  },
+  "recipient": {
+    "name": "Elizabeth Rivera",
+    "address": "34572 Mosley Summit\nSouth Nichole, OR 06627",
+    "phone": "001-442-590-4570x433",
+    "email": "clarkjasmine@gmail.com",
+    "tax_id": "wAD287liO930"
+  },
+  "items": [
+    {
+      "description": "visualize impactful mindshare",
+      "quantity": 4,
+      "unit_price": 10.51,
+      "total": 42.04
+    },
+    {
+      "description": "incubate bleeding-edge functionalities",
+      "quantity": 7,
+      "unit_price": 26.17,
+      "total": 183.19
+    },
+    {
+      "description": "unleash seamless web services",
+      "quantity": 7,
+      "unit_price": 26.0,
+      "total": 182.0
+    },
+    {
+      "description": "innovate next-generation e-markets",
+      "quantity": 9,
+      "unit_price": 71.05,
+      "total": 639.45
+    }
+  ],
+  "subtotal": 1046.68,
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": 167.47
+    }
+  ],
+  "total": 1214.15,
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

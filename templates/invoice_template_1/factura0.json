@@ -1,0 +1,62 @@
+{
+  "invoice_id": 881241,
+  "issue_date": "2024-05-04",
+  "due_date": "2024-06-02",
+  "issuer": {
+    "name": "Edwards Group",
+    "address": "4723 Rodriguez Crossroad\nHensleymouth, GU 86036",
+    "phone": "(578)458-0828x4818",
+    "email": "jaclynrivera@welch.biz",
+    "tax_id": "QqG830Qux886"
+  },
+  "recipient": {
+    "name": "Mary Shaw",
+    "address": "8258 Boone Walks Suite 983\nNew Matthewtown, FL 30813",
+    "phone": "001-275-889-4061x43598",
+    "email": "samanthajackson@hotmail.com",
+    "tax_id": "Gdc686ozT264"
+  },
+  "items": [
+    {
+      "description": "streamline collaborative infrastructures",
+      "quantity": 9,
+      "unit_price": 33.05,
+      "total": 297.45
+    },
+    {
+      "description": "implement customized e-tailers",
+      "quantity": 10,
+      "unit_price": 81.79,
+      "total": 817.9
+    },
+    {
+      "description": "revolutionize cross-media systems",
+      "quantity": 10,
+      "unit_price": 40.05,
+      "total": 400.5
+    },
+    {
+      "description": "deliver out-of-the-box bandwidth",
+      "quantity": 5,
+      "unit_price": 34.38,
+      "total": 171.9
+    },
+    {
+      "description": "grow innovative web services",
+      "quantity": 6,
+      "unit_price": 48.68,
+      "total": 292.08
+    }
+  ],
+  "subtotal": 1979.83,
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": 316.77
+    }
+  ],
+  "total": 2296.6,
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

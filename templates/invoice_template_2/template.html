@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Factura #{{ invoice_id }}</title>
+    <link rel="stylesheet" href="template.css" />
+  </head>
+
+  <body>
+    <div class="full-height">
+      <header>
+        <div>
+          <h1 class="font-80">FACTURA</h1>
+        </div>
+        <div class="info_header">
+          <h2>{{ issuer.name }}</h2>
+          <p>{{ issuer.address }}</p>
+          <p>{{ issuer.phone }}</p>
+          <p>{{ issuer.email }}</p>
+          <p>{{ issuer.tax_id }}</p>
+        </div>
+      </header>
+      <main>
+        <div>
+          <div class="data_container mt40">
+            <div class="section">
+              <p>
+                <span class="info-title">Datos del ciente:</span><br />
+                {{ recipient.name }}<br />
+                {{ recipient.address }}<br />
+                {{ recipient.phone }}<br />
+                {{ recipient.email }}<br />
+                {{ recipient.tax_id }}
+              </p>
+            </div>
+            <div class="section w-250">
+              <div class="row">
+                <span class="bold">Nº FACTURA:</span>
+                <span>{{ invoice_id }}</span>
+              </div>
+              <div class="row">
+                <span class="bold">FECHA:</span>
+                <span>{{ issue_date }}</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="table-container mt40">
+          <table>
+            <thead>
+              <tr>
+                <th>CANTIDAD</th>
+                <th>DESCRIPCIÓN</th>
+                <th>PRECIO UNITARIO</th>
+                <th>TOTAL</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for item in items %}
+              <tr>
+                <td>{{ item.quantity }}</td>
+                <td>{{ item.description }}</td>
+                <td>{{ item.unit_price }}</td>
+                <td>{{ item.total }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+        <div class="totals">
+          <div class="row">
+            <p>Subtotal:</p>
+            <p>{{ subtotal }}</p>
+          </div>
+          {% for tax in taxes %}
+          <div class="row">
+            <p>{{ tax.description }} ({{ tax.percentage }}%):</p>
+            <p>{{ tax.amount }}</p>
+          </div>
+          {% endfor %}
+          <div class="row">
+            <p>TOTAL:</p>
+            <p>{{ total }}</p>
+          </div>
+        </div>
+      </main>
+      
+
+      <div class="footer">
+        <img src="img/logo.svg" alt="">
+      </div>
+    </div>
+  </body>
+</html>

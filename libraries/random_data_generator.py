@@ -17,7 +17,7 @@ def generate_item():
 
 def generate_invoice():
     items = [generate_item() for _ in range(randint(1, 5))] # Generate between 1 and 5 items
-    subtotal = sum(item["total"] for item in items)
+    subtotal = round(sum(item["total"] for item in items), 2)
     vat_percentage = 16
     vat_amount = round(subtotal * vat_percentage / 100, 2)
     total = round(subtotal + vat_amount, 2)

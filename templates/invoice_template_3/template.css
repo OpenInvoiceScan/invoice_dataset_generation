@@ -1,0 +1,187 @@
+/**/
+html {
+    -webkit-print-color-adjust: exact;
+    -webkit-filter: opacity(1);
+}
+
+
+:root {
+    --globalPadding: 20px;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+    color: white;
+}
+
+@page {
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url(fonts/Bebas_Neue/BebasNeue-Regular.ttf);
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Red Hat Display';
+    src: url(fonts/Red_Hat_Display/RedHatDisplay-VariableFont_wght.ttf);
+    font-display: block;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    font-family: Red Hat Display;
+    /* Agrega cualquier otro estilo necesario */
+}
+
+body {/* Tipografía más moderna */
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.full-height {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+main
+{
+    flex: 1;
+    padding: 10px 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.table-container {
+    min-height: 300px;
+}
+
+.mt40 {
+    margin-top: 40px;
+}
+
+.data_container{
+    /* Add space between */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer {
+    padding: 10px 20px;
+    text-align: center;
+    height: 100px;
+}
+
+
+
+header {
+ /* Color azul corporativo */
+    display: flex;
+    text-align: center;
+    align-items: center;
+    min-height: 50px;
+    padding: 10px 50px;
+    justify-content: space-between;
+}
+
+
+
+hr {
+    width: 100%;
+}
+
+.bold {
+    font-weight: bold;
+    color: #000000;
+}
+
+.info-title {
+    font-weight: bold;
+}
+
+
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+    width: 100%;
+    font-size: 14px;
+}
+
+td {
+    padding: 15px 7px; /* Ajuste en el padding para más espacio */
+    text-align: right;
+    border: 1px solid gray;
+}
+
+
+th {
+    font-weight: normal; /* Estilo de la fuente más ligero */
+    font-weight: bold;
+    padding: 15px;
+    text-align: right;
+    margin-bottom: 10px;
+    border: 1px solid #000;
+}
+
+
+.w-300 {
+    width: 300px;
+}
+
+h2 {
+    margin: 0;
+}
+
+/* Redondear las esquinas inferiores de la última fila */
+
+.totals {
+    text-align: right;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 20px;
+    width: 200px;
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.font-80 {
+    font-size: 80px;
+}
+
+
+
+p {
+    margin: 2px;
+    overflow: auto;
+}
+
+section {
+    max-width: 500px;
+}
+
+.info_header {
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    text-align: right;
+    margin-top: 20px;
+    max-width: 250px;
+}
