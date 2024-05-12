@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Factura #{{ invoice_id }}</title>
+    <link rel="stylesheet" href="template.css" />
+  </head>
+
+  <body>
+    <div class="full-height">
+      <header></header>
+      <main>
+        <div class="main-top-container">
+          <h1 class="title">FACTURA</h1>
+          <div class="decorative-bar"></div>
+        </div>
+        <div>
+          <div class="decorative-bar-text">Datos del cliente:</div>
+          <div class="data_container">
+            <div class="section">
+              <p>
+                CIF: {{ recipient.tax_id }}<br />
+                Telf: {{ recipient.phone }}<br />
+                Nombre: {{ recipient.name }}<br />
+              </p>
+            </div>
+            <div class="section">
+              <p>
+                Correo: {{ recipient.email }}<br />
+                {{ recipient.address }}<br />
+              </p>
+            </div>
+            <div class="section">
+              <div class="row">
+                <p>Nº FACTURA:{{ invoice_id }}</p>
+              </div>
+              <div class="row">
+                <p>FECHA: {{ issue_date }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="table-container mt40">
+          <table>
+            <thead>
+              <tr>
+                <th class="table-description">Descripción</th>
+                <th>Cantidad</th>
+                <th>TOTAL</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for item in items %}
+              <tr>
+                <td class="table-description">{{ item.description }}</td>
+                <td>{{ item.quantity }}</td>
+                <td>{{ item.total }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+        <div class="data_container">
+          <div>
+            <div class="row">
+              <p>Forma de pago:</p>
+              <p>{{ payment_method }}</p>
+            </div>
+          </div>
+          <div class="totals">
+            <div class="row">
+              <p>Subtotal:</p>
+              <p>{{ subtotal }}</p>
+            </div>
+            {% for tax in taxes %}
+            <div class="row">
+              <p>{{ tax.description }} ({{ tax.percentage }}%):</p>
+              <p>{{ tax.amount }}</p>
+            </div>
+            {% endfor %}
+            <div class="row">
+              <p>TOTAL:</p>
+              <p>{{ total }}</p>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="decorative-bar-text">Datos del Emisor:</div>
+          <div class="data_container">
+            <div class="section">
+              <p>
+                CIF: {{ issuer.tax_id }}<br />
+                Telf: {{ issuer.phone }}<br />
+                Nombre: {{ issuer.name }}<br />
+              </p>
+            </div>
+            <div class="section">
+              <p>
+                Correo: {{ issuer.email }}<br />
+                {{ issuer.address }}<br />
+              </p>
+            </div>
+            <div class="section">
+              <img class="logo" src="img/logo.png" alt="">
+            </div>
+          </div>
+        </div>
+      </main>
+      <footer></footer>
+    </div>
+  </body>
+</html>

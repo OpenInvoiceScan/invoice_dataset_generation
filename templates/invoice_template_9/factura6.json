@@ -1,0 +1,38 @@
+{
+  "invoice_id": 619435,
+  "issue_date": "2024-05-06",
+  "due_date": "2024-05-26",
+  "issuer": {
+    "name": "Hermanos Berenguer S.C.P",
+    "address": "Urbanizaci\u00f3n Joan Iborra 22\nCeuta, 43542",
+    "phone": "+34846 325 414",
+    "email": "bsalva@instalaciones.net",
+    "tax_id": "ioH840CSv738"
+  },
+  "recipient": {
+    "name": "Maite Nieto Cervantes",
+    "address": "Plaza de Susanita Alem\u00e1n 560 Puerta 1 \nMadrid, 10667",
+    "phone": "+34806 794 440",
+    "email": "amancioandres@hotmail.com",
+    "tax_id": "nCC636yfZ625"
+  },
+  "items": [
+    {
+      "description": "benchmark clicks-and-mortar portals",
+      "quantity": 6,
+      "unit_price": "38.12",
+      "total": "228.72"
+    }
+  ],
+  "subtotal": "228.72",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "36.60"
+    }
+  ],
+  "total": "265.32",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

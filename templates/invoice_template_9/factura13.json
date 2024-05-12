@@ -1,0 +1,62 @@
+{
+  "invoice_id": 843058,
+  "issue_date": "2024-04-12",
+  "due_date": "2024-05-14",
+  "issuer": {
+    "name": "Hotel Vaquero y asociados S.Coop.",
+    "address": "C. Olivia Aguil\u00f3 93 Puerta 9 \nCiudad, 14883",
+    "phone": "+34 974 712 298",
+    "email": "hernandezgaspar@suarez.com",
+    "tax_id": "vmq497scq299"
+  },
+  "recipient": {
+    "name": "Silvio Espa\u00f1ol Girona",
+    "address": "Via de Seve Prada 96\nAsturias, 09643",
+    "phone": "+34 973 441 356",
+    "email": "oferrer@hotmail.com",
+    "tax_id": "AHu360KuE140"
+  },
+  "items": [
+    {
+      "description": "incubate magnetic portals",
+      "quantity": 2,
+      "unit_price": "29.90",
+      "total": "59.80"
+    },
+    {
+      "description": "streamline bleeding-edge bandwidth",
+      "quantity": 10,
+      "unit_price": "41.70",
+      "total": "417.00"
+    },
+    {
+      "description": "productize frictionless convergence",
+      "quantity": 4,
+      "unit_price": "35.04",
+      "total": "140.16"
+    },
+    {
+      "description": "optimize sticky ROI",
+      "quantity": 4,
+      "unit_price": "61.39",
+      "total": "245.56"
+    },
+    {
+      "description": "strategize extensible metrics",
+      "quantity": 3,
+      "unit_price": "99.43",
+      "total": "298.29"
+    }
+  ],
+  "subtotal": "1160.81",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "185.73"
+    }
+  ],
+  "total": "1346.54",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

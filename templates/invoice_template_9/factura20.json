@@ -1,0 +1,38 @@
+{
+  "invoice_id": 110123,
+  "issue_date": "2024-05-06",
+  "due_date": "2024-06-07",
+  "issuer": {
+    "name": "F\u00e1brica Solana S.L.N.E",
+    "address": "Urbanizaci\u00f3n de Mar\u00eda Carmen Saura 9\nZamora, 30344",
+    "phone": "+34847367791",
+    "email": "rubenjimenez@promociones.net",
+    "tax_id": "rzy518Mvt453"
+  },
+  "recipient": {
+    "name": "Alfonso Gallardo Cabeza",
+    "address": "Plaza de Pepita Torralba 96 Piso 7 \nMadrid, 40044",
+    "phone": "+34 925 637 667",
+    "email": "spinol@yahoo.com",
+    "tax_id": "Puw773lEt812"
+  },
+  "items": [
+    {
+      "description": "synergize intuitive ROI",
+      "quantity": 6,
+      "unit_price": "60.99",
+      "total": "365.94"
+    }
+  ],
+  "subtotal": "365.94",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "58.55"
+    }
+  ],
+  "total": "424.49",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

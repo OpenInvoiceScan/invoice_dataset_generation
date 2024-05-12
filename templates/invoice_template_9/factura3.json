@@ -1,0 +1,62 @@
+{
+  "invoice_id": 215866,
+  "issue_date": "2024-05-08",
+  "due_date": "2024-05-19",
+  "issuer": {
+    "name": "Izaguirre y asociados S.Coop.",
+    "address": "Avenida Manolo Nogueira 81\nSevilla, 18042",
+    "phone": "+34 952 973 925",
+    "email": "wposada@teofilo.net",
+    "tax_id": "UPU388vDy007"
+  },
+  "recipient": {
+    "name": "\u00d3scar Martorell Figuerola",
+    "address": "Glorieta de Macario Huguet 20 Apt. 69 \nGuip\u00fazcoa, 17325",
+    "phone": "+34 850 413 131",
+    "email": "tania82@hotmail.com",
+    "tax_id": "Apk833cJS135"
+  },
+  "items": [
+    {
+      "description": "benchmark one-to-one content",
+      "quantity": 2,
+      "unit_price": "19.18",
+      "total": "38.36"
+    },
+    {
+      "description": "evolve value-added supply-chains",
+      "quantity": 5,
+      "unit_price": "66.41",
+      "total": "332.05"
+    },
+    {
+      "description": "maximize viral e-services",
+      "quantity": 7,
+      "unit_price": "35.86",
+      "total": "251.02"
+    },
+    {
+      "description": "architect distributed interfaces",
+      "quantity": 8,
+      "unit_price": "30.67",
+      "total": "245.36"
+    },
+    {
+      "description": "aggregate virtual methodologies",
+      "quantity": 8,
+      "unit_price": "38.37",
+      "total": "306.96"
+    }
+  ],
+  "subtotal": "1173.75",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "187.80"
+    }
+  ],
+  "total": "1361.55",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

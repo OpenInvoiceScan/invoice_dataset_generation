@@ -1,7 +1,7 @@
 /**/
 
 :root {
-    --colorPrincipal: #65B234;
+    --colorPrincipal: #5a0303;
     --colorSecundario: #093145;
     --globalPadding: 20px;
 }
@@ -93,7 +93,6 @@ table {
     border-collapse: collapse;
     margin-top: 20px;
     width: 100%;
-    box-shadow: 0 2px 15px rgba(0,0,0,0.1); /* Sombra suave para dar profundidad */
     font-family: Arial, sans-serif; /* Tipografía más moderna */
 }
 
@@ -106,26 +105,26 @@ th {
     background-color: var(--colorPrincipal); /* Un color más vibrante para los encabezados */
     color: white; /* Texto en color blanco para contraste */
     font-weight: normal; /* Estilo de la fuente más ligero */
+    border: 1px solid white;/* Líneas en gris suave */
+}
+
+thead {
+    border: 1px solid var(--colorPrincipal);
+}
+
+
+td {
+    border: 1px solid var(--colorPrincipal); /* Líneas en gris suave */
 }
 
 /* Añade estilos para el primer th para hacerlo más distintivo si es necesario */
-th:first-child {
-    border-top-left-radius: 10px; /* Esquinas redondeadas para suavizar la apariencia */
-}
+
 
 /* Similar para el último th */
-th:last-child {
-    border-top-right-radius: 10px;
-}
+
 
 /* Redondear las esquinas inferiores de la última fila */
-tr:last-child td:first-child {
-    border-bottom-left-radius: 10px;
-}
 
-tr:last-child td:last-child {
-    border-bottom-right-radius: 10px;
-}
 
 
 .totals {

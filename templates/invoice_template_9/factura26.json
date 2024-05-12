@@ -1,0 +1,38 @@
+{
+  "invoice_id": 881992,
+  "issue_date": "2024-04-15",
+  "due_date": "2024-06-09",
+  "issuer": {
+    "name": "Grupo Escalona S.Coop.",
+    "address": "C. Plinio Manuel 15 Apt. 53 \n\u00c1lava, 35825",
+    "phone": "+34 981391821",
+    "email": "lozanoramon@perez.es",
+    "tax_id": "CVk986cAe232"
+  },
+  "recipient": {
+    "name": "Olegario Aureliano Cabeza Carbajo",
+    "address": "Acceso Victoria Aguirre 194\nPontevedra, 31267",
+    "phone": "+34 823 707 373",
+    "email": "eabella@gmail.com",
+    "tax_id": "lTK634Whg338"
+  },
+  "items": [
+    {
+      "description": "transform interactive relationships",
+      "quantity": 9,
+      "unit_price": "44.93",
+      "total": "404.37"
+    }
+  ],
+  "subtotal": "404.37",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "64.70"
+    }
+  ],
+  "total": "469.07",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

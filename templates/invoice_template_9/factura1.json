@@ -1,0 +1,56 @@
+{
+  "invoice_id": 985017,
+  "issue_date": "2024-04-22",
+  "due_date": "2024-05-22",
+  "issuer": {
+    "name": "Peinado y Duque S.L.N.E",
+    "address": "Acceso de Rosa Mar\u00eda Palomino 56 Piso 1 \nAlbacete, 32713",
+    "phone": "+34803540624",
+    "email": "tvalcarcel@hermanos.es",
+    "tax_id": "TPp158sDu557"
+  },
+  "recipient": {
+    "name": "Vanesa Feliu Vicens",
+    "address": "C. Elo\u00edsa Montserrat 33\nGuip\u00fazcoa, 47696",
+    "phone": "+34926 593 704",
+    "email": "patricia71@hotmail.com",
+    "tax_id": "kvl996zcZ618"
+  },
+  "items": [
+    {
+      "description": "leverage vertical content",
+      "quantity": 4,
+      "unit_price": "67.73",
+      "total": "270.92"
+    },
+    {
+      "description": "disintermediate plug-and-play eyeballs",
+      "quantity": 1,
+      "unit_price": "68.99",
+      "total": "68.99"
+    },
+    {
+      "description": "generate interactive web services",
+      "quantity": 2,
+      "unit_price": "45.75",
+      "total": "91.50"
+    },
+    {
+      "description": "implement web-enabled paradigms",
+      "quantity": 9,
+      "unit_price": "84.68",
+      "total": "762.12"
+    }
+  ],
+  "subtotal": "1193.53",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "190.96"
+    }
+  ],
+  "total": "1384.49",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

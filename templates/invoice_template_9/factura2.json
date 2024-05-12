@@ -1,0 +1,38 @@
+{
+  "invoice_id": 495049,
+  "issue_date": "2024-04-25",
+  "due_date": "2024-05-25",
+  "issuer": {
+    "name": "L\u00e1zaro Zaragoza Valero S.Coop.",
+    "address": "Paseo de Mar\u00eda Luisa Cerd\u00e1n 84\nCiudad, 12446",
+    "phone": "+34913 71 29 45",
+    "email": "cosmecerdan@manufacturas.es",
+    "tax_id": "bnw192EmQ457"
+  },
+  "recipient": {
+    "name": "Bienvenida Bosch Hurtado",
+    "address": "C. Elo\u00edsa Manuel 80\nAlmer\u00eda, 18066",
+    "phone": "+34846 273 170",
+    "email": "mendezevaristo@gmail.com",
+    "tax_id": "FQO304QlF763"
+  },
+  "items": [
+    {
+      "description": "architect 24/7 synergies",
+      "quantity": 1,
+      "unit_price": "11.70",
+      "total": "11.70"
+    }
+  ],
+  "subtotal": "11.70",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "1.87"
+    }
+  ],
+  "total": "13.57",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

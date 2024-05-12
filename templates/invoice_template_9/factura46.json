@@ -1,0 +1,62 @@
+{
+  "invoice_id": 235724,
+  "issue_date": "2024-04-12",
+  "due_date": "2024-05-14",
+  "issuer": {
+    "name": "Distribuciones del Noroeste S.Com.",
+    "address": "Via de Eloy Fabra 329 Apt. 94 \nCiudad, 02745",
+    "phone": "+34981 362 347",
+    "email": "yhuertas@supermercados.com",
+    "tax_id": "sjO999ife497"
+  },
+  "recipient": {
+    "name": "Sim\u00f3n Belmonte-Llano",
+    "address": "Ca\u00f1ada Marcela Catal\u00e1n 8\nLa Coru\u00f1a, 06958",
+    "phone": "+34981 53 75 29",
+    "email": "corbachojacinto@hotmail.com",
+    "tax_id": "MLW982Nzr978"
+  },
+  "items": [
+    {
+      "description": "aggregate next-generation web-readiness",
+      "quantity": 4,
+      "unit_price": "49.78",
+      "total": "199.12"
+    },
+    {
+      "description": "transition compelling experiences",
+      "quantity": 3,
+      "unit_price": "35.71",
+      "total": "107.13"
+    },
+    {
+      "description": "cultivate world-class e-services",
+      "quantity": 9,
+      "unit_price": "50.17",
+      "total": "451.53"
+    },
+    {
+      "description": "leverage turn-key methodologies",
+      "quantity": 4,
+      "unit_price": "99.03",
+      "total": "396.12"
+    },
+    {
+      "description": "enable value-added platforms",
+      "quantity": 5,
+      "unit_price": "36.06",
+      "total": "180.30"
+    }
+  ],
+  "subtotal": "1334.20",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "213.47"
+    }
+  ],
+  "total": "1547.67",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

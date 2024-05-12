@@ -1,0 +1,62 @@
+{
+  "invoice_id": 469285,
+  "issue_date": "2024-05-02",
+  "due_date": "2024-05-30",
+  "issuer": {
+    "name": "Instalaciones Luz y asociados S.A.",
+    "address": "Via de Espiridi\u00f3n Gimenez 66 Piso 4 \nCeuta, 20621",
+    "phone": "+34858485501",
+    "email": "abril93@franco.com",
+    "tax_id": "Qak574dwp474"
+  },
+  "recipient": {
+    "name": "Juanita Barrera Llamas",
+    "address": "C. de Yago Robles 24\nTarragona, 01209",
+    "phone": "+34 828555295",
+    "email": "asuncion68@hotmail.com",
+    "tax_id": "KYV440NwW876"
+  },
+  "items": [
+    {
+      "description": "optimize strategic experiences",
+      "quantity": 1,
+      "unit_price": "76.30",
+      "total": "76.30"
+    },
+    {
+      "description": "mesh revolutionary technologies",
+      "quantity": 5,
+      "unit_price": "80.89",
+      "total": "404.45"
+    },
+    {
+      "description": "monetize end-to-end content",
+      "quantity": 1,
+      "unit_price": "11.02",
+      "total": "11.02"
+    },
+    {
+      "description": "utilize visionary functionalities",
+      "quantity": 2,
+      "unit_price": "58.26",
+      "total": "116.52"
+    },
+    {
+      "description": "maximize viral users",
+      "quantity": 4,
+      "unit_price": "10.62",
+      "total": "42.48"
+    }
+  ],
+  "subtotal": "650.77",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "104.12"
+    }
+  ],
+  "total": "754.89",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

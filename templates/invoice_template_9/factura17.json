@@ -1,0 +1,44 @@
+{
+  "invoice_id": 19574,
+  "issue_date": "2024-05-04",
+  "due_date": "2024-06-05",
+  "issuer": {
+    "name": "Banca Privada Ib\u00e9rica S.L.N.E",
+    "address": "Glorieta de Rosendo Nevado 66 Piso 9 \nVizcaya, 23099",
+    "phone": "+34 946099046",
+    "email": "gfuente@familia.es",
+    "tax_id": "ova355QSJ831"
+  },
+  "recipient": {
+    "name": "Anselmo Mendoza",
+    "address": "Plaza Andr\u00e9s Felipe Bustos 20 Puerta 6 \nOurense, 31942",
+    "phone": "+34849 197 134",
+    "email": "tbarrio@hotmail.com",
+    "tax_id": "tFO181ZuI736"
+  },
+  "items": [
+    {
+      "description": "engage compelling infrastructures",
+      "quantity": 10,
+      "unit_price": "34.06",
+      "total": "340.60"
+    },
+    {
+      "description": "enable killer ROI",
+      "quantity": 6,
+      "unit_price": "74.14",
+      "total": "444.84"
+    }
+  ],
+  "subtotal": "785.44",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "125.67"
+    }
+  ],
+  "total": "911.11",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

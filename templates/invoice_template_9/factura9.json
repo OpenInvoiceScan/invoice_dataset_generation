@@ -1,0 +1,56 @@
+{
+  "invoice_id": 23030,
+  "issue_date": "2024-05-05",
+  "due_date": "2024-06-05",
+  "issuer": {
+    "name": "Familia Franch S.A.",
+    "address": "Avenida de Zacar\u00edas Alcolea 130 Piso 5 \nLas Palmas, 42173",
+    "phone": "+34885 017 153",
+    "email": "hoyosciro@comercializadora.es",
+    "tax_id": "qEW875ymJ583"
+  },
+  "recipient": {
+    "name": "Rolando Valent\u00edn Pizarro",
+    "address": "C. de Bernardita Anguita 99\nGuip\u00fazcoa, 07481",
+    "phone": "+34900 47 88 04",
+    "email": "echevarriadafne@yahoo.com",
+    "tax_id": "cLW567iWX414"
+  },
+  "items": [
+    {
+      "description": "architect 24/7 experiences",
+      "quantity": 8,
+      "unit_price": "55.87",
+      "total": "446.96"
+    },
+    {
+      "description": "iterate vertical eyeballs",
+      "quantity": 8,
+      "unit_price": "43.96",
+      "total": "351.68"
+    },
+    {
+      "description": "drive customized eyeballs",
+      "quantity": 6,
+      "unit_price": "29.99",
+      "total": "179.94"
+    },
+    {
+      "description": "envisioneer holistic networks",
+      "quantity": 6,
+      "unit_price": "62.27",
+      "total": "373.62"
+    }
+  ],
+  "subtotal": "1352.20",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "216.35"
+    }
+  ],
+  "total": "1568.55",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

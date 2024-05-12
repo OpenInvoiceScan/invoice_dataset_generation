@@ -1,0 +1,62 @@
+{
+  "invoice_id": 600972,
+  "issue_date": "2024-04-17",
+  "due_date": "2024-05-28",
+  "issuer": {
+    "name": "Maldonado Group",
+    "address": "PSC 6132, Box 3802\nAPO AA 29977",
+    "phone": "+1-917-385-6392x665",
+    "email": "ybailey@moore-collins.com",
+    "tax_id": "xGg659ZmT369"
+  },
+  "recipient": {
+    "name": "Timothy Kelley",
+    "address": "2890 Elliott Flats Suite 583\nPort Terrytown, PA 07273",
+    "phone": "+1-774-537-9494x4099",
+    "email": "martinharris@yahoo.com",
+    "tax_id": "lbG263bYT058"
+  },
+  "items": [
+    {
+      "description": "harness world-class technologies",
+      "quantity": 8,
+      "unit_price": 31.69,
+      "total": 253.52
+    },
+    {
+      "description": "cultivate extensible markets",
+      "quantity": 7,
+      "unit_price": 84.75,
+      "total": 593.25
+    },
+    {
+      "description": "iterate dynamic action-items",
+      "quantity": 10,
+      "unit_price": 81.52,
+      "total": 815.2
+    },
+    {
+      "description": "streamline virtual communities",
+      "quantity": 2,
+      "unit_price": 29.19,
+      "total": 58.38
+    },
+    {
+      "description": "target frictionless synergies",
+      "quantity": 1,
+      "unit_price": 24.95,
+      "total": 24.95
+    }
+  ],
+  "subtotal": 1745.3,
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": 279.25
+    }
+  ],
+  "total": 2024.55,
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

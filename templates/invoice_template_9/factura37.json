@@ -1,0 +1,50 @@
+{
+  "invoice_id": 709998,
+  "issue_date": "2024-04-14",
+  "due_date": "2024-06-09",
+  "issuer": {
+    "name": "Inversiones Iniesta S.Com.",
+    "address": "C. de Pepita Malo 3\nGranada, 12622",
+    "phone": "+34843456158",
+    "email": "malenamur@joel.es",
+    "tax_id": "Zrk988ncZ277"
+  },
+  "recipient": {
+    "name": "Teresita Sedano",
+    "address": "Pasaje de Priscila Coronado 963\nVizcaya, 32645",
+    "phone": "+34 745 90 23 78",
+    "email": "carpioomar@yahoo.com",
+    "tax_id": "Asn403gmV806"
+  },
+  "items": [
+    {
+      "description": "drive 24/7 architectures",
+      "quantity": 10,
+      "unit_price": "95.32",
+      "total": "953.20"
+    },
+    {
+      "description": "visualize granular e-services",
+      "quantity": 5,
+      "unit_price": "40.75",
+      "total": "203.75"
+    },
+    {
+      "description": "deploy bricks-and-clicks action-items",
+      "quantity": 9,
+      "unit_price": "38.48",
+      "total": "346.32"
+    }
+  ],
+  "subtotal": "1503.27",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "240.52"
+    }
+  ],
+  "total": "1743.79",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

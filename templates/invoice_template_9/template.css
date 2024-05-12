@@ -1,0 +1,197 @@
+/**/
+html {
+    -webkit-print-color-adjust: exact;
+    -webkit-filter: opacity(1);
+}
+
+
+:root {
+    --colorPrincipal: #faffb4;
+    --colorSecundario: #1b8170;
+    --colorTerciario: #faffb4;
+    --globalPadding: 20px;
+}
+
+@page {
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url(fonts/Bebas_Neue/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Red Hat Display';
+    src: url(fonts/Red_Hat_Display/RedHatDisplay-VariableFont_wght.ttf);
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--colorTerciario);
+    min-height: 100vh;
+    font-family: Red Hat Display;
+    /* Agrega cualquier otro estilo necesario */
+}
+
+body {/* Tipografía más moderna */
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.full-height {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+main
+{
+    flex: 1;
+    padding: 10px 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.table-container {
+    min-height: 300px;
+}
+
+.mt40 {
+    margin-top: 40px;
+}
+
+.data_container{
+    /* Add space between */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer {
+    background-color: var(--colorSecundario);
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    height: 100px;
+}
+
+.footer img {
+    width: 100px;
+    height: 100px;
+    color: white;
+    filter: invert(1) ;
+}
+
+header {
+ /* Color azul corporativo */
+    display: flex;
+    color: var(--colorPrincipal);
+    background-color: var(--colorSecundario);
+    text-align: center;
+    align-items: center;
+    min-height: 50px;
+    padding: 10px 50px;
+    justify-content: space-between;
+}
+
+
+
+
+.bold {
+    font-weight: bold;
+    color: #000000;
+}
+
+.info-title {
+    font-weight: bold;
+    color: var(--colorSecundario) /* Color azul corporativo */
+}
+
+
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+    width: 100%;
+    font-size: 14px;
+}
+
+td {
+    padding: 15px 0px; /* Ajuste en el padding para más espacio */
+    text-align: right;
+}
+
+
+th {
+    color: var(--colorSecundario); /* Texto en color blanco para contraste */
+    font-weight: normal; /* Estilo de la fuente más ligero */
+    font-weight: bold;
+    padding: 15px;
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+thead {
+    border-bottom: #000000 1px solid;
+}
+
+
+
+
+.w-250 {
+    width: 250px;
+}
+
+h2 {
+    margin: 0;
+}
+
+/* Redondear las esquinas inferiores de la última fila */
+
+.totals {
+    text-align: right;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 20px;
+    width: 200px;
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.font-80 {
+    font-size: 80px;
+}
+
+h1 {
+    color: var(--colorPrincipal); /* Color azul corporativo */
+}
+
+p {
+    margin: 2px;
+    overflow: auto;
+}
+
+section {
+    max-width: 500px;
+}
+
+.info_header {
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    text-align: right;
+    margin-top: 20px;
+    max-width: 250px;
+}

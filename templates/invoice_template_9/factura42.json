@@ -1,0 +1,56 @@
+{
+  "invoice_id": 197241,
+  "issue_date": "2024-04-12",
+  "due_date": "2024-06-01",
+  "issuer": {
+    "name": "Consultor\u00eda UHIW S.A.",
+    "address": "Ca\u00f1ada Jenny Somoza 18\nTeruel, 02313",
+    "phone": "+34 982 42 26 13",
+    "email": "ohuertas@suministros.com",
+    "tax_id": "Ags601WzH262"
+  },
+  "recipient": {
+    "name": "Cesar Morata R\u00f3denas",
+    "address": "Camino Lorenzo Valverde 2\nCastell\u00f3n, 51837",
+    "phone": "+34951 761 350",
+    "email": "brunildaalegria@hotmail.com",
+    "tax_id": "tHM277KFz281"
+  },
+  "items": [
+    {
+      "description": "architect sticky action-items",
+      "quantity": 7,
+      "unit_price": "72.07",
+      "total": "504.49"
+    },
+    {
+      "description": "integrate back-end users",
+      "quantity": 5,
+      "unit_price": "64.57",
+      "total": "322.85"
+    },
+    {
+      "description": "engage magnetic metrics",
+      "quantity": 4,
+      "unit_price": "86.17",
+      "total": "344.68"
+    },
+    {
+      "description": "syndicate sticky relationships",
+      "quantity": 9,
+      "unit_price": "38.47",
+      "total": "346.23"
+    }
+  ],
+  "subtotal": "1518.25",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "242.92"
+    }
+  ],
+  "total": "1761.17",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

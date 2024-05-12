@@ -1,0 +1,56 @@
+{
+  "invoice_id": 593889,
+  "issue_date": "2024-04-15",
+  "due_date": "2024-06-01",
+  "issuer": {
+    "name": "Grupo Manj\u00f3n S.A.",
+    "address": "Ronda Amador Perez 77 Piso 7 \nAlicante, 46320",
+    "phone": "+34 828898804",
+    "email": "carolinabusquets@inversiones.es",
+    "tax_id": "cWS930cTW550"
+  },
+  "recipient": {
+    "name": "Carla Sastre Mulet",
+    "address": "Alameda Juanito Fern\u00e1ndez 426\nAlmer\u00eda, 34529",
+    "phone": "+34934 575 012",
+    "email": "szapata@hotmail.com",
+    "tax_id": "iAu227ljj575"
+  },
+  "items": [
+    {
+      "description": "streamline rich content",
+      "quantity": 7,
+      "unit_price": "57.24",
+      "total": "400.68"
+    },
+    {
+      "description": "incentivize 24/7 methodologies",
+      "quantity": 2,
+      "unit_price": "59.09",
+      "total": "118.18"
+    },
+    {
+      "description": "benchmark customized eyeballs",
+      "quantity": 1,
+      "unit_price": "55.03",
+      "total": "55.03"
+    },
+    {
+      "description": "generate ubiquitous functionalities",
+      "quantity": 8,
+      "unit_price": "33.62",
+      "total": "268.96"
+    }
+  ],
+  "subtotal": "842.85",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "134.86"
+    }
+  ],
+  "total": "977.71",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

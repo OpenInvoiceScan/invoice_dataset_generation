@@ -1,0 +1,44 @@
+{
+  "invoice_id": 443876,
+  "issue_date": "2024-04-12",
+  "due_date": "2024-06-06",
+  "issuer": {
+    "name": "Suministros Lobato S.Coop.",
+    "address": "Urbanizaci\u00f3n de Mario Ibarra 3\nBadajoz, 05788",
+    "phone": "+34 972 102 820",
+    "email": "dbarrera@inversiones.es",
+    "tax_id": "xwm281sHp398"
+  },
+  "recipient": {
+    "name": "Zoraida Ib\u00e1\u00f1ez Bonilla",
+    "address": "Urbanizaci\u00f3n Mois\u00e9s Gomila 82\nCiudad, 07261",
+    "phone": "+34828654821",
+    "email": "azorinjenaro@hotmail.com",
+    "tax_id": "fzs325tra499"
+  },
+  "items": [
+    {
+      "description": "syndicate seamless initiatives",
+      "quantity": 3,
+      "unit_price": "56.10",
+      "total": "168.30"
+    },
+    {
+      "description": "morph integrated web-readiness",
+      "quantity": 2,
+      "unit_price": "65.46",
+      "total": "130.92"
+    }
+  ],
+  "subtotal": "299.22",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "47.88"
+    }
+  ],
+  "total": "347.10",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

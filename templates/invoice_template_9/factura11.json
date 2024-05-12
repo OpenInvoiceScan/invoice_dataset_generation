@@ -1,0 +1,44 @@
+{
+  "invoice_id": 906826,
+  "issue_date": "2024-04-13",
+  "due_date": "2024-05-28",
+  "issuer": {
+    "name": "Desarrollo Ib\u00e9ricos S.A.",
+    "address": "Urbanizaci\u00f3n Efra\u00edn Valera 96\n\u00c1lava, 25927",
+    "phone": "+34872248833",
+    "email": "abel45@velazquez.es",
+    "tax_id": "ZGv075OyF496"
+  },
+  "recipient": {
+    "name": "Gabino Vencesl\u00e1s Uriarte Solano",
+    "address": "C. Lisandro Dom\u00e9nech 8 Apt. 25 \nGuip\u00fazcoa, 30406",
+    "phone": "+34982867491",
+    "email": "cleto80@yahoo.com",
+    "tax_id": "qUl769Qky556"
+  },
+  "items": [
+    {
+      "description": "revolutionize enterprise vortals",
+      "quantity": 1,
+      "unit_price": "25.47",
+      "total": "25.47"
+    },
+    {
+      "description": "matrix distributed e-tailers",
+      "quantity": 6,
+      "unit_price": "70.19",
+      "total": "421.14"
+    }
+  ],
+  "subtotal": "446.61",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "71.46"
+    }
+  ],
+  "total": "518.07",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

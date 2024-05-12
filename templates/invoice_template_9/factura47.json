@@ -1,0 +1,44 @@
+{
+  "invoice_id": 104991,
+  "issue_date": "2024-04-24",
+  "due_date": "2024-06-03",
+  "issuer": {
+    "name": "Manufacturas Bernat S.Com.",
+    "address": "Pasaje de Candelario Quintanilla 213\nAlicante, 23947",
+    "phone": "+34 881404801",
+    "email": "regina73@servicios.es",
+    "tax_id": "Mnu609Qkp197"
+  },
+  "recipient": {
+    "name": "Aurora Hoz-Bustamante",
+    "address": "Cuesta Marisela Rinc\u00f3n 91\nPontevedra, 34106",
+    "phone": "+34883 93 63 15",
+    "email": "canizaresjuan-jose@hotmail.com",
+    "tax_id": "TwL834POW548"
+  },
+  "items": [
+    {
+      "description": "incubate killer infrastructures",
+      "quantity": 6,
+      "unit_price": "51.84",
+      "total": "311.04"
+    },
+    {
+      "description": "maximize revolutionary functionalities",
+      "quantity": 7,
+      "unit_price": "65.08",
+      "total": "455.56"
+    }
+  ],
+  "subtotal": "766.60",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "122.66"
+    }
+  ],
+  "total": "889.26",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

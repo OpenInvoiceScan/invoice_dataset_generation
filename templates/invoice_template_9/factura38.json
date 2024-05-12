@@ -1,0 +1,56 @@
+{
+  "invoice_id": 444972,
+  "issue_date": "2024-05-06",
+  "due_date": "2024-06-09",
+  "issuer": {
+    "name": "Promociones Aguado & Asociados S.A.",
+    "address": "Ca\u00f1ada Dorotea Carmona 359 Apt. 48 \nSegovia, 11766",
+    "phone": "+34947 599 501",
+    "email": "rodaana@fabrica.es",
+    "tax_id": "ufu051Vjb092"
+  },
+  "recipient": {
+    "name": "Vera Sanmart\u00edn Sevilla",
+    "address": "Urbanizaci\u00f3n de Ariel Enr\u00edquez 167\n\u00c1vila, 19899",
+    "phone": "+34733780370",
+    "email": "modestohernandez@hotmail.com",
+    "tax_id": "tQo646qab966"
+  },
+  "items": [
+    {
+      "description": "visualize magnetic schemas",
+      "quantity": 1,
+      "unit_price": "70.06",
+      "total": "70.06"
+    },
+    {
+      "description": "streamline holistic paradigms",
+      "quantity": 8,
+      "unit_price": "85.74",
+      "total": "685.92"
+    },
+    {
+      "description": "innovate intuitive solutions",
+      "quantity": 3,
+      "unit_price": "49.96",
+      "total": "149.88"
+    },
+    {
+      "description": "implement 24/7 content",
+      "quantity": 5,
+      "unit_price": "33.36",
+      "total": "166.80"
+    }
+  ],
+  "subtotal": "1072.66",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "171.63"
+    }
+  ],
+  "total": "1244.29",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

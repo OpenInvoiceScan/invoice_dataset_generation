@@ -1,0 +1,56 @@
+{
+  "invoice_id": 337649,
+  "issue_date": "2024-04-14",
+  "due_date": "2024-05-22",
+  "issuer": {
+    "name": "Rubio, Dougherty and Ali",
+    "address": "098 Nicole Corner\nAlexandraton, RI 19947",
+    "phone": "3217766224",
+    "email": "lindseybarrett@curry.net",
+    "tax_id": "jLD433MRS151"
+  },
+  "recipient": {
+    "name": "Nicholas Choi",
+    "address": "PSC 4147, Box 8009\nAPO AP 48038",
+    "phone": "001-524-573-8894x62821",
+    "email": "omiller@yahoo.com",
+    "tax_id": "oeA770ixM760"
+  },
+  "items": [
+    {
+      "description": "innovate cross-platform supply-chains",
+      "quantity": 4,
+      "unit_price": 83.91,
+      "total": 335.64
+    },
+    {
+      "description": "implement visionary experiences",
+      "quantity": 10,
+      "unit_price": 45.51,
+      "total": 455.1
+    },
+    {
+      "description": "optimize plug-and-play technologies",
+      "quantity": 4,
+      "unit_price": 34.68,
+      "total": 138.72
+    },
+    {
+      "description": "incubate B2B e-markets",
+      "quantity": 4,
+      "unit_price": 50.54,
+      "total": 202.16
+    }
+  ],
+  "subtotal": 1131.62,
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": 181.06
+    }
+  ],
+  "total": 1312.68,
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

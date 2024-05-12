@@ -1,0 +1,217 @@
+/**/
+html {
+    -webkit-print-color-adjust: exact;
+    -webkit-filter: opacity(1);
+}
+
+
+:root {
+    --colorPrincipal: #F5F5F5;
+    --colorSecundario: #222222;
+    --globalPadding: 20px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url(fonts/Bebas_Neue/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Red Hat Display';
+    src: url(fonts/Red_Hat_Display/RedHatDisplay-VariableFont_wght.ttf);
+}
+
+html, body {
+    padding: 0;
+    background-color: var(--colorPrincipal);
+    min-height: 100vh;
+    font-family: Red Hat Display;
+    /* Agrega cualquier otro estilo necesario */
+}
+
+body {/* Tipografía más moderna */
+    display: flex;
+    flex-direction: column;
+}
+
+.full-height {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+main
+{
+    flex: 1;
+    padding: 100px 50px 30px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.main-top-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    margin-bottom: 40px;
+}
+
+.decorative-bar {
+    height: 5px;
+    width: 100%;
+}
+
+.decorative-bar-text {
+    height: 30px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: var(--colorSecundario);
+    font-size: 13px;
+    font-weight: bold;
+    border-bottom: 1px solid var(--colorSecundario);
+}
+
+.table-container {
+    min-height: 250px;
+}
+
+
+
+.data_container{
+    /* Add space between */
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+    gap: 20px;
+    font-size: 15px;
+}
+
+.footer {
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    height: 100px;
+}
+
+.footer img {
+    width: 100px;
+    height: 100px;
+    color: white;
+    filter: invert(1) ;
+}
+
+
+
+
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 14px;
+}
+
+td {
+    padding: 7px 15px; /* Ajuste en el padding para más espacio */
+    text-align: right;
+    border: 1px solid var(--colorSecundario);
+    box-sizing: border-box;
+    font-size: 13px;
+}
+
+
+th {
+    font-weight: normal; /* Estilo de la fuente más ligero */
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 15px;
+    border: 1px solid var(--colorSecundario);
+}
+
+.table-description {
+    width: 300px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+thead {
+    color: var(--colorSecundario);
+    height: 40px;
+    border: 1px solid var(--colorSecundario);
+    font-weight: 800;
+}
+
+tbody tr:first-child {
+    margin-top: 10px;
+    border-top: 0px solid var(--colorSecundario);
+}
+
+/* Similar para el último th */
+
+.w-250 {
+    width: 250px;
+}
+
+
+
+/* Redondear las esquinas inferiores de la última fila */
+
+.totals {
+    text-align: right;
+    font-size: 16px;
+    font-weight: bold;
+    width: 200px;
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    font-size: 30px;
+}
+
+
+
+section {
+    max-width: 500px;
+}
+
+.info_header {
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    text-align: right;
+    max-width: 250px;
+}
+
+header,footer {
+    background-color: var(--colorSecundario);
+    color: white;
+    height: 50px;
+}
+
+h1, p {
+    color: var(--colorSecundario);
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}

@@ -1,0 +1,44 @@
+{
+  "invoice_id": 702033,
+  "issue_date": "2024-05-01",
+  "due_date": "2024-06-10",
+  "issuer": {
+    "name": "Compa\u00f1\u00eda Grau & Asociados S.Com.",
+    "address": "Alameda Mar\u00eda Dolores Delgado 81\nGuadalajara, 20102",
+    "phone": "+34 986840648",
+    "email": "dafne54@servicios.org",
+    "tax_id": "iTr442UDC488"
+  },
+  "recipient": {
+    "name": "Cintia Jimenez Soto",
+    "address": "Rambla de Encarnaci\u00f3n Miralles 54\nGirona, 41416",
+    "phone": "+34 827713267",
+    "email": "nicodemoblanch@yahoo.com",
+    "tax_id": "wPi215qzg943"
+  },
+  "items": [
+    {
+      "description": "scale vertical e-services",
+      "quantity": 4,
+      "unit_price": "84.68",
+      "total": "338.72"
+    },
+    {
+      "description": "harness viral e-commerce",
+      "quantity": 8,
+      "unit_price": "54.29",
+      "total": "434.32"
+    }
+  ],
+  "subtotal": "773.04",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "123.69"
+    }
+  ],
+  "total": "896.73",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

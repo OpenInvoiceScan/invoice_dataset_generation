@@ -1,0 +1,56 @@
+{
+  "invoice_id": 122611,
+  "issue_date": "2024-04-24",
+  "due_date": "2024-06-05",
+  "issuer": {
+    "name": "Esteban y Batalla S.Coop.",
+    "address": "Alameda de Gerardo Machado 30 Puerta 7 \nGranada, 21087",
+    "phone": "+34822 921 688",
+    "email": "daniela48@oliveras.com",
+    "tax_id": "lbZ276Ulv659"
+  },
+  "recipient": {
+    "name": "Silvia del Mayol",
+    "address": "Rambla de Candelas Gordillo 24 Apt. 53 \nMelilla, 42167",
+    "phone": "+34928 151 939",
+    "email": "gimenovalerio@yahoo.com",
+    "tax_id": "pSF319NRx992"
+  },
+  "items": [
+    {
+      "description": "deploy wireless communities",
+      "quantity": 8,
+      "unit_price": "11.71",
+      "total": "93.68"
+    },
+    {
+      "description": "grow global infrastructures",
+      "quantity": 4,
+      "unit_price": "49.45",
+      "total": "197.80"
+    },
+    {
+      "description": "empower world-class methodologies",
+      "quantity": 6,
+      "unit_price": "44.44",
+      "total": "266.64"
+    },
+    {
+      "description": "iterate dot-com mindshare",
+      "quantity": 1,
+      "unit_price": "96.55",
+      "total": "96.55"
+    }
+  ],
+  "subtotal": "654.67",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "104.75"
+    }
+  ],
+  "total": "759.42",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

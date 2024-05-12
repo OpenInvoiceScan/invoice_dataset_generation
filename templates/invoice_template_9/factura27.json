@@ -1,0 +1,44 @@
+{
+  "invoice_id": 511713,
+  "issue_date": "2024-04-13",
+  "due_date": "2024-05-31",
+  "issuer": {
+    "name": "Sanjuan y Manj\u00f3n S.A.",
+    "address": "Callej\u00f3n Alex Portillo 53\nCiudad, 36862",
+    "phone": "+34886 171 287",
+    "email": "pelayo84@banco.com",
+    "tax_id": "PUu350svd278"
+  },
+  "recipient": {
+    "name": "Consuela Sanchez Franco",
+    "address": "Calle de Miriam Garriga 796 Apt. 97 \n\u00c1vila, 35308",
+    "phone": "+34979551693",
+    "email": "melisa63@yahoo.com",
+    "tax_id": "vKr983LOt388"
+  },
+  "items": [
+    {
+      "description": "whiteboard viral partnerships",
+      "quantity": 4,
+      "unit_price": "48.30",
+      "total": "193.20"
+    },
+    {
+      "description": "incentivize back-end eyeballs",
+      "quantity": 7,
+      "unit_price": "62.27",
+      "total": "435.89"
+    }
+  ],
+  "subtotal": "629.09",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "100.65"
+    }
+  ],
+  "total": "729.74",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

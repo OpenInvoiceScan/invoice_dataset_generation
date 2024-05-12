@@ -1,0 +1,38 @@
+{
+  "invoice_id": 832512,
+  "issue_date": "2024-04-16",
+  "due_date": "2024-05-24",
+  "issuer": {
+    "name": "Cornelio Bernal Gallardo S.A.T.",
+    "address": "Pasaje Cecilia Leiva 46 Apt. 41 \nLas Palmas, 05226",
+    "phone": "+34822 43 58 69",
+    "email": "diego75@restauracion.com",
+    "tax_id": "NPl221AFu958"
+  },
+  "recipient": {
+    "name": "Jose Ignacio Marqu\u00e9s Acero",
+    "address": "Rambla de Juliana Recio 834\nNavarra, 25031",
+    "phone": "+34 953197094",
+    "email": "fermincarpio@hotmail.com",
+    "tax_id": "YKQ405CZA353"
+  },
+  "items": [
+    {
+      "description": "revolutionize one-to-one web services",
+      "quantity": 4,
+      "unit_price": "20.18",
+      "total": "80.72"
+    }
+  ],
+  "subtotal": "80.72",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "12.92"
+    }
+  ],
+  "total": "93.64",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

@@ -1,0 +1,50 @@
+{
+  "invoice_id": 686933,
+  "issue_date": "2024-05-08",
+  "due_date": "2024-05-21",
+  "issuer": {
+    "name": "N\u00fa\u00f1ez y Rosales S.A.",
+    "address": "Plaza Blanca Castell 93\nLas Palmas, 17708",
+    "phone": "+34982519868",
+    "email": "cirino45@joaquina.es",
+    "tax_id": "wTu716AEM389"
+  },
+  "recipient": {
+    "name": "Vilma Montoya Barriga",
+    "address": "Via de Consuela Ram\u00edrez 57 Apt. 01 \nLugo, 10477",
+    "phone": "+34 880 02 05 56",
+    "email": "alberolaarmida@yahoo.com",
+    "tax_id": "ycN392cxi450"
+  },
+  "items": [
+    {
+      "description": "incentivize visionary channels",
+      "quantity": 2,
+      "unit_price": "38.60",
+      "total": "77.20"
+    },
+    {
+      "description": "brand e-business convergence",
+      "quantity": 2,
+      "unit_price": "55.92",
+      "total": "111.84"
+    },
+    {
+      "description": "mesh robust convergence",
+      "quantity": 6,
+      "unit_price": "54.22",
+      "total": "325.32"
+    }
+  ],
+  "subtotal": "514.36",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "82.30"
+    }
+  ],
+  "total": "596.66",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

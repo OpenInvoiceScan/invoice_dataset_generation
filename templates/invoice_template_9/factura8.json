@@ -1,0 +1,62 @@
+{
+  "invoice_id": 27146,
+  "issue_date": "2024-05-08",
+  "due_date": "2024-06-01",
+  "issuer": {
+    "name": "Familia Cobo S.Com.",
+    "address": "Glorieta de L\u00e1zaro Herranz 776 Apt. 35 \nSalamanca, 34490",
+    "phone": "+34 821627285",
+    "email": "violetaazcona@marti.com",
+    "tax_id": "aqw042eKS853"
+  },
+  "recipient": {
+    "name": "Marisol Manuel-Carbonell",
+    "address": "Alameda Borja Riba 25 Puerta 6 \nBadajoz, 04112",
+    "phone": "+34944 22 75 51",
+    "email": "berrocalpaloma@gmail.com",
+    "tax_id": "jPd710jqb263"
+  },
+  "items": [
+    {
+      "description": "engage killer e-markets",
+      "quantity": 4,
+      "unit_price": "55.06",
+      "total": "220.24"
+    },
+    {
+      "description": "reinvent efficient methodologies",
+      "quantity": 2,
+      "unit_price": "60.28",
+      "total": "120.56"
+    },
+    {
+      "description": "empower sticky portals",
+      "quantity": 9,
+      "unit_price": "49.36",
+      "total": "444.24"
+    },
+    {
+      "description": "deliver visionary architectures",
+      "quantity": 4,
+      "unit_price": "29.65",
+      "total": "118.60"
+    },
+    {
+      "description": "repurpose transparent schemas",
+      "quantity": 7,
+      "unit_price": "89.96",
+      "total": "629.72"
+    }
+  ],
+  "subtotal": "1533.36",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "245.34"
+    }
+  ],
+  "total": "1778.70",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

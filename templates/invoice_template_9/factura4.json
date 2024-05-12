@@ -1,0 +1,56 @@
+{
+  "invoice_id": 677544,
+  "issue_date": "2024-05-09",
+  "due_date": "2024-05-13",
+  "issuer": {
+    "name": "Hermanos Llorens S.L.N.E",
+    "address": "Callej\u00f3n Mar\u00eda Bel\u00e9n Quiroga 655\nGuip\u00fazcoa, 09543",
+    "phone": "+34 922 21 81 21",
+    "email": "oberenguer@renata.es",
+    "tax_id": "MBX825Qgq810"
+  },
+  "recipient": {
+    "name": "Flavia Isern",
+    "address": "Paseo de Luis Barba 9\nAlicante, 37352",
+    "phone": "+34 884 69 64 35",
+    "email": "carmelarocamora@hotmail.com",
+    "tax_id": "XtX357Ady809"
+  },
+  "items": [
+    {
+      "description": "syndicate impactful systems",
+      "quantity": 1,
+      "unit_price": "80.21",
+      "total": "80.21"
+    },
+    {
+      "description": "visualize 24/7 mindshare",
+      "quantity": 5,
+      "unit_price": "99.65",
+      "total": "498.25"
+    },
+    {
+      "description": "integrate integrated e-services",
+      "quantity": 9,
+      "unit_price": "47.68",
+      "total": "429.12"
+    },
+    {
+      "description": "synergize magnetic e-business",
+      "quantity": 9,
+      "unit_price": "68.83",
+      "total": "619.47"
+    }
+  ],
+  "subtotal": "1627.05",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "260.33"
+    }
+  ],
+  "total": "1887.38",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

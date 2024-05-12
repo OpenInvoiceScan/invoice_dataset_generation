@@ -1,0 +1,44 @@
+{
+  "invoice_id": 368222,
+  "issue_date": "2024-05-07",
+  "due_date": "2024-06-04",
+  "issuer": {
+    "name": "Haro y asociados S.L.N.E",
+    "address": "C. Amor Domingo 71\nSalamanca, 50121",
+    "phone": "+34665 51 04 39",
+    "email": "ambrosio74@hermanos.com",
+    "tax_id": "KhY587dwp872"
+  },
+  "recipient": {
+    "name": "To\u00f1o Toro-Murillo",
+    "address": "Pasaje Jovita Dominguez 2 Apt. 18 \nCiudad, 38633",
+    "phone": "+34 844311253",
+    "email": "davidmata@yahoo.com",
+    "tax_id": "SUr502cix117"
+  },
+  "items": [
+    {
+      "description": "transition impactful solutions",
+      "quantity": 3,
+      "unit_price": "90.28",
+      "total": "270.84"
+    },
+    {
+      "description": "benchmark magnetic bandwidth",
+      "quantity": 7,
+      "unit_price": "14.32",
+      "total": "100.24"
+    }
+  ],
+  "subtotal": "371.08",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "59.37"
+    }
+  ],
+  "total": "430.45",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

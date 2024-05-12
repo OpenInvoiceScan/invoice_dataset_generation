@@ -1,0 +1,38 @@
+{
+  "invoice_id": 816701,
+  "issue_date": "2024-05-06",
+  "due_date": "2024-06-04",
+  "issuer": {
+    "name": "Miner\u00eda IG S.Coop.",
+    "address": "Via de Eva Mar\u00eda D\u00edez 20 Puerta 3 \nSoria, 23952",
+    "phone": "+34 807726869",
+    "email": "alberovenceslas@fabrica.es",
+    "tax_id": "BLZ124tVZ588"
+  },
+  "recipient": {
+    "name": "Teobaldo Carretero-Bello",
+    "address": "Urbanizaci\u00f3n Severiano Vara 49 Puerta 8 \nM\u00e1laga, 29459",
+    "phone": "+34901 44 47 72",
+    "email": "quirinohuerta@yahoo.com",
+    "tax_id": "Zla328IhB859"
+  },
+  "items": [
+    {
+      "description": "implement best-of-breed e-commerce",
+      "quantity": 4,
+      "unit_price": "91.99",
+      "total": "367.96"
+    }
+  ],
+  "subtotal": "367.96",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "58.87"
+    }
+  ],
+  "total": "426.83",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

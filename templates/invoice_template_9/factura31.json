@@ -1,0 +1,50 @@
+{
+  "invoice_id": 857555,
+  "issue_date": "2024-04-27",
+  "due_date": "2024-05-30",
+  "issuer": {
+    "name": "Servicios Salda\u00f1a S.A.",
+    "address": "Glorieta de Aura Manj\u00f3n 45 Apt. 48 \nValencia, 04707",
+    "phone": "+34976 62 46 32",
+    "email": "asensioemiliana@construccion.com",
+    "tax_id": "jBf733CfC529"
+  },
+  "recipient": {
+    "name": "Rub\u00e9n Miralles-Serra",
+    "address": "Via de Marcial Lastra 49\nMelilla, 14421",
+    "phone": "+34 978 24 52 27",
+    "email": "adaza@hotmail.com",
+    "tax_id": "LPx906PNi734"
+  },
+  "items": [
+    {
+      "description": "productize killer e-tailers",
+      "quantity": 5,
+      "unit_price": "90.02",
+      "total": "450.10"
+    },
+    {
+      "description": "whiteboard global content",
+      "quantity": 9,
+      "unit_price": "89.71",
+      "total": "807.39"
+    },
+    {
+      "description": "enhance open-source ROI",
+      "quantity": 10,
+      "unit_price": "75.25",
+      "total": "752.50"
+    }
+  ],
+  "subtotal": "2009.99",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "321.60"
+    }
+  ],
+  "total": "2331.59",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

@@ -1,0 +1,62 @@
+{
+  "invoice_id": 932339,
+  "issue_date": "2024-05-05",
+  "due_date": "2024-05-12",
+  "issuer": {
+    "name": "Familia Soler S.L.N.E",
+    "address": "C. Teresa Padilla 74 Puerta 0 \nC\u00e1ceres, 42945",
+    "phone": "+34945 565 506",
+    "email": "glauco65@coca.com",
+    "tax_id": "aYl581zBq529"
+  },
+  "recipient": {
+    "name": "Clarisa Esther Nicolau Cerezo",
+    "address": "Plaza Kike Villegas 53\nZaragoza, 12286",
+    "phone": "+34948522877",
+    "email": "ariadna12@hotmail.com",
+    "tax_id": "rRf473BCE213"
+  },
+  "items": [
+    {
+      "description": "morph killer networks",
+      "quantity": 8,
+      "unit_price": "94.81",
+      "total": "758.48"
+    },
+    {
+      "description": "synergize transparent models",
+      "quantity": 10,
+      "unit_price": "14.89",
+      "total": "148.90"
+    },
+    {
+      "description": "utilize next-generation niches",
+      "quantity": 2,
+      "unit_price": "61.86",
+      "total": "123.72"
+    },
+    {
+      "description": "generate sticky ROI",
+      "quantity": 10,
+      "unit_price": "30.22",
+      "total": "302.20"
+    },
+    {
+      "description": "orchestrate impactful mindshare",
+      "quantity": 8,
+      "unit_price": "50.50",
+      "total": "404.00"
+    }
+  ],
+  "subtotal": "1737.30",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "277.97"
+    }
+  ],
+  "total": "2015.27",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

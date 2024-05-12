@@ -1,0 +1,56 @@
+{
+  "invoice_id": 403358,
+  "issue_date": "2024-04-30",
+  "due_date": "2024-05-24",
+  "issuer": {
+    "name": "Talleres AKSF S.Coop.",
+    "address": "Vial Segismundo Coca 5 Piso 8 \nBaleares, 37717",
+    "phone": "+34803 42 93 96",
+    "email": "jonatanalmansa@arribas.es",
+    "tax_id": "OyA691EbC054"
+  },
+  "recipient": {
+    "name": "Jacinta Verd\u00fa Bejarano",
+    "address": "Plaza Renato Vara 39 Piso 2 \nC\u00e1ceres, 23314",
+    "phone": "+34921319103",
+    "email": "esthervelazquez@hotmail.com",
+    "tax_id": "Eqs364GYD866"
+  },
+  "items": [
+    {
+      "description": "innovate B2C mindshare",
+      "quantity": 1,
+      "unit_price": "77.64",
+      "total": "77.64"
+    },
+    {
+      "description": "expedite efficient paradigms",
+      "quantity": 6,
+      "unit_price": "82.88",
+      "total": "497.28"
+    },
+    {
+      "description": "evolve plug-and-play models",
+      "quantity": 9,
+      "unit_price": "34.70",
+      "total": "312.30"
+    },
+    {
+      "description": "disintermediate rich relationships",
+      "quantity": 7,
+      "unit_price": "69.72",
+      "total": "488.04"
+    }
+  ],
+  "subtotal": "1375.26",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "220.04"
+    }
+  ],
+  "total": "1595.30",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

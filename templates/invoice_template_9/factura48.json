@@ -1,0 +1,62 @@
+{
+  "invoice_id": 508963,
+  "issue_date": "2024-04-14",
+  "due_date": "2024-05-19",
+  "issuer": {
+    "name": "Hnos Rios S.Coop.",
+    "address": "Rambla de Maura Casares 35 Apt. 37 \nGuadalajara, 12646",
+    "phone": "+34 976074244",
+    "email": "nunezamada@inmobiliaria.es",
+    "tax_id": "IkR321tEV152"
+  },
+  "recipient": {
+    "name": "Nicolasa Manj\u00f3n",
+    "address": "Avenida de Cornelio Cuesta 9 Apt. 91 \nOurense, 29876",
+    "phone": "+34 847952106",
+    "email": "zuritadario@gmail.com",
+    "tax_id": "JLZ660Cyu428"
+  },
+  "items": [
+    {
+      "description": "engage cutting-edge e-services",
+      "quantity": 6,
+      "unit_price": "47.18",
+      "total": "283.08"
+    },
+    {
+      "description": "engineer sticky systems",
+      "quantity": 9,
+      "unit_price": "93.47",
+      "total": "841.23"
+    },
+    {
+      "description": "strategize cutting-edge users",
+      "quantity": 7,
+      "unit_price": "17.67",
+      "total": "123.69"
+    },
+    {
+      "description": "exploit holistic ROI",
+      "quantity": 6,
+      "unit_price": "32.79",
+      "total": "196.74"
+    },
+    {
+      "description": "grow rich architectures",
+      "quantity": 3,
+      "unit_price": "14.53",
+      "total": "43.59"
+    }
+  ],
+  "subtotal": "1488.33",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "238.13"
+    }
+  ],
+  "total": "1726.46",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

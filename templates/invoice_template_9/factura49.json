@@ -1,0 +1,62 @@
+{
+  "invoice_id": 569220,
+  "issue_date": "2024-04-27",
+  "due_date": "2024-06-09",
+  "issuer": {
+    "name": "Farmace\u00fatica del Levante S.Coop.",
+    "address": "Pasaje Y\u00e9ssica Cifuentes 204\nC\u00f3rdoba, 12632",
+    "phone": "+34 849204598",
+    "email": "pseco@amat.es",
+    "tax_id": "QBf441RpX770"
+  },
+  "recipient": {
+    "name": "Danilo Font Camps",
+    "address": "Pasaje Crist\u00f3bal Vila 824 Puerta 6 \nBaleares, 36761",
+    "phone": "+34 877 612 506",
+    "email": "perlita91@hotmail.com",
+    "tax_id": "LUI241yFB062"
+  },
+  "items": [
+    {
+      "description": "re-intermediate next-generation e-tailers",
+      "quantity": 6,
+      "unit_price": "16.02",
+      "total": "96.12"
+    },
+    {
+      "description": "mesh rich info-mediaries",
+      "quantity": 3,
+      "unit_price": "35.62",
+      "total": "106.86"
+    },
+    {
+      "description": "enable dynamic experiences",
+      "quantity": 10,
+      "unit_price": "11.93",
+      "total": "119.30"
+    },
+    {
+      "description": "monetize dot-com mindshare",
+      "quantity": 9,
+      "unit_price": "41.35",
+      "total": "372.15"
+    },
+    {
+      "description": "iterate customized action-items",
+      "quantity": 1,
+      "unit_price": "81.65",
+      "total": "81.65"
+    }
+  ],
+  "subtotal": "776.08",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "124.17"
+    }
+  ],
+  "total": "900.25",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

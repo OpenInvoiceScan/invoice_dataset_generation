@@ -1,0 +1,56 @@
+{
+  "invoice_id": 111070,
+  "issue_date": "2024-04-19",
+  "due_date": "2024-05-18",
+  "issuer": {
+    "name": "Hotel IWW S.L.",
+    "address": "Acceso Agust\u00edn Roda 82\nCuenca, 07191",
+    "phone": "+34 842 34 54 79",
+    "email": "ymarquez@alimentacion.com",
+    "tax_id": "rsp247GtJ312"
+  },
+  "recipient": {
+    "name": "Florentino Cabrera Bas",
+    "address": "Cuesta de Ernesto Vall\u00e9s 199 Piso 9 \nPalencia, 31892",
+    "phone": "+34 980791291",
+    "email": "aguilaluis-miguel@hotmail.com",
+    "tax_id": "vQi117BRg050"
+  },
+  "items": [
+    {
+      "description": "brand distributed info-mediaries",
+      "quantity": 4,
+      "unit_price": "84.48",
+      "total": "337.92"
+    },
+    {
+      "description": "reinvent intuitive paradigms",
+      "quantity": 7,
+      "unit_price": "64.84",
+      "total": "453.88"
+    },
+    {
+      "description": "transform revolutionary eyeballs",
+      "quantity": 7,
+      "unit_price": "44.81",
+      "total": "313.67"
+    },
+    {
+      "description": "innovate magnetic models",
+      "quantity": 10,
+      "unit_price": "57.75",
+      "total": "577.50"
+    }
+  ],
+  "subtotal": "1682.97",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "269.28"
+    }
+  ],
+  "total": "1952.25",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

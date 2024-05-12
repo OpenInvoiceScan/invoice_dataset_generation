@@ -1,0 +1,50 @@
+{
+  "invoice_id": 142844,
+  "issue_date": "2024-04-30",
+  "due_date": "2024-05-14",
+  "issuer": {
+    "name": "Hotel Avanzadas S.L.",
+    "address": "Pasadizo de Ang\u00e9lica Escamilla 88 Puerta 2 \nC\u00e1diz, 46556",
+    "phone": "+34 927 98 48 77",
+    "email": "pedrotoledo@tecnologias.org",
+    "tax_id": "Myp883Egu186"
+  },
+  "recipient": {
+    "name": "Celestina Boix Almagro",
+    "address": "Via de Olivia Abril 37\nMelilla, 12968",
+    "phone": "+34846 88 05 26",
+    "email": "alfredosanchez@hotmail.com",
+    "tax_id": "Ckp860pUY467"
+  },
+  "items": [
+    {
+      "description": "generate distributed initiatives",
+      "quantity": 10,
+      "unit_price": "96.94",
+      "total": "969.40"
+    },
+    {
+      "description": "envisioneer viral eyeballs",
+      "quantity": 1,
+      "unit_price": "33.02",
+      "total": "33.02"
+    },
+    {
+      "description": "transform user-centric e-commerce",
+      "quantity": 1,
+      "unit_price": "97.10",
+      "total": "97.10"
+    }
+  ],
+  "subtotal": "1099.52",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "175.92"
+    }
+  ],
+  "total": "1275.44",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

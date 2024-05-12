@@ -1,0 +1,50 @@
+{
+  "invoice_id": 827046,
+  "issue_date": "2024-04-30",
+  "due_date": "2024-05-22",
+  "issuer": {
+    "name": "Manufacturas Espa\u00f1olas S.A.",
+    "address": "Via Lorena Cerd\u00e1 469 Piso 2 \nToledo, 35921",
+    "phone": "+34 947 99 57 91",
+    "email": "lupeteruel@farmaceutica.com",
+    "tax_id": "eZl514QXj443"
+  },
+  "recipient": {
+    "name": "Emiliana Garrido Pinto",
+    "address": "Glorieta Amaro Prats 971 Piso 9 \nAlicante, 14274",
+    "phone": "+34 987 32 24 39",
+    "email": "custodia31@hotmail.com",
+    "tax_id": "myc571vBY072"
+  },
+  "items": [
+    {
+      "description": "transition out-of-the-box platforms",
+      "quantity": 5,
+      "unit_price": "93.78",
+      "total": "468.90"
+    },
+    {
+      "description": "synergize 24/7 initiatives",
+      "quantity": 10,
+      "unit_price": "17.29",
+      "total": "172.90"
+    },
+    {
+      "description": "engage value-added convergence",
+      "quantity": 3,
+      "unit_price": "93.92",
+      "total": "281.76"
+    }
+  ],
+  "subtotal": "923.56",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "147.77"
+    }
+  ],
+  "total": "1071.33",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

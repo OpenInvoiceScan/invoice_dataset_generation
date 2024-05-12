@@ -1,0 +1,38 @@
+{
+  "invoice_id": 422511,
+  "issue_date": "2024-04-23",
+  "due_date": "2024-05-31",
+  "issuer": {
+    "name": "Rivera y Carmona S.L.L.",
+    "address": "Rambla de Zaira Bay\u00f3n 641\nAlmer\u00eda, 01493",
+    "phone": "+34826764924",
+    "email": "regueraprudencio@distribuciones.com",
+    "tax_id": "pJp109Qpw562"
+  },
+  "recipient": {
+    "name": "Esteban Escudero Grau",
+    "address": "Glorieta de Jose Miguel Ferrera 67\nCiudad, 34260",
+    "phone": "+34 871 28 97 60",
+    "email": "callejaani@gmail.com",
+    "tax_id": "nnH645Rpb495"
+  },
+  "items": [
+    {
+      "description": "engage rich networks",
+      "quantity": 2,
+      "unit_price": "25.86",
+      "total": "51.72"
+    }
+  ],
+  "subtotal": "51.72",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "8.28"
+    }
+  ],
+  "total": "60.00",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
-    <title>Factura #{{ invoice_id }}</title>
+    <title>Invoice #{{ invoice_id }}</title>
     <link rel="stylesheet" href="template.css">
 </head>
 
@@ -11,23 +11,21 @@
     <div class="full-height">
         <header>
             <div>
-            <h1>Factura <br>
-                #{{ invoice_id }}
-            </h1>
+            <h1>Invoice {{ invoice_id }}</h1>
         </div>
             <img src="img/logo.png" alt="">
         </header>
         <main>
             <div>
-            <hr>
+
             <div class="section mt40">
-                <p><span class="info-title">Fecha de emisión:</span> {{ issue_date }}<br>
-                    <span class="info-title">Fecha de vencimiento:</span> {{ due_date }}
+                <p><span class="info-title">Issue Date:</span> {{ issue_date }}<br>
+                    <span class="info-title">Due Date:</span> {{ due_date }}
                 </p>
             </div>
             <div class="data_container mt40">
                 <div class="section">
-                    <p><span class="info-title">Datos del Emisor:</span><br>
+                    <p><span class="info-title">Issuer Details:</span><br>
                         {{ issuer.name }}<br>
                         {{ issuer.address }}<br>
                         {{ issuer.phone }}<br>
@@ -35,7 +33,7 @@
                         {{ issuer.tax_id }}</p>
                 </div>
                 <div class="section">
-                    <p><span class="info-title">Datos del Receptor:</span><br>
+                    <p><span class="info-title">Recipient Details:</span><br>
                         {{ recipient.name }}<br>
                         {{ recipient.address }}<br>
                         {{ recipient.phone }}<br>
@@ -48,9 +46,9 @@
                 <table>
                     <thead>
                         <tr>
-                            <th>Descripción</th>
-                            <th>Cantidad</th>
-                            <th>Precio Unitario</th>
+                            <th>Description</th>
+                            <th>Quantity</th>
+                            <th>Unit Price</th>
                             <th>Total</th>
                         </tr>
                     </thead>
@@ -75,7 +73,7 @@
                 Total: {{ total }}</p>
         </div>
         <div class="footer">
-            <p>Método de pago: {{ payment_method }}</p>
+            <p>Payment Method: {{ payment_method }}</p>
         </div>
     </div>
 </body>

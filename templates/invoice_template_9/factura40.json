@@ -1,0 +1,38 @@
+{
+  "invoice_id": 486020,
+  "issue_date": "2024-04-26",
+  "due_date": "2024-06-06",
+  "issuer": {
+    "name": "Remigio Mir\u00f3 Villena S.L.N.E",
+    "address": "Callej\u00f3n de Luis \u00c1ngel Ure\u00f1a 58 Puerta 9 \nCeuta, 32117",
+    "phone": "+34871010910",
+    "email": "hfeliu@ramon.com",
+    "tax_id": "evd288bqm338"
+  },
+  "recipient": {
+    "name": "Azahar Vera Ropero",
+    "address": "C. Felicia \u00c1ngel 36\nTarragona, 14931",
+    "phone": "+34948 70 43 61",
+    "email": "jessica57@gmail.com",
+    "tax_id": "VdP107Ncl989"
+  },
+  "items": [
+    {
+      "description": "incubate B2C schemas",
+      "quantity": 1,
+      "unit_price": "57.82",
+      "total": "57.82"
+    }
+  ],
+  "subtotal": "57.82",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "9.25"
+    }
+  ],
+  "total": "67.07",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

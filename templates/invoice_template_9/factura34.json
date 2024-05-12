@@ -1,0 +1,56 @@
+{
+  "invoice_id": 586116,
+  "issue_date": "2024-04-13",
+  "due_date": "2024-05-18",
+  "issuer": {
+    "name": "Compa\u00f1\u00eda Espa\u00f1olas S.A.",
+    "address": "Acceso de Lupe M\u00fagica 36\nGuadalajara, 45379",
+    "phone": "+34877 26 46 29",
+    "email": "chuy68@baena.net",
+    "tax_id": "pwS362dUA084"
+  },
+  "recipient": {
+    "name": "Jose Antonio Llopis C\u00e1ceres",
+    "address": "Acceso de Renato Mate 87\n\u00c1lava, 35152",
+    "phone": "+34 876 02 99 49",
+    "email": "concha91@hotmail.com",
+    "tax_id": "bFI923wmM445"
+  },
+  "items": [
+    {
+      "description": "enhance robust platforms",
+      "quantity": 6,
+      "unit_price": "76.08",
+      "total": "456.48"
+    },
+    {
+      "description": "visualize global solutions",
+      "quantity": 1,
+      "unit_price": "61.14",
+      "total": "61.14"
+    },
+    {
+      "description": "disintermediate value-added deliverables",
+      "quantity": 10,
+      "unit_price": "10.66",
+      "total": "106.60"
+    },
+    {
+      "description": "enhance strategic synergies",
+      "quantity": 10,
+      "unit_price": "76.79",
+      "total": "767.90"
+    }
+  ],
+  "subtotal": "1392.12",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "222.74"
+    }
+  ],
+  "total": "1614.86",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

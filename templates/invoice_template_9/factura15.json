@@ -1,0 +1,62 @@
+{
+  "invoice_id": 564048,
+  "issue_date": "2024-05-07",
+  "due_date": "2024-05-21",
+  "issuer": {
+    "name": "Miner\u00eda Avanzadas S.A.",
+    "address": "Via Basilio Dom\u00e9nech 38\nBarcelona, 05212",
+    "phone": "+34 946 57 81 02",
+    "email": "oliviamarquez@rosello.com",
+    "tax_id": "kIV500nTI092"
+  },
+  "recipient": {
+    "name": "Luis Infante Muro",
+    "address": "Urbanizaci\u00f3n Cristian Fonseca 72\nBarcelona, 45870",
+    "phone": "+34875 96 78 94",
+    "email": "rrios@yahoo.com",
+    "tax_id": "HIO505KCA395"
+  },
+  "items": [
+    {
+      "description": "innovate interactive vortals",
+      "quantity": 8,
+      "unit_price": "14.28",
+      "total": "114.24"
+    },
+    {
+      "description": "whiteboard dynamic web services",
+      "quantity": 4,
+      "unit_price": "39.58",
+      "total": "158.32"
+    },
+    {
+      "description": "benchmark distributed niches",
+      "quantity": 2,
+      "unit_price": "79.62",
+      "total": "159.24"
+    },
+    {
+      "description": "morph out-of-the-box initiatives",
+      "quantity": 7,
+      "unit_price": "21.41",
+      "total": "149.87"
+    },
+    {
+      "description": "expedite magnetic platforms",
+      "quantity": 10,
+      "unit_price": "18.69",
+      "total": "186.90"
+    }
+  ],
+  "subtotal": "768.57",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "122.97"
+    }
+  ],
+  "total": "891.54",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

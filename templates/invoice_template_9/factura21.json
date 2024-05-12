@@ -1,0 +1,50 @@
+{
+  "invoice_id": 930743,
+  "issue_date": "2024-05-04",
+  "due_date": "2024-06-06",
+  "issuer": {
+    "name": "Hermanos Gomila S.Coop.",
+    "address": "Via de Sabina Valero 5 Piso 2 \nAlbacete, 44649",
+    "phone": "+34984 42 88 77",
+    "email": "abermudez@fabrica.es",
+    "tax_id": "lDG920syn313"
+  },
+  "recipient": {
+    "name": "David Ugarte-G\u00f3mez",
+    "address": "Paseo de Nazario Vilaplana 8\nTarragona, 16488",
+    "phone": "+34814 600 500",
+    "email": "barco@hotmail.com",
+    "tax_id": "vHK478FqM845"
+  },
+  "items": [
+    {
+      "description": "utilize distributed networks",
+      "quantity": 2,
+      "unit_price": "68.00",
+      "total": "136.00"
+    },
+    {
+      "description": "visualize magnetic e-business",
+      "quantity": 8,
+      "unit_price": "11.27",
+      "total": "90.16"
+    },
+    {
+      "description": "innovate cutting-edge architectures",
+      "quantity": 2,
+      "unit_price": "91.25",
+      "total": "182.50"
+    }
+  ],
+  "subtotal": "408.66",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "65.39"
+    }
+  ],
+  "total": "474.05",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

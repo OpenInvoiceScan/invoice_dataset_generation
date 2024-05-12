@@ -1,0 +1,56 @@
+{
+  "invoice_id": 144521,
+  "issue_date": "2024-04-29",
+  "due_date": "2024-05-27",
+  "issuer": {
+    "name": "Cobos y asociados S.A.",
+    "address": "Glorieta Regina Pareja 13 Puerta 8 \nBadajoz, 17101",
+    "phone": "+34 881079722",
+    "email": "tito56@nerea.es",
+    "tax_id": "lxi813caT068"
+  },
+  "recipient": {
+    "name": "Juan Luis Cabanillas Cabeza",
+    "address": "Alameda Nieves Calzada 19 Apt. 90 \nGuip\u00fazcoa, 45198",
+    "phone": "+34 981682605",
+    "email": "aolive@hotmail.com",
+    "tax_id": "xnC218QBw079"
+  },
+  "items": [
+    {
+      "description": "unleash scalable deliverables",
+      "quantity": 3,
+      "unit_price": "59.33",
+      "total": "177.99"
+    },
+    {
+      "description": "morph sticky schemas",
+      "quantity": 1,
+      "unit_price": "36.22",
+      "total": "36.22"
+    },
+    {
+      "description": "drive granular platforms",
+      "quantity": 9,
+      "unit_price": "47.63",
+      "total": "428.67"
+    },
+    {
+      "description": "enable mission-critical portals",
+      "quantity": 3,
+      "unit_price": "78.34",
+      "total": "235.02"
+    }
+  ],
+  "subtotal": "877.90",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "140.46"
+    }
+  ],
+  "total": "1018.36",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

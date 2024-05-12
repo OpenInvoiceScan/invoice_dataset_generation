@@ -1,0 +1,50 @@
+{
+  "invoice_id": 106869,
+  "issue_date": "2024-04-26",
+  "due_date": "2024-06-05",
+  "issuer": {
+    "name": "Industrias S\u00e1nchez S.L.L.",
+    "address": "Cuesta Alcides Ortu\u00f1o 6 Apt. 88 \nBurgos, 14664",
+    "phone": "+34880216063",
+    "email": "anitaalcolea@moll.com",
+    "tax_id": "HuQ760ius238"
+  },
+  "recipient": {
+    "name": "Francisco Jose C\u00e1novas-Escolano",
+    "address": "Rambla Severino Caparr\u00f3s 4 Piso 5 \nCeuta, 17900",
+    "phone": "+34946 113 080",
+    "email": "rafaelasureda@yahoo.com",
+    "tax_id": "uGF671ITB446"
+  },
+  "items": [
+    {
+      "description": "orchestrate interactive architectures",
+      "quantity": 9,
+      "unit_price": "85.53",
+      "total": "769.77"
+    },
+    {
+      "description": "utilize ubiquitous schemas",
+      "quantity": 5,
+      "unit_price": "41.00",
+      "total": "205.00"
+    },
+    {
+      "description": "engineer turn-key markets",
+      "quantity": 3,
+      "unit_price": "42.66",
+      "total": "127.98"
+    }
+  ],
+  "subtotal": "1102.75",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "176.44"
+    }
+  ],
+  "total": "1279.19",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

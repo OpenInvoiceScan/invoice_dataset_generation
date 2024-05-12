@@ -1,0 +1,62 @@
+{
+  "invoice_id": 816644,
+  "issue_date": "2024-04-22",
+  "due_date": "2024-06-06",
+  "issuer": {
+    "name": "Distribuciones del Sur S.L.N.E",
+    "address": "Alameda Virginia Alc\u00e1ntara 99 Piso 4 \nBurgos, 17814",
+    "phone": "+34 849 438 232",
+    "email": "florentinovalenzuela@grupo.com",
+    "tax_id": "cdu806nFa090"
+  },
+  "recipient": {
+    "name": "Celestino Cerezo Valle",
+    "address": "Rambla de Bernardo Arana 5\nBadajoz, 16797",
+    "phone": "+34974 21 19 64",
+    "email": "escolanojuan-bautista@hotmail.com",
+    "tax_id": "dPR897ARd461"
+  },
+  "items": [
+    {
+      "description": "deliver 24/7 partnerships",
+      "quantity": 7,
+      "unit_price": "62.78",
+      "total": "439.46"
+    },
+    {
+      "description": "innovate compelling networks",
+      "quantity": 1,
+      "unit_price": "52.19",
+      "total": "52.19"
+    },
+    {
+      "description": "embrace dot-com e-services",
+      "quantity": 9,
+      "unit_price": "81.32",
+      "total": "731.88"
+    },
+    {
+      "description": "incentivize revolutionary functionalities",
+      "quantity": 3,
+      "unit_price": "30.15",
+      "total": "90.45"
+    },
+    {
+      "description": "transition value-added synergies",
+      "quantity": 9,
+      "unit_price": "17.44",
+      "total": "156.96"
+    }
+  ],
+  "subtotal": "1470.94",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "235.35"
+    }
+  ],
+  "total": "1706.29",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

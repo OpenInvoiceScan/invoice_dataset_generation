@@ -1,0 +1,62 @@
+{
+  "invoice_id": 799862,
+  "issue_date": "2024-04-26",
+  "due_date": "2024-06-10",
+  "issuer": {
+    "name": "Alarc\u00f3n & Asociados S.L.",
+    "address": "Vial Marco Pizarro 401 Apt. 20 \nCeuta, 29794",
+    "phone": "+34 842 843 548",
+    "email": "tomascebrian@aragon.com",
+    "tax_id": "TLj213zKF131"
+  },
+  "recipient": {
+    "name": "Ildefonso Robledo Salinas",
+    "address": "Acceso de Hermenegildo Mariscal 19 Piso 3 \nBarcelona, 30973",
+    "phone": "+34886626948",
+    "email": "ymontserrat@yahoo.com",
+    "tax_id": "Epi307clk008"
+  },
+  "items": [
+    {
+      "description": "extend clicks-and-mortar content",
+      "quantity": 2,
+      "unit_price": 61.34,
+      "total": 122.68
+    },
+    {
+      "description": "cultivate holistic channels",
+      "quantity": 8,
+      "unit_price": 16.5,
+      "total": 132.0
+    },
+    {
+      "description": "redefine seamless technologies",
+      "quantity": 8,
+      "unit_price": 90.01,
+      "total": 720.08
+    },
+    {
+      "description": "generate magnetic platforms",
+      "quantity": 9,
+      "unit_price": 76.51,
+      "total": 688.59
+    },
+    {
+      "description": "incentivize real-time systems",
+      "quantity": 3,
+      "unit_price": 23.16,
+      "total": 69.48
+    }
+  ],
+  "subtotal": 1732.83,
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": 277.25
+    }
+  ],
+  "total": 2010.08,
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

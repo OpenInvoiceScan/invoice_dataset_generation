@@ -1,62 +1,62 @@
 {
-  "invoice_id": 881241,
-  "issue_date": "2024-05-04",
-  "due_date": "2024-06-02",
+  "invoice_id": 674220,
+  "issue_date": "2024-04-26",
+  "due_date": "2024-05-17",
   "issuer": {
-    "name": "Edwards Group",
-    "address": "4723 Rodriguez Crossroad\nHensleymouth, GU 86036",
-    "phone": "(578)458-0828x4818",
-    "email": "jaclynrivera@welch.biz",
-    "tax_id": "QqG830Qux886"
+    "name": "Jones-Sanchez",
+    "address": "7169 Johnson Mall Apt. 805\nAndrewstad, DC 23482",
+    "phone": "001-667-998-4017x404",
+    "email": "kathy80@richardson.info",
+    "tax_id": "Tyj999ETK909"
   },
   "recipient": {
-    "name": "Mary Shaw",
-    "address": "8258 Boone Walks Suite 983\nNew Matthewtown, FL 30813",
-    "phone": "001-275-889-4061x43598",
-    "email": "samanthajackson@hotmail.com",
-    "tax_id": "Gdc686ozT264"
+    "name": "Paul Collins",
+    "address": "5901 Thompson Walk Suite 066\nMariachester, OH 37259",
+    "phone": "001-719-959-9691x9745",
+    "email": "dpatterson@yahoo.com",
+    "tax_id": "AnY473aFB648"
   },
   "items": [
     {
-      "description": "streamline collaborative infrastructures",
-      "quantity": 9,
-      "unit_price": 33.05,
-      "total": 297.45
-    },
-    {
-      "description": "implement customized e-tailers",
-      "quantity": 10,
-      "unit_price": 81.79,
-      "total": 817.9
-    },
-    {
-      "description": "revolutionize cross-media systems",
-      "quantity": 10,
-      "unit_price": 40.05,
-      "total": 400.5
-    },
-    {
-      "description": "deliver out-of-the-box bandwidth",
+      "description": "target B2C e-services",
       "quantity": 5,
-      "unit_price": 34.38,
-      "total": 171.9
+      "unit_price": 34.43,
+      "total": 172.15
     },
     {
-      "description": "grow innovative web services",
+      "description": "deliver next-generation web services",
       "quantity": 6,
-      "unit_price": 48.68,
-      "total": 292.08
+      "unit_price": 79.91,
+      "total": 479.46
+    },
+    {
+      "description": "harness compelling web-readiness",
+      "quantity": 7,
+      "unit_price": 76.19,
+      "total": 533.33
+    },
+    {
+      "description": "e-enable customized e-business",
+      "quantity": 7,
+      "unit_price": 35.15,
+      "total": 246.05
+    },
+    {
+      "description": "engage leading-edge deliverables",
+      "quantity": 1,
+      "unit_price": 20.36,
+      "total": 20.36
     }
   ],
-  "subtotal": 1979.83,
+  "subtotal": 1451.35,
   "taxes": [
     {
       "description": "VAT",
       "percentage": 16,
-      "amount": 316.77
+      "amount": 232.22
     }
   ],
-  "total": 2296.6,
-  "payment_method": "Bank Transfer",
+  "total": 1683.57,
+  "payment_method": "Credit Card",
   "currency": "EUR"
 }

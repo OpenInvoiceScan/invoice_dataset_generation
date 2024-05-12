@@ -1,0 +1,38 @@
+{
+  "invoice_id": 8667,
+  "issue_date": "2024-04-17",
+  "due_date": "2024-05-31",
+  "issuer": {
+    "name": "Farmace\u00fatica Integrales S.Coop.",
+    "address": "Acceso Nacio Pulido 74 Apt. 16 \nLas Palmas, 16515",
+    "phone": "+34 814042636",
+    "email": "saturnino32@inversiones.es",
+    "tax_id": "qyZ195fOF346"
+  },
+  "recipient": {
+    "name": "Fabiana Carballo Gargallo",
+    "address": "Plaza Gabriel Guzman 5 Piso 7 \nC\u00f3rdoba, 27172",
+    "phone": "+34921 07 24 31",
+    "email": "celiariquelme@hotmail.com",
+    "tax_id": "fZt901veA657"
+  },
+  "items": [
+    {
+      "description": "re-intermediate one-to-one functionalities",
+      "quantity": 4,
+      "unit_price": "59.55",
+      "total": "238.20"
+    }
+  ],
+  "subtotal": "238.20",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "38.11"
+    }
+  ],
+  "total": "276.31",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

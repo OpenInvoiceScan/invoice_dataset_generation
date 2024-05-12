@@ -1,0 +1,44 @@
+{
+  "invoice_id": 746626,
+  "issue_date": "2024-04-17",
+  "due_date": "2024-06-04",
+  "issuer": {
+    "name": "Mohamed Mateos Ja\u00e9n S.Coop.",
+    "address": "Calle de Claudio Colomer 22\nBarcelona, 10384",
+    "phone": "+34945 624 936",
+    "email": "flora54@promociones.es",
+    "tax_id": "GPO492gYZ483"
+  },
+  "recipient": {
+    "name": "Vanesa Campos-Tur",
+    "address": "Vial Joaquina Casanovas 52\nBurgos, 41592",
+    "phone": "+34828616769",
+    "email": "mayovirgilio@gmail.com",
+    "tax_id": "LOM961WEU698"
+  },
+  "items": [
+    {
+      "description": "utilize 24/365 e-tailers",
+      "quantity": 9,
+      "unit_price": "94.56",
+      "total": "851.04"
+    },
+    {
+      "description": "deliver clicks-and-mortar action-items",
+      "quantity": 7,
+      "unit_price": "45.08",
+      "total": "315.56"
+    }
+  ],
+  "subtotal": "1166.60",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "186.66"
+    }
+  ],
+  "total": "1353.26",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

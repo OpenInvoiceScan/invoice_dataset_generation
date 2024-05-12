@@ -1,0 +1,38 @@
+{
+  "invoice_id": 507194,
+  "issue_date": "2024-04-20",
+  "due_date": "2024-05-25",
+  "issuer": {
+    "name": "Barber PLC",
+    "address": "1138 Robyn Stream Apt. 644\nStephanieshire, CT 29165",
+    "phone": "652-615-9984x341",
+    "email": "vsteele@herrera-wright.biz",
+    "tax_id": "bOa482wkz490"
+  },
+  "recipient": {
+    "name": "Jennifer Walton",
+    "address": "3670 Delgado Trafficway\nBallardchester, CO 45764",
+    "phone": "(966)207-5355x0583",
+    "email": "jonathan12@hotmail.com",
+    "tax_id": "MVN118MwA700"
+  },
+  "items": [
+    {
+      "description": "maximize visionary vortals",
+      "quantity": 8,
+      "unit_price": 87.63,
+      "total": 701.04
+    }
+  ],
+  "subtotal": 701.04,
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": 112.17
+    }
+  ],
+  "total": 813.21,
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

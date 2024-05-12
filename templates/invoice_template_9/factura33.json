@@ -1,0 +1,62 @@
+{
+  "invoice_id": 100101,
+  "issue_date": "2024-04-20",
+  "due_date": "2024-05-16",
+  "issuer": {
+    "name": "Inmobiliaria del Norte S.L.N.E",
+    "address": "Avenida de Alfredo Bernal 32 Piso 1 \nHuesca, 13457",
+    "phone": "+34925 43 11 09",
+    "email": "suarezolga@logistica.net",
+    "tax_id": "tFF377zfn184"
+  },
+  "recipient": {
+    "name": "Socorro Cerd\u00e1-Franco",
+    "address": "Paseo de Josefa Querol 953\nC\u00f3rdoba, 50542",
+    "phone": "+34827 41 77 70",
+    "email": "sedanojose-ignacio@gmail.com",
+    "tax_id": "Ihm566uDo979"
+  },
+  "items": [
+    {
+      "description": "evolve virtual e-commerce",
+      "quantity": 8,
+      "unit_price": "49.93",
+      "total": "399.44"
+    },
+    {
+      "description": "facilitate open-source e-commerce",
+      "quantity": 7,
+      "unit_price": "87.86",
+      "total": "615.02"
+    },
+    {
+      "description": "incubate interactive schemas",
+      "quantity": 5,
+      "unit_price": "57.37",
+      "total": "286.85"
+    },
+    {
+      "description": "empower leading-edge supply-chains",
+      "quantity": 3,
+      "unit_price": "10.35",
+      "total": "31.05"
+    },
+    {
+      "description": "deliver synergistic info-mediaries",
+      "quantity": 9,
+      "unit_price": "58.00",
+      "total": "522.00"
+    }
+  ],
+  "subtotal": "1854.36",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "296.70"
+    }
+  ],
+  "total": "2151.06",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

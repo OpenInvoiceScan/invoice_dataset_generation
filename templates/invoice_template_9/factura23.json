@@ -1,0 +1,56 @@
+{
+  "invoice_id": 206616,
+  "issue_date": "2024-04-26",
+  "due_date": "2024-06-06",
+  "issuer": {
+    "name": "Santamar\u00eda & Asociados S.Com.",
+    "address": "Pasaje de \u00c1ngela Girona 39\nPalencia, 29041",
+    "phone": "+34881 98 16 55",
+    "email": "yustecharo@hnos.org",
+    "tax_id": "cwj194kGa046"
+  },
+  "recipient": {
+    "name": "Bautista Pinilla",
+    "address": "Urbanizaci\u00f3n de Olga Lorenzo 50\nSanta Cruz de Tenerife, 35665",
+    "phone": "+34 845827354",
+    "email": "clementeteruel@gmail.com",
+    "tax_id": "Nak483sMj354"
+  },
+  "items": [
+    {
+      "description": "visualize compelling e-business",
+      "quantity": 6,
+      "unit_price": "47.40",
+      "total": "284.40"
+    },
+    {
+      "description": "exploit sticky e-business",
+      "quantity": 10,
+      "unit_price": "54.78",
+      "total": "547.80"
+    },
+    {
+      "description": "mesh distributed infrastructures",
+      "quantity": 3,
+      "unit_price": "67.59",
+      "total": "202.77"
+    },
+    {
+      "description": "seize user-centric models",
+      "quantity": 9,
+      "unit_price": "68.49",
+      "total": "616.41"
+    }
+  ],
+  "subtotal": "1651.38",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "264.22"
+    }
+  ],
+  "total": "1915.60",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

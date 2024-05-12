@@ -1,0 +1,50 @@
+{
+  "invoice_id": 266201,
+  "issue_date": "2024-04-25",
+  "due_date": "2024-05-13",
+  "issuer": {
+    "name": "Garrido y Gracia S.Com.",
+    "address": "Rambla Ruy Huertas 8 Puerta 3 \n\u00c1lava, 25600",
+    "phone": "+34 923 71 51 53",
+    "email": "yaizacasanovas@talleres.net",
+    "tax_id": "bwK737zxF225"
+  },
+  "recipient": {
+    "name": "Ferm\u00edn Pedrosa Carlos",
+    "address": "Ca\u00f1ada de Clara Aller 411\nM\u00e1laga, 06224",
+    "phone": "+34 822 646 864",
+    "email": "florina31@yahoo.com",
+    "tax_id": "kPX962cIx345"
+  },
+  "items": [
+    {
+      "description": "transition dot-com schemas",
+      "quantity": 9,
+      "unit_price": "80.45",
+      "total": "724.05"
+    },
+    {
+      "description": "brand impactful vortals",
+      "quantity": 8,
+      "unit_price": "22.20",
+      "total": "177.60"
+    },
+    {
+      "description": "grow enterprise users",
+      "quantity": 5,
+      "unit_price": "80.29",
+      "total": "401.45"
+    }
+  ],
+  "subtotal": "1303.10",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "208.50"
+    }
+  ],
+  "total": "1511.60",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

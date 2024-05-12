@@ -1,0 +1,62 @@
+{
+  "invoice_id": 349603,
+  "issue_date": "2024-05-04",
+  "due_date": "2024-06-04",
+  "issuer": {
+    "name": "Compa\u00f1\u00eda Pou & Asociados S.A.",
+    "address": "Paseo de Ernesto Sala 10 Apt. 00 \nLa Rioja, 30475",
+    "phone": "+34975 738 741",
+    "email": "narrieta@distribuciones.org",
+    "tax_id": "omn070vIe419"
+  },
+  "recipient": {
+    "name": "Am\u00e9rica Cases Catal\u00e1n",
+    "address": "Ca\u00f1ada Lidia Torrecilla 72 Puerta 5 \nSoria, 16092",
+    "phone": "+34807467548",
+    "email": "claudia52@hotmail.com",
+    "tax_id": "KDs564SVW947"
+  },
+  "items": [
+    {
+      "description": "utilize synergistic e-tailers",
+      "quantity": 3,
+      "unit_price": "22.80",
+      "total": "68.40"
+    },
+    {
+      "description": "engineer customized communities",
+      "quantity": 10,
+      "unit_price": "42.61",
+      "total": "426.10"
+    },
+    {
+      "description": "architect compelling portals",
+      "quantity": 2,
+      "unit_price": "78.93",
+      "total": "157.86"
+    },
+    {
+      "description": "extend cross-platform relationships",
+      "quantity": 1,
+      "unit_price": "92.29",
+      "total": "92.29"
+    },
+    {
+      "description": "utilize 24/365 metrics",
+      "quantity": 9,
+      "unit_price": "69.60",
+      "total": "626.40"
+    }
+  ],
+  "subtotal": "1371.05",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "219.37"
+    }
+  ],
+  "total": "1590.42",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}
