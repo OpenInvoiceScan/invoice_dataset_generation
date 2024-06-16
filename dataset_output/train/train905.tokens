@@ -1,0 +1,75 @@
+Germán -> B-issuer_name
+Falcó -> I-issuer_name
+Palomino -> I-issuer_name
+S.Com. -> I-issuer_name
+Alameda -> B-issuer_address
+de -> I-issuer_address
+Pedro -> I-issuer_address
+Mancebo -> I-issuer_address
+50 -> I-issuer_address
+Zaragoza, -> I-issuer_address
+06685 -> I-issuer_address
++34949 792 043 -> B-issuer_phone
+nilorivera@varela.com -> B-issuer_email
+fgY232cJs636 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Jordi -> B-recipient_name
+Pellicer -> I-recipient_name
+Miranda -> I-recipient_name
+Cañada -> B-recipient_address
+de -> I-recipient_address
+Omar -> I-recipient_address
+Uría -> I-recipient_address
+50 -> I-recipient_address
+Barcelona, -> I-recipient_address
+03811 -> I-recipient_address
++34 972 906 375 -> B-recipient_phone
+jonatanestevez@hotmail.com -> B-recipient_email
+KHO691UDm411 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+627450 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-28 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+mesh back-end channels -> B-item_description
+83.48 -> B-item_unit_price
+667.84 -> B-item_total
+6 -> B-item_quantity
+maximize clicks-and-mortar vortals -> B-item_description
+15.67 -> B-item_unit_price
+94.02 -> B-item_total
+7 -> B-item_quantity
+iterate killer portals -> B-item_description
+56.53 -> B-item_unit_price
+395.71 -> B-item_total
+1 -> B-item_quantity
+optimize back-end e-business -> B-item_description
+44.38 -> B-item_unit_price
+44.38 -> B-item_total
+2 -> B-item_quantity
+enhance out-of-the-box e-business -> B-item_description
+49.43 -> B-item_unit_price
+98.86 -> B-item_total
+Subtotal -> O
+: -> O
+ 1300.81 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+208.13 -> B-tax_amount
+TOTAL -> O
+: -> O
+1508.94 -> B-total

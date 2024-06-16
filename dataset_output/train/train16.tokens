@@ -1,0 +1,76 @@
+Soluciones -> B-issuer_name
+Jordán -> I-issuer_name
+S.L.L. -> I-issuer_name
+Pasadizo -> B-issuer_address
+de -> I-issuer_address
+Odalis -> I-issuer_address
+Angulo -> I-issuer_address
+29 -> I-issuer_address
+Las -> I-issuer_address
+Palmas, -> I-issuer_address
+32230 -> I-issuer_address
++34 980 98 85 58 -> B-issuer_phone
+dafnebaron@hnos.com -> B-issuer_email
+xDU774NeX023 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Maristela -> B-recipient_name
+Jáuregui -> I-recipient_name
+Viana -> I-recipient_name
+Urbanización -> B-recipient_address
+de -> I-recipient_address
+Zoraida -> I-recipient_address
+Pol -> I-recipient_address
+20 -> I-recipient_address
+Puerta -> I-recipient_address
+2 -> I-recipient_address
+Cantabria, -> I-recipient_address
+33432 -> I-recipient_address
++34 974 85 14 17 -> B-recipient_phone
+palmergabriel@gmail.com -> B-recipient_email
+PTG766IsV368 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+208585 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-25 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+1 -> B-item_quantity
+harness visionary users -> B-item_description
+71.30 -> B-item_unit_price
+71.30 -> B-item_total
+10 -> B-item_quantity
+visualize e-business users -> B-item_description
+63.49 -> B-item_unit_price
+634.90 -> B-item_total
+7 -> B-item_quantity
+iterate mission-critical e-commerce -> B-item_description
+40.26 -> B-item_unit_price
+281.82 -> B-item_total
+3 -> B-item_quantity
+seize enterprise markets -> B-item_description
+74.23 -> B-item_unit_price
+222.69 -> B-item_total
+2 -> B-item_quantity
+transition plug-and-play deliverables -> B-item_description
+88.66 -> B-item_unit_price
+177.32 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1388.03 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+222.08 -> B-tax_amount
+TOTAL -> O
+: -> O
+1610.11 -> B-total

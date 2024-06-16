@@ -1,0 +1,62 @@
+Armas -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.A.D -> I-issuer_name
+Urbanización -> B-issuer_address
+Rosa -> I-issuer_address
+María -> I-issuer_address
+Gallego -> I-issuer_address
+771 -> I-issuer_address
+Murcia, -> I-issuer_address
+32647 -> I-issuer_address
++34 877655136 -> B-issuer_phone
+nebotmaite@felipa.es -> B-issuer_email
+rHp563PJY521 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Julieta -> B-recipient_name
+Cornejo -> I-recipient_name
+Moll -> I-recipient_name
+C. -> B-recipient_address
+de -> I-recipient_address
+José -> I-recipient_address
+Parejo -> I-recipient_address
+47 -> I-recipient_address
+Cáceres, -> I-recipient_address
+29506 -> I-recipient_address
++34 843 09 84 97 -> B-recipient_phone
+jordiiglesias@gmail.com -> B-recipient_email
+mkJ198rXs575 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+739693 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-22 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+monetize extensible networks -> B-item_description
+52.71 -> B-item_unit_price
+474.39 -> B-item_total
+7 -> B-item_quantity
+target impactful eyeballs -> B-item_description
+70.52 -> B-item_unit_price
+493.64 -> B-item_total
+Subtotal -> O 
+: -> O
+ 968.03 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+154.88 -> B-tax_amount
+TOTAL -> O
+: -> O
+1122.91 -> B-total

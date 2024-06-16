@@ -1,0 +1,89 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+FQk983sca289 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 916744236 -> B-recipient_phone
+Nombre -> O
+: -> O
+Baltasar -> B-recipient_name
+Puig -> I-recipient_name
+Correa -> I-recipient_name
+Correo -> O
+: -> O
+valentin75@hotmail.com -> B-recipient_email
+Calle -> B-recipient_address
+de -> I-recipient_address
+Florentina -> I-recipient_address
+Piñeiro -> I-recipient_address
+956 -> I-recipient_address
+Salamanca, -> I-recipient_address
+14146 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+676288 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-23 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+aggregate leading-edge markets -> B-item_description
+8 -> B-item_quantity
+734.64 -> B-item_total
+unleash turn-key supply-chains -> B-item_description
+4 -> B-item_quantity
+241.64 -> B-item_total
+revolutionize strategic e-markets -> B-item_description
+1 -> B-item_quantity
+46.95 -> B-item_total
+monetize value-added e-tailers -> B-item_description
+8 -> B-item_quantity
+765.60 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1788.83 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+286.21 -> B-tax_amount
+TOTAL -> O
+: -> O
+2075.04 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+lnP264Zfu857 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34944 780 592 -> B-issuer_phone
+Nombre -> O
+: -> O
+Vera -> B-issuer_name
+Solera -> I-issuer_name
+Ropero -> I-issuer_name
+S.A. -> I-issuer_name
+Correo -> O
+: -> O
+andreuolga@valdes.com -> B-issuer_email
+Pasadizo -> B-issuer_address
+de -> I-issuer_address
+Charo -> I-issuer_address
+Urrutia -> I-issuer_address
+92 -> I-issuer_address
+Girona, -> I-issuer_address
+14985 -> I-issuer_address

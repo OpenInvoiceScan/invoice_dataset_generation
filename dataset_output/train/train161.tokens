@@ -1,0 +1,60 @@
+Perla -> B-issuer_name
+Barriga -> I-issuer_name
+Lamas -> I-issuer_name
+S.L. -> I-issuer_name
+Glorieta -> B-issuer_address
+Olimpia -> I-issuer_address
+Ramirez -> I-issuer_address
+51 -> I-issuer_address
+La -> I-issuer_address
+Rioja, -> I-issuer_address
+03682 -> I-issuer_address
++34961 11 09 40 -> B-issuer_phone
+jose-angelmulet@hotel.com -> B-issuer_email
+lRo767kqS794 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Wálter -> B-recipient_name
+Alcalde -> I-recipient_name
+Baena -> I-recipient_name
+Vial -> B-recipient_address
+de -> I-recipient_address
+María -> I-recipient_address
+Luisa -> I-recipient_address
+Amat -> I-recipient_address
+493 -> I-recipient_address
+Guipúzcoa, -> I-recipient_address
+06595 -> I-recipient_address
++34825 835 952 -> B-recipient_phone
+modestaarnaiz@yahoo.com -> B-recipient_email
+RGx319mwV976 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+915885 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-21 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+synergize seamless e-markets -> B-item_description
+90.21 -> B-item_unit_price
+360.84 -> B-item_total
+Subtotal -> O
+: -> O
+ 360.84 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+57.73 -> B-tax_amount
+TOTAL -> O
+: -> O
+418.57 -> B-total

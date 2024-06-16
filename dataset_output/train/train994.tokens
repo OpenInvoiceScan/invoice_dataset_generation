@@ -1,0 +1,65 @@
+Invoice -> O
+231116 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-18 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-02 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Hotel -> B-issuer_name
+Ibérica -> I-issuer_name
+S.A. -> I-issuer_name
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+Bonifacio -> I-issuer_address
+Morales -> I-issuer_address
+33 -> I-issuer_address
+Murcia, -> I-issuer_address
+11370 -> I-issuer_address
++34901 06 29 21 -> B-issuer_phone
+africasegovia@vilaplana.es -> B-issuer_email
+NiR594KMA445 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Isaías -> B-recipient_name
+Mena -> I-recipient_name
+Oliveras -> I-recipient_name
+Cañada -> B-recipient_address
+de -> I-recipient_address
+Aarón -> I-recipient_address
+Fuster -> I-recipient_address
+48 -> I-recipient_address
+Albacete, -> I-recipient_address
+51529 -> I-recipient_address
++34820 257 063 -> B-recipient_phone
+gbarrios@hotmail.com -> B-recipient_email
+wCL329zJs703 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+morph global users -> B-item_description
+9 -> B-item_quantity
+13.63 -> B-item_unit_price
+122.67 -> B-item_total
+Subtotal -> O
+ : -> O
+ 122.67 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+19.63 -> B-tax_amount
+Total -> O
+: -> O
+142.30 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

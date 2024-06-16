@@ -1,0 +1,86 @@
+Factura -> O
+369708 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-12 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-17 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Benitez -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Cañada -> B-issuer_address
+de -> I-issuer_address
+Florencio -> I-issuer_address
+Soriano -> I-issuer_address
+5 -> I-issuer_address
+Apt. -> I-issuer_address
+37 -> I-issuer_address
+Cáceres, -> I-issuer_address
+36784 -> I-issuer_address
++34 974 016 994 -> B-issuer_phone
+dcompany@fabrica.es -> B-issuer_email
+JOI758FjY314 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Candelaria -> B-recipient_name
+Raquel -> I-recipient_name
+Terrón -> I-recipient_name
+Salcedo -> I-recipient_name
+C. -> B-recipient_address
+de -> I-recipient_address
+Pelayo -> I-recipient_address
+Alarcón -> I-recipient_address
+41 -> I-recipient_address
+Almería, -> I-recipient_address
+27850 -> I-recipient_address
++34901101568 -> B-recipient_phone
+julianperal@gmail.com -> B-recipient_email
+PMR462gms833 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+seize one-to-one systems -> B-item_description
+5 -> B-item_quantity
+94.92 -> B-item_unit_price
+474.60 -> B-item_total
+evolve efficient markets -> B-item_description
+10 -> B-item_quantity
+18.64 -> B-item_unit_price
+186.40 -> B-item_total
+maximize bricks-and-clicks channels -> B-item_description
+9 -> B-item_quantity
+28.68 -> B-item_unit_price
+258.12 -> B-item_total
+morph granular e-tailers -> B-item_description
+9 -> B-item_quantity
+31.09 -> B-item_unit_price
+279.81 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1198.93 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+191.83 -> B-tax_amount
+Total -> O
+: -> O
+1390.76 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

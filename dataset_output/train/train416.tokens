@@ -1,0 +1,73 @@
+Ariel -> B-issuer_name
+Piquer -> I-issuer_name
+Blanco -> I-issuer_name
+S.Com. -> I-issuer_name
+Avenida -> B-issuer_address
+María -> I-issuer_address
+Fernanda -> I-issuer_address
+Álvaro -> I-issuer_address
+73 -> I-issuer_address
+Piso -> I-issuer_address
+8 -> I-issuer_address
+Palencia, -> I-issuer_address
+41761 -> I-issuer_address
++34 901 511 396 -> B-issuer_phone
+fidela34@cristian.com -> B-issuer_email
+PYO719jcl894 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Melania -> B-recipient_name
+de -> I-recipient_name
+Conde -> I-recipient_name
+Vial -> B-recipient_address
+Pablo -> I-recipient_address
+Cañellas -> I-recipient_address
+58 -> I-recipient_address
+Apt. -> I-recipient_address
+61 -> I-recipient_address
+Cuenca, -> I-recipient_address
+41042 -> I-recipient_address
++34 839 427 165 -> B-recipient_phone
+verdurolando@gmail.com -> B-recipient_email
+RqX410WFZ932 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+738590 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-21 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+architect dot-com technologies -> B-item_description
+95.22 -> B-item_unit_price
+761.76 -> B-item_total
+5 -> B-item_quantity
+architect mission-critical bandwidth -> B-item_description
+86.42 -> B-item_unit_price
+432.10 -> B-item_total
+6 -> B-item_quantity
+maximize value-added communities -> B-item_description
+70.83 -> B-item_unit_price
+424.98 -> B-item_total
+3 -> B-item_quantity
+reinvent transparent content -> B-item_description
+57.22 -> B-item_unit_price
+171.66 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1790.50 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+286.48 -> B-tax_amount
+TOTAL -> O
+: -> O
+2076.98 -> B-total

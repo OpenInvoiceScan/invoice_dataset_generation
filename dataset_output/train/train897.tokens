@@ -1,0 +1,70 @@
+Serra -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L.L. -> I-issuer_name
+Urbanización -> B-issuer_address
+de -> I-issuer_address
+Tristán -> I-issuer_address
+Cobos -> I-issuer_address
+5 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Zaragoza, -> I-issuer_address
+30097 -> I-issuer_address
++34886 48 88 60 -> B-issuer_phone
+clarasabater@maria.net -> B-issuer_email
+TDb460UBF044 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Felipa -> B-recipient_name
+Garmendia -> I-recipient_name
+Calle -> B-recipient_address
+de -> I-recipient_address
+Glauco -> I-recipient_address
+Costa -> I-recipient_address
+55 -> I-recipient_address
+Apt. -> I-recipient_address
+71 -> I-recipient_address
+Badajoz, -> I-recipient_address
+13825 -> I-recipient_address
++34 807 57 00 15 -> B-recipient_phone
+xmiguel@yahoo.com -> B-recipient_email
+mzb544dLq209 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+673123 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-03 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+reinvent strategic functionalities -> B-item_description
+84.09 -> B-item_unit_price
+168.18 -> B-item_total
+5 -> B-item_quantity
+empower turn-key supply-chains -> B-item_description
+71.06 -> B-item_unit_price
+355.30 -> B-item_total
+1 -> B-item_quantity
+brand dynamic web-readiness -> B-item_description
+85.77 -> B-item_unit_price
+85.77 -> B-item_total
+Subtotal -> O
+: -> O
+ 609.25 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+97.48 -> B-tax_amount
+TOTAL -> O
+: -> O
+706.73 -> B-total

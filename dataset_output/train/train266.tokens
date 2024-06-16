@@ -1,0 +1,71 @@
+Invoice -> O
+584150 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-15 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-04 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Transportes -> B-issuer_name
+Ibérica -> I-issuer_name
+S.A. -> I-issuer_name
+Callejón -> B-issuer_address
+Tristán -> I-issuer_address
+Martí -> I-issuer_address
+904 -> I-issuer_address
+Puerta -> I-issuer_address
+0 -> I-issuer_address
+Valladolid, -> I-issuer_address
+43162 -> I-issuer_address
++34 826914597 -> B-issuer_phone
+sabas54@construccion.net -> B-issuer_email
+CVE696Cwo496 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Ana -> B-recipient_name
+Ruiz -> I-recipient_name
+Mancebo -> I-recipient_name
+Acceso -> B-recipient_address
+Leyre -> I-recipient_address
+Ferrando -> I-recipient_address
+13 -> I-recipient_address
+Piso -> I-recipient_address
+3 -> I-recipient_address
+Murcia, -> I-recipient_address
+51775 -> I-recipient_address
++34 832 629 086 -> B-recipient_phone
+felipe01@yahoo.com -> B-recipient_email
+NcZ815QLK913 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+grow extensible technologies -> B-item_description
+2 -> B-item_quantity
+45.69 -> B-item_unit_price
+91.38 -> B-item_total
+implement one-to-one users -> B-item_description
+5 -> B-item_quantity
+23.81 -> B-item_unit_price
+119.05 -> B-item_total
+Subtotal -> O
+ : -> O
+ 210.43 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+33.67 -> B-tax_amount
+Total -> O
+: -> O
+244.10 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

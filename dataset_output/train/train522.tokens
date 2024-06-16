@@ -1,0 +1,78 @@
+Invoice -> O
+170424 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-04-30 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-28 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Hermanos -> B-issuer_name
+Peñas -> I-issuer_name
+S.Com. -> I-issuer_name
+Glorieta -> B-issuer_address
+Ignacia -> I-issuer_address
+Naranjo -> I-issuer_address
+420 -> I-issuer_address
+Puerta -> I-issuer_address
+5 -> I-issuer_address
+La -> I-issuer_address
+Coruña, -> I-issuer_address
+03387 -> I-issuer_address
++34 844 643 646 -> B-issuer_phone
+hdaza@purificacion.es -> B-issuer_email
+ibC385AFl858 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Pilar -> B-recipient_name
+Bas -> I-recipient_name
+Patiño -> I-recipient_name
+Avenida -> B-recipient_address
+de -> I-recipient_address
+María -> I-recipient_address
+Carmen -> I-recipient_address
+Company -> I-recipient_address
+98 -> I-recipient_address
+Puerta -> I-recipient_address
+8 -> I-recipient_address
+Cuenca, -> I-recipient_address
+34948 -> I-recipient_address
++34980 240 882 -> B-recipient_phone
+iasenjo@gmail.com -> B-recipient_email
+Dfn505uMI815 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+empower leading-edge paradigms -> B-item_description
+4 -> B-item_quantity
+24.56 -> B-item_unit_price
+98.24 -> B-item_total
+repurpose real-time infrastructures -> B-item_description
+6 -> B-item_quantity
+59.62 -> B-item_unit_price
+357.72 -> B-item_total
+visualize virtual communities -> B-item_description
+6 -> B-item_quantity
+23.07 -> B-item_unit_price
+138.42 -> B-item_total
+Subtotal -> O
+ : -> O
+ 594.38 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+95.10 -> B-tax_amount
+Total -> O
+: -> O
+689.48 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

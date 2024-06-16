@@ -1,0 +1,71 @@
+Invoice -> O
+849916 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-04-29 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-14 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Marcelo -> B-issuer_name
+Alfonso -> I-issuer_name
+Arco -> I-issuer_name
+S.Coop. -> I-issuer_name
+Urbanización -> B-issuer_address
+de -> I-issuer_address
+Reyes -> I-issuer_address
+Arnau -> I-issuer_address
+43 -> I-issuer_address
+Piso -> I-issuer_address
+4 -> I-issuer_address
+La -> I-issuer_address
+Coruña, -> I-issuer_address
+23988 -> I-issuer_address
++34 844793721 -> B-issuer_phone
+imarti@vilar.com -> B-issuer_email
+yxD649vbS258 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Marciano -> B-recipient_name
+Duran -> I-recipient_name
+Avenida -> B-recipient_address
+de -> I-recipient_address
+Calixto -> I-recipient_address
+Simó -> I-recipient_address
+21 -> I-recipient_address
+Apt. -> I-recipient_address
+46 -> I-recipient_address
+La -> I-recipient_address
+Rioja, -> I-recipient_address
+10033 -> I-recipient_address
++34800 829 393 -> B-recipient_phone
+quique69@hotmail.com -> B-recipient_email
+prN827gNF164 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+incubate strategic systems -> B-item_description
+4 -> B-item_quantity
+62.26 -> B-item_unit_price
+249.04 -> B-item_total
+Subtotal -> O
+ : -> O
+ 249.04 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+39.85 -> B-tax_amount
+Total -> O
+: -> O
+288.89 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

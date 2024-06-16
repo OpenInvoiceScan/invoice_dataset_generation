@@ -1,0 +1,56 @@
+Grupo -> B-issuer_name
+Jáuregui -> I-issuer_name
+S.L. -> I-issuer_name
+Calle -> B-issuer_address
+Carmina -> I-issuer_address
+Vaquero -> I-issuer_address
+88 -> I-issuer_address
+Salamanca, -> I-issuer_address
+50271 -> I-issuer_address
++34883 828 687 -> B-issuer_phone
+vbenet@ariza.net -> B-issuer_email
+aDu929MeO746 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Vicenta -> B-recipient_name
+Milla -> I-recipient_name
+Quintana -> I-recipient_name
+Glorieta -> B-recipient_address
+Eric -> I-recipient_address
+Sevilla -> I-recipient_address
+98 -> I-recipient_address
+Palencia, -> I-recipient_address
+25379 -> I-recipient_address
++34988 392 405 -> B-recipient_phone
+tbenet@yahoo.com -> B-recipient_email
+hxM219faf456 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+81762 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-10 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+reinvent innovative users -> B-item_description
+37.78 -> B-item_unit_price
+151.12 -> B-item_total
+Subtotal -> O
+: -> O
+ 151.12 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+24.18 -> B-tax_amount
+TOTAL -> O
+: -> O
+175.30 -> B-total

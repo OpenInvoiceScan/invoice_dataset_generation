@@ -1,0 +1,74 @@
+Factura -> O
+486479 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-06 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-12 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Baños -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.A. -> I-issuer_name
+Plaza -> B-issuer_address
+de -> I-issuer_address
+Diana -> I-issuer_address
+Aguado -> I-issuer_address
+45 -> I-issuer_address
+Valencia, -> I-issuer_address
+51153 -> I-issuer_address
++34 825938414 -> B-issuer_phone
+sosimo39@campillo.org -> B-issuer_email
+hIP759XLe633 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Rosario -> B-recipient_name
+Javi -> I-recipient_name
+Crespi -> I-recipient_name
+Uría -> I-recipient_name
+Rambla -> B-recipient_address
+Ana -> I-recipient_address
+Belén -> I-recipient_address
+Robledo -> I-recipient_address
+96 -> I-recipient_address
+Puerta -> I-recipient_address
+3 -> I-recipient_address
+Baleares, -> I-recipient_address
+30193 -> I-recipient_address
++34 874 54 81 94 -> B-recipient_phone
+maria-luisasimo@gmail.com -> B-recipient_email
+gGL509QXq913 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+reinvent cross-media e-commerce -> B-item_description
+10 -> B-item_quantity
+58.31 -> B-item_unit_price
+583.10 -> B-item_total
+Subtotal -> O
+ : -> O
+ 583.10 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+93.30 -> B-tax_amount
+Total -> O
+: -> O
+676.40 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

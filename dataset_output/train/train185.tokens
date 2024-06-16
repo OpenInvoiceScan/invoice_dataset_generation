@@ -1,0 +1,77 @@
+Silva -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Paseo -> B-issuer_address
+de -> I-issuer_address
+Josep -> I-issuer_address
+Chaves -> I-issuer_address
+932 -> I-issuer_address
+Jaén, -> I-issuer_address
+04201 -> I-issuer_address
++34 744 49 85 97 -> B-issuer_phone
+teodorabarcena@servicios.net -> B-issuer_email
+gdS497ZKt094 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Ana -> B-recipient_name
+Charo -> I-recipient_name
+Lozano -> I-recipient_name
+Guijarro -> I-recipient_name
+Callejón -> B-recipient_address
+Heliodoro -> I-recipient_address
+Durán -> I-recipient_address
+28 -> I-recipient_address
+Apt. -> I-recipient_address
+07 -> I-recipient_address
+Palencia, -> I-recipient_address
+42461 -> I-recipient_address
++34 982 65 52 09 -> B-recipient_phone
+araceliportero@yahoo.com -> B-recipient_email
+LME084ZyF619 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+121091 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-18 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+optimize world-class web services -> B-item_description
+78.23 -> B-item_unit_price
+704.07 -> B-item_total
+2 -> B-item_quantity
+synergize holistic e-business -> B-item_description
+72.43 -> B-item_unit_price
+144.86 -> B-item_total
+9 -> B-item_quantity
+grow vertical partnerships -> B-item_description
+93.15 -> B-item_unit_price
+838.35 -> B-item_total
+10 -> B-item_quantity
+mesh turn-key info-mediaries -> B-item_description
+30.22 -> B-item_unit_price
+302.20 -> B-item_total
+6 -> B-item_quantity
+orchestrate vertical applications -> B-item_description
+58.13 -> B-item_unit_price
+348.78 -> B-item_total
+Subtotal -> O
+: -> O
+ 2338.26 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+374.12 -> B-tax_amount
+TOTAL -> O
+: -> O
+2712.38 -> B-total

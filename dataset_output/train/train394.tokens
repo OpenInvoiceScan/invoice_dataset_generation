@@ -1,0 +1,69 @@
+Invoice -> O
+239758 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-24 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-10 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Lobo -> B-issuer_name
+y -> I-issuer_name
+Llorente -> I-issuer_name
+S.L. -> I-issuer_name
+Cañada -> B-issuer_address
+de -> I-issuer_address
+Fulgencio -> I-issuer_address
+Cobos -> I-issuer_address
+98 -> I-issuer_address
+Piso -> I-issuer_address
+8 -> I-issuer_address
+Toledo, -> I-issuer_address
+47787 -> I-issuer_address
++34900 366 952 -> B-issuer_phone
+emperatrizllado@manufacturas.com -> B-issuer_email
+emj302SMU768 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Claudia -> B-recipient_name
+Corral -> I-recipient_name
+Villegas -> I-recipient_name
+Cañada -> B-recipient_address
+Germán -> I-recipient_address
+Giménez -> I-recipient_address
+909 -> I-recipient_address
+Puerta -> I-recipient_address
+5 -> I-recipient_address
+Asturias, -> I-recipient_address
+44100 -> I-recipient_address
++34 844704752 -> B-recipient_phone
+narcisa39@gmail.com -> B-recipient_email
+Ybi275aWG056 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+reinvent ubiquitous supply-chains -> B-item_description
+9 -> B-item_quantity
+43.31 -> B-item_unit_price
+389.79 -> B-item_total
+Subtotal -> O
+ : -> O
+ 389.79 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+62.37 -> B-tax_amount
+Total -> O
+: -> O
+452.16 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

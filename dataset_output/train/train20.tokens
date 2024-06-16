@@ -1,0 +1,96 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+jxX727mGJ134 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 924223167 -> B-recipient_phone
+Nombre -> O
+: -> O
+Eloísa -> B-recipient_name
+Barriga -> I-recipient_name
+Marín -> I-recipient_name
+Correo -> O
+: -> O
+berrocalpastor@yahoo.com -> B-recipient_email
+Pasaje -> B-recipient_address
+de -> I-recipient_address
+Jesusa -> I-recipient_address
+Calderon -> I-recipient_address
+8 -> I-recipient_address
+Piso -> I-recipient_address
+9 -> I-recipient_address
+Lugo, -> I-recipient_address
+03808 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+175389 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-07 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+streamline mission-critical solutions -> B-item_description
+9 -> B-item_quantity
+608.85 -> B-item_total
+scale cross-platform convergence -> B-item_description
+7 -> B-item_quantity
+166.04 -> B-item_total
+deliver rich portals -> B-item_description
+10 -> B-item_quantity
+119.00 -> B-item_total
+facilitate best-of-breed channels -> B-item_description
+4 -> B-item_quantity
+237.08 -> B-item_total
+repurpose bricks-and-clicks partnerships -> B-item_description
+3 -> B-item_quantity
+122.79 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1253.76 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+200.60 -> B-tax_amount
+TOTAL -> O
+: -> O
+1454.36 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+xkC664RBQ610 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34739663893 -> B-issuer_phone
+Nombre -> O
+: -> O
+Nogués -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Correo -> O
+: -> O
+franciscorosario@inversiones.es -> B-issuer_email
+Avenida -> B-issuer_address
+de -> I-issuer_address
+Florinda -> I-issuer_address
+Barco -> I-issuer_address
+427 -> I-issuer_address
+Apt. -> I-issuer_address
+79 -> I-issuer_address
+Ciudad, -> I-issuer_address
+11526 -> I-issuer_address

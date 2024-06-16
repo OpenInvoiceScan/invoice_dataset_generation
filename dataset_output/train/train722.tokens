@@ -1,0 +1,80 @@
+Invoice -> O
+619453 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-04 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-14 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Minería -> B-issuer_name
+Ibérica -> I-issuer_name
+S.A. -> I-issuer_name
+Ronda -> B-issuer_address
+de -> I-issuer_address
+Candelas -> I-issuer_address
+Clavero -> I-issuer_address
+438 -> I-issuer_address
+Piso -> I-issuer_address
+5 -> I-issuer_address
+Almería, -> I-issuer_address
+49850 -> I-issuer_address
++34 842 456 242 -> B-issuer_phone
+tomasavalles@figuerola.es -> B-issuer_email
+dGd195mVs046 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Artemio -> B-recipient_name
+Catalá -> I-recipient_name
+Zabala -> I-recipient_name
+Rambla -> B-recipient_address
+Daniel -> I-recipient_address
+Sánchez -> I-recipient_address
+35 -> I-recipient_address
+Apt. -> I-recipient_address
+28 -> I-recipient_address
+Asturias, -> I-recipient_address
+27138 -> I-recipient_address
++34 926 66 90 34 -> B-recipient_phone
+ignacio97@gmail.com -> B-recipient_email
+iQi324oat533 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+utilize frictionless niches -> B-item_description
+4 -> B-item_quantity
+28.82 -> B-item_unit_price
+115.28 -> B-item_total
+iterate real-time web-readiness -> B-item_description
+7 -> B-item_quantity
+49.42 -> B-item_unit_price
+345.94 -> B-item_total
+enable bleeding-edge metrics -> B-item_description
+3 -> B-item_quantity
+49.37 -> B-item_unit_price
+148.11 -> B-item_total
+productize leading-edge deliverables -> B-item_description
+9 -> B-item_quantity
+12.00 -> B-item_unit_price
+108.00 -> B-item_total
+Subtotal -> O
+ : -> O
+ 717.33 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+114.77 -> B-tax_amount
+Total -> O
+: -> O
+832.10 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

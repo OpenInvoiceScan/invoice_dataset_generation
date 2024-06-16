@@ -1,0 +1,59 @@
+Hermanos -> B-issuer_name
+Torres -> I-issuer_name
+S.A. -> I-issuer_name
+Pasaje -> B-issuer_address
+Martirio -> I-issuer_address
+Pascual -> I-issuer_address
+4 -> I-issuer_address
+Ávila, -> I-issuer_address
+44567 -> I-issuer_address
++34972 94 99 56 -> B-issuer_phone
+egoni@desarrollo.es -> B-issuer_email
+iNg549ypA440 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Blas -> B-recipient_name
+Ayllón -> I-recipient_name
+Heredia -> I-recipient_name
+Acceso -> B-recipient_address
+Josefina -> I-recipient_address
+Saldaña -> I-recipient_address
+87 -> I-recipient_address
+Segovia, -> I-recipient_address
+16472 -> I-recipient_address
++34 845 20 66 88 -> B-recipient_phone
+luisinaverdu@yahoo.com -> B-recipient_email
+aKR545MUp790 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+65066 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-18 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+utilize scalable deliverables -> B-item_description
+10.09 -> B-item_unit_price
+60.54 -> B-item_total
+7 -> B-item_quantity
+repurpose intuitive markets -> B-item_description
+46.39 -> B-item_unit_price
+324.73 -> B-item_total
+Subtotal -> O 
+: -> O
+ 385.27 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+61.64 -> B-tax_amount
+TOTAL -> O
+: -> O
+446.91 -> B-total

@@ -1,0 +1,75 @@
+Grupo -> B-issuer_name
+Huerta -> I-issuer_name
+S.Com. -> I-issuer_name
+Via -> B-issuer_address
+Luciana -> I-issuer_address
+Arias -> I-issuer_address
+4 -> I-issuer_address
+Apt. -> I-issuer_address
+11 -> I-issuer_address
+Segovia, -> I-issuer_address
+17242 -> I-issuer_address
++34832 461 788 -> B-issuer_phone
+crescencia60@suministros.es -> B-issuer_email
+haZ236pMW619 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Leandro -> B-recipient_name
+Pol -> I-recipient_name
+Urbanización -> B-recipient_address
+Ana -> I-recipient_address
+Salcedo -> I-recipient_address
+9 -> I-recipient_address
+Apt. -> I-recipient_address
+89 -> I-recipient_address
+La -> I-recipient_address
+Rioja, -> I-recipient_address
+49423 -> I-recipient_address
++34983655226 -> B-recipient_phone
+fiolnilda@yahoo.com -> B-recipient_email
+pAP781ScL061 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+468223 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-08 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+monetize B2B channels -> B-item_description
+53.48 -> B-item_unit_price
+106.96 -> B-item_total
+10 -> B-item_quantity
+syndicate magnetic vortals -> B-item_description
+73.30 -> B-item_unit_price
+733.00 -> B-item_total
+10 -> B-item_quantity
+streamline interactive deliverables -> B-item_description
+37.62 -> B-item_unit_price
+376.20 -> B-item_total
+2 -> B-item_quantity
+e-enable sticky relationships -> B-item_description
+79.88 -> B-item_unit_price
+159.76 -> B-item_total
+6 -> B-item_quantity
+incubate e-business e-services -> B-item_description
+12.86 -> B-item_unit_price
+77.16 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1453.08 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+232.49 -> B-tax_amount
+TOTAL -> O
+: -> O
+1685.57 -> B-total

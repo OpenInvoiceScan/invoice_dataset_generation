@@ -1,0 +1,69 @@
+Solé -> B-issuer_name
+y -> I-issuer_name
+Segarra -> I-issuer_name
+S.L. -> I-issuer_name
+Alameda -> B-issuer_address
+Azahar -> I-issuer_address
+Villegas -> I-issuer_address
+12 -> I-issuer_address
+Granada, -> I-issuer_address
+44809 -> I-issuer_address
++34 878990124 -> B-issuer_phone
+elbaluque@farmaceutica.com -> B-issuer_email
+LAt423hds911 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Chema -> B-recipient_name
+Llopis -> I-recipient_name
+Castejón -> I-recipient_name
+Paseo -> B-recipient_address
+de -> I-recipient_address
+Bernardita -> I-recipient_address
+Palacios -> I-recipient_address
+97 -> I-recipient_address
+Ciudad, -> I-recipient_address
+12254 -> I-recipient_address
++34 928 14 06 38 -> B-recipient_phone
+leonor97@gmail.com -> B-recipient_email
+UgO281GTE942 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+833359 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-29 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+transform interactive markets -> B-item_description
+47.17 -> B-item_unit_price
+141.51 -> B-item_total
+3 -> B-item_quantity
+utilize dynamic functionalities -> B-item_description
+78.72 -> B-item_unit_price
+236.16 -> B-item_total
+1 -> B-item_quantity
+deliver virtual synergies -> B-item_description
+41.19 -> B-item_unit_price
+41.19 -> B-item_total
+3 -> B-item_quantity
+mesh 24/7 methodologies -> B-item_description
+41.00 -> B-item_unit_price
+123.00 -> B-item_total
+Subtotal -> O 
+: -> O
+ 541.86 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+86.70 -> B-tax_amount
+TOTAL -> O
+: -> O
+628.56 -> B-total

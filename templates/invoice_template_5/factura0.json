@@ -1,38 +1,38 @@
 {
-  "invoice_id": 507194,
-  "issue_date": "2024-04-20",
-  "due_date": "2024-05-25",
+  "invoice_id": 702096,
+  "issue_date": "2024-04-24",
+  "due_date": "2024-05-31",
   "issuer": {
-    "name": "Barber PLC",
-    "address": "1138 Robyn Stream Apt. 644\nStephanieshire, CT 29165",
-    "phone": "652-615-9984x341",
-    "email": "vsteele@herrera-wright.biz",
-    "tax_id": "bOa482wkz490"
+    "name": "Comercializadora Bay\u00f3n y asociados S.Coop.",
+    "address": "Paseo Jose Miguel Llopis 54\nValladolid, 02039",
+    "phone": "+34882566914",
+    "email": "isidoraaparicio@nino.es",
+    "tax_id": "kCX891FKS168"
   },
   "recipient": {
-    "name": "Jennifer Walton",
-    "address": "3670 Delgado Trafficway\nBallardchester, CO 45764",
-    "phone": "(966)207-5355x0583",
-    "email": "jonathan12@hotmail.com",
-    "tax_id": "MVN118MwA700"
+    "name": "Fabi\u00e1n del Bautista",
+    "address": "Callej\u00f3n de Jacinta Marquez 96 Piso 5 \nAlicante, 29106",
+    "phone": "+34972 662 873",
+    "email": "liliarivas@gmail.com",
+    "tax_id": "RIO528mqm398"
   },
   "items": [
     {
-      "description": "maximize visionary vortals",
-      "quantity": 8,
-      "unit_price": 87.63,
-      "total": 701.04
+      "description": "mesh killer applications",
+      "quantity": 1,
+      "unit_price": "32.66",
+      "total": "32.66"
     }
   ],
-  "subtotal": 701.04,
+  "subtotal": "32.66",
   "taxes": [
     {
       "description": "VAT",
       "percentage": 16,
-      "amount": 112.17
+      "amount": "5.23"
     }
   ],
-  "total": 813.21,
-  "payment_method": "PayPal",
+  "total": "37.89",
+  "payment_method": "Credit Card",
   "currency": "EUR"
 }

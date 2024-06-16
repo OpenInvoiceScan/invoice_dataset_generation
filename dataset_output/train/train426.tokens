@@ -1,0 +1,71 @@
+Invoice -> O
+851375 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-25 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-18 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Consuela -> B-issuer_name
+Colom -> I-issuer_name
+Montoya -> I-issuer_name
+S.A. -> I-issuer_name
+Alameda -> B-issuer_address
+de -> I-issuer_address
+Rómulo -> I-issuer_address
+Gisbert -> I-issuer_address
+163 -> I-issuer_address
+Teruel, -> I-issuer_address
+15542 -> I-issuer_address
++34879 120 635 -> B-issuer_phone
+nicolaspascuala@inmobiliaria.es -> B-issuer_email
+VBU426vre652 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Maite -> B-recipient_name
+Aragón -> I-recipient_name
+Montoya -> I-recipient_name
+Vial -> B-recipient_address
+Arcelia -> I-recipient_address
+Cánovas -> I-recipient_address
+1 -> I-recipient_address
+Apt. -> I-recipient_address
+53 -> I-recipient_address
+Valladolid, -> I-recipient_address
+47451 -> I-recipient_address
++34881434397 -> B-recipient_phone
+candelas43@gmail.com -> B-recipient_email
+Onp129EjQ973 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+maximize e-business web services -> B-item_description
+9 -> B-item_quantity
+60.41 -> B-item_unit_price
+543.69 -> B-item_total
+deliver viral e-markets -> B-item_description
+6 -> B-item_quantity
+67.72 -> B-item_unit_price
+406.32 -> B-item_total
+Subtotal -> O
+ : -> O
+ 950.01 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+152.00 -> B-tax_amount
+Total -> O
+: -> O
+1102.01 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

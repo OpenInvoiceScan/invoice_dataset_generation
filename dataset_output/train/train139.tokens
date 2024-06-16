@@ -1,0 +1,85 @@
+Factura -> O
+257754 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-07 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-10 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Ortiz -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Paseo -> B-issuer_address
+de -> I-issuer_address
+Isidoro -> I-issuer_address
+Belda -> I-issuer_address
+550 -> I-issuer_address
+Toledo, -> I-issuer_address
+25101 -> I-issuer_address
++34 822 173 936 -> B-issuer_phone
+vicente96@fabrica.com -> B-issuer_email
+FyF935UDD963 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Maxi -> B-recipient_name
+Miranda -> I-recipient_name
+Arribas -> I-recipient_name
+Rambla -> B-recipient_address
+de -> I-recipient_address
+Adelina -> I-recipient_address
+Amaya -> I-recipient_address
+13 -> I-recipient_address
+Apt. -> I-recipient_address
+13 -> I-recipient_address
+Badajoz, -> I-recipient_address
+30793 -> I-recipient_address
++34926 662 096 -> B-recipient_phone
+icanovas@yahoo.com -> B-recipient_email
+NnJ389Wcx751 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+orchestrate scalable markets -> B-item_description
+1 -> B-item_quantity
+35.36 -> B-item_unit_price
+35.36 -> B-item_total
+engineer front-end ROI -> B-item_description
+3 -> B-item_quantity
+14.59 -> B-item_unit_price
+43.77 -> B-item_total
+facilitate customized channels -> B-item_description
+9 -> B-item_quantity
+90.20 -> B-item_unit_price
+811.80 -> B-item_total
+implement plug-and-play bandwidth -> B-item_description
+8 -> B-item_quantity
+44.25 -> B-item_unit_price
+354.00 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1244.93 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+199.19 -> B-tax_amount
+Total -> O
+: -> O
+1444.12 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

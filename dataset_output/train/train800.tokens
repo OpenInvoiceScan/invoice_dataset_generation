@@ -1,0 +1,68 @@
+Compañía -> B-issuer_name
+AP -> I-issuer_name
+S.C.P -> I-issuer_name
+Plaza -> B-issuer_address
+de -> I-issuer_address
+Dominga -> I-issuer_address
+Orozco -> I-issuer_address
+4 -> I-issuer_address
+Castellón, -> I-issuer_address
+45807 -> I-issuer_address
++34944 60 43 55 -> B-issuer_phone
+colomarosario@hermanos.es -> B-issuer_email
+cnG794NlC947 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Dionisio -> B-recipient_name
+Nazario -> I-recipient_name
+Nicolau -> I-recipient_name
+Calderón -> I-recipient_name
+Callejón -> B-recipient_address
+de -> I-recipient_address
+Manu -> I-recipient_address
+Rosell -> I-recipient_address
+44 -> I-recipient_address
+Puerta -> I-recipient_address
+3 -> I-recipient_address
+Huesca, -> I-recipient_address
+32712 -> I-recipient_address
++34 845 63 91 05 -> B-recipient_phone
+ecastaneda@gmail.com -> B-recipient_email
+SRz393Fiz751 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+637001 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-15 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+implement impactful action-items -> B-item_description
+18.02 -> B-item_unit_price
+144.16 -> B-item_total
+5 -> B-item_quantity
+deploy customized supply-chains -> B-item_description
+54.84 -> B-item_unit_price
+274.20 -> B-item_total
+9 -> B-item_quantity
+deliver value-added e-tailers -> B-item_description
+66.35 -> B-item_unit_price
+597.15 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1015.51 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+162.48 -> B-tax_amount
+TOTAL -> O
+: -> O
+1177.99 -> B-total

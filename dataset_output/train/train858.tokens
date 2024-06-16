@@ -1,0 +1,83 @@
+Invoice -> O
+711687 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-20 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-17 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Gaya -> B-issuer_name
+y -> I-issuer_name
+Ugarte -> I-issuer_name
+S.A. -> I-issuer_name
+Glorieta -> B-issuer_address
+de -> I-issuer_address
+Pascuala -> I-issuer_address
+Pera -> I-issuer_address
+23 -> I-issuer_address
+Málaga, -> I-issuer_address
+30427 -> I-issuer_address
++34986166014 -> B-issuer_phone
+xconde@compania.es -> B-issuer_email
+jtO568CQu361 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Beatriz -> B-recipient_name
+Sans -> I-recipient_name
+Luz -> I-recipient_name
+Camino -> B-recipient_address
+Anita -> I-recipient_address
+Losada -> I-recipient_address
+343 -> I-recipient_address
+Puerta -> I-recipient_address
+0 -> I-recipient_address
+Pontevedra, -> I-recipient_address
+19406 -> I-recipient_address
++34 961861374 -> B-recipient_phone
+alondraanguita@yahoo.com -> B-recipient_email
+Dzi985kxC101 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+optimize extensible e-services -> B-item_description
+4 -> B-item_quantity
+32.39 -> B-item_unit_price
+129.56 -> B-item_total
+repurpose dynamic systems -> B-item_description
+8 -> B-item_quantity
+26.28 -> B-item_unit_price
+210.24 -> B-item_total
+scale dot-com platforms -> B-item_description
+3 -> B-item_quantity
+13.80 -> B-item_unit_price
+41.40 -> B-item_total
+redefine killer systems -> B-item_description
+7 -> B-item_quantity
+10.17 -> B-item_unit_price
+71.19 -> B-item_total
+utilize intuitive e-services -> B-item_description
+1 -> B-item_quantity
+41.84 -> B-item_unit_price
+41.84 -> B-item_total
+Subtotal -> O
+ : -> O
+ 494.23 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+79.08 -> B-tax_amount
+Total -> O
+: -> O
+573.31 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

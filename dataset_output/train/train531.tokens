@@ -1,0 +1,80 @@
+Factura -> O
+577519 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-04-27 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-30 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Supermercados -> B-issuer_name
+Barrera -> I-issuer_name
+S.L.U. -> I-issuer_name
+Callejón -> B-issuer_address
+Eric -> I-issuer_address
+Luz -> I-issuer_address
+36 -> I-issuer_address
+Apt. -> I-issuer_address
+64 -> I-issuer_address
+Cuenca, -> I-issuer_address
+01296 -> I-issuer_address
++34976015210 -> B-issuer_phone
+danielllado@grupo.net -> B-issuer_email
+dPD758mys992 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+María -> B-recipient_name
+Pilar -> I-recipient_name
+Plaza -> I-recipient_name
+Arce -> I-recipient_name
+Avenida -> B-recipient_address
+de -> I-recipient_address
+Gil -> I-recipient_address
+Ortiz -> I-recipient_address
+49 -> I-recipient_address
+Lleida, -> I-recipient_address
+32024 -> I-recipient_address
++34 985 700 647 -> B-recipient_phone
+plinio27@gmail.com -> B-recipient_email
+iuQ703Rec168 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+reinvent B2B deliverables -> B-item_description
+8 -> B-item_quantity
+51.12 -> B-item_unit_price
+408.96 -> B-item_total
+enhance plug-and-play supply-chains -> B-item_description
+10 -> B-item_quantity
+28.27 -> B-item_unit_price
+282.70 -> B-item_total
+maximize e-business architectures -> B-item_description
+10 -> B-item_quantity
+31.97 -> B-item_unit_price
+319.70 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1011.36 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+161.82 -> B-tax_amount
+Total -> O
+: -> O
+1173.18 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

@@ -1,0 +1,80 @@
+Invoice -> O
+467869 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-14 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-15 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Finanzas -> B-issuer_name
+Paredes -> I-issuer_name
+S.Com. -> I-issuer_name
+Ronda -> B-issuer_address
+Máxima -> I-issuer_address
+Gil -> I-issuer_address
+49 -> I-issuer_address
+Jaén, -> I-issuer_address
+41223 -> I-issuer_address
++34 883 86 62 77 -> B-issuer_phone
+inigoribas@finanzas.net -> B-issuer_email
+nCT285hel992 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Marino -> B-recipient_name
+Felipe -> I-recipient_name
+Vila -> I-recipient_name
+Catalán -> I-recipient_name
+Vial -> B-recipient_address
+Susanita -> I-recipient_address
+Cardona -> I-recipient_address
+91 -> I-recipient_address
+Badajoz, -> I-recipient_address
+11085 -> I-recipient_address
++34954 85 25 52 -> B-recipient_phone
+carmelallado@gmail.com -> B-recipient_email
+hCu825Dyy238 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+leverage one-to-one partnerships -> B-item_description
+9 -> B-item_quantity
+26.68 -> B-item_unit_price
+240.12 -> B-item_total
+exploit clicks-and-mortar initiatives -> B-item_description
+7 -> B-item_quantity
+60.93 -> B-item_unit_price
+426.51 -> B-item_total
+aggregate back-end e-tailers -> B-item_description
+1 -> B-item_quantity
+38.43 -> B-item_unit_price
+38.43 -> B-item_total
+grow best-of-breed web-readiness -> B-item_description
+3 -> B-item_quantity
+22.51 -> B-item_unit_price
+67.53 -> B-item_total
+streamline interactive users -> B-item_description
+4 -> B-item_quantity
+36.31 -> B-item_unit_price
+145.24 -> B-item_total
+Subtotal -> O
+ : -> O
+ 917.83 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+146.85 -> B-tax_amount
+Total -> O
+: -> O
+1064.68 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

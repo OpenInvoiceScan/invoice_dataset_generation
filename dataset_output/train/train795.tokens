@@ -1,0 +1,76 @@
+Factura -> O
+668945 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-04-30 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-21 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Talleres -> B-issuer_name
+MZ -> I-issuer_name
+S.Coop. -> I-issuer_name
+Camino -> B-issuer_address
+de -> I-issuer_address
+Martín -> I-issuer_address
+Rico -> I-issuer_address
+608 -> I-issuer_address
+Burgos, -> I-issuer_address
+41326 -> I-issuer_address
++34821 28 92 20 -> B-issuer_phone
+ibanezmiguela@supermercados.com -> B-issuer_email
+Zps259mRa436 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Amarilis -> B-recipient_name
+Palacio -> I-recipient_name
+Mercader -> I-recipient_name
+Via -> B-recipient_address
+de -> I-recipient_address
+Maribel -> I-recipient_address
+Corominas -> I-recipient_address
+18 -> I-recipient_address
+Apt. -> I-recipient_address
+18 -> I-recipient_address
+Tarragona, -> I-recipient_address
+06591 -> I-recipient_address
++34 987919052 -> B-recipient_phone
+manualmagro@yahoo.com -> B-recipient_email
+UpM310Scs185 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+empower scalable infrastructures -> B-item_description
+1 -> B-item_quantity
+43.88 -> B-item_unit_price
+43.88 -> B-item_total
+architect one-to-one users -> B-item_description
+10 -> B-item_quantity
+62.65 -> B-item_unit_price
+626.50 -> B-item_total
+Subtotal -> O
+ : -> O
+ 670.38 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+107.26 -> B-tax_amount
+Total -> O
+: -> O
+777.64 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

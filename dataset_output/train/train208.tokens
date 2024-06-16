@@ -1,0 +1,70 @@
+Requena -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L. -> I-issuer_name
+C. -> B-issuer_address
+Xavier -> I-issuer_address
+Gordillo -> I-issuer_address
+760 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Lugo, -> I-issuer_address
+03145 -> I-issuer_address
++34 800 34 81 97 -> B-issuer_phone
+vjurado@comercializadora.com -> B-issuer_email
+QUK384lWR021 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Georgina -> B-recipient_name
+Valencia -> I-recipient_name
+Céspedes -> I-recipient_name
+Pasadizo -> B-recipient_address
+Arsenio -> I-recipient_address
+Gelabert -> I-recipient_address
+49 -> I-recipient_address
+Lugo, -> I-recipient_address
+50046 -> I-recipient_address
++34 964 584 736 -> B-recipient_phone
+valentinluz@hotmail.com -> B-recipient_email
+hFM983sdt884 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+607890 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-22 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+innovate web-enabled initiatives -> B-item_description
+98.32 -> B-item_unit_price
+589.92 -> B-item_total
+5 -> B-item_quantity
+monetize frictionless solutions -> B-item_description
+72.13 -> B-item_unit_price
+360.65 -> B-item_total
+5 -> B-item_quantity
+empower front-end vortals -> B-item_description
+82.66 -> B-item_unit_price
+413.30 -> B-item_total
+5 -> B-item_quantity
+scale magnetic synergies -> B-item_description
+78.97 -> B-item_unit_price
+394.85 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1758.72 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+281.40 -> B-tax_amount
+TOTAL -> O
+: -> O
+2040.12 -> B-total

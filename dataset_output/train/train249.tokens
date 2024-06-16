@@ -1,0 +1,73 @@
+Comercial -> B-issuer_name
+Estevez -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Pasadizo -> B-issuer_address
+de -> I-issuer_address
+Pía -> I-issuer_address
+Meléndez -> I-issuer_address
+82 -> I-issuer_address
+Piso -> I-issuer_address
+2 -> I-issuer_address
+La -> I-issuer_address
+Rioja, -> I-issuer_address
+24812 -> I-issuer_address
++34 886201201 -> B-issuer_phone
+rosalvarevilla@bermejo.es -> B-issuer_email
+lUG250Cdg312 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Pelayo -> B-recipient_name
+Tirado -> I-recipient_name
+Osorio -> I-recipient_name
+Ronda -> B-recipient_address
+Fito -> I-recipient_address
+Catalá -> I-recipient_address
+57 -> I-recipient_address
+Las -> I-recipient_address
+Palmas, -> I-recipient_address
+23044 -> I-recipient_address
++34845408710 -> B-recipient_phone
+sedanoamerica@hotmail.com -> B-recipient_email
+uoM482GXj020 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+779807 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-13 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+envisioneer viral architectures -> B-item_description
+55.67 -> B-item_unit_price
+167.01 -> B-item_total
+10 -> B-item_quantity
+seize web-enabled paradigms -> B-item_description
+61.22 -> B-item_unit_price
+612.20 -> B-item_total
+9 -> B-item_quantity
+optimize robust schemas -> B-item_description
+76.01 -> B-item_unit_price
+684.09 -> B-item_total
+9 -> B-item_quantity
+e-enable proactive solutions -> B-item_description
+47.92 -> B-item_unit_price
+431.28 -> B-item_total
+Subtotal -> O
+: -> O
+ 1894.58 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+303.13 -> B-tax_amount
+TOTAL -> O
+: -> O
+2197.71 -> B-total

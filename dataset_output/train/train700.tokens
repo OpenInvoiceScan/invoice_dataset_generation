@@ -1,0 +1,90 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+xHS564AEa903 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 947 005 167 -> B-recipient_phone
+Nombre -> O
+: -> O
+Faustino -> B-recipient_name
+Palacios-Ribes -> I-recipient_name
+Correo -> O
+: -> O
+albert23@yahoo.com -> B-recipient_email
+Acceso -> B-recipient_address
+Guillermo -> I-recipient_address
+Arnal -> I-recipient_address
+80 -> I-recipient_address
+Apt. -> I-recipient_address
+18 -> I-recipient_address
+Málaga, -> I-recipient_address
+21979 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+804102 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-28 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+benchmark magnetic experiences -> B-item_description
+4 -> B-item_quantity
+98.44 -> B-item_total
+expedite dot-com platforms -> B-item_description
+9 -> B-item_quantity
+138.96 -> B-item_total
+engage distributed users -> B-item_description
+9 -> B-item_quantity
+709.92 -> B-item_total
+seize rich communities -> B-item_description
+4 -> B-item_quantity
+198.84 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1146.16 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+183.39 -> B-tax_amount
+TOTAL -> O
+: -> O
+1329.55 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+PsG503aMV044 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 880756558 -> B-issuer_phone
+Nombre -> O
+: -> O
+Servicios -> B-issuer_name
+Integrales -> I-issuer_name
+S.Com. -> I-issuer_name
+Correo -> O
+: -> O
+cabezamonica@talleres.es -> B-issuer_email
+Callejón -> B-issuer_address
+de -> I-issuer_address
+Adoración -> I-issuer_address
+Tejedor -> I-issuer_address
+448 -> I-issuer_address
+Piso -> I-issuer_address
+4 -> I-issuer_address
+Tarragona, -> I-issuer_address
+30118 -> I-issuer_address

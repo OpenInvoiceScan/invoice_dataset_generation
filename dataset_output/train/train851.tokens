@@ -1,0 +1,86 @@
+Factura -> O
+891327 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-15 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-29 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Adán -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.A. -> I-issuer_name
+Calle -> B-issuer_address
+de -> I-issuer_address
+Mirta -> I-issuer_address
+Mas -> I-issuer_address
+12 -> I-issuer_address
+Apt. -> I-issuer_address
+98 -> I-issuer_address
+Huelva, -> I-issuer_address
+35085 -> I-issuer_address
++34 926 393 589 -> B-issuer_phone
+nazaretgiralt@finanzas.com -> B-issuer_email
+fro715BXa699 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Mateo -> B-recipient_name
+Sarmiento -> I-recipient_name
+Marqués -> I-recipient_name
+Camino -> B-recipient_address
+Susana -> I-recipient_address
+Hierro -> I-recipient_address
+216 -> I-recipient_address
+Piso -> I-recipient_address
+7 -> I-recipient_address
+Guadalajara, -> I-recipient_address
+34589 -> I-recipient_address
++34979 05 68 28 -> B-recipient_phone
+julio-cesar08@hotmail.com -> B-recipient_email
+rGZ249bAB253 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+matrix open-source networks -> B-item_description
+9 -> B-item_quantity
+30.29 -> B-item_unit_price
+272.61 -> B-item_total
+scale bleeding-edge synergies -> B-item_description
+10 -> B-item_quantity
+68.27 -> B-item_unit_price
+682.70 -> B-item_total
+drive cross-platform niches -> B-item_description
+2 -> B-item_quantity
+46.63 -> B-item_unit_price
+93.26 -> B-item_total
+syndicate synergistic markets -> B-item_description
+7 -> B-item_quantity
+66.68 -> B-item_unit_price
+466.76 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1515.33 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+242.45 -> B-tax_amount
+Total -> O
+: -> O
+1757.78 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

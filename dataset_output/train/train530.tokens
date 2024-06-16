@@ -1,0 +1,83 @@
+Invoice -> O
+190948 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-18 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-10 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Banco -> B-issuer_name
+Casanova -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Via -> B-issuer_address
+de -> I-issuer_address
+Petrona -> I-issuer_address
+Montalbán -> I-issuer_address
+17 -> I-issuer_address
+Piso -> I-issuer_address
+7 -> I-issuer_address
+Ceuta, -> I-issuer_address
+15827 -> I-issuer_address
++34 873197982 -> B-issuer_phone
+luisina62@espejo.es -> B-issuer_email
+QTu939SYE756 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Roberto -> B-recipient_name
+Torrecilla -> I-recipient_name
+Calatayud -> I-recipient_name
+Plaza -> B-recipient_address
+de -> I-recipient_address
+Yaiza -> I-recipient_address
+Iglesias -> I-recipient_address
+614 -> I-recipient_address
+Puerta -> I-recipient_address
+4 -> I-recipient_address
+Girona, -> I-recipient_address
+24710 -> I-recipient_address
++34848 602 287 -> B-recipient_phone
+federicoiniesta@hotmail.com -> B-recipient_email
+wYx644mEY474 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+scale integrated supply-chains -> B-item_description
+2 -> B-item_quantity
+41.91 -> B-item_unit_price
+83.82 -> B-item_total
+transform value-added portals -> B-item_description
+1 -> B-item_quantity
+28.41 -> B-item_unit_price
+28.41 -> B-item_total
+integrate bleeding-edge relationships -> B-item_description
+2 -> B-item_quantity
+61.46 -> B-item_unit_price
+122.92 -> B-item_total
+innovate real-time e-tailers -> B-item_description
+4 -> B-item_quantity
+18.16 -> B-item_unit_price
+72.64 -> B-item_total
+Subtotal -> O
+ : -> O
+ 307.79 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+49.25 -> B-tax_amount
+Total -> O
+: -> O
+357.04 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

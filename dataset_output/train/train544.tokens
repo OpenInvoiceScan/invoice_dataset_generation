@@ -1,0 +1,65 @@
+Restauración -> B-issuer_name
+CWPO -> I-issuer_name
+S.Com. -> I-issuer_name
+Plaza -> B-issuer_address
+Régulo -> I-issuer_address
+Lara -> I-issuer_address
+55 -> I-issuer_address
+Lleida, -> I-issuer_address
+04602 -> I-issuer_address
++34900 062 473 -> B-issuer_phone
+maria-carmenelorza@abigail.net -> B-issuer_email
+KmS346bvI906 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Chita -> B-recipient_name
+Villaverde -> I-recipient_name
+Hernando -> I-recipient_name
+Callejón -> B-recipient_address
+Fabiana -> I-recipient_address
+Pérez -> I-recipient_address
+23 -> I-recipient_address
+Piso -> I-recipient_address
+7 -> I-recipient_address
+Toledo, -> I-recipient_address
+46275 -> I-recipient_address
++34824593755 -> B-recipient_phone
+opulido@hotmail.com -> B-recipient_email
+Fqh711TEH175 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+413579 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-25 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+e-enable revolutionary platforms -> B-item_description
+23.95 -> B-item_unit_price
+47.90 -> B-item_total
+7 -> B-item_quantity
+harness out-of-the-box portals -> B-item_description
+90.91 -> B-item_unit_price
+636.37 -> B-item_total
+5 -> B-item_quantity
+leverage clicks-and-mortar applications -> B-item_description
+89.27 -> B-item_unit_price
+446.35 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1130.62 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+180.90 -> B-tax_amount
+TOTAL -> O
+: -> O
+1311.52 -> B-total

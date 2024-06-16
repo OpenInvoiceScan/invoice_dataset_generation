@@ -1,0 +1,73 @@
+Inversiones -> B-issuer_name
+Reguera -> I-issuer_name
+S.Coop. -> I-issuer_name
+Pasaje -> B-issuer_address
+Lino -> I-issuer_address
+Pont -> I-issuer_address
+6 -> I-issuer_address
+Málaga, -> I-issuer_address
+42043 -> I-issuer_address
++34 984 01 85 41 -> B-issuer_phone
+lucianorozas@aviles.net -> B-issuer_email
+Ahu629fjz885 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Claudia -> B-recipient_name
+Segovia-Gabaldón -> I-recipient_name
+C. -> B-recipient_address
+Juan -> I-recipient_address
+Luis -> I-recipient_address
+Vallés -> I-recipient_address
+7 -> I-recipient_address
+Apt. -> I-recipient_address
+09 -> I-recipient_address
+Guadalajara, -> I-recipient_address
+13341 -> I-recipient_address
++34844 22 87 10 -> B-recipient_phone
+pesparza@gmail.com -> B-recipient_email
+udl726TNy460 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+358550 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-01 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+re-intermediate extensible partnerships -> B-item_description
+48.27 -> B-item_unit_price
+144.81 -> B-item_total
+1 -> B-item_quantity
+morph plug-and-play portals -> B-item_description
+17.49 -> B-item_unit_price
+17.49 -> B-item_total
+3 -> B-item_quantity
+aggregate holistic action-items -> B-item_description
+17.27 -> B-item_unit_price
+51.81 -> B-item_total
+3 -> B-item_quantity
+utilize transparent solutions -> B-item_description
+47.16 -> B-item_unit_price
+141.48 -> B-item_total
+10 -> B-item_quantity
+benchmark viral e-business -> B-item_description
+46.08 -> B-item_unit_price
+460.80 -> B-item_total
+Subtotal -> O 
+: -> O
+ 816.39 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+130.62 -> B-tax_amount
+TOTAL -> O
+: -> O
+947.01 -> B-total

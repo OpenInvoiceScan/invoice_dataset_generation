@@ -1,0 +1,83 @@
+Factura -> O
+239810 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-08 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-05 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Familia -> B-issuer_name
+Bueno -> I-issuer_name
+S.L.L. -> I-issuer_name
+Plaza -> B-issuer_address
+Jose -> I-issuer_address
+Ignacio -> I-issuer_address
+Mesa -> I-issuer_address
+36 -> I-issuer_address
+Puerta -> I-issuer_address
+1 -> I-issuer_address
+Ávila, -> I-issuer_address
+17971 -> I-issuer_address
++34873 87 67 16 -> B-issuer_phone
+ocanete@inversiones.org -> B-issuer_email
+rdw227xCH494 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Feliciano -> B-recipient_name
+Benet -> I-recipient_name
+Criado -> I-recipient_name
+Acceso -> B-recipient_address
+Montserrat -> I-recipient_address
+Montesinos -> I-recipient_address
+26 -> I-recipient_address
+Almería, -> I-recipient_address
+13213 -> I-recipient_address
++34942 572 042 -> B-recipient_phone
+lorenzorobles@hotmail.com -> B-recipient_email
+bEb666sdn517 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+drive enterprise initiatives -> B-item_description
+9 -> B-item_quantity
+71.41 -> B-item_unit_price
+642.69 -> B-item_total
+innovate turn-key paradigms -> B-item_description
+3 -> B-item_quantity
+76.26 -> B-item_unit_price
+228.78 -> B-item_total
+strategize clicks-and-mortar eyeballs -> B-item_description
+8 -> B-item_quantity
+98.17 -> B-item_unit_price
+785.36 -> B-item_total
+benchmark B2C mindshare -> B-item_description
+1 -> B-item_quantity
+61.31 -> B-item_unit_price
+61.31 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1718.14 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+274.90 -> B-tax_amount
+Total -> O
+: -> O
+1993.04 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

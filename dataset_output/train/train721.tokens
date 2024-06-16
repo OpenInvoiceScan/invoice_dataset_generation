@@ -1,0 +1,66 @@
+Desarrollo -> B-issuer_name
+Abril -> I-issuer_name
+S.L.L. -> I-issuer_name
+Rambla -> B-issuer_address
+Sol -> I-issuer_address
+Marti -> I-issuer_address
+15 -> I-issuer_address
+Puerta -> I-issuer_address
+7 -> I-issuer_address
+León, -> I-issuer_address
+45096 -> I-issuer_address
++34 883917681 -> B-issuer_phone
+ciro48@tecnologias.com -> B-issuer_email
+XSr555DnZ790 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Jafet -> B-recipient_name
+Rius -> I-recipient_name
+Valenciano -> I-recipient_name
+Via -> B-recipient_address
+Azeneth -> I-recipient_address
+Mancebo -> I-recipient_address
+42 -> I-recipient_address
+Teruel, -> I-recipient_address
+18703 -> I-recipient_address
++34927 99 88 05 -> B-recipient_phone
+olgamoles@gmail.com -> B-recipient_email
+wCp895qoH194 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+841627 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-25 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+strategize cross-platform relationships -> B-item_description
+84.29 -> B-item_unit_price
+674.32 -> B-item_total
+3 -> B-item_quantity
+disintermediate virtual methodologies -> B-item_description
+77.06 -> B-item_unit_price
+231.18 -> B-item_total
+2 -> B-item_quantity
+re-intermediate front-end methodologies -> B-item_description
+68.57 -> B-item_unit_price
+137.14 -> B-item_total
+Subtotal -> O
+: -> O
+ 1042.64 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+166.82 -> B-tax_amount
+TOTAL -> O
+: -> O
+1209.46 -> B-total

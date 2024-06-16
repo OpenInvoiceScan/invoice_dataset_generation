@@ -1,0 +1,87 @@
+Factura -> O
+929463 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-18 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-22 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Morillo -> B-issuer_name
+y -> I-issuer_name
+Huguet -> I-issuer_name
+S.Coop. -> I-issuer_name
+Callejón -> B-issuer_address
+Rubén -> I-issuer_address
+Ríos -> I-issuer_address
+3 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Toledo, -> I-issuer_address
+42313 -> I-issuer_address
++34725084897 -> B-issuer_phone
+nereida81@dulce.net -> B-issuer_email
+JcS847DiD462 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Simón -> B-recipient_name
+Martí -> I-recipient_name
+Cerdá -> I-recipient_name
+Rambla -> B-recipient_address
+Antonia -> I-recipient_address
+Martin -> I-recipient_address
+23 -> I-recipient_address
+Zaragoza, -> I-recipient_address
+26349 -> I-recipient_address
++34 935 199 230 -> B-recipient_phone
+comasaaron@gmail.com -> B-recipient_email
+hVD149vXy695 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+utilize e-business channels -> B-item_description
+9 -> B-item_quantity
+26.91 -> B-item_unit_price
+242.19 -> B-item_total
+orchestrate real-time action-items -> B-item_description
+7 -> B-item_quantity
+33.19 -> B-item_unit_price
+232.33 -> B-item_total
+integrate visionary e-tailers -> B-item_description
+7 -> B-item_quantity
+80.98 -> B-item_unit_price
+566.86 -> B-item_total
+architect strategic bandwidth -> B-item_description
+2 -> B-item_quantity
+43.69 -> B-item_unit_price
+87.38 -> B-item_total
+morph cutting-edge vortals -> B-item_description
+10 -> B-item_quantity
+30.81 -> B-item_unit_price
+308.10 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1436.86 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+229.90 -> B-tax_amount
+Total -> O
+: -> O
+1666.76 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

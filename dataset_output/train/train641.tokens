@@ -1,0 +1,63 @@
+Industrias -> B-issuer_name
+Bosch -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Vial -> B-issuer_address
+de -> I-issuer_address
+Graciano -> I-issuer_address
+Cordero -> I-issuer_address
+387 -> I-issuer_address
+Piso -> I-issuer_address
+5 -> I-issuer_address
+Soria, -> I-issuer_address
+37520 -> I-issuer_address
++34 945 58 39 54 -> B-issuer_phone
+inigocasares@industrias.com -> B-issuer_email
+kAy206gRU836 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Benigna -> B-recipient_name
+Ballesteros-Quesada -> I-recipient_name
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Adela -> I-recipient_address
+Acero -> I-recipient_address
+500 -> I-recipient_address
+Albacete, -> I-recipient_address
+28179 -> I-recipient_address
++34879799643 -> B-recipient_phone
+leyretamayo@hotmail.com -> B-recipient_email
+vzL127KqY963 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+491227 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-29 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+mesh interactive channels -> B-item_description
+66.01 -> B-item_unit_price
+462.07 -> B-item_total
+4 -> B-item_quantity
+reinvent interactive portals -> B-item_description
+31.08 -> B-item_unit_price
+124.32 -> B-item_total
+Subtotal -> O
+: -> O
+ 586.39 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+93.82 -> B-tax_amount
+TOTAL -> O
+: -> O
+680.21 -> B-total

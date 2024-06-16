@@ -1,0 +1,73 @@
+Montoya -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.A.U -> I-issuer_name
+Urbanización -> B-issuer_address
+Pili -> I-issuer_address
+Arellano -> I-issuer_address
+217 -> I-issuer_address
+Lugo, -> I-issuer_address
+19587 -> I-issuer_address
++34983 763 413 -> B-issuer_phone
+cesar87@escriva.net -> B-issuer_email
+IFj674FGy105 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Carolina -> B-recipient_name
+Cazorla -> I-recipient_name
+Bustos -> I-recipient_name
+Urbanización -> B-recipient_address
+Luisina -> I-recipient_address
+Mendoza -> I-recipient_address
+778 -> I-recipient_address
+Tarragona, -> I-recipient_address
+22645 -> I-recipient_address
++34973 98 74 89 -> B-recipient_phone
+baltasar22@yahoo.com -> B-recipient_email
+Gcf590Vvx238 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+489992 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-18 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+whiteboard granular e-tailers -> B-item_description
+69.18 -> B-item_unit_price
+553.44 -> B-item_total
+6 -> B-item_quantity
+evolve cross-platform action-items -> B-item_description
+85.09 -> B-item_unit_price
+510.54 -> B-item_total
+10 -> B-item_quantity
+transform mission-critical e-services -> B-item_description
+75.38 -> B-item_unit_price
+753.80 -> B-item_total
+4 -> B-item_quantity
+unleash world-class communities -> B-item_description
+50.36 -> B-item_unit_price
+201.44 -> B-item_total
+7 -> B-item_quantity
+extend turn-key technologies -> B-item_description
+70.46 -> B-item_unit_price
+493.22 -> B-item_total
+Subtotal -> O
+: -> O
+ 2512.44 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+401.99 -> B-tax_amount
+TOTAL -> O
+: -> O
+2914.43 -> B-total

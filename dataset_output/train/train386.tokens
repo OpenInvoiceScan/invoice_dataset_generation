@@ -1,0 +1,81 @@
+Invoice -> O
+281863 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-22 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-02 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Cuenca -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.L. -> I-issuer_name
+Alameda -> B-issuer_address
+Leticia -> I-issuer_address
+Llanos -> I-issuer_address
+249 -> I-issuer_address
+Apt. -> I-issuer_address
+03 -> I-issuer_address
+Huesca, -> I-issuer_address
+29597 -> I-issuer_address
++34 846338927 -> B-issuer_phone
+josefinabarcena@hermanos.org -> B-issuer_email
+gKG414FgU540 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Ximena -> B-recipient_name
+Valentín -> I-recipient_name
+Batlle -> I-recipient_name
+Pasadizo -> B-recipient_address
+de -> I-recipient_address
+Florencia -> I-recipient_address
+Bayona -> I-recipient_address
+4 -> I-recipient_address
+Piso -> I-recipient_address
+4 -> I-recipient_address
+Álava, -> I-recipient_address
+17818 -> I-recipient_address
++34 974 786 375 -> B-recipient_phone
+emendoza@gmail.com -> B-recipient_email
+PJw688UDb847 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+strategize clicks-and-mortar architectures -> B-item_description
+5 -> B-item_quantity
+13.38 -> B-item_unit_price
+66.90 -> B-item_total
+orchestrate web-enabled content -> B-item_description
+3 -> B-item_quantity
+94.49 -> B-item_unit_price
+283.47 -> B-item_total
+facilitate transparent schemas -> B-item_description
+5 -> B-item_quantity
+88.36 -> B-item_unit_price
+441.80 -> B-item_total
+evolve cutting-edge architectures -> B-item_description
+4 -> B-item_quantity
+62.86 -> B-item_unit_price
+251.44 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1043.61 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+166.98 -> B-tax_amount
+Total -> O
+: -> O
+1210.59 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

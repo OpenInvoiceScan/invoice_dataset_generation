@@ -1,0 +1,70 @@
+Hermanos -> B-issuer_name
+Canals -> I-issuer_name
+S.L.L. -> I-issuer_name
+Pasaje -> B-issuer_address
+René -> I-issuer_address
+Busquets -> I-issuer_address
+3 -> I-issuer_address
+Apt. -> I-issuer_address
+97 -> I-issuer_address
+Castellón, -> I-issuer_address
+03458 -> I-issuer_address
++34 887 336 610 -> B-issuer_phone
+gisbertbernabe@ibanez.com -> B-issuer_email
+hDG694WrX916 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Leire -> B-recipient_name
+Cerro -> I-recipient_name
+Carreño -> I-recipient_name
+Pasaje -> B-recipient_address
+de -> I-recipient_address
+Enrique -> I-recipient_address
+Granados -> I-recipient_address
+84 -> I-recipient_address
+Guipúzcoa, -> I-recipient_address
+49051 -> I-recipient_address
++34 821315715 -> B-recipient_phone
+teresamontesinos@hotmail.com -> B-recipient_email
+Xcz110iwF767 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+935044 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-09 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+unleash bleeding-edge vortals -> B-item_description
+97.17 -> B-item_unit_price
+194.34 -> B-item_total
+2 -> B-item_quantity
+maximize revolutionary functionalities -> B-item_description
+44.24 -> B-item_unit_price
+88.48 -> B-item_total
+1 -> B-item_quantity
+scale compelling e-markets -> B-item_description
+43.36 -> B-item_unit_price
+43.36 -> B-item_total
+1 -> B-item_quantity
+iterate cross-media schemas -> B-item_description
+97.60 -> B-item_unit_price
+97.60 -> B-item_total
+Subtotal -> O 
+: -> O
+ 423.78 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+67.80 -> B-tax_amount
+TOTAL -> O
+: -> O
+491.58 -> B-total

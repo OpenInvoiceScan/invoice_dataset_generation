@@ -1,0 +1,38 @@
+{
+  "invoice_id": 558522,
+  "issue_date": "2024-05-01",
+  "due_date": "2024-06-04",
+  "issuer": {
+    "name": "Barros & Asociados S.Com.",
+    "address": "Avenida de Saturnino Ba\u00f1os 59\nM\u00e1laga, 07110",
+    "phone": "+34843975379",
+    "email": "aesteban@hotel.org",
+    "tax_id": "vgk312eIR969"
+  },
+  "recipient": {
+    "name": "Azeneth Rosales-Pati\u00f1o",
+    "address": "Ronda de Juanita Campillo 9 Piso 9 \nSoria, 23546",
+    "phone": "+34725 291 828",
+    "email": "teofilocueto@hotmail.com",
+    "tax_id": "TyO695dwx795"
+  },
+  "items": [
+    {
+      "description": "engage cross-media channels",
+      "quantity": 4,
+      "unit_price": "86.28",
+      "total": "345.12"
+    }
+  ],
+  "subtotal": "345.12",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "55.22"
+    }
+  ],
+  "total": "400.34",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

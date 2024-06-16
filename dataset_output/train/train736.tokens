@@ -1,0 +1,73 @@
+Finanzas -> B-issuer_name
+XXP -> I-issuer_name
+S.Coop. -> I-issuer_name
+Camino -> B-issuer_address
+Miguela -> I-issuer_address
+Castellanos -> I-issuer_address
+87 -> I-issuer_address
+Segovia, -> I-issuer_address
+07231 -> I-issuer_address
++34879 23 23 95 -> B-issuer_phone
+marino42@grupo.com -> B-issuer_email
+gYX478xcX214 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Valerio -> B-recipient_name
+Mínguez-Madrigal -> I-recipient_name
+Avenida -> B-recipient_address
+de -> I-recipient_address
+Amado -> I-recipient_address
+Oliver -> I-recipient_address
+6 -> I-recipient_address
+Piso -> I-recipient_address
+5 -> I-recipient_address
+Badajoz, -> I-recipient_address
+43823 -> I-recipient_address
++34882 59 29 19 -> B-recipient_phone
+salvador71@hotmail.com -> B-recipient_email
+ECM869Trw031 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+674877 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-28 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+1 -> B-item_quantity
+seize leading-edge web services -> B-item_description
+27.24 -> B-item_unit_price
+27.24 -> B-item_total
+8 -> B-item_quantity
+seize efficient bandwidth -> B-item_description
+26.25 -> B-item_unit_price
+210.00 -> B-item_total
+10 -> B-item_quantity
+visualize plug-and-play vortals -> B-item_description
+90.09 -> B-item_unit_price
+900.90 -> B-item_total
+7 -> B-item_quantity
+transition 24/365 e-business -> B-item_description
+15.17 -> B-item_unit_price
+106.19 -> B-item_total
+2 -> B-item_quantity
+transition magnetic supply-chains -> B-item_description
+43.15 -> B-item_unit_price
+86.30 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1330.63 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+212.90 -> B-tax_amount
+TOTAL -> O
+: -> O
+1543.53 -> B-total

@@ -1,38 +1,38 @@
 {
-  "invoice_id": 534482,
-  "issue_date": "2024-04-13",
-  "due_date": "2024-05-22",
+  "invoice_id": 197711,
+  "issue_date": "2024-04-25",
+  "due_date": "2024-06-09",
   "issuer": {
-    "name": "Guzman LLC",
-    "address": "588 John Fall\nNorth Kyle, PR 27448",
-    "phone": "782.341.3555x687",
-    "email": "morenoevan@bell-rivera.com",
-    "tax_id": "DEq540mVw351"
+    "name": "Milla y Herrero S.C.P",
+    "address": "Acceso Juan Carlos Rossell\u00f3 50\nLa Coru\u00f1a, 02678",
+    "phone": "+34 923 88 96 11",
+    "email": "probles@suministros.com",
+    "tax_id": "YLM778XWA812"
   },
   "recipient": {
-    "name": "Sharon Gray",
-    "address": "775 Ryan Street Suite 292\nLindseyton, TN 87223",
-    "phone": "+1-989-859-0451x205",
-    "email": "davidhartman@yahoo.com",
-    "tax_id": "uQz270mcD837"
+    "name": "Adelia Cardona-Roca",
+    "address": "Pasadizo de Emelina Barros 951 Piso 6 \nJa\u00e9n, 30490",
+    "phone": "+34844442984",
+    "email": "ballesterosyessica@yahoo.com",
+    "tax_id": "ftY986GHi282"
   },
   "items": [
     {
-      "description": "deliver revolutionary synergies",
-      "quantity": 5,
-      "unit_price": 59.1,
-      "total": 295.5
+      "description": "incubate interactive partnerships",
+      "quantity": 1,
+      "unit_price": "47.05",
+      "total": "47.05"
     }
   ],
-  "subtotal": 295.5,
+  "subtotal": "47.05",
   "taxes": [
     {
       "description": "VAT",
       "percentage": 16,
-      "amount": 47.28
+      "amount": "7.53"
     }
   ],
-  "total": 342.78,
-  "payment_method": "Credit Card",
+  "total": "54.58",
+  "payment_method": "PayPal",
   "currency": "EUR"
 }

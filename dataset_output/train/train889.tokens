@@ -1,0 +1,76 @@
+Minería -> B-issuer_name
+NM -> I-issuer_name
+S.L.L. -> I-issuer_name
+Urbanización -> B-issuer_address
+Marco -> I-issuer_address
+Iriarte -> I-issuer_address
+6 -> I-issuer_address
+Puerta -> I-issuer_address
+7 -> I-issuer_address
+Granada, -> I-issuer_address
+02237 -> I-issuer_address
++34 928719936 -> B-issuer_phone
+leyreperez@fabra.es -> B-issuer_email
+Fpg228qUK008 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Calixta -> B-recipient_name
+Pavón -> I-recipient_name
+Agullo -> I-recipient_name
+Callejón -> B-recipient_address
+Viviana -> I-recipient_address
+Múñiz -> I-recipient_address
+39 -> I-recipient_address
+Piso -> I-recipient_address
+4 -> I-recipient_address
+León, -> I-recipient_address
+12874 -> I-recipient_address
++34 825 105 473 -> B-recipient_phone
+lgalvez@yahoo.com -> B-recipient_email
+keI535yyQ643 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+534793 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-16 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+innovate turn-key ROI -> B-item_description
+31.84 -> B-item_unit_price
+222.88 -> B-item_total
+5 -> B-item_quantity
+engage best-of-breed niches -> B-item_description
+61.16 -> B-item_unit_price
+305.80 -> B-item_total
+5 -> B-item_quantity
+synthesize viral deliverables -> B-item_description
+94.35 -> B-item_unit_price
+471.75 -> B-item_total
+8 -> B-item_quantity
+integrate holistic action-items -> B-item_description
+18.80 -> B-item_unit_price
+150.40 -> B-item_total
+7 -> B-item_quantity
+exploit 24/365 schemas -> B-item_description
+87.29 -> B-item_unit_price
+611.03 -> B-item_total
+Subtotal -> O
+: -> O
+ 1761.86 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+281.90 -> B-tax_amount
+TOTAL -> O
+: -> O
+2043.76 -> B-total

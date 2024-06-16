@@ -1,0 +1,80 @@
+Invoice -> O
+865235 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-19 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-08 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Rufina -> B-issuer_name
+Ropero -> I-issuer_name
+Saldaña -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Cañada -> B-issuer_address
+Cesar -> I-issuer_address
+Flores -> I-issuer_address
+71 -> I-issuer_address
+Piso -> I-issuer_address
+2 -> I-issuer_address
+Barcelona, -> I-issuer_address
+46386 -> I-issuer_address
++34842 65 42 38 -> B-issuer_phone
+zcerdan@consultoria.es -> B-issuer_email
+hop407HHl989 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Ágata -> B-recipient_name
+Pizarro-Simó -> I-recipient_name
+Callejón -> B-recipient_address
+de -> I-recipient_address
+Eutropio -> I-recipient_address
+Larrea -> I-recipient_address
+369 -> I-recipient_address
+Apt. -> I-recipient_address
+72 -> I-recipient_address
+Navarra, -> I-recipient_address
+14384 -> I-recipient_address
++34 833941594 -> B-recipient_phone
+opatino@yahoo.com -> B-recipient_email
+rPu889hRd823 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+harness interactive methodologies -> B-item_description
+9 -> B-item_quantity
+94.27 -> B-item_unit_price
+848.43 -> B-item_total
+revolutionize magnetic e-business -> B-item_description
+7 -> B-item_quantity
+26.91 -> B-item_unit_price
+188.37 -> B-item_total
+aggregate frictionless interfaces -> B-item_description
+7 -> B-item_quantity
+48.04 -> B-item_unit_price
+336.28 -> B-item_total
+monetize web-enabled experiences -> B-item_description
+8 -> B-item_quantity
+27.16 -> B-item_unit_price
+217.28 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1590.36 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+254.46 -> B-tax_amount
+Total -> O
+: -> O
+1844.82 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

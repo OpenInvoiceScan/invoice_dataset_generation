@@ -1,0 +1,75 @@
+Factura -> O
+980051 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-04 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-19 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Compañía -> B-issuer_name
+Camino -> I-issuer_name
+S.Coop. -> I-issuer_name
+Camino -> B-issuer_address
+Ofelia -> I-issuer_address
+Fajardo -> I-issuer_address
+91 -> I-issuer_address
+Salamanca, -> I-issuer_address
+40884 -> I-issuer_address
++34987 66 29 13 -> B-issuer_phone
+leonardo63@suministros.es -> B-issuer_email
+ILQ177Obd208 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Iris -> B-recipient_name
+Cabo -> I-recipient_name
+Osuna -> I-recipient_name
+Rambla -> B-recipient_address
+de -> I-recipient_address
+Tito -> I-recipient_address
+Nogués -> I-recipient_address
+78 -> I-recipient_address
+Apt. -> I-recipient_address
+97 -> I-recipient_address
+Salamanca, -> I-recipient_address
+09092 -> I-recipient_address
++34 912 939 489 -> B-recipient_phone
+sbaez@hotmail.com -> B-recipient_email
+YiK542rrw656 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+unleash extensible web-readiness -> B-item_description
+4 -> B-item_quantity
+82.66 -> B-item_unit_price
+330.64 -> B-item_total
+transform rich niches -> B-item_description
+3 -> B-item_quantity
+88.83 -> B-item_unit_price
+266.49 -> B-item_total
+Subtotal -> O
+ : -> O
+ 597.13 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+95.54 -> B-tax_amount
+Total -> O
+: -> O
+692.67 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

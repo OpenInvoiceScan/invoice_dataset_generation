@@ -1,0 +1,69 @@
+Castejón -> B-issuer_name
+y -> I-issuer_name
+Bueno -> I-issuer_name
+S.L.L. -> I-issuer_name
+Cañada -> B-issuer_address
+de -> I-issuer_address
+Graciano -> I-issuer_address
+Agustí -> I-issuer_address
+251 -> I-issuer_address
+Lugo, -> I-issuer_address
+27528 -> I-issuer_address
++34 983 807 564 -> B-issuer_phone
+victorbernad@farmaceutica.net -> B-issuer_email
+OfE661Reg593 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Violeta -> B-recipient_name
+Armengol -> I-recipient_name
+Nogués -> I-recipient_name
+Urbanización -> B-recipient_address
+Ariel -> I-recipient_address
+Cabezas -> I-recipient_address
+2 -> I-recipient_address
+Toledo, -> I-recipient_address
+12148 -> I-recipient_address
++34923762051 -> B-recipient_phone
+damian93@yahoo.com -> B-recipient_email
+Tiq182DTS634 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+53030 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-24 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+1 -> B-item_quantity
+disintermediate frictionless systems -> B-item_description
+27.34 -> B-item_unit_price
+27.34 -> B-item_total
+1 -> B-item_quantity
+benchmark dynamic applications -> B-item_description
+28.15 -> B-item_unit_price
+28.15 -> B-item_total
+10 -> B-item_quantity
+innovate B2B e-commerce -> B-item_description
+74.37 -> B-item_unit_price
+743.70 -> B-item_total
+7 -> B-item_quantity
+benchmark e-business metrics -> B-item_description
+13.31 -> B-item_unit_price
+93.17 -> B-item_total
+Subtotal -> O 
+: -> O
+ 892.36 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+142.78 -> B-tax_amount
+TOTAL -> O
+: -> O
+1035.14 -> B-total

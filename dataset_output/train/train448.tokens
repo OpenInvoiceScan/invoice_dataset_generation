@@ -1,0 +1,77 @@
+Laguna -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Avenida -> B-issuer_address
+de -> I-issuer_address
+Maite -> I-issuer_address
+Jordá -> I-issuer_address
+8 -> I-issuer_address
+Puerta -> I-issuer_address
+8 -> I-issuer_address
+Albacete, -> I-issuer_address
+05134 -> I-issuer_address
++34 977105778 -> B-issuer_phone
+jcabello@luis.org -> B-issuer_email
+ITZ597IZS675 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Fabián -> B-recipient_name
+Benavides -> I-recipient_name
+Cazorla -> I-recipient_name
+Callejón -> B-recipient_address
+Valero -> I-recipient_address
+Bellido -> I-recipient_address
+256 -> I-recipient_address
+Puerta -> I-recipient_address
+9 -> I-recipient_address
+Valencia, -> I-recipient_address
+16553 -> I-recipient_address
++34 928419646 -> B-recipient_phone
+ricardo30@gmail.com -> B-recipient_email
+Yxr206HuK756 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+589112 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-01 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+redefine bleeding-edge paradigms -> B-item_description
+87.22 -> B-item_unit_price
+523.32 -> B-item_total
+8 -> B-item_quantity
+synergize open-source metrics -> B-item_description
+81.54 -> B-item_unit_price
+652.32 -> B-item_total
+3 -> B-item_quantity
+cultivate strategic infrastructures -> B-item_description
+17.34 -> B-item_unit_price
+52.02 -> B-item_total
+9 -> B-item_quantity
+transform frictionless supply-chains -> B-item_description
+82.56 -> B-item_unit_price
+743.04 -> B-item_total
+1 -> B-item_quantity
+empower e-business content -> B-item_description
+80.59 -> B-item_unit_price
+80.59 -> B-item_total
+Subtotal -> O 
+: -> O
+ 2051.29 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+328.21 -> B-tax_amount
+TOTAL -> O
+: -> O
+2379.50 -> B-total

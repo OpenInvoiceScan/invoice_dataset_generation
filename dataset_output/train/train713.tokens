@@ -1,0 +1,65 @@
+Beltrán -> B-issuer_name
+y -> I-issuer_name
+Piñeiro -> I-issuer_name
+S.Com. -> I-issuer_name
+Pasaje -> B-issuer_address
+de -> I-issuer_address
+Edgardo -> I-issuer_address
+Conde -> I-issuer_address
+24 -> I-issuer_address
+Huelva, -> I-issuer_address
+47686 -> I-issuer_address
++34946 886 700 -> B-issuer_phone
+casalmaria-del-carmen@hermanos.es -> B-issuer_email
+aiZ892Doi155 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Cristina -> B-recipient_name
+Ordóñez -> I-recipient_name
+Avilés -> I-recipient_name
+Plaza -> B-recipient_address
+de -> I-recipient_address
+Eusebio -> I-recipient_address
+Vilanova -> I-recipient_address
+643 -> I-recipient_address
+Piso -> I-recipient_address
+3 -> I-recipient_address
+Granada, -> I-recipient_address
+22863 -> I-recipient_address
++34820 859 567 -> B-recipient_phone
+ballesteranibal@hotmail.com -> B-recipient_email
+JJE335HuY905 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+288408 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-04 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+embrace granular architectures -> B-item_description
+15.64 -> B-item_unit_price
+109.48 -> B-item_total
+9 -> B-item_quantity
+integrate frictionless web services -> B-item_description
+75.55 -> B-item_unit_price
+679.95 -> B-item_total
+Subtotal -> O
+: -> O
+ 789.43 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+126.31 -> B-tax_amount
+TOTAL -> O
+: -> O
+915.74 -> B-total

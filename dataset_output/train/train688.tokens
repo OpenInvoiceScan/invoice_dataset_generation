@@ -1,0 +1,76 @@
+Martín -> B-issuer_name
+Perera -> I-issuer_name
+Vendrell -> I-issuer_name
+S.L. -> I-issuer_name
+Avenida -> B-issuer_address
+Juan -> I-issuer_address
+Manuel -> I-issuer_address
+Gallo -> I-issuer_address
+30 -> I-issuer_address
+Ourense, -> I-issuer_address
+18278 -> I-issuer_address
++34 900 23 18 75 -> B-issuer_phone
+ugilabert@diez.net -> B-issuer_email
+OEw891bkX905 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Leonor -> B-recipient_name
+Pallarès -> I-recipient_name
+Villaverde -> I-recipient_name
+Cuesta -> B-recipient_address
+de -> I-recipient_address
+Octavia -> I-recipient_address
+Rebollo -> I-recipient_address
+232 -> I-recipient_address
+Puerta -> I-recipient_address
+8 -> I-recipient_address
+Badajoz, -> I-recipient_address
+23664 -> I-recipient_address
++34 928353758 -> B-recipient_phone
+antonia07@gmail.com -> B-recipient_email
+fCC762Uzs202 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+226845 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-09 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+repurpose mission-critical web-readiness -> B-item_description
+26.22 -> B-item_unit_price
+262.20 -> B-item_total
+10 -> B-item_quantity
+evolve e-business convergence -> B-item_description
+78.64 -> B-item_unit_price
+786.40 -> B-item_total
+1 -> B-item_quantity
+productize customized infrastructures -> B-item_description
+75.45 -> B-item_unit_price
+75.45 -> B-item_total
+6 -> B-item_quantity
+streamline B2B schemas -> B-item_description
+19.79 -> B-item_unit_price
+118.74 -> B-item_total
+4 -> B-item_quantity
+visualize turn-key experiences -> B-item_description
+60.69 -> B-item_unit_price
+242.76 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1485.55 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+237.69 -> B-tax_amount
+TOTAL -> O
+: -> O
+1723.24 -> B-total

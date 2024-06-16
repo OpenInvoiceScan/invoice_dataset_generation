@@ -1,0 +1,57 @@
+Suministros -> B-issuer_name
+Borrego -> I-issuer_name
+S.Com. -> I-issuer_name
+Pasadizo -> B-issuer_address
+de -> I-issuer_address
+Jaime -> I-issuer_address
+Macias -> I-issuer_address
+72 -> I-issuer_address
+Huesca, -> I-issuer_address
+16312 -> I-issuer_address
++34926 80 96 59 -> B-issuer_phone
+darnaiz@jose.net -> B-issuer_email
+lSn931Ifk840 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Ágata -> B-recipient_name
+Arnal -> I-recipient_name
+Aznar -> I-recipient_name
+Callejón -> B-recipient_address
+Gaspar -> I-recipient_address
+Sanmiguel -> I-recipient_address
+8 -> I-recipient_address
+Vizcaya, -> I-recipient_address
+05821 -> I-recipient_address
++34 879 89 59 11 -> B-recipient_phone
+tecla26@yahoo.com -> B-recipient_email
+jum725HBm235 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+433392 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-29 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+strategize plug-and-play e-tailers -> B-item_description
+30.48 -> B-item_unit_price
+304.80 -> B-item_total
+Subtotal -> O
+: -> O
+ 304.80 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+48.77 -> B-tax_amount
+TOTAL -> O
+: -> O
+353.57 -> B-total

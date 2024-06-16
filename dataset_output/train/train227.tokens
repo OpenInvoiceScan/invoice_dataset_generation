@@ -1,0 +1,88 @@
+Factura -> O
+178137 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-11 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-09 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Soluciones -> B-issuer_name
+TRW -> I-issuer_name
+S.L. -> I-issuer_name
+Via -> B-issuer_address
+de -> I-issuer_address
+Felicidad -> I-issuer_address
+Belda -> I-issuer_address
+571 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Baleares, -> I-issuer_address
+37982 -> I-issuer_address
++34872336553 -> B-issuer_phone
+candidaflores@camps.es -> B-issuer_email
+nZh410qfm439 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Verónica -> B-recipient_name
+Padilla -> I-recipient_name
+Tudela -> I-recipient_name
+Glorieta -> B-recipient_address
+de -> I-recipient_address
+Celestina -> I-recipient_address
+Carbonell -> I-recipient_address
+48 -> I-recipient_address
+Valencia, -> I-recipient_address
+42683 -> I-recipient_address
++34803 606 938 -> B-recipient_phone
+albina20@yahoo.com -> B-recipient_email
+PiK018LVf415 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+brand back-end supply-chains -> B-item_description
+8 -> B-item_quantity
+72.81 -> B-item_unit_price
+582.48 -> B-item_total
+drive leading-edge deliverables -> B-item_description
+3 -> B-item_quantity
+19.67 -> B-item_unit_price
+59.01 -> B-item_total
+orchestrate holistic architectures -> B-item_description
+1 -> B-item_quantity
+45.67 -> B-item_unit_price
+45.67 -> B-item_total
+target frictionless e-commerce -> B-item_description
+5 -> B-item_quantity
+26.23 -> B-item_unit_price
+131.15 -> B-item_total
+embrace dot-com partnerships -> B-item_description
+7 -> B-item_quantity
+41.13 -> B-item_unit_price
+287.91 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1106.22 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+177.00 -> B-tax_amount
+Total -> O
+: -> O
+1283.22 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

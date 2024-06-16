@@ -1,0 +1,70 @@
+Invoice -> O
+730774 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-04-28 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-25 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Sierra -> B-issuer_name
+y -> I-issuer_name
+Calzada -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Calle -> B-issuer_address
+de -> I-issuer_address
+Aitana -> I-issuer_address
+Saavedra -> I-issuer_address
+6 -> I-issuer_address
+Granada, -> I-issuer_address
+05569 -> I-issuer_address
++34902 729 230 -> B-issuer_phone
+virgiliocomas@instalaciones.com -> B-issuer_email
+CVg437zqY609 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Zacarías -> B-recipient_name
+Navarrete -> I-recipient_name
+Cortés -> I-recipient_name
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Alma -> I-recipient_address
+Bastida -> I-recipient_address
+4 -> I-recipient_address
+Cuenca, -> I-recipient_address
+51423 -> I-recipient_address
++34824 262 628 -> B-recipient_phone
+cesarbarral@gmail.com -> B-recipient_email
+bCW670DHX848 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+unleash next-generation web-readiness -> B-item_description
+7 -> B-item_quantity
+82.97 -> B-item_unit_price
+580.79 -> B-item_total
+grow wireless channels -> B-item_description
+10 -> B-item_quantity
+45.56 -> B-item_unit_price
+455.60 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1036.39 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+165.82 -> B-tax_amount
+Total -> O
+: -> O
+1202.21 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

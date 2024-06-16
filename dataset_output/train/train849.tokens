@@ -1,0 +1,72 @@
+Grupo -> B-issuer_name
+Redondo -> I-issuer_name
+S.L.L. -> I-issuer_name
+Via -> B-issuer_address
+Herminio -> I-issuer_address
+Chaves -> I-issuer_address
+16 -> I-issuer_address
+Sevilla, -> I-issuer_address
+39901 -> I-issuer_address
++34841146473 -> B-issuer_phone
+benitabarreda@construccion.es -> B-issuer_email
+znl143wQi719 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Estela -> B-recipient_name
+Pellicer -> I-recipient_name
+Marí -> I-recipient_name
+Calle -> B-recipient_address
+de -> I-recipient_address
+Hernán -> I-recipient_address
+Fuertes -> I-recipient_address
+70 -> I-recipient_address
+Santa -> I-recipient_address
+Cruz -> I-recipient_address
+de -> I-recipient_address
+Tenerife, -> I-recipient_address
+15710 -> I-recipient_address
++34846520824 -> B-recipient_phone
+ana-belenbolanos@yahoo.com -> B-recipient_email
+EgL271Qct074 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+879608 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-18 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+architect e-business solutions -> B-item_description
+76.60 -> B-item_unit_price
+689.40 -> B-item_total
+1 -> B-item_quantity
+e-enable sticky solutions -> B-item_description
+29.21 -> B-item_unit_price
+29.21 -> B-item_total
+3 -> B-item_quantity
+evolve sticky e-tailers -> B-item_description
+65.17 -> B-item_unit_price
+195.51 -> B-item_total
+4 -> B-item_quantity
+expedite strategic communities -> B-item_description
+23.40 -> B-item_unit_price
+93.60 -> B-item_total
+Subtotal -> O
+: -> O
+ 1007.72 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+161.24 -> B-tax_amount
+TOTAL -> O
+: -> O
+1168.96 -> B-total

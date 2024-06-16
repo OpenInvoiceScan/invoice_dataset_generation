@@ -1,0 +1,70 @@
+Pinilla -> B-issuer_name
+y -> I-issuer_name
+Baena -> I-issuer_name
+S.L. -> I-issuer_name
+Ronda -> B-issuer_address
+de -> I-issuer_address
+Ema -> I-issuer_address
+Cabanillas -> I-issuer_address
+266 -> I-issuer_address
+La -> I-issuer_address
+Rioja, -> I-issuer_address
+44800 -> I-issuer_address
++34 977612895 -> B-issuer_phone
+jacobocervera@instalaciones.com -> B-issuer_email
+joP636xAB153 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Sara -> B-recipient_name
+Valentina -> I-recipient_name
+Bartolomé -> I-recipient_name
+Peralta -> I-recipient_name
+Pasadizo -> B-recipient_address
+Basilio -> I-recipient_address
+Solsona -> I-recipient_address
+44 -> I-recipient_address
+Apt. -> I-recipient_address
+15 -> I-recipient_address
+Pontevedra, -> I-recipient_address
+36826 -> I-recipient_address
++34 881 50 24 55 -> B-recipient_phone
+sarabiamaria-fernanda@yahoo.com -> B-recipient_email
+dlG322gtC361 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+245090 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-26 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+whiteboard out-of-the-box applications -> B-item_description
+80.87 -> B-item_unit_price
+566.09 -> B-item_total
+8 -> B-item_quantity
+benchmark rich applications -> B-item_description
+32.81 -> B-item_unit_price
+262.48 -> B-item_total
+1 -> B-item_quantity
+seize mission-critical e-business -> B-item_description
+98.70 -> B-item_unit_price
+98.70 -> B-item_total
+Subtotal -> O
+: -> O
+ 927.27 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+148.36 -> B-tax_amount
+TOTAL -> O
+: -> O
+1075.63 -> B-total

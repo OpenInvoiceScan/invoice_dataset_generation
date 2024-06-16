@@ -1,0 +1,68 @@
+Hermanos -> B-issuer_name
+Corominas -> I-issuer_name
+S.L. -> I-issuer_name
+Avenida -> B-issuer_address
+Pablo -> I-issuer_address
+Hoz -> I-issuer_address
+11 -> I-issuer_address
+La -> I-issuer_address
+Rioja, -> I-issuer_address
+10718 -> I-issuer_address
++34 884 57 89 25 -> B-issuer_phone
+roblessara@soluciones.com -> B-issuer_email
+LNb857mYP537 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Alexandra -> B-recipient_name
+Benavente -> I-recipient_name
+Robles -> I-recipient_name
+Paseo -> B-recipient_address
+Félix -> I-recipient_address
+Royo -> I-recipient_address
+52 -> I-recipient_address
+Baleares, -> I-recipient_address
+46554 -> I-recipient_address
++34875 471 226 -> B-recipient_phone
+jjuan@yahoo.com -> B-recipient_email
+STP600Vor572 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+626377 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-17 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+syndicate sticky solutions -> B-item_description
+46.02 -> B-item_unit_price
+414.18 -> B-item_total
+3 -> B-item_quantity
+exploit leading-edge communities -> B-item_description
+79.35 -> B-item_unit_price
+238.05 -> B-item_total
+4 -> B-item_quantity
+e-enable leading-edge e-tailers -> B-item_description
+28.77 -> B-item_unit_price
+115.08 -> B-item_total
+5 -> B-item_quantity
+incubate robust e-tailers -> B-item_description
+32.66 -> B-item_unit_price
+163.30 -> B-item_total
+Subtotal -> O 
+: -> O
+ 930.61 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+148.90 -> B-tax_amount
+TOTAL -> O
+: -> O
+1079.51 -> B-total

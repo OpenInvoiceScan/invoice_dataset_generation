@@ -1,0 +1,86 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+Tjp621ogj011 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34846 70 08 44 -> B-recipient_phone
+Nombre -> O
+: -> O
+Marisela -> B-recipient_name
+Collado -> I-recipient_name
+Peiró -> I-recipient_name
+Correo -> O
+: -> O
+guijarropanfilo@gmail.com -> B-recipient_email
+Vial -> B-recipient_address
+Atilio -> I-recipient_address
+Carmona -> I-recipient_address
+79 -> I-recipient_address
+Burgos, -> I-recipient_address
+43307 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+992907 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-14 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+extend open-source e-business -> B-item_description
+2 -> B-item_quantity
+24.64 -> B-item_total
+cultivate rich convergence -> B-item_description
+1 -> B-item_quantity
+40.92 -> B-item_total
+unleash killer communities -> B-item_description
+4 -> B-item_quantity
+365.56 -> B-item_total
+Subtotal -> O
+ : -> O
+ 431.12 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+68.98 -> B-tax_amount
+TOTAL -> O
+: -> O
+500.10 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+KuT599Qbs834 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34822713431 -> B-issuer_phone
+Nombre -> O
+: -> O
+Compañía -> B-issuer_name
+Tolosa -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Correo -> O
+: -> O
+lcatala@infraestructuras.com -> B-issuer_email
+Glorieta -> B-issuer_address
+de -> I-issuer_address
+Porfirio -> I-issuer_address
+Aguirre -> I-issuer_address
+80 -> I-issuer_address
+Barcelona, -> I-issuer_address
+17857 -> I-issuer_address

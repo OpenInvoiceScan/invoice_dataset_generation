@@ -1,0 +1,70 @@
+Logística -> B-issuer_name
+Ibérica -> I-issuer_name
+S.L. -> I-issuer_name
+Acceso -> B-issuer_address
+Pío -> I-issuer_address
+Pazos -> I-issuer_address
+26 -> I-issuer_address
+Alicante, -> I-issuer_address
+50328 -> I-issuer_address
++34955 51 93 04 -> B-issuer_phone
+quintanahortensia@familia.es -> B-issuer_email
+eKh355FgC794 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Eliseo -> B-recipient_name
+Sainz -> I-recipient_name
+Muñoz -> I-recipient_name
+Callejón -> B-recipient_address
+de -> I-recipient_address
+Jorge -> I-recipient_address
+Royo -> I-recipient_address
+225 -> I-recipient_address
+Piso -> I-recipient_address
+9 -> I-recipient_address
+Córdoba, -> I-recipient_address
+07600 -> I-recipient_address
++34821601010 -> B-recipient_phone
+cruzbaquero@gmail.com -> B-recipient_email
+Pjk341Dge815 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+662453 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-06 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+matrix out-of-the-box e-business -> B-item_description
+51.15 -> B-item_unit_price
+409.20 -> B-item_total
+1 -> B-item_quantity
+iterate 24/365 models -> B-item_description
+79.12 -> B-item_unit_price
+79.12 -> B-item_total
+5 -> B-item_quantity
+embrace integrated platforms -> B-item_description
+77.94 -> B-item_unit_price
+389.70 -> B-item_total
+10 -> B-item_quantity
+visualize value-added communities -> B-item_description
+17.92 -> B-item_unit_price
+179.20 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1057.22 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+169.16 -> B-tax_amount
+TOTAL -> O
+: -> O
+1226.38 -> B-total

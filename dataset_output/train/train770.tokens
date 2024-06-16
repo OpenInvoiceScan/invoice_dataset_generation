@@ -1,0 +1,82 @@
+Invoice -> O
+79956 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-07 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-07 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Cabrera -> B-issuer_name
+y -> I-issuer_name
+Dueñas -> I-issuer_name
+S.Coop. -> I-issuer_name
+Avenida -> B-issuer_address
+de -> I-issuer_address
+Estela -> I-issuer_address
+Acuña -> I-issuer_address
+22 -> I-issuer_address
+Piso -> I-issuer_address
+5 -> I-issuer_address
+Córdoba, -> I-issuer_address
+35270 -> I-issuer_address
++34979366749 -> B-issuer_phone
+mosqueraale@grupo.com -> B-issuer_email
+TNj640yHm097 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Natalia -> B-recipient_name
+Cañete -> I-recipient_name
+Coca -> I-recipient_name
+Callejón -> B-recipient_address
+de -> I-recipient_address
+Melania -> I-recipient_address
+Vilanova -> I-recipient_address
+58 -> I-recipient_address
+Piso -> I-recipient_address
+9 -> I-recipient_address
+Guipúzcoa, -> I-recipient_address
+12570 -> I-recipient_address
++34 985391271 -> B-recipient_phone
+ileanabermudez@gmail.com -> B-recipient_email
+afu463qfU629 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+iterate seamless web-readiness -> B-item_description
+9 -> B-item_quantity
+78.14 -> B-item_unit_price
+703.26 -> B-item_total
+morph ubiquitous models -> B-item_description
+6 -> B-item_quantity
+69.56 -> B-item_unit_price
+417.36 -> B-item_total
+streamline frictionless applications -> B-item_description
+8 -> B-item_quantity
+60.51 -> B-item_unit_price
+484.08 -> B-item_total
+embrace front-end architectures -> B-item_description
+4 -> B-item_quantity
+79.71 -> B-item_unit_price
+318.84 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1923.54 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+307.77 -> B-tax_amount
+Total -> O
+: -> O
+2231.31 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

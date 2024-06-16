@@ -1,0 +1,76 @@
+Talleres -> B-issuer_name
+Iberia -> I-issuer_name
+S.A.T. -> I-issuer_name
+Rambla -> B-issuer_address
+de -> I-issuer_address
+Guiomar -> I-issuer_address
+Cepeda -> I-issuer_address
+6 -> I-issuer_address
+Apt. -> I-issuer_address
+54 -> I-issuer_address
+Ourense, -> I-issuer_address
+16070 -> I-issuer_address
++34847 45 47 76 -> B-issuer_phone
+palomaremiliana@hermanos.org -> B-issuer_email
+Lii402RZv944 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Mamen -> B-recipient_name
+Sotelo-Gibert -> I-recipient_name
+Plaza -> B-recipient_address
+de -> I-recipient_address
+Angelino -> I-recipient_address
+Guardiola -> I-recipient_address
+68 -> I-recipient_address
+Piso -> I-recipient_address
+0 -> I-recipient_address
+Lleida, -> I-recipient_address
+37661 -> I-recipient_address
++34 900 200 390 -> B-recipient_phone
+angel93@yahoo.com -> B-recipient_email
+zol896TgN212 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+276772 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-23 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+redefine killer partnerships -> B-item_description
+70.37 -> B-item_unit_price
+422.22 -> B-item_total
+1 -> B-item_quantity
+innovate scalable solutions -> B-item_description
+63.51 -> B-item_unit_price
+63.51 -> B-item_total
+5 -> B-item_quantity
+enable leading-edge users -> B-item_description
+88.60 -> B-item_unit_price
+443.00 -> B-item_total
+10 -> B-item_quantity
+benchmark robust initiatives -> B-item_description
+84.12 -> B-item_unit_price
+841.20 -> B-item_total
+3 -> B-item_quantity
+e-enable impactful functionalities -> B-item_description
+91.40 -> B-item_unit_price
+274.20 -> B-item_total
+Subtotal -> O 
+: -> O
+ 2044.13 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+327.06 -> B-tax_amount
+TOTAL -> O
+: -> O
+2371.19 -> B-total

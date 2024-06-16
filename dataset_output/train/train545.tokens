@@ -1,0 +1,75 @@
+Tecla -> B-issuer_name
+Romero -> I-issuer_name
+Agullo -> I-issuer_name
+S.A. -> I-issuer_name
+Alameda -> B-issuer_address
+de -> I-issuer_address
+Angelina -> I-issuer_address
+Riera -> I-issuer_address
+667 -> I-issuer_address
+Puerta -> I-issuer_address
+6 -> I-issuer_address
+La -> I-issuer_address
+Rioja, -> I-issuer_address
+09843 -> I-issuer_address
++34 877 182 697 -> B-issuer_phone
+lucas51@despacho.com -> B-issuer_email
+tXy665oiT721 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Rosa -> B-recipient_name
+Pino -> I-recipient_name
+Cardona -> I-recipient_name
+Cañada -> B-recipient_address
+Leandra -> I-recipient_address
+Arjona -> I-recipient_address
+705 -> I-recipient_address
+Puerta -> I-recipient_address
+1 -> I-recipient_address
+Cuenca, -> I-recipient_address
+07911 -> I-recipient_address
++34849 868 513 -> B-recipient_phone
+jose-ramoncozar@yahoo.com -> B-recipient_email
+mts815Yxv084 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+46611 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-04 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+whiteboard one-to-one partnerships -> B-item_description
+98.37 -> B-item_unit_price
+491.85 -> B-item_total
+10 -> B-item_quantity
+mesh best-of-breed applications -> B-item_description
+39.07 -> B-item_unit_price
+390.70 -> B-item_total
+5 -> B-item_quantity
+re-intermediate killer mindshare -> B-item_description
+38.36 -> B-item_unit_price
+191.80 -> B-item_total
+7 -> B-item_quantity
+scale cutting-edge supply-chains -> B-item_description
+75.12 -> B-item_unit_price
+525.84 -> B-item_total
+Subtotal -> O
+: -> O
+ 1600.19 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+256.03 -> B-tax_amount
+TOTAL -> O
+: -> O
+1856.22 -> B-total

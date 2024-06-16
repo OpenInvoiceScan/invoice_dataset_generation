@@ -1,0 +1,70 @@
+Invoice -> O
+830653 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-09 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-11 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Distribuciones -> B-issuer_name
+BJ -> I-issuer_name
+S.L. -> I-issuer_name
+Urbanización -> B-issuer_address
+Fulgencio -> I-issuer_address
+Palacio -> I-issuer_address
+8 -> I-issuer_address
+Murcia, -> I-issuer_address
+48427 -> I-issuer_address
++34885 641 211 -> B-issuer_phone
+amaliaayala@fabrica.es -> B-issuer_email
+rup199rux080 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Belén -> B-recipient_name
+Valverde-Roselló -> I-recipient_name
+Via -> B-recipient_address
+Ricarda -> I-recipient_address
+Herrero -> I-recipient_address
+49 -> I-recipient_address
+Zaragoza, -> I-recipient_address
+10546 -> I-recipient_address
++34848 132 335 -> B-recipient_phone
+dtomas@yahoo.com -> B-recipient_email
+miK448Aim391 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+evolve cross-media supply-chains -> B-item_description
+6 -> B-item_quantity
+86.21 -> B-item_unit_price
+517.26 -> B-item_total
+revolutionize innovative e-commerce -> B-item_description
+1 -> B-item_quantity
+73.53 -> B-item_unit_price
+73.53 -> B-item_total
+facilitate synergistic convergence -> B-item_description
+5 -> B-item_quantity
+20.49 -> B-item_unit_price
+102.45 -> B-item_total
+Subtotal -> O
+ : -> O
+ 693.24 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+110.92 -> B-tax_amount
+Total -> O
+: -> O
+804.16 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

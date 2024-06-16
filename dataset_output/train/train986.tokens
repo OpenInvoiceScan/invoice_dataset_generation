@@ -1,0 +1,74 @@
+Invoice -> O
+237748 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-21 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-21 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Suministros -> B-issuer_name
+NWPM -> I-issuer_name
+S.A. -> I-issuer_name
+Alameda -> B-issuer_address
+Gil -> I-issuer_address
+Palmer -> I-issuer_address
+994 -> I-issuer_address
+Piso -> I-issuer_address
+5 -> I-issuer_address
+La -> I-issuer_address
+Coruña, -> I-issuer_address
+50759 -> I-issuer_address
++34 883 758 154 -> B-issuer_phone
+ricardo21@sancho.net -> B-issuer_email
+Jee106bAO307 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Aránzazu -> B-recipient_name
+Fabregat -> I-recipient_name
+León -> I-recipient_name
+Callejón -> B-recipient_address
+Máximo -> I-recipient_address
+Ortiz -> I-recipient_address
+788 -> I-recipient_address
+Melilla, -> I-recipient_address
+46735 -> I-recipient_address
++34848375689 -> B-recipient_phone
+manaya@hotmail.com -> B-recipient_email
+Exh534kny211 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+expedite cross-platform mindshare -> B-item_description
+7 -> B-item_quantity
+18.19 -> B-item_unit_price
+127.33 -> B-item_total
+empower viral supply-chains -> B-item_description
+1 -> B-item_quantity
+68.17 -> B-item_unit_price
+68.17 -> B-item_total
+cultivate interactive metrics -> B-item_description
+4 -> B-item_quantity
+38.41 -> B-item_unit_price
+153.64 -> B-item_total
+Subtotal -> O
+ : -> O
+ 349.14 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+55.86 -> B-tax_amount
+Total -> O
+: -> O
+405.00 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

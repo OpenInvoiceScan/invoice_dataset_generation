@@ -1,0 +1,82 @@
+Factura -> O
+673666 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-04-30 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-13 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Restauración -> B-issuer_name
+Ibéricos -> I-issuer_name
+S.Coop. -> I-issuer_name
+C. -> B-issuer_address
+de -> I-issuer_address
+Encarnación -> I-issuer_address
+Bonet -> I-issuer_address
+274 -> I-issuer_address
+Málaga, -> I-issuer_address
+31624 -> I-issuer_address
++34 881 952 501 -> B-issuer_phone
+lsimo@familia.es -> B-issuer_email
+lbq918mfH753 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Ciro -> B-recipient_name
+Bustamante -> I-recipient_name
+Goicoechea -> I-recipient_name
+Paseo -> B-recipient_address
+de -> I-recipient_address
+Yésica -> I-recipient_address
+Sierra -> I-recipient_address
+740 -> I-recipient_address
+Zamora, -> I-recipient_address
+17301 -> I-recipient_address
++34 878 914 550 -> B-recipient_phone
+serraabril@yahoo.com -> B-recipient_email
+pzc867zkS607 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+synergize interactive supply-chains -> B-item_description
+5 -> B-item_quantity
+39.83 -> B-item_unit_price
+199.15 -> B-item_total
+innovate real-time content -> B-item_description
+10 -> B-item_quantity
+10.65 -> B-item_unit_price
+106.50 -> B-item_total
+optimize sticky interfaces -> B-item_description
+8 -> B-item_quantity
+58.15 -> B-item_unit_price
+465.20 -> B-item_total
+optimize collaborative bandwidth -> B-item_description
+2 -> B-item_quantity
+17.18 -> B-item_unit_price
+34.36 -> B-item_total
+Subtotal -> O
+ : -> O
+ 805.21 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+128.83 -> B-tax_amount
+Total -> O
+: -> O
+934.04 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

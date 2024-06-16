@@ -1,0 +1,76 @@
+Invoice -> O
+681918 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-21 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-04 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Díez -> B-issuer_name
+y -> I-issuer_name
+Galindo -> I-issuer_name
+S.L. -> I-issuer_name
+Via -> B-issuer_address
+Mohamed -> I-issuer_address
+Riba -> I-issuer_address
+93 -> I-issuer_address
+Apt. -> I-issuer_address
+83 -> I-issuer_address
+León, -> I-issuer_address
+36142 -> I-issuer_address
++34 943068137 -> B-issuer_phone
+renata09@alimentacion.com -> B-issuer_email
+gdT534DLl460 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Olalla -> B-recipient_name
+Godoy -> I-recipient_name
+Armengol -> I-recipient_name
+Acceso -> B-recipient_address
+Ruy -> I-recipient_address
+Jaén -> I-recipient_address
+6 -> I-recipient_address
+Apt. -> I-recipient_address
+68 -> I-recipient_address
+Granada, -> I-recipient_address
+14856 -> I-recipient_address
++34845749750 -> B-recipient_phone
+qroldan@gmail.com -> B-recipient_email
+EUD286klB391 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+streamline revolutionary interfaces -> B-item_description
+10 -> B-item_quantity
+63.90 -> B-item_unit_price
+639.00 -> B-item_total
+streamline next-generation niches -> B-item_description
+1 -> B-item_quantity
+99.98 -> B-item_unit_price
+99.98 -> B-item_total
+maximize user-centric bandwidth -> B-item_description
+8 -> B-item_quantity
+83.14 -> B-item_unit_price
+665.12 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1404.10 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+224.66 -> B-tax_amount
+Total -> O
+: -> O
+1628.76 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

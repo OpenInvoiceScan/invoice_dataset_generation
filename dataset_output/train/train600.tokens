@@ -1,0 +1,64 @@
+Desarrollo -> B-issuer_name
+Rius -> I-issuer_name
+S.L. -> I-issuer_name
+Cuesta -> B-issuer_address
+Jennifer -> I-issuer_address
+Monreal -> I-issuer_address
+95 -> I-issuer_address
+Valladolid, -> I-issuer_address
+27503 -> I-issuer_address
++34823 62 56 66 -> B-issuer_phone
+seguijose-carlos@coca.com -> B-issuer_email
+lhg774BLa129 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Julio -> B-recipient_name
+Vizcaíno -> I-recipient_name
+Palacios -> I-recipient_name
+Vial -> B-recipient_address
+de -> I-recipient_address
+Pía -> I-recipient_address
+Guzmán -> I-recipient_address
+790 -> I-recipient_address
+Vizcaya, -> I-recipient_address
+04884 -> I-recipient_address
++34942 55 40 25 -> B-recipient_phone
+esmeraldaenriquez@hotmail.com -> B-recipient_email
+Wwp146WWD566 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+184440 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-04 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+disintermediate robust portals -> B-item_description
+17.04 -> B-item_unit_price
+153.36 -> B-item_total
+5 -> B-item_quantity
+engage best-of-breed portals -> B-item_description
+92.29 -> B-item_unit_price
+461.45 -> B-item_total
+3 -> B-item_quantity
+exploit proactive experiences -> B-item_description
+81.47 -> B-item_unit_price
+244.41 -> B-item_total
+Subtotal -> O 
+: -> O
+ 859.22 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+137.48 -> B-tax_amount
+TOTAL -> O
+: -> O
+996.70 -> B-total

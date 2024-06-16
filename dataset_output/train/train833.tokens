@@ -1,0 +1,66 @@
+Promociones -> B-issuer_name
+ZULR -> I-issuer_name
+S.A. -> I-issuer_name
+Via -> B-issuer_address
+Régulo -> I-issuer_address
+Avilés -> I-issuer_address
+86 -> I-issuer_address
+Apt. -> I-issuer_address
+10 -> I-issuer_address
+Castellón, -> I-issuer_address
+31583 -> I-issuer_address
++34 828 532 227 -> B-issuer_phone
+inocencio19@despacho.org -> B-issuer_email
+DgA094XQy151 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Reynaldo -> B-recipient_name
+Quintana -> I-recipient_name
+Girón -> I-recipient_name
+Urbanización -> B-recipient_address
+Ema -> I-recipient_address
+Benavente -> I-recipient_address
+2 -> I-recipient_address
+Albacete, -> I-recipient_address
+09080 -> I-recipient_address
++34825 11 61 33 -> B-recipient_phone
+jose-maria26@yahoo.com -> B-recipient_email
+MQT385kST724 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+138204 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-30 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+reinvent viral deliverables -> B-item_description
+72.23 -> B-item_unit_price
+144.46 -> B-item_total
+6 -> B-item_quantity
+syndicate synergistic metrics -> B-item_description
+37.57 -> B-item_unit_price
+225.42 -> B-item_total
+5 -> B-item_quantity
+strategize proactive e-tailers -> B-item_description
+36.11 -> B-item_unit_price
+180.55 -> B-item_total
+Subtotal -> O
+: -> O
+ 550.43 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+88.07 -> B-tax_amount
+TOTAL -> O
+: -> O
+638.50 -> B-total

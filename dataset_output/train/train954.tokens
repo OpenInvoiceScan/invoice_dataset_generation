@@ -1,0 +1,80 @@
+Invoice -> O
+176895 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-26 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-31 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Promociones -> B-issuer_name
+EF -> I-issuer_name
+S.L. -> I-issuer_name
+Glorieta -> B-issuer_address
+de -> I-issuer_address
+Jennifer -> I-issuer_address
+Montenegro -> I-issuer_address
+10 -> I-issuer_address
+Girona, -> I-issuer_address
+01127 -> I-issuer_address
++34972 322 819 -> B-issuer_phone
+amaroclavero@riba.com -> B-issuer_email
+RgE254vSj199 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Hilda -> B-recipient_name
+Quero-Arias -> I-recipient_name
+Paseo -> B-recipient_address
+de -> I-recipient_address
+Eladio -> I-recipient_address
+Rey -> I-recipient_address
+807 -> I-recipient_address
+Huesca, -> I-recipient_address
+32995 -> I-recipient_address
++34 925 14 05 79 -> B-recipient_phone
+noemi95@gmail.com -> B-recipient_email
+lzv642dHC731 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+extend rich supply-chains -> B-item_description
+4 -> B-item_quantity
+41.05 -> B-item_unit_price
+164.20 -> B-item_total
+empower ubiquitous models -> B-item_description
+10 -> B-item_quantity
+35.96 -> B-item_unit_price
+359.60 -> B-item_total
+integrate visionary e-commerce -> B-item_description
+8 -> B-item_quantity
+51.87 -> B-item_unit_price
+414.96 -> B-item_total
+synergize synergistic content -> B-item_description
+6 -> B-item_quantity
+37.41 -> B-item_unit_price
+224.46 -> B-item_total
+disintermediate dynamic methodologies -> B-item_description
+7 -> B-item_quantity
+33.10 -> B-item_unit_price
+231.70 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1394.92 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+223.19 -> B-tax_amount
+Total -> O
+: -> O
+1618.11 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

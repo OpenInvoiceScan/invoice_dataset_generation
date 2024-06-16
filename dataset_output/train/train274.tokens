@@ -1,0 +1,67 @@
+Invoice -> O
+40787 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-12 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-11 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Industrias -> B-issuer_name
+Cervantes -> I-issuer_name
+S.L.L. -> I-issuer_name
+Callejón -> B-issuer_address
+de -> I-issuer_address
+Tiburcio -> I-issuer_address
+Bermejo -> I-issuer_address
+7 -> I-issuer_address
+Burgos, -> I-issuer_address
+42693 -> I-issuer_address
++34901 337 220 -> B-issuer_phone
+humberto35@familia.com -> B-issuer_email
+HQU902tDg324 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Itziar -> B-recipient_name
+Falcó -> I-recipient_name
+Cañada -> B-recipient_address
+Pepita -> I-recipient_address
+Torrents -> I-recipient_address
+162 -> I-recipient_address
+Pontevedra, -> I-recipient_address
+15878 -> I-recipient_address
++34 726041546 -> B-recipient_phone
+murciavilma@yahoo.com -> B-recipient_email
+eXN989Jam523 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+synthesize 24/7 web-readiness -> B-item_description
+1 -> B-item_quantity
+81.98 -> B-item_unit_price
+81.98 -> B-item_total
+synthesize open-source supply-chains -> B-item_description
+9 -> B-item_quantity
+18.19 -> B-item_unit_price
+163.71 -> B-item_total
+Subtotal -> O
+ : -> O
+ 245.69 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+39.31 -> B-tax_amount
+Total -> O
+: -> O
+285.00 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

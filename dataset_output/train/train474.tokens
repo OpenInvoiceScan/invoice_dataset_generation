@@ -1,0 +1,85 @@
+Invoice -> O
+293318 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-05 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-03 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Goñi -> B-issuer_name
+y -> I-issuer_name
+Pagès -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Camino -> B-issuer_address
+de -> I-issuer_address
+Paca -> I-issuer_address
+Galán -> I-issuer_address
+82 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Murcia, -> I-issuer_address
+31329 -> I-issuer_address
++34 821837738 -> B-issuer_phone
+lola31@desarrollo.es -> B-issuer_email
+GvE983INO771 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Hernán -> B-recipient_name
+Gimeno -> I-recipient_name
+Márquez -> I-recipient_name
+Via -> B-recipient_address
+Eric -> I-recipient_address
+Fabra -> I-recipient_address
+96 -> I-recipient_address
+Piso -> I-recipient_address
+3 -> I-recipient_address
+Valladolid, -> I-recipient_address
+15070 -> I-recipient_address
++34926459816 -> B-recipient_phone
+lantunez@yahoo.com -> B-recipient_email
+Rto492CYF932 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+streamline e-business schemas -> B-item_description
+4 -> B-item_quantity
+48.42 -> B-item_unit_price
+193.68 -> B-item_total
+embrace impactful synergies -> B-item_description
+9 -> B-item_quantity
+71.32 -> B-item_unit_price
+641.88 -> B-item_total
+expedite customized methodologies -> B-item_description
+3 -> B-item_quantity
+26.35 -> B-item_unit_price
+79.05 -> B-item_total
+drive one-to-one channels -> B-item_description
+7 -> B-item_quantity
+52.01 -> B-item_unit_price
+364.07 -> B-item_total
+evolve user-centric info-mediaries -> B-item_description
+9 -> B-item_quantity
+28.41 -> B-item_unit_price
+255.69 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1534.37 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+245.50 -> B-tax_amount
+Total -> O
+: -> O
+1779.87 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

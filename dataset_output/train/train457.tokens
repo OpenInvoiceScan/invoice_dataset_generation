@@ -1,0 +1,63 @@
+Talleres -> B-issuer_name
+FN -> I-issuer_name
+S.Coop. -> I-issuer_name
+Glorieta -> B-issuer_address
+Eulalia -> I-issuer_address
+Gilabert -> I-issuer_address
+36 -> I-issuer_address
+Apt. -> I-issuer_address
+99 -> I-issuer_address
+Badajoz, -> I-issuer_address
+47627 -> I-issuer_address
++34 825 45 02 60 -> B-issuer_phone
+paolagutierrez@infraestructuras.es -> B-issuer_email
+kYd541PGQ925 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+María -> B-recipient_name
+Belén -> I-recipient_name
+Antúnez -> I-recipient_name
+Cañada -> B-recipient_address
+de -> I-recipient_address
+Augusto -> I-recipient_address
+Arnal -> I-recipient_address
+24 -> I-recipient_address
+Almería, -> I-recipient_address
+18179 -> I-recipient_address
++34 984 184 427 -> B-recipient_phone
+alberoascension@yahoo.com -> B-recipient_email
+NQu430vUv489 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+53027 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-06 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+extend dynamic architectures -> B-item_description
+57.71 -> B-item_unit_price
+230.84 -> B-item_total
+3 -> B-item_quantity
+synthesize visionary bandwidth -> B-item_description
+84.99 -> B-item_unit_price
+254.97 -> B-item_total
+Subtotal -> O
+: -> O
+ 485.81 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+77.73 -> B-tax_amount
+TOTAL -> O
+: -> O
+563.54 -> B-total

@@ -1,0 +1,70 @@
+Victorino -> B-issuer_name
+Cueto -> I-issuer_name
+Chacón -> I-issuer_name
+S.Com. -> I-issuer_name
+Alameda -> B-issuer_address
+Leandro -> I-issuer_address
+Arias -> I-issuer_address
+94 -> I-issuer_address
+Piso -> I-issuer_address
+2 -> I-issuer_address
+Asturias, -> I-issuer_address
+40908 -> I-issuer_address
++34927 66 50 62 -> B-issuer_phone
+mbarco@compania.com -> B-issuer_email
+tnj694UtD403 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Leticia -> B-recipient_name
+Pineda -> I-recipient_name
+Gracia -> I-recipient_name
+Glorieta -> B-recipient_address
+Febe -> I-recipient_address
+Valdés -> I-recipient_address
+71 -> I-recipient_address
+Álava, -> I-recipient_address
+24749 -> I-recipient_address
++34827 652 421 -> B-recipient_phone
+morillobelen@gmail.com -> B-recipient_email
+swL247TBs500 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+716873 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-19 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+empower transparent content -> B-item_description
+92.84 -> B-item_unit_price
+185.68 -> B-item_total
+10 -> B-item_quantity
+implement ubiquitous e-services -> B-item_description
+24.91 -> B-item_unit_price
+249.10 -> B-item_total
+3 -> B-item_quantity
+scale granular metrics -> B-item_description
+23.95 -> B-item_unit_price
+71.85 -> B-item_total
+8 -> B-item_quantity
+transform integrated portals -> B-item_description
+50.56 -> B-item_unit_price
+404.48 -> B-item_total
+Subtotal -> O 
+: -> O
+ 911.11 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+145.78 -> B-tax_amount
+TOTAL -> O
+: -> O
+1056.89 -> B-total

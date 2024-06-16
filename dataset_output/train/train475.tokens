@@ -1,0 +1,82 @@
+Factura -> O
+982397 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-18 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-22 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Blanch -> B-issuer_name
+y -> I-issuer_name
+Ruiz -> I-issuer_name
+S.A.U -> I-issuer_name
+Alameda -> B-issuer_address
+de -> I-issuer_address
+Mónica -> I-issuer_address
+Carballo -> I-issuer_address
+99 -> I-issuer_address
+Las -> I-issuer_address
+Palmas, -> I-issuer_address
+28908 -> I-issuer_address
++34826 52 05 38 -> B-issuer_phone
+bibiana56@desarrollo.com -> B-issuer_email
+ZyQ503QvN444 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Luisa -> B-recipient_name
+Prieto -> I-recipient_name
+Flores -> I-recipient_name
+Cuesta -> B-recipient_address
+Julia -> I-recipient_address
+Muro -> I-recipient_address
+33 -> I-recipient_address
+Apt. -> I-recipient_address
+79 -> I-recipient_address
+La -> I-recipient_address
+Coruña, -> I-recipient_address
+14714 -> I-recipient_address
++34 942 57 36 95 -> B-recipient_phone
+sanchofortunata@hotmail.com -> B-recipient_email
+JMh905uPx905 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+unleash cross-platform platforms -> B-item_description
+3 -> B-item_quantity
+24.12 -> B-item_unit_price
+72.36 -> B-item_total
+revolutionize distributed web services -> B-item_description
+6 -> B-item_quantity
+43.34 -> B-item_unit_price
+260.04 -> B-item_total
+mesh rich users -> B-item_description
+5 -> B-item_quantity
+36.93 -> B-item_unit_price
+184.65 -> B-item_total
+Subtotal -> O
+ : -> O
+ 517.05 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+82.73 -> B-tax_amount
+Total -> O
+: -> O
+599.78 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

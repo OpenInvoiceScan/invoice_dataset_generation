@@ -1,0 +1,79 @@
+Factura -> O
+859741 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-16 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-21 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Castilla -> B-issuer_name
+y -> I-issuer_name
+Garmendia -> I-issuer_name
+S.L. -> I-issuer_name
+Camino -> B-issuer_address
+de -> I-issuer_address
+Blas -> I-issuer_address
+Español -> I-issuer_address
+686 -> I-issuer_address
+La -> I-issuer_address
+Coruña, -> I-issuer_address
+36683 -> I-issuer_address
++34968 28 23 50 -> B-issuer_phone
+llorensmatilde@hnos.es -> B-issuer_email
+Azu620YFp252 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Chelo -> B-recipient_name
+Quiroga-Llamas -> I-recipient_name
+Camino -> B-recipient_address
+de -> I-recipient_address
+Débora -> I-recipient_address
+Sarabia -> I-recipient_address
+412 -> I-recipient_address
+Teruel, -> I-recipient_address
+08985 -> I-recipient_address
++34866 31 56 78 -> B-recipient_phone
+ycastaneda@yahoo.com -> B-recipient_email
+QAM720LLz353 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+engage one-to-one infrastructures -> B-item_description
+9 -> B-item_quantity
+76.85 -> B-item_unit_price
+691.65 -> B-item_total
+synergize out-of-the-box partnerships -> B-item_description
+3 -> B-item_quantity
+29.93 -> B-item_unit_price
+89.79 -> B-item_total
+envisioneer extensible content -> B-item_description
+1 -> B-item_quantity
+33.07 -> B-item_unit_price
+33.07 -> B-item_total
+Subtotal -> O
+ : -> O
+ 814.51 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+130.32 -> B-tax_amount
+Total -> O
+: -> O
+944.83 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

@@ -1,0 +1,71 @@
+Lozano -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.L.N.E -> I-issuer_name
+C. -> B-issuer_address
+Pacífica -> I-issuer_address
+Pujol -> I-issuer_address
+54 -> I-issuer_address
+Puerta -> I-issuer_address
+7 -> I-issuer_address
+Guipúzcoa, -> I-issuer_address
+39028 -> I-issuer_address
++34 690291057 -> B-issuer_phone
+wortuno@alba.com -> B-issuer_email
+roe324ieB752 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Dani -> B-recipient_name
+Abad -> I-recipient_name
+Hoyos -> I-recipient_name
+Pasaje -> B-recipient_address
+Angelita -> I-recipient_address
+Méndez -> I-recipient_address
+97 -> I-recipient_address
+Córdoba, -> I-recipient_address
+50191 -> I-recipient_address
++34 943 65 45 44 -> B-recipient_phone
+vito51@hotmail.com -> B-recipient_email
+jES253vDo209 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+929129 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-03 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+streamline distributed channels -> B-item_description
+88.08 -> B-item_unit_price
+352.32 -> B-item_total
+3 -> B-item_quantity
+envisioneer bleeding-edge architectures -> B-item_description
+29.04 -> B-item_unit_price
+87.12 -> B-item_total
+3 -> B-item_quantity
+benchmark enterprise synergies -> B-item_description
+58.28 -> B-item_unit_price
+174.84 -> B-item_total
+7 -> B-item_quantity
+unleash strategic action-items -> B-item_description
+51.64 -> B-item_unit_price
+361.48 -> B-item_total
+Subtotal -> O
+: -> O
+ 975.76 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+156.12 -> B-tax_amount
+TOTAL -> O
+: -> O
+1131.88 -> B-total

@@ -1,0 +1,75 @@
+Instalaciones -> B-issuer_name
+JPLL -> I-issuer_name
+S.Com. -> I-issuer_name
+Via -> B-issuer_address
+Eufemia -> I-issuer_address
+Cañellas -> I-issuer_address
+89 -> I-issuer_address
+La -> I-issuer_address
+Coruña, -> I-issuer_address
+02157 -> I-issuer_address
++34885 08 36 80 -> B-issuer_phone
+tfuentes@fabrica.es -> B-issuer_email
+IKt416Vcg994 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Ale -> B-recipient_name
+Noguera -> I-recipient_name
+Mascaró -> I-recipient_name
+Paseo -> B-recipient_address
+de -> I-recipient_address
+Narciso -> I-recipient_address
+Montalbán -> I-recipient_address
+638 -> I-recipient_address
+Puerta -> I-recipient_address
+7 -> I-recipient_address
+Badajoz, -> I-recipient_address
+21377 -> I-recipient_address
++34848 73 34 26 -> B-recipient_phone
+zmoran@gmail.com -> B-recipient_email
+CQA177lZv732 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+546336 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-04 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+enhance turn-key e-markets -> B-item_description
+64.05 -> B-item_unit_price
+512.40 -> B-item_total
+5 -> B-item_quantity
+scale user-centric e-markets -> B-item_description
+75.59 -> B-item_unit_price
+377.95 -> B-item_total
+10 -> B-item_quantity
+deliver synergistic ROI -> B-item_description
+48.05 -> B-item_unit_price
+480.50 -> B-item_total
+8 -> B-item_quantity
+scale next-generation web-readiness -> B-item_description
+58.04 -> B-item_unit_price
+464.32 -> B-item_total
+2 -> B-item_quantity
+aggregate interactive solutions -> B-item_description
+61.52 -> B-item_unit_price
+123.04 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1958.21 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+313.31 -> B-tax_amount
+TOTAL -> O
+: -> O
+2271.52 -> B-total

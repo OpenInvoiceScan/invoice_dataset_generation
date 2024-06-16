@@ -1,0 +1,68 @@
+Hierro -> B-issuer_name
+y -> I-issuer_name
+Ropero -> I-issuer_name
+S.C.P -> I-issuer_name
+Camino -> B-issuer_address
+de -> I-issuer_address
+Manuelita -> I-issuer_address
+Pinilla -> I-issuer_address
+88 -> I-issuer_address
+Piso -> I-issuer_address
+8 -> I-issuer_address
+Álava, -> I-issuer_address
+28165 -> I-issuer_address
++34828 26 77 63 -> B-issuer_phone
+inigomosquera@inversiones.es -> B-issuer_email
+bgT442bkH766 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Jovita -> B-recipient_name
+Prada -> I-recipient_name
+Roca -> I-recipient_name
+Cuesta -> B-recipient_address
+de -> I-recipient_address
+Dorita -> I-recipient_address
+Pino -> I-recipient_address
+90 -> I-recipient_address
+Girona, -> I-recipient_address
+19733 -> I-recipient_address
++34 928 320 795 -> B-recipient_phone
+marinazamora@gmail.com -> B-recipient_email
+jGe058LHR715 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+509555 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-13 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+engineer one-to-one applications -> B-item_description
+70.99 -> B-item_unit_price
+141.98 -> B-item_total
+10 -> B-item_quantity
+extend user-centric bandwidth -> B-item_description
+92.57 -> B-item_unit_price
+925.70 -> B-item_total
+9 -> B-item_quantity
+target sticky deliverables -> B-item_description
+90.41 -> B-item_unit_price
+813.69 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1881.37 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+301.02 -> B-tax_amount
+TOTAL -> O
+: -> O
+2182.39 -> B-total

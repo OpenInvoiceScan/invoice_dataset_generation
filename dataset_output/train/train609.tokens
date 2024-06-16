@@ -1,0 +1,59 @@
+Consultoría -> B-issuer_name
+TKO -> I-issuer_name
+S.A.T. -> I-issuer_name
+Ronda -> B-issuer_address
+de -> I-issuer_address
+Borja -> I-issuer_address
+Pellicer -> I-issuer_address
+13 -> I-issuer_address
+Apt. -> I-issuer_address
+61 -> I-issuer_address
+Cuenca, -> I-issuer_address
+39018 -> I-issuer_address
++34 979 57 68 81 -> B-issuer_phone
+cerverajordi@promociones.org -> B-issuer_email
+qZe590aum912 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Cloe -> B-recipient_name
+Gonzalo -> I-recipient_name
+Manzano -> I-recipient_name
+Cuesta -> B-recipient_address
+Lucho -> I-recipient_address
+Riquelme -> I-recipient_address
+589 -> I-recipient_address
+Soria, -> I-recipient_address
+48619 -> I-recipient_address
++34 807 78 00 55 -> B-recipient_phone
+benaventagapito@yahoo.com -> B-recipient_email
+AeN445mME978 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+258217 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-26 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+integrate integrated relationships -> B-item_description
+72.63 -> B-item_unit_price
+290.52 -> B-item_total
+Subtotal -> O
+: -> O
+ 290.52 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+46.48 -> B-tax_amount
+TOTAL -> O
+: -> O
+337.00 -> B-total

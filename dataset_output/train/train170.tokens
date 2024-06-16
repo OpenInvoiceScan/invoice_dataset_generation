@@ -1,0 +1,80 @@
+Invoice -> O
+487573 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-07 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-09 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Ceferino -> B-issuer_name
+Samper -> I-issuer_name
+Ortuño -> I-issuer_name
+S.L. -> I-issuer_name
+Vial -> B-issuer_address
+de -> I-issuer_address
+Caridad -> I-issuer_address
+Nicolás -> I-issuer_address
+43 -> I-issuer_address
+Barcelona, -> I-issuer_address
+12139 -> I-issuer_address
++34 823 54 58 95 -> B-issuer_phone
+suarezwilfredo@velasco.com -> B-issuer_email
+EBR555mYx343 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Dimas -> B-recipient_name
+Benitez -> I-recipient_name
+Portero -> I-recipient_name
+Vial -> B-recipient_address
+de -> I-recipient_address
+Hilda -> I-recipient_address
+Viña -> I-recipient_address
+241 -> I-recipient_address
+Apt. -> I-recipient_address
+88 -> I-recipient_address
+Baleares, -> I-recipient_address
+30265 -> I-recipient_address
++34 915 84 96 04 -> B-recipient_phone
+boschmelania@hotmail.com -> B-recipient_email
+giL714jKC174 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+facilitate dot-com partnerships -> B-item_description
+3 -> B-item_quantity
+86.57 -> B-item_unit_price
+259.71 -> B-item_total
+morph magnetic synergies -> B-item_description
+2 -> B-item_quantity
+41.77 -> B-item_unit_price
+83.54 -> B-item_total
+extend bleeding-edge synergies -> B-item_description
+9 -> B-item_quantity
+76.71 -> B-item_unit_price
+690.39 -> B-item_total
+benchmark robust platforms -> B-item_description
+6 -> B-item_quantity
+74.56 -> B-item_unit_price
+447.36 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1481.00 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+236.96 -> B-tax_amount
+Total -> O
+: -> O
+1717.96 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

@@ -1,0 +1,94 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+XYB640bpV202 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34842648085 -> B-recipient_phone
+Nombre -> O
+: -> O
+Edelmira -> B-recipient_name
+Plaza -> I-recipient_name
+Elorza -> I-recipient_name
+Correo -> O
+: -> O
+urenaalejandra@hotmail.com -> B-recipient_email
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Consuelo -> I-recipient_address
+Iriarte -> I-recipient_address
+95 -> I-recipient_address
+Puerta -> I-recipient_address
+0 -> I-recipient_address
+Zaragoza, -> I-recipient_address
+02349 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+237055 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-15 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+architect strategic deliverables -> B-item_description
+7 -> B-item_quantity
+83.51 -> B-item_total
+e-enable interactive relationships -> B-item_description
+6 -> B-item_quantity
+539.46 -> B-item_total
+facilitate robust action-items -> B-item_description
+9 -> B-item_quantity
+626.22 -> B-item_total
+syndicate frictionless applications -> B-item_description
+1 -> B-item_quantity
+49.27 -> B-item_total
+enable interactive functionalities -> B-item_description
+7 -> B-item_quantity
+691.88 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1990.34 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+318.45 -> B-tax_amount
+TOTAL -> O
+: -> O
+2308.79 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+XEH277wDq647 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34846 321 035 -> B-issuer_phone
+Nombre -> O
+: -> O
+Promociones -> B-issuer_name
+Llabrés -> I-issuer_name
+S.A. -> I-issuer_name
+Correo -> O
+: -> O
+arceliahoyos@bosch.com -> B-issuer_email
+Cañada -> B-issuer_address
+de -> I-issuer_address
+Balduino -> I-issuer_address
+Báez -> I-issuer_address
+935 -> I-issuer_address
+La -> I-issuer_address
+Coruña, -> I-issuer_address
+19548 -> I-issuer_address

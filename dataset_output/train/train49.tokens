@@ -1,0 +1,71 @@
+Transportes -> B-issuer_name
+Figueras -> I-issuer_name
+S.Coop. -> I-issuer_name
+Vial -> B-issuer_address
+de -> I-issuer_address
+Edgardo -> I-issuer_address
+Acedo -> I-issuer_address
+94 -> I-issuer_address
+Valladolid, -> I-issuer_address
+30109 -> I-issuer_address
++34974134992 -> B-issuer_phone
+mgibert@galan.com -> B-issuer_email
+Jjm151wAl781 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Amarilis -> B-recipient_name
+Torrent -> I-recipient_name
+C. -> B-recipient_address
+de -> I-recipient_address
+Adalberto -> I-recipient_address
+Lledó -> I-recipient_address
+92 -> I-recipient_address
+Piso -> I-recipient_address
+9 -> I-recipient_address
+Valencia, -> I-recipient_address
+32229 -> I-recipient_address
++34983125351 -> B-recipient_phone
+trini46@yahoo.com -> B-recipient_email
+vca614KaK623 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+209795 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-19 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+exploit 24/365 mindshare -> B-item_description
+41.06 -> B-item_unit_price
+164.24 -> B-item_total
+3 -> B-item_quantity
+deploy holistic technologies -> B-item_description
+18.11 -> B-item_unit_price
+54.33 -> B-item_total
+8 -> B-item_quantity
+e-enable enterprise users -> B-item_description
+12.42 -> B-item_unit_price
+99.36 -> B-item_total
+4 -> B-item_quantity
+target 24/7 schemas -> B-item_description
+99.53 -> B-item_unit_price
+398.12 -> B-item_total
+Subtotal -> O
+: -> O
+ 716.05 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+114.57 -> B-tax_amount
+TOTAL -> O
+: -> O
+830.62 -> B-total

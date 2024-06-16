@@ -1,0 +1,56 @@
+{
+  "invoice_id": 220069,
+  "issue_date": "2024-05-14",
+  "due_date": "2024-06-05",
+  "issuer": {
+    "name": "Suministros Goicoechea S.Coop.",
+    "address": "Pasadizo de Graciano Portero 613 Apt. 96 \nSoria, 33067",
+    "phone": "+34 978 03 99 49",
+    "email": "eva79@instalaciones.net",
+    "tax_id": "QAM784azY829"
+  },
+  "recipient": {
+    "name": "Cecilia Juana Sans Poza",
+    "address": "Glorieta Arturo Azcona 11 Puerta 0 \nGirona, 08621",
+    "phone": "+34 735 05 18 26",
+    "email": "jose-antoniovaquero@gmail.com",
+    "tax_id": "kYT599LEa727"
+  },
+  "items": [
+    {
+      "description": "mesh customized synergies",
+      "quantity": 3,
+      "unit_price": "29.00",
+      "total": "87.00"
+    },
+    {
+      "description": "exploit customized models",
+      "quantity": 7,
+      "unit_price": "52.62",
+      "total": "368.34"
+    },
+    {
+      "description": "evolve proactive applications",
+      "quantity": 2,
+      "unit_price": "22.39",
+      "total": "44.78"
+    },
+    {
+      "description": "incentivize customized e-markets",
+      "quantity": 9,
+      "unit_price": "28.53",
+      "total": "256.77"
+    }
+  ],
+  "subtotal": "756.89",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "121.10"
+    }
+  ],
+  "total": "877.99",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

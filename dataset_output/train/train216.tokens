@@ -1,0 +1,63 @@
+Familia -> B-issuer_name
+Garriga -> I-issuer_name
+S.Coop. -> I-issuer_name
+Paseo -> B-issuer_address
+Loreto -> I-issuer_address
+Villalobos -> I-issuer_address
+405 -> I-issuer_address
+Apt. -> I-issuer_address
+06 -> I-issuer_address
+Barcelona, -> I-issuer_address
+25676 -> I-issuer_address
++34984 333 402 -> B-issuer_phone
+barrancosalomon@soriano.es -> B-issuer_email
+SSw950Plf029 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Ernesto -> B-recipient_name
+Trujillo -> I-recipient_name
+Frías -> I-recipient_name
+Alameda -> B-recipient_address
+Morena -> I-recipient_address
+Bauzà -> I-recipient_address
+9 -> I-recipient_address
+Piso -> I-recipient_address
+2 -> I-recipient_address
+Cuenca, -> I-recipient_address
+13694 -> I-recipient_address
++34 920046699 -> B-recipient_phone
+rolmo@yahoo.com -> B-recipient_email
+aiK748qKe065 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+270161 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-05 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+scale granular initiatives -> B-item_description
+99.40 -> B-item_unit_price
+198.80 -> B-item_total
+10 -> B-item_quantity
+engineer wireless deliverables -> B-item_description
+32.70 -> B-item_unit_price
+327.00 -> B-item_total
+Subtotal -> O 
+: -> O
+ 525.80 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+84.13 -> B-tax_amount
+TOTAL -> O
+: -> O
+609.93 -> B-total

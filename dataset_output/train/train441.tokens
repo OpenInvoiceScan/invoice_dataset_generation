@@ -1,0 +1,65 @@
+Dionisio -> B-issuer_name
+Berrocal -> I-issuer_name
+Rovira -> I-issuer_name
+S.A. -> I-issuer_name
+Pasadizo -> B-issuer_address
+de -> I-issuer_address
+Nerea -> I-issuer_address
+Rey -> I-issuer_address
+60 -> I-issuer_address
+Puerta -> I-issuer_address
+0 -> I-issuer_address
+Málaga, -> I-issuer_address
+27249 -> I-issuer_address
++34924007807 -> B-issuer_phone
+juan-carlossantana@marin.com -> B-issuer_email
+rgj605AYf426 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Benita -> B-recipient_name
+Falcó -> I-recipient_name
+Pino -> I-recipient_name
+Cañada -> B-recipient_address
+Natanael -> I-recipient_address
+Mayo -> I-recipient_address
+24 -> I-recipient_address
+La -> I-recipient_address
+Rioja, -> I-recipient_address
+15013 -> I-recipient_address
++34978 885 224 -> B-recipient_phone
+jacinto69@yahoo.com -> B-recipient_email
+wBy180suB859 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+269816 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-25 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+1 -> B-item_quantity
+re-intermediate front-end systems -> B-item_description
+34.45 -> B-item_unit_price
+34.45 -> B-item_total
+4 -> B-item_quantity
+revolutionize granular platforms -> B-item_description
+24.64 -> B-item_unit_price
+98.56 -> B-item_total
+Subtotal -> O
+: -> O
+ 133.01 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+21.28 -> B-tax_amount
+TOTAL -> O
+: -> O
+154.29 -> B-total

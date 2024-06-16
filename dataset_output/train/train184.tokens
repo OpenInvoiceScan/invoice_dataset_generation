@@ -1,0 +1,66 @@
+Hotel -> B-issuer_name
+Meléndez -> I-issuer_name
+S.L.U. -> I-issuer_name
+Plaza -> B-issuer_address
+de -> I-issuer_address
+Tatiana -> I-issuer_address
+Navarrete -> I-issuer_address
+74 -> I-issuer_address
+Málaga, -> I-issuer_address
+31843 -> I-issuer_address
++34 982 98 36 70 -> B-issuer_phone
+florentinaminguez@banca.com -> B-issuer_email
+nwv461jrT942 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Rosalía -> B-recipient_name
+Zurita -> I-recipient_name
+Gimenez -> I-recipient_name
+Rambla -> B-recipient_address
+Adriana -> I-recipient_address
+Sedano -> I-recipient_address
+308 -> I-recipient_address
+Piso -> I-recipient_address
+1 -> I-recipient_address
+Girona, -> I-recipient_address
+33577 -> I-recipient_address
++34 902 748 848 -> B-recipient_phone
+hcarrion@yahoo.com -> B-recipient_email
+eFp393Gwz933 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+774811 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-29 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+matrix clicks-and-mortar convergence -> B-item_description
+87.83 -> B-item_unit_price
+878.30 -> B-item_total
+9 -> B-item_quantity
+cultivate 24/7 communities -> B-item_description
+95.73 -> B-item_unit_price
+861.57 -> B-item_total
+1 -> B-item_quantity
+incubate open-source paradigms -> B-item_description
+19.22 -> B-item_unit_price
+19.22 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1759.09 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+281.45 -> B-tax_amount
+TOTAL -> O
+: -> O
+2040.54 -> B-total

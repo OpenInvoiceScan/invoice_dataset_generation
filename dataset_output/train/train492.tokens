@@ -1,0 +1,85 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+Pxc651zpe973 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34941 496 458 -> B-recipient_phone
+Nombre -> O
+: -> O
+Marcelo -> B-recipient_name
+Fernández -> I-recipient_name
+Mate -> I-recipient_name
+Correo -> O
+: -> O
+villegasnuria@yahoo.com -> B-recipient_email
+Alameda -> B-recipient_address
+Rufina -> I-recipient_address
+Adán -> I-recipient_address
+19 -> I-recipient_address
+Puerta -> I-recipient_address
+5 -> I-recipient_address
+Cantabria, -> I-recipient_address
+30189 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+695232 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-16 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+synergize open-source channels -> B-item_description
+9 -> B-item_quantity
+417.42 -> B-item_total
+iterate ubiquitous e-services -> B-item_description
+10 -> B-item_quantity
+215.70 -> B-item_total
+Subtotal -> O
+ : -> O
+ 633.12 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+101.30 -> B-tax_amount
+TOTAL -> O
+: -> O
+734.42 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+lEq848yET111 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 806 15 68 18 -> B-issuer_phone
+Nombre -> O
+: -> O
+Ugarte -> B-issuer_name
+y -> I-issuer_name
+Canals -> I-issuer_name
+S.Coop. -> I-issuer_name
+Correo -> O
+: -> O
+nietootilia@suministros.net -> B-issuer_email
+Avenida -> B-issuer_address
+Eutimio -> I-issuer_address
+Asenjo -> I-issuer_address
+37 -> I-issuer_address
+Apt. -> I-issuer_address
+63 -> I-issuer_address
+Segovia, -> I-issuer_address
+37365 -> I-issuer_address

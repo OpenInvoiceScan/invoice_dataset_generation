@@ -1,0 +1,71 @@
+Fábrica -> B-issuer_name
+Globales -> I-issuer_name
+S.A.D -> I-issuer_name
+Avenida -> B-issuer_address
+Javiera -> I-issuer_address
+Valls -> I-issuer_address
+82 -> I-issuer_address
+Ciudad, -> I-issuer_address
+20815 -> I-issuer_address
++34 823 874 950 -> B-issuer_phone
+santamariaester@martinez.es -> B-issuer_email
+kSE482nMp614 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Natanael -> B-recipient_name
+del -> I-recipient_name
+Cantero -> I-recipient_name
+Pasadizo -> B-recipient_address
+de -> I-recipient_address
+Silvio -> I-recipient_address
+Quirós -> I-recipient_address
+94 -> I-recipient_address
+Puerta -> I-recipient_address
+5 -> I-recipient_address
+Zamora, -> I-recipient_address
+13365 -> I-recipient_address
++34 843 889 165 -> B-recipient_phone
+maxima45@yahoo.com -> B-recipient_email
+BBE219Pwq019 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+250617 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-27 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+re-intermediate value-added models -> B-item_description
+11.08 -> B-item_unit_price
+99.72 -> B-item_total
+4 -> B-item_quantity
+unleash back-end mindshare -> B-item_description
+26.25 -> B-item_unit_price
+105.00 -> B-item_total
+4 -> B-item_quantity
+innovate user-centric communities -> B-item_description
+62.04 -> B-item_unit_price
+248.16 -> B-item_total
+4 -> B-item_quantity
+embrace impactful web services -> B-item_description
+67.47 -> B-item_unit_price
+269.88 -> B-item_total
+Subtotal -> O
+: -> O
+ 722.76 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+115.64 -> B-tax_amount
+TOTAL -> O
+: -> O
+838.40 -> B-total

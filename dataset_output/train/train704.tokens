@@ -1,0 +1,63 @@
+Infraestructuras -> B-issuer_name
+LL -> I-issuer_name
+S.Com. -> I-issuer_name
+Paseo -> B-issuer_address
+de -> I-issuer_address
+Susanita -> I-issuer_address
+Zaragoza -> I-issuer_address
+69 -> I-issuer_address
+Piso -> I-issuer_address
+0 -> I-issuer_address
+Palencia, -> I-issuer_address
+18892 -> I-issuer_address
++34 946 189 933 -> B-issuer_phone
+manuelnarvaez@desarrollo.net -> B-issuer_email
+Xdb643UUI514 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Javi -> B-recipient_name
+de -> I-recipient_name
+Padilla -> I-recipient_name
+Paseo -> B-recipient_address
+de -> I-recipient_address
+Marisela -> I-recipient_address
+Bellido -> I-recipient_address
+16 -> I-recipient_address
+Vizcaya, -> I-recipient_address
+06288 -> I-recipient_address
++34951 37 29 93 -> B-recipient_phone
+guadalupe72@gmail.com -> B-recipient_email
+Lfu370OzX021 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+725247 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-23 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+enable viral markets -> B-item_description
+11.76 -> B-item_unit_price
+23.52 -> B-item_total
+10 -> B-item_quantity
+generate real-time web services -> B-item_description
+89.80 -> B-item_unit_price
+898.00 -> B-item_total
+Subtotal -> O 
+: -> O
+ 921.52 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+147.44 -> B-tax_amount
+TOTAL -> O
+: -> O
+1068.96 -> B-total

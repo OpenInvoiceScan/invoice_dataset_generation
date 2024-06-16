@@ -1,0 +1,90 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+KeN232obz378 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 946 60 76 86 -> B-recipient_phone
+Nombre -> O
+: -> O
+Mónica -> B-recipient_name
+Báez -> I-recipient_name
+Rivero -> I-recipient_name
+Correo -> O
+: -> O
+castillamaria-pilar@hotmail.com -> B-recipient_email
+Cañada -> B-recipient_address
+Narciso -> I-recipient_address
+Espinosa -> I-recipient_address
+74 -> I-recipient_address
+Puerta -> I-recipient_address
+0 -> I-recipient_address
+Burgos, -> I-recipient_address
+03990 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+307394 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-14 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+integrate revolutionary methodologies -> B-item_description
+1 -> B-item_quantity
+98.91 -> B-item_total
+extend synergistic web services -> B-item_description
+8 -> B-item_quantity
+312.32 -> B-item_total
+exploit distributed niches -> B-item_description
+6 -> B-item_quantity
+273.48 -> B-item_total
+empower back-end experiences -> B-item_description
+4 -> B-item_quantity
+310.80 -> B-item_total
+Subtotal -> O
+ : -> O
+ 995.51 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+159.28 -> B-tax_amount
+TOTAL -> O
+: -> O
+1154.79 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+MQq724Zrq309 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34902 920 056 -> B-issuer_phone
+Nombre -> O
+: -> O
+Logística -> B-issuer_name
+Ibéricos -> I-issuer_name
+S.L. -> I-issuer_name
+Correo -> O
+: -> O
+sosimo08@alimentacion.es -> B-issuer_email
+Acceso -> B-issuer_address
+Eli -> I-issuer_address
+Baena -> I-issuer_address
+701 -> I-issuer_address
+Piso -> I-issuer_address
+0 -> I-issuer_address
+Zaragoza, -> I-issuer_address
+45298 -> I-issuer_address

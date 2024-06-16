@@ -1,0 +1,38 @@
+{
+  "invoice_id": 687276,
+  "issue_date": "2024-04-30",
+  "due_date": "2024-06-17",
+  "issuer": {
+    "name": "Suministros Castellana S.Com.",
+    "address": "Pasadizo de Sara Moreno 75 Puerta 0 \n\u00c1vila, 33510",
+    "phone": "+34828013700",
+    "email": "porteroteresita@domenech.es",
+    "tax_id": "Ywp210zGq855"
+  },
+  "recipient": {
+    "name": "Valero Aller Blasco",
+    "address": "Plaza de Florina Pacheco 68\nSanta Cruz de Tenerife, 19322",
+    "phone": "+34 887778688",
+    "email": "benitomur@gmail.com",
+    "tax_id": "nVo989TEM044"
+  },
+  "items": [
+    {
+      "description": "integrate real-time web services",
+      "quantity": 9,
+      "unit_price": "62.67",
+      "total": "564.03"
+    }
+  ],
+  "subtotal": "564.03",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "90.24"
+    }
+  ],
+  "total": "654.27",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

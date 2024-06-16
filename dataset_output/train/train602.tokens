@@ -1,0 +1,64 @@
+Invoice -> O
+400362 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-09 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-21 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Construcción -> B-issuer_name
+Priego -> I-issuer_name
+S.Coop. -> I-issuer_name
+Pasadizo -> B-issuer_address
+de -> I-issuer_address
+Tomasa -> I-issuer_address
+Nogueira -> I-issuer_address
+67 -> I-issuer_address
+Zaragoza, -> I-issuer_address
+42756 -> I-issuer_address
++34843 649 014 -> B-issuer_phone
+andresdomingo@compania.com -> B-issuer_email
+Ycu283QuF637 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Manuel -> B-recipient_name
+Alcolea -> I-recipient_name
+Amigó -> I-recipient_name
+Glorieta -> B-recipient_address
+Ezequiel -> I-recipient_address
+Luz -> I-recipient_address
+6 -> I-recipient_address
+Guipúzcoa, -> I-recipient_address
+01377 -> I-recipient_address
++34984 377 926 -> B-recipient_phone
+americo49@gmail.com -> B-recipient_email
+xVO189CcW537 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+matrix bricks-and-clicks e-business -> B-item_description
+5 -> B-item_quantity
+78.80 -> B-item_unit_price
+394.00 -> B-item_total
+Subtotal -> O
+ : -> O
+ 394.00 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+63.04 -> B-tax_amount
+Total -> O
+: -> O
+457.04 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

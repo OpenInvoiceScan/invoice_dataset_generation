@@ -1,0 +1,84 @@
+Factura -> O
+111474 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-17 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-02 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Construcción -> B-issuer_name
+Abellán -> I-issuer_name
+S.Coop. -> I-issuer_name
+Acceso -> B-issuer_address
+de -> I-issuer_address
+Rosalina -> I-issuer_address
+Lucena -> I-issuer_address
+48 -> I-issuer_address
+Tarragona, -> I-issuer_address
+50648 -> I-issuer_address
++34876393152 -> B-issuer_phone
+esperanza94@banca.es -> B-issuer_email
+yao572evu074 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Primitivo -> B-recipient_name
+del -> I-recipient_name
+Toledo -> I-recipient_name
+Rambla -> B-recipient_address
+de -> I-recipient_address
+Angelino -> I-recipient_address
+Rueda -> I-recipient_address
+74 -> I-recipient_address
+Puerta -> I-recipient_address
+1 -> I-recipient_address
+Almería, -> I-recipient_address
+10436 -> I-recipient_address
++34975796081 -> B-recipient_phone
+mcortes@yahoo.com -> B-recipient_email
+DRh160VGb137 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+redefine scalable communities -> B-item_description
+6 -> B-item_quantity
+98.02 -> B-item_unit_price
+588.12 -> B-item_total
+transition customized deliverables -> B-item_description
+1 -> B-item_quantity
+53.72 -> B-item_unit_price
+53.72 -> B-item_total
+enhance dynamic eyeballs -> B-item_description
+1 -> B-item_quantity
+78.73 -> B-item_unit_price
+78.73 -> B-item_total
+envisioneer impactful content -> B-item_description
+6 -> B-item_quantity
+44.55 -> B-item_unit_price
+267.30 -> B-item_total
+Subtotal -> O
+ : -> O
+ 987.87 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+158.06 -> B-tax_amount
+Total -> O
+: -> O
+1145.93 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

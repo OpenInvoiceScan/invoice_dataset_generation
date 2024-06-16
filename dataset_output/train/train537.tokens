@@ -1,0 +1,71 @@
+Nuñez -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Pasadizo -> B-issuer_address
+Cayetano -> I-issuer_address
+Alberdi -> I-issuer_address
+25 -> I-issuer_address
+Huelva, -> I-issuer_address
+01603 -> I-issuer_address
++34717784856 -> B-issuer_phone
+erosello@distribuciones.es -> B-issuer_email
+Bdo668heB594 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Clarisa -> B-recipient_name
+del -> I-recipient_name
+Calderón -> I-recipient_name
+Cañada -> B-recipient_address
+Zaira -> I-recipient_address
+Diez -> I-recipient_address
+2 -> I-recipient_address
+Apt. -> I-recipient_address
+22 -> I-recipient_address
+Álava, -> I-recipient_address
+45064 -> I-recipient_address
++34874 76 65 97 -> B-recipient_phone
+porcelpascual@hotmail.com -> B-recipient_email
+FnV675dRe570 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+881375 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-24 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+drive best-of-breed bandwidth -> B-item_description
+62.50 -> B-item_unit_price
+375.00 -> B-item_total
+5 -> B-item_quantity
+matrix strategic eyeballs -> B-item_description
+89.16 -> B-item_unit_price
+445.80 -> B-item_total
+5 -> B-item_quantity
+morph cutting-edge interfaces -> B-item_description
+45.28 -> B-item_unit_price
+226.40 -> B-item_total
+7 -> B-item_quantity
+utilize dot-com synergies -> B-item_description
+93.65 -> B-item_unit_price
+655.55 -> B-item_total
+Subtotal -> O
+: -> O
+ 1702.75 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+272.44 -> B-tax_amount
+TOTAL -> O
+: -> O
+1975.19 -> B-total

@@ -1,0 +1,72 @@
+Factura -> O
+412707 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-11 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-06 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Restauración -> B-issuer_name
+Cepeda -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.A.U -> I-issuer_name
+Vial -> B-issuer_address
+Verónica -> I-issuer_address
+Robledo -> I-issuer_address
+2 -> I-issuer_address
+Puerta -> I-issuer_address
+2 -> I-issuer_address
+Valencia, -> I-issuer_address
+08562 -> I-issuer_address
++34 886 48 09 74 -> B-issuer_phone
+canogertrudis@comercializadora.com -> B-issuer_email
+FgC400pRO392 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Encarnacion -> B-recipient_name
+Sabater -> I-recipient_name
+Cepeda -> I-recipient_name
+Rambla -> B-recipient_address
+Dionisio -> I-recipient_address
+Castillo -> I-recipient_address
+287 -> I-recipient_address
+Almería, -> I-recipient_address
+25917 -> I-recipient_address
++34875 397 444 -> B-recipient_phone
+pellicerbrunilda@hotmail.com -> B-recipient_email
+Gna412tFM221 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+aggregate B2C relationships -> B-item_description
+5 -> B-item_quantity
+75.49 -> B-item_unit_price
+377.45 -> B-item_total
+Subtotal -> O
+ : -> O
+ 377.45 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+60.39 -> B-tax_amount
+Total -> O
+: -> O
+437.84 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

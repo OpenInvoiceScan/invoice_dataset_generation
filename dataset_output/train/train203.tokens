@@ -1,0 +1,91 @@
+Factura -> O
+839085 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-07 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-29 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Suministros -> B-issuer_name
+Moliner -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Glorieta -> B-issuer_address
+de -> I-issuer_address
+Graciela -> I-issuer_address
+Canals -> I-issuer_address
+86 -> I-issuer_address
+Santa -> I-issuer_address
+Cruz -> I-issuer_address
+de -> I-issuer_address
+Tenerife, -> I-issuer_address
+07560 -> I-issuer_address
++34820941442 -> B-issuer_phone
+naciocobos@farmaceutica.es -> B-issuer_email
+KvQ647fgp393 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Álvaro -> B-recipient_name
+Lluch-Asensio -> I-recipient_name
+Avenida -> B-recipient_address
+Dora -> I-recipient_address
+Montesinos -> I-recipient_address
+678 -> I-recipient_address
+Puerta -> I-recipient_address
+1 -> I-recipient_address
+Álava, -> I-recipient_address
+09442 -> I-recipient_address
++34818 042 439 -> B-recipient_phone
+pratartemio@hotmail.com -> B-recipient_email
+Xmf749fQP297 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+extend sticky web-readiness -> B-item_description
+9 -> B-item_quantity
+63.32 -> B-item_unit_price
+569.88 -> B-item_total
+e-enable impactful synergies -> B-item_description
+1 -> B-item_quantity
+23.64 -> B-item_unit_price
+23.64 -> B-item_total
+evolve synergistic e-commerce -> B-item_description
+9 -> B-item_quantity
+28.04 -> B-item_unit_price
+252.36 -> B-item_total
+unleash dynamic web-readiness -> B-item_description
+5 -> B-item_quantity
+85.28 -> B-item_unit_price
+426.40 -> B-item_total
+streamline turn-key synergies -> B-item_description
+10 -> B-item_quantity
+63.63 -> B-item_unit_price
+636.30 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1908.58 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+305.37 -> B-tax_amount
+Total -> O
+: -> O
+2213.95 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

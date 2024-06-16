@@ -1,0 +1,68 @@
+Invoice -> O
+160475 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-10 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-17 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Grupo -> B-issuer_name
+Izquierdo -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Vial -> B-issuer_address
+Serafina -> I-issuer_address
+Carrión -> I-issuer_address
+95 -> I-issuer_address
+Almería, -> I-issuer_address
+07981 -> I-issuer_address
++34949 47 80 89 -> B-issuer_phone
+zzaragoza@tecnologias.es -> B-issuer_email
+lmY545qVf405 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Fortunata -> B-recipient_name
+Cózar -> I-recipient_name
+Córdoba -> I-recipient_name
+Ronda -> B-recipient_address
+de -> I-recipient_address
+María -> I-recipient_address
+Barriga -> I-recipient_address
+269 -> I-recipient_address
+Álava, -> I-recipient_address
+22996 -> I-recipient_address
++34987926191 -> B-recipient_phone
+uprada@hotmail.com -> B-recipient_email
+Uzz152plv409 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+monetize leading-edge experiences -> B-item_description
+1 -> B-item_quantity
+44.90 -> B-item_unit_price
+44.90 -> B-item_total
+aggregate synergistic e-tailers -> B-item_description
+2 -> B-item_quantity
+61.18 -> B-item_unit_price
+122.36 -> B-item_total
+Subtotal -> O
+ : -> O
+ 167.26 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+26.76 -> B-tax_amount
+Total -> O
+: -> O
+194.02 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

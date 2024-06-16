@@ -1,0 +1,38 @@
+{
+  "invoice_id": 676397,
+  "issue_date": "2024-05-01",
+  "due_date": "2024-06-12",
+  "issuer": {
+    "name": "Supermercados Internacionales S.L.N.E",
+    "address": "Glorieta Dolores Navas 5\nCantabria, 20235",
+    "phone": "+34 986 963 971",
+    "email": "ftorralba@toledo.com",
+    "tax_id": "PmA274zWh097"
+  },
+  "recipient": {
+    "name": "Rold\u00e1n Arsenio Cerro Almaz\u00e1n",
+    "address": "Rambla de H\u00e9ctor Lled\u00f3 9 Piso 2 \nBaleares, 38369",
+    "phone": "+34 949 67 19 41",
+    "email": "eduardo54@yahoo.com",
+    "tax_id": "Vee137xjr629"
+  },
+  "items": [
+    {
+      "description": "monetize magnetic partnerships",
+      "quantity": 10,
+      "unit_price": "20.06",
+      "total": "200.60"
+    }
+  ],
+  "subtotal": "200.60",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "32.10"
+    }
+  ],
+  "total": "232.70",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

@@ -1,0 +1,70 @@
+Suministros -> B-issuer_name
+Iberia -> I-issuer_name
+S.L.L. -> I-issuer_name
+Vial -> B-issuer_address
+Flora -> I-issuer_address
+Alegria -> I-issuer_address
+53 -> I-issuer_address
+Girona, -> I-issuer_address
+43140 -> I-issuer_address
++34913781299 -> B-issuer_phone
+dvalles@hermanos.es -> B-issuer_email
+QvZ698ukV092 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Paca -> B-recipient_name
+Pou -> I-recipient_name
+Anguita -> I-recipient_name
+Avenida -> B-recipient_address
+de -> I-recipient_address
+Rafael -> I-recipient_address
+Santos -> I-recipient_address
+33 -> I-recipient_address
+Piso -> I-recipient_address
+2 -> I-recipient_address
+Murcia, -> I-recipient_address
+03960 -> I-recipient_address
++34 925 774 432 -> B-recipient_phone
+izquierdoplinio@hotmail.com -> B-recipient_email
+pcq911SzE796 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+568585 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-19 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+incubate leading-edge convergence -> B-item_description
+53.55 -> B-item_unit_price
+374.85 -> B-item_total
+10 -> B-item_quantity
+expedite scalable vortals -> B-item_description
+82.25 -> B-item_unit_price
+822.50 -> B-item_total
+9 -> B-item_quantity
+re-contextualize plug-and-play users -> B-item_description
+58.25 -> B-item_unit_price
+524.25 -> B-item_total
+7 -> B-item_quantity
+visualize frictionless initiatives -> B-item_description
+28.53 -> B-item_unit_price
+199.71 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1921.31 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+307.41 -> B-tax_amount
+TOTAL -> O
+: -> O
+2228.72 -> B-total

@@ -1,0 +1,84 @@
+Factura -> O
+673585 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-23 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-30 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Grupo -> B-issuer_name
+Manso -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Ronda -> B-issuer_address
+Eusebio -> I-issuer_address
+Orozco -> I-issuer_address
+79 -> I-issuer_address
+Guipúzcoa, -> I-issuer_address
+46179 -> I-issuer_address
++34987478716 -> B-issuer_phone
+domingabatlle@restauracion.es -> B-issuer_email
+VnB546YNk960 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Albina -> B-recipient_name
+Flor -> I-recipient_name
+Gordillo -> I-recipient_name
+Ruiz -> I-recipient_name
+Calle -> B-recipient_address
+José -> I-recipient_address
+Ángel -> I-recipient_address
+Pou -> I-recipient_address
+65 -> I-recipient_address
+Puerta -> I-recipient_address
+5 -> I-recipient_address
+Zaragoza, -> I-recipient_address
+25027 -> I-recipient_address
++34 868 543 968 -> B-recipient_phone
+bgallardo@hotmail.com -> B-recipient_email
+kiL955tnl780 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+morph real-time functionalities -> B-item_description
+9 -> B-item_quantity
+17.59 -> B-item_unit_price
+158.31 -> B-item_total
+optimize killer convergence -> B-item_description
+4 -> B-item_quantity
+22.90 -> B-item_unit_price
+91.60 -> B-item_total
+whiteboard next-generation partnerships -> B-item_description
+6 -> B-item_quantity
+67.67 -> B-item_unit_price
+406.02 -> B-item_total
+monetize robust metrics -> B-item_description
+8 -> B-item_quantity
+14.98 -> B-item_unit_price
+119.84 -> B-item_total
+Subtotal -> O
+ : -> O
+ 775.77 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+124.12 -> B-tax_amount
+Total -> O
+: -> O
+899.89 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

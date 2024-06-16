@@ -1,0 +1,63 @@
+Grupo -> B-issuer_name
+Asensio -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Camino -> B-issuer_address
+Concepción -> I-issuer_address
+Medina -> I-issuer_address
+9 -> I-issuer_address
+Palencia, -> I-issuer_address
+51948 -> I-issuer_address
++34826 59 53 69 -> B-issuer_phone
+marcocorrea@enriquez.org -> B-issuer_email
+LHd462Szb860 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Rafael -> B-recipient_name
+Iniesta -> I-recipient_name
+Acosta -> I-recipient_name
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Jesús -> I-recipient_address
+Feijoo -> I-recipient_address
+65 -> I-recipient_address
+Piso -> I-recipient_address
+3 -> I-recipient_address
+Almería, -> I-recipient_address
+52044 -> I-recipient_address
++34 978 87 07 37 -> B-recipient_phone
+marciano66@gmail.com -> B-recipient_email
+NLR273okm630 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+979090 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-25 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+maximize magnetic vortals -> B-item_description
+76.48 -> B-item_unit_price
+305.92 -> B-item_total
+7 -> B-item_quantity
+unleash efficient methodologies -> B-item_description
+70.52 -> B-item_unit_price
+493.64 -> B-item_total
+Subtotal -> O
+: -> O
+ 799.56 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+127.93 -> B-tax_amount
+TOTAL -> O
+: -> O
+927.49 -> B-total

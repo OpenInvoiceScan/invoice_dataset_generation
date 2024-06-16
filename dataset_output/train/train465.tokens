@@ -1,0 +1,64 @@
+Pablo -> B-issuer_name
+Cañizares -> I-issuer_name
+Dalmau -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Avenida -> B-issuer_address
+de -> I-issuer_address
+Isaías -> I-issuer_address
+Fabregat -> I-issuer_address
+5 -> I-issuer_address
+Piso -> I-issuer_address
+8 -> I-issuer_address
+Álava, -> I-issuer_address
+31774 -> I-issuer_address
++34 887 550 507 -> B-issuer_phone
+rosendo93@alimentacion.es -> B-issuer_email
+WAN794mkW985 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Sandra -> B-recipient_name
+Novoa -> I-recipient_name
+Ayllón -> I-recipient_name
+Ronda -> B-recipient_address
+Bonifacio -> I-recipient_address
+Arcos -> I-recipient_address
+89 -> I-recipient_address
+Jaén, -> I-recipient_address
+04766 -> I-recipient_address
++34 920 46 86 03 -> B-recipient_phone
+iban45@gmail.com -> B-recipient_email
+upc511ZGd492 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+767247 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-02 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+visualize innovative technologies -> B-item_description
+78.88 -> B-item_unit_price
+709.92 -> B-item_total
+10 -> B-item_quantity
+re-intermediate bricks-and-clicks e-tailers -> B-item_description
+90.26 -> B-item_unit_price
+902.60 -> B-item_total
+Subtotal -> O
+: -> O
+ 1612.52 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+258.00 -> B-tax_amount
+TOTAL -> O
+: -> O
+1870.52 -> B-total

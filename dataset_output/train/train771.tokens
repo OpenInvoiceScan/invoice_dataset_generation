@@ -1,0 +1,81 @@
+Factura -> O
+24418 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-16 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-23 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Bueno -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Rambla -> B-issuer_address
+de -> I-issuer_address
+Rafa -> I-issuer_address
+Barberá -> I-issuer_address
+239 -> I-issuer_address
+Apt. -> I-issuer_address
+89 -> I-issuer_address
+Guadalajara, -> I-issuer_address
+28900 -> I-issuer_address
++34 887370296 -> B-issuer_phone
+kmoliner@transportes.com -> B-issuer_email
+FgT253gWR928 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+África -> B-recipient_name
+Domínguez-Barragán -> I-recipient_name
+Ronda -> B-recipient_address
+Ariel -> I-recipient_address
+Tejero -> I-recipient_address
+83 -> I-recipient_address
+Apt. -> I-recipient_address
+83 -> I-recipient_address
+Barcelona, -> I-recipient_address
+22801 -> I-recipient_address
++34984 981 374 -> B-recipient_phone
+adeliaosuna@hotmail.com -> B-recipient_email
+XhO861yAX502 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+grow compelling solutions -> B-item_description
+4 -> B-item_quantity
+21.78 -> B-item_unit_price
+87.12 -> B-item_total
+evolve cutting-edge supply-chains -> B-item_description
+7 -> B-item_quantity
+33.30 -> B-item_unit_price
+233.10 -> B-item_total
+expedite ubiquitous e-tailers -> B-item_description
+3 -> B-item_quantity
+53.31 -> B-item_unit_price
+159.93 -> B-item_total
+Subtotal -> O
+ : -> O
+ 480.15 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+76.82 -> B-tax_amount
+Total -> O
+: -> O
+556.97 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

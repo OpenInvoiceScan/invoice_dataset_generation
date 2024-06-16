@@ -1,0 +1,66 @@
+Maza -> B-issuer_name
+y -> I-issuer_name
+García -> I-issuer_name
+S.C.P -> I-issuer_name
+Calle -> B-issuer_address
+Jesusa -> I-issuer_address
+Quesada -> I-issuer_address
+27 -> I-issuer_address
+Pontevedra, -> I-issuer_address
+34931 -> I-issuer_address
++34 964 39 45 51 -> B-issuer_phone
+cebriancampos@manufacturas.net -> B-issuer_email
+hlx477XuW983 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Albano -> B-recipient_name
+Romeu -> I-recipient_name
+Bustamante -> I-recipient_name
+Camino -> B-recipient_address
+de -> I-recipient_address
+Áurea -> I-recipient_address
+Sacristán -> I-recipient_address
+805 -> I-recipient_address
+Guipúzcoa, -> I-recipient_address
+15592 -> I-recipient_address
++34982825027 -> B-recipient_phone
+amatjuana@yahoo.com -> B-recipient_email
+qzz093rsr586 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+945281 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-03 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+harness granular synergies -> B-item_description
+26.56 -> B-item_unit_price
+159.36 -> B-item_total
+8 -> B-item_quantity
+syndicate ubiquitous portals -> B-item_description
+90.55 -> B-item_unit_price
+724.40 -> B-item_total
+1 -> B-item_quantity
+mesh visionary relationships -> B-item_description
+68.95 -> B-item_unit_price
+68.95 -> B-item_total
+Subtotal -> O
+: -> O
+ 952.71 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+152.43 -> B-tax_amount
+TOTAL -> O
+: -> O
+1105.14 -> B-total

@@ -1,0 +1,68 @@
+Rosalía -> B-issuer_name
+Espejo -> I-issuer_name
+Valverde -> I-issuer_name
+S.L. -> I-issuer_name
+C. -> B-issuer_address
+de -> I-issuer_address
+Ligia -> I-issuer_address
+Fuster -> I-issuer_address
+89 -> I-issuer_address
+Puerta -> I-issuer_address
+3 -> I-issuer_address
+Albacete, -> I-issuer_address
+40037 -> I-issuer_address
++34826 85 64 74 -> B-issuer_phone
+kcarretero@llado.com -> B-issuer_email
+wUB163PbQ369 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Lorenza -> B-recipient_name
+Navarro-Soler -> I-recipient_name
+Alameda -> B-recipient_address
+de -> I-recipient_address
+Basilio -> I-recipient_address
+Padilla -> I-recipient_address
+8 -> I-recipient_address
+Castellón, -> I-recipient_address
+09444 -> I-recipient_address
++34 882 267 862 -> B-recipient_phone
+ramiromoles@gmail.com -> B-recipient_email
+Nhx671WkM549 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+463319 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-02 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+1 -> B-item_quantity
+empower open-source ROI -> B-item_description
+58.47 -> B-item_unit_price
+58.47 -> B-item_total
+10 -> B-item_quantity
+envisioneer intuitive partnerships -> B-item_description
+22.34 -> B-item_unit_price
+223.40 -> B-item_total
+2 -> B-item_quantity
+embrace ubiquitous architectures -> B-item_description
+45.28 -> B-item_unit_price
+90.56 -> B-item_total
+Subtotal -> O
+: -> O
+ 372.43 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+59.59 -> B-tax_amount
+TOTAL -> O
+: -> O
+432.02 -> B-total

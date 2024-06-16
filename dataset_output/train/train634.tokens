@@ -1,0 +1,72 @@
+Invoice -> O
+240569 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-19 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-17 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Minería -> B-issuer_name
+JHHP -> I-issuer_name
+S.A.D -> I-issuer_name
+Cañada -> B-issuer_address
+de -> I-issuer_address
+Jenny -> I-issuer_address
+Asenjo -> I-issuer_address
+3 -> I-issuer_address
+Las -> I-issuer_address
+Palmas, -> I-issuer_address
+12518 -> I-issuer_address
++34983 292 366 -> B-issuer_phone
+ypallares@gargallo.com -> B-issuer_email
+zuE775yaQ729 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Obdulia -> B-recipient_name
+Yuste -> I-recipient_name
+Millán -> I-recipient_name
+Glorieta -> B-recipient_address
+de -> I-recipient_address
+Bienvenida -> I-recipient_address
+Cuesta -> I-recipient_address
+321 -> I-recipient_address
+Apt. -> I-recipient_address
+07 -> I-recipient_address
+Zaragoza, -> I-recipient_address
+48700 -> I-recipient_address
++34978 65 83 81 -> B-recipient_phone
+burgosnazaret@gmail.com -> B-recipient_email
+beH748niP841 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+extend next-generation e-business -> B-item_description
+2 -> B-item_quantity
+26.84 -> B-item_unit_price
+53.68 -> B-item_total
+exploit virtual methodologies -> B-item_description
+4 -> B-item_quantity
+24.19 -> B-item_unit_price
+96.76 -> B-item_total
+Subtotal -> O
+ : -> O
+ 150.44 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+24.07 -> B-tax_amount
+Total -> O
+: -> O
+174.51 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

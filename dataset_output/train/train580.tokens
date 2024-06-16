@@ -1,0 +1,95 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+MoG896Jwd698 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 826 190 009 -> B-recipient_phone
+Nombre -> O
+: -> O
+Reyes -> B-recipient_name
+Alba -> I-recipient_name
+Colom -> I-recipient_name
+Correo -> O
+: -> O
+lillomiguel@gmail.com -> B-recipient_email
+Via -> B-recipient_address
+de -> I-recipient_address
+Irene -> I-recipient_address
+Cruz -> I-recipient_address
+78 -> I-recipient_address
+Piso -> I-recipient_address
+0 -> I-recipient_address
+Huelva, -> I-recipient_address
+28920 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+892926 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-15 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+reinvent ubiquitous methodologies -> B-item_description
+2 -> B-item_quantity
+40.26 -> B-item_total
+strategize B2B info-mediaries -> B-item_description
+5 -> B-item_quantity
+257.00 -> B-item_total
+maximize granular web-readiness -> B-item_description
+3 -> B-item_quantity
+147.09 -> B-item_total
+optimize clicks-and-mortar e-business -> B-item_description
+1 -> B-item_quantity
+92.18 -> B-item_total
+generate killer vortals -> B-item_description
+10 -> B-item_quantity
+343.20 -> B-item_total
+Subtotal -> O
+ : -> O
+ 879.73 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+140.76 -> B-tax_amount
+TOTAL -> O
+: -> O
+1020.49 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+pfY949tgJ498 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34842 76 48 32 -> B-issuer_phone
+Nombre -> O
+: -> O
+Finanzas -> B-issuer_name
+TW -> I-issuer_name
+S.Coop. -> I-issuer_name
+Correo -> O
+: -> O
+severinobecerra@alegre.org -> B-issuer_email
+Ronda -> B-issuer_address
+de -> I-issuer_address
+Xiomara -> I-issuer_address
+Pons -> I-issuer_address
+1 -> I-issuer_address
+Puerta -> I-issuer_address
+9 -> I-issuer_address
+Ourense, -> I-issuer_address
+20365 -> I-issuer_address

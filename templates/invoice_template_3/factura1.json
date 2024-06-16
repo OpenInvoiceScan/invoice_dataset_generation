@@ -1,0 +1,50 @@
+{
+  "invoice_id": 582742,
+  "issue_date": "2024-04-23",
+  "due_date": "2024-06-09",
+  "issuer": {
+    "name": "Promociones Espa\u00f1ola S.Coop.",
+    "address": "C. Yaiza Alegre 30 Puerta 0 \nLa Coru\u00f1a, 07227",
+    "phone": "+34 921135801",
+    "email": "mauracasal@berenguer.com",
+    "tax_id": "CKt590yAq414"
+  },
+  "recipient": {
+    "name": "Faustino Guerrero Andr\u00e9s",
+    "address": "Camino de Jose Miguel Ballesteros 1\nCeuta, 21108",
+    "phone": "+34 887132990",
+    "email": "kcano@hotmail.com",
+    "tax_id": "Yzf085cMy177"
+  },
+  "items": [
+    {
+      "description": "integrate out-of-the-box methodologies",
+      "quantity": 6,
+      "unit_price": "36.74",
+      "total": "220.44"
+    },
+    {
+      "description": "re-intermediate plug-and-play vortals",
+      "quantity": 10,
+      "unit_price": "37.98",
+      "total": "379.80"
+    },
+    {
+      "description": "embrace holistic supply-chains",
+      "quantity": 7,
+      "unit_price": "15.02",
+      "total": "105.14"
+    }
+  ],
+  "subtotal": "705.38",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "112.86"
+    }
+  ],
+  "total": "818.24",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

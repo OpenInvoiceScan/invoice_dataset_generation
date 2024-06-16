@@ -1,0 +1,81 @@
+Invoice -> O
+360020 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-15 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-17 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Arnal -> B-issuer_name
+y -> I-issuer_name
+Armas -> I-issuer_name
+S.L.U. -> I-issuer_name
+Glorieta -> B-issuer_address
+Tomás -> I-issuer_address
+Salmerón -> I-issuer_address
+8 -> I-issuer_address
+Apt. -> I-issuer_address
+94 -> I-issuer_address
+Barcelona, -> I-issuer_address
+34948 -> I-issuer_address
++34 715 711 505 -> B-issuer_phone
+maria-angeles52@familia.es -> B-issuer_email
+ZDn961noe158 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Dora -> B-recipient_name
+Gras -> I-recipient_name
+C. -> B-recipient_address
+Victoria -> I-recipient_address
+Recio -> I-recipient_address
+21 -> I-recipient_address
+Burgos, -> I-recipient_address
+41892 -> I-recipient_address
++34 848491493 -> B-recipient_phone
+hfont@gmail.com -> B-recipient_email
+sXY797XIJ851 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+engage dot-com solutions -> B-item_description
+6 -> B-item_quantity
+69.01 -> B-item_unit_price
+414.06 -> B-item_total
+e-enable interactive models -> B-item_description
+4 -> B-item_quantity
+64.76 -> B-item_unit_price
+259.04 -> B-item_total
+scale vertical applications -> B-item_description
+2 -> B-item_quantity
+66.45 -> B-item_unit_price
+132.90 -> B-item_total
+incentivize one-to-one infrastructures -> B-item_description
+10 -> B-item_quantity
+94.68 -> B-item_unit_price
+946.80 -> B-item_total
+grow bleeding-edge systems -> B-item_description
+2 -> B-item_quantity
+59.44 -> B-item_unit_price
+118.88 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1871.68 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+299.47 -> B-tax_amount
+Total -> O
+: -> O
+2171.15 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

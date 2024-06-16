@@ -1,0 +1,65 @@
+Invoice -> O
+118523 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-04 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-06 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Comercial -> B-issuer_name
+Piñol -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Paseo -> B-issuer_address
+Marc -> I-issuer_address
+Pou -> I-issuer_address
+2 -> I-issuer_address
+Navarra, -> I-issuer_address
+38807 -> I-issuer_address
++34887 16 58 32 -> B-issuer_phone
+jose90@riera.com -> B-issuer_email
+ezN789HFW312 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Nicolasa -> B-recipient_name
+Seguí -> I-recipient_name
+Gutierrez -> I-recipient_name
+Via -> B-recipient_address
+Ileana -> I-recipient_address
+Palomares -> I-recipient_address
+1 -> I-recipient_address
+Soria, -> I-recipient_address
+22410 -> I-recipient_address
++34 941 73 62 00 -> B-recipient_phone
+mcollado@hotmail.com -> B-recipient_email
+eyO947pMO331 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+integrate magnetic infrastructures -> B-item_description
+5 -> B-item_quantity
+69.38 -> B-item_unit_price
+346.90 -> B-item_total
+Subtotal -> O
+ : -> O
+ 346.90 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+55.50 -> B-tax_amount
+Total -> O
+: -> O
+402.40 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

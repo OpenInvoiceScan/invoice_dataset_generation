@@ -1,0 +1,69 @@
+Berrocal -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Paseo -> B-issuer_address
+de -> I-issuer_address
+Marisa -> I-issuer_address
+Manzanares -> I-issuer_address
+6 -> I-issuer_address
+Baleares, -> I-issuer_address
+19999 -> I-issuer_address
++34944 105 582 -> B-issuer_phone
+curro12@perera.com -> B-issuer_email
+XCq888qDN346 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Fabricio -> B-recipient_name
+Pons-Franco -> I-recipient_name
+Rambla -> B-recipient_address
+Amor -> I-recipient_address
+Ibáñez -> I-recipient_address
+351 -> I-recipient_address
+Girona, -> I-recipient_address
+28043 -> I-recipient_address
++34865 100 539 -> B-recipient_phone
+martinezmanola@hotmail.com -> B-recipient_email
+CCO752SWK249 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+897633 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-12 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+deliver cross-platform supply-chains -> B-item_description
+43.80 -> B-item_unit_price
+394.20 -> B-item_total
+10 -> B-item_quantity
+re-intermediate cross-platform web services -> B-item_description
+35.81 -> B-item_unit_price
+358.10 -> B-item_total
+1 -> B-item_quantity
+orchestrate strategic models -> B-item_description
+67.91 -> B-item_unit_price
+67.91 -> B-item_total
+7 -> B-item_quantity
+mesh real-time portals -> B-item_description
+75.48 -> B-item_unit_price
+528.36 -> B-item_total
+Subtotal -> O
+: -> O
+ 1348.57 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+215.77 -> B-tax_amount
+TOTAL -> O
+: -> O
+1564.34 -> B-total

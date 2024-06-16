@@ -1,0 +1,73 @@
+Serrano -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.C.P -> I-issuer_name
+Pasadizo -> B-issuer_address
+Dafne -> I-issuer_address
+Naranjo -> I-issuer_address
+3 -> I-issuer_address
+Almería, -> I-issuer_address
+16257 -> I-issuer_address
++34 831111562 -> B-issuer_phone
+romerorosa@prats.es -> B-issuer_email
+HFK877mNM251 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Guillermo -> B-recipient_name
+Mauricio -> I-recipient_name
+Roselló -> I-recipient_name
+Borrego -> I-recipient_name
+Avenida -> B-recipient_address
+Anastasia -> I-recipient_address
+Vara -> I-recipient_address
+5 -> I-recipient_address
+Zaragoza, -> I-recipient_address
+17472 -> I-recipient_address
++34 921 559 104 -> B-recipient_phone
+kikeropero@hotmail.com -> B-recipient_email
+wim069IBv110 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+483666 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-24 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+seize open-source content -> B-item_description
+90.56 -> B-item_unit_price
+452.80 -> B-item_total
+9 -> B-item_quantity
+harness cutting-edge bandwidth -> B-item_description
+76.45 -> B-item_unit_price
+688.05 -> B-item_total
+3 -> B-item_quantity
+harness 24/365 markets -> B-item_description
+59.86 -> B-item_unit_price
+179.58 -> B-item_total
+10 -> B-item_quantity
+incubate plug-and-play relationships -> B-item_description
+82.49 -> B-item_unit_price
+824.90 -> B-item_total
+7 -> B-item_quantity
+scale distributed architectures -> B-item_description
+10.76 -> B-item_unit_price
+75.32 -> B-item_total
+Subtotal -> O 
+: -> O
+ 2220.65 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+355.30 -> B-tax_amount
+TOTAL -> O
+: -> O
+2575.95 -> B-total

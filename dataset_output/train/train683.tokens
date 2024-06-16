@@ -1,0 +1,75 @@
+Factura -> O
+231775 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-04-28 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-10 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Familia -> B-issuer_name
+Vazquez -> I-issuer_name
+S.L. -> I-issuer_name
+Urbanización -> B-issuer_address
+Melania -> I-issuer_address
+Leiva -> I-issuer_address
+388 -> I-issuer_address
+Sevilla, -> I-issuer_address
+20788 -> I-issuer_address
++34874 623 595 -> B-issuer_phone
+plazajuan@desarrollo.com -> B-issuer_email
+GCV693qac679 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Pánfilo -> B-recipient_name
+Moraleda -> I-recipient_name
+Calderon -> I-recipient_name
+Paseo -> B-recipient_address
+de -> I-recipient_address
+Jenny -> I-recipient_address
+Linares -> I-recipient_address
+19 -> I-recipient_address
+Puerta -> I-recipient_address
+6 -> I-recipient_address
+Segovia, -> I-recipient_address
+08606 -> I-recipient_address
++34 822 826 249 -> B-recipient_phone
+natalia90@gmail.com -> B-recipient_email
+QIf973pVP466 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+envisioneer user-centric interfaces -> B-item_description
+3 -> B-item_quantity
+10.28 -> B-item_unit_price
+30.84 -> B-item_total
+brand 24/7 eyeballs -> B-item_description
+1 -> B-item_quantity
+70.56 -> B-item_unit_price
+70.56 -> B-item_total
+Subtotal -> O
+ : -> O
+ 101.40 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+16.22 -> B-tax_amount
+Total -> O
+: -> O
+117.62 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

@@ -1,0 +1,84 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+HOP287DnC654 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34942 90 35 74 -> B-recipient_phone
+Nombre -> O
+: -> O
+Iker -> B-recipient_name
+Palau -> I-recipient_name
+Correo -> O
+: -> O
+trinisaenz@gmail.com -> B-recipient_email
+Avenida -> B-recipient_address
+de -> I-recipient_address
+Herberto -> I-recipient_address
+Gelabert -> I-recipient_address
+6 -> I-recipient_address
+La -> I-recipient_address
+Coruña, -> I-recipient_address
+32852 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+132011 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-24 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+deploy out-of-the-box architectures -> B-item_description
+2 -> B-item_quantity
+82.00 -> B-item_total
+e-enable strategic interfaces -> B-item_description
+10 -> B-item_quantity
+915.50 -> B-item_total
+Subtotal -> O
+ : -> O
+ 997.50 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+159.60 -> B-tax_amount
+TOTAL -> O
+: -> O
+1157.10 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+mmY354uFE904 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34923 59 84 22 -> B-issuer_phone
+Nombre -> O
+: -> O
+Infraestructuras -> B-issuer_name
+UYP -> I-issuer_name
+S.L. -> I-issuer_name
+Correo -> O
+: -> O
+rufina73@pi.com -> B-issuer_email
+Pasaje -> B-issuer_address
+de -> I-issuer_address
+Edgardo -> I-issuer_address
+Asenjo -> I-issuer_address
+92 -> I-issuer_address
+Piso -> I-issuer_address
+8 -> I-issuer_address
+Toledo, -> I-issuer_address
+31679 -> I-issuer_address

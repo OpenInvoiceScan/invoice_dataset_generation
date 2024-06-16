@@ -1,0 +1,83 @@
+Factura -> O
+947709 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-22 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-22 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Supermercados -> B-issuer_name
+Piquer -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L.L. -> I-issuer_name
+C. -> B-issuer_address
+de -> I-issuer_address
+Marcial -> I-issuer_address
+Jaén -> I-issuer_address
+830 -> I-issuer_address
+Puerta -> I-issuer_address
+2 -> I-issuer_address
+Ciudad, -> I-issuer_address
+10851 -> I-issuer_address
++34871 228 403 -> B-issuer_phone
+tomasaguerra@logistica.com -> B-issuer_email
+oKt315Xnf211 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Loreto -> B-recipient_name
+Duque -> I-recipient_name
+Olivé -> I-recipient_name
+Ronda -> B-recipient_address
+Nydia -> I-recipient_address
+Sala -> I-recipient_address
+2 -> I-recipient_address
+Piso -> I-recipient_address
+1 -> I-recipient_address
+Badajoz, -> I-recipient_address
+26945 -> I-recipient_address
++34833303446 -> B-recipient_phone
+mvina@yahoo.com -> B-recipient_email
+jcD434dbi131 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+visualize revolutionary content -> B-item_description
+3 -> B-item_quantity
+35.86 -> B-item_unit_price
+107.58 -> B-item_total
+repurpose plug-and-play e-tailers -> B-item_description
+5 -> B-item_quantity
+21.69 -> B-item_unit_price
+108.45 -> B-item_total
+grow efficient metrics -> B-item_description
+1 -> B-item_quantity
+70.60 -> B-item_unit_price
+70.60 -> B-item_total
+Subtotal -> O
+ : -> O
+ 286.63 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+45.86 -> B-tax_amount
+Total -> O
+: -> O
+332.49 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

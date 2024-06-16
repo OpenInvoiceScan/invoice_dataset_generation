@@ -1,0 +1,66 @@
+Crespo -> B-issuer_name
+y -> I-issuer_name
+Vidal -> I-issuer_name
+S.A.U -> I-issuer_name
+Paseo -> B-issuer_address
+Teófilo -> I-issuer_address
+Barceló -> I-issuer_address
+50 -> I-issuer_address
+Málaga, -> I-issuer_address
+09780 -> I-issuer_address
++34976 71 20 40 -> B-issuer_phone
+octavia33@suministros.com -> B-issuer_email
+Wij752oLU454 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Quirino -> B-recipient_name
+Solana -> I-recipient_name
+Morillo -> I-recipient_name
+Rambla -> B-recipient_address
+de -> I-recipient_address
+Catalina -> I-recipient_address
+Macías -> I-recipient_address
+60 -> I-recipient_address
+Salamanca, -> I-recipient_address
+20736 -> I-recipient_address
++34837 47 68 42 -> B-recipient_phone
+qcarro@hotmail.com -> B-recipient_email
+fBD868RCz849 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+696994 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-29 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+grow open-source channels -> B-item_description
+61.18 -> B-item_unit_price
+244.72 -> B-item_total
+10 -> B-item_quantity
+repurpose leading-edge communities -> B-item_description
+93.80 -> B-item_unit_price
+938.00 -> B-item_total
+9 -> B-item_quantity
+generate ubiquitous bandwidth -> B-item_description
+96.19 -> B-item_unit_price
+865.71 -> B-item_total
+Subtotal -> O
+: -> O
+ 2048.43 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+327.75 -> B-tax_amount
+TOTAL -> O
+: -> O
+2376.18 -> B-total

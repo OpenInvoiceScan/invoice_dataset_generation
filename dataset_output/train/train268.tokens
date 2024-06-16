@@ -1,0 +1,87 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+rUU457WZw178 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 880537593 -> B-recipient_phone
+Nombre -> O
+: -> O
+Ismael -> B-recipient_name
+Cañizares -> I-recipient_name
+Peralta -> I-recipient_name
+Correo -> O
+: -> O
+david95@hotmail.com -> B-recipient_email
+Glorieta -> B-recipient_address
+Abilio -> I-recipient_address
+Andrés -> I-recipient_address
+6 -> I-recipient_address
+Lleida, -> I-recipient_address
+48353 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+625308 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-10 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+innovate killer interfaces -> B-item_description
+10 -> B-item_quantity
+400.60 -> B-item_total
+extend web-enabled synergies -> B-item_description
+8 -> B-item_quantity
+200.80 -> B-item_total
+deploy open-source convergence -> B-item_description
+1 -> B-item_quantity
+71.00 -> B-item_total
+extend B2C web-readiness -> B-item_description
+9 -> B-item_quantity
+502.65 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1175.05 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+188.01 -> B-tax_amount
+TOTAL -> O
+: -> O
+1363.06 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+iMZ749YEt229 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 825 73 90 85 -> B-issuer_phone
+Nombre -> O
+: -> O
+Consultoría -> B-issuer_name
+Globales -> I-issuer_name
+S.L.L. -> I-issuer_name
+Correo -> O
+: -> O
+marisol73@ingrid.es -> B-issuer_email
+Via -> B-issuer_address
+de -> I-issuer_address
+Nilo -> I-issuer_address
+Avilés -> I-issuer_address
+63 -> I-issuer_address
+Málaga, -> I-issuer_address
+33163 -> I-issuer_address

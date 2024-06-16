@@ -1,0 +1,75 @@
+Invoice -> O
+373235 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-24 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-28 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Grupo -> B-issuer_name
+Barriga -> I-issuer_name
+S.L. -> I-issuer_name
+Plaza -> B-issuer_address
+de -> I-issuer_address
+Román -> I-issuer_address
+Amigó -> I-issuer_address
+21 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Cuenca, -> I-issuer_address
+24958 -> I-issuer_address
++34984 789 246 -> B-issuer_phone
+alcalderita@distribuciones.com -> B-issuer_email
+hGi377gcY460 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Aureliano -> B-recipient_name
+Ureña -> I-recipient_name
+Salcedo -> I-recipient_name
+Calle -> B-recipient_address
+de -> I-recipient_address
+Alexandra -> I-recipient_address
+Bernal -> I-recipient_address
+64 -> I-recipient_address
+Albacete, -> I-recipient_address
+37163 -> I-recipient_address
++34 826 67 61 03 -> B-recipient_phone
+wprada@hotmail.com -> B-recipient_email
+fii706YDJ668 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+harness intuitive experiences -> B-item_description
+3 -> B-item_quantity
+41.80 -> B-item_unit_price
+125.40 -> B-item_total
+synergize innovative convergence -> B-item_description
+4 -> B-item_quantity
+95.98 -> B-item_unit_price
+383.92 -> B-item_total
+evolve mission-critical portals -> B-item_description
+9 -> B-item_quantity
+29.73 -> B-item_unit_price
+267.57 -> B-item_total
+Subtotal -> O
+ : -> O
+ 776.89 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+124.30 -> B-tax_amount
+Total -> O
+: -> O
+901.19 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

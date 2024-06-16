@@ -1,0 +1,78 @@
+Invoice -> O
+301465 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-25 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-02 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Linares -> B-issuer_name
+y -> I-issuer_name
+Quesada -> I-issuer_name
+S.L. -> I-issuer_name
+Urbanización -> B-issuer_address
+Fabiana -> I-issuer_address
+Martorell -> I-issuer_address
+178 -> I-issuer_address
+Guadalajara, -> I-issuer_address
+05815 -> I-issuer_address
++34827 595 426 -> B-issuer_phone
+aguileraamerica@luz.org -> B-issuer_email
+kuS529AhS726 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Eutropio -> B-recipient_name
+Palomino -> I-recipient_name
+Clemente -> I-recipient_name
+Glorieta -> B-recipient_address
+Camilo -> I-recipient_address
+Iniesta -> I-recipient_address
+522 -> I-recipient_address
+Piso -> I-recipient_address
+9 -> I-recipient_address
+Sevilla, -> I-recipient_address
+04347 -> I-recipient_address
++34 900 98 73 63 -> B-recipient_phone
+zoraidacerdan@yahoo.com -> B-recipient_email
+DEg925OHj535 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+optimize bricks-and-clicks partnerships -> B-item_description
+9 -> B-item_quantity
+10.40 -> B-item_unit_price
+93.60 -> B-item_total
+transform back-end models -> B-item_description
+6 -> B-item_quantity
+38.36 -> B-item_unit_price
+230.16 -> B-item_total
+synthesize dot-com content -> B-item_description
+1 -> B-item_quantity
+23.79 -> B-item_unit_price
+23.79 -> B-item_total
+transition best-of-breed deliverables -> B-item_description
+4 -> B-item_quantity
+32.50 -> B-item_unit_price
+130.00 -> B-item_total
+Subtotal -> O
+ : -> O
+ 477.55 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+76.41 -> B-tax_amount
+Total -> O
+: -> O
+553.96 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

@@ -1,0 +1,82 @@
+Factura -> O
+891583 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-25 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-19 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Fábrica -> B-issuer_name
+Rovira -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Cañada -> B-issuer_address
+Yolanda -> I-issuer_address
+Valenciano -> I-issuer_address
+93 -> I-issuer_address
+Toledo, -> I-issuer_address
+24179 -> I-issuer_address
++34901 92 56 93 -> B-issuer_phone
+maribel01@marti.net -> B-issuer_email
+IBB496jfT009 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Osvaldo -> B-recipient_name
+Benitez-Coello -> I-recipient_name
+Rambla -> B-recipient_address
+Juan -> I-recipient_address
+Manuel -> I-recipient_address
+Arce -> I-recipient_address
+7 -> I-recipient_address
+Huelva, -> I-recipient_address
+39701 -> I-recipient_address
++34 986 80 99 32 -> B-recipient_phone
+reyesponcio@yahoo.com -> B-recipient_email
+Qjb974ECY534 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+e-enable e-business ROI -> B-item_description
+7 -> B-item_quantity
+20.88 -> B-item_unit_price
+146.16 -> B-item_total
+integrate interactive synergies -> B-item_description
+2 -> B-item_quantity
+18.78 -> B-item_unit_price
+37.56 -> B-item_total
+optimize turn-key communities -> B-item_description
+8 -> B-item_quantity
+11.09 -> B-item_unit_price
+88.72 -> B-item_total
+implement out-of-the-box functionalities -> B-item_description
+10 -> B-item_quantity
+63.03 -> B-item_unit_price
+630.30 -> B-item_total
+Subtotal -> O
+ : -> O
+ 902.74 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+144.44 -> B-tax_amount
+Total -> O
+: -> O
+1047.18 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

@@ -1,0 +1,78 @@
+Factura -> O
+383137 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-14 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-20 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Hermanos -> B-issuer_name
+Peinado -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Rambla -> B-issuer_address
+de -> I-issuer_address
+Rubén -> I-issuer_address
+Alonso -> I-issuer_address
+20 -> I-issuer_address
+Badajoz, -> I-issuer_address
+21712 -> I-issuer_address
++34981 79 23 40 -> B-issuer_phone
+mayoralulises@giron.com -> B-issuer_email
+uRg918uCu754 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Emilia -> B-recipient_name
+Viviana -> I-recipient_name
+Casado -> I-recipient_name
+Yuste -> I-recipient_name
+Urbanización -> B-recipient_address
+de -> I-recipient_address
+Segismundo -> I-recipient_address
+Talavera -> I-recipient_address
+78 -> I-recipient_address
+Puerta -> I-recipient_address
+9 -> I-recipient_address
+Las -> I-recipient_address
+Palmas, -> I-recipient_address
+42036 -> I-recipient_address
++34824 47 41 82 -> B-recipient_phone
+pepito58@hotmail.com -> B-recipient_email
+pjy700kvL866 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+exploit interactive applications -> B-item_description
+1 -> B-item_quantity
+12.81 -> B-item_unit_price
+12.81 -> B-item_total
+drive integrated architectures -> B-item_description
+9 -> B-item_quantity
+78.24 -> B-item_unit_price
+704.16 -> B-item_total
+Subtotal -> O
+ : -> O
+ 716.97 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+114.72 -> B-tax_amount
+Total -> O
+: -> O
+831.69 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

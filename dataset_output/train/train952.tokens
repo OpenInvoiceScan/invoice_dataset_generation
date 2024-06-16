@@ -1,0 +1,67 @@
+Farmaceútica -> B-issuer_name
+Nogueira -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L. -> I-issuer_name
+Rambla -> B-issuer_address
+de -> I-issuer_address
+Rocío -> I-issuer_address
+Pastor -> I-issuer_address
+86 -> I-issuer_address
+Ceuta, -> I-issuer_address
+48946 -> I-issuer_address
++34947 18 12 88 -> B-issuer_phone
+marianopedraza@logistica.net -> B-issuer_email
+lZJ932wcH035 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Esther -> B-recipient_name
+Alarcón -> I-recipient_name
+Bou -> I-recipient_name
+Paseo -> B-recipient_address
+de -> I-recipient_address
+Estefanía -> I-recipient_address
+Moreno -> I-recipient_address
+62 -> I-recipient_address
+Tarragona, -> I-recipient_address
+10316 -> I-recipient_address
++34949 087 089 -> B-recipient_phone
+leocadio42@gmail.com -> B-recipient_email
+hyf411FjW069 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+309290 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-12 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+1 -> B-item_quantity
+reinvent 24/7 partnerships -> B-item_description
+10.69 -> B-item_unit_price
+10.69 -> B-item_total
+2 -> B-item_quantity
+evolve robust channels -> B-item_description
+70.36 -> B-item_unit_price
+140.72 -> B-item_total
+3 -> B-item_quantity
+empower bricks-and-clicks solutions -> B-item_description
+12.22 -> B-item_unit_price
+36.66 -> B-item_total
+Subtotal -> O 
+: -> O
+ 188.07 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+30.09 -> B-tax_amount
+TOTAL -> O
+: -> O
+218.16 -> B-total

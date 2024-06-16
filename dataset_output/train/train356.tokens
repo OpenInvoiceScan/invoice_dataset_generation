@@ -1,0 +1,85 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+qYn885BeZ687 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 877 390 633 -> B-recipient_phone
+Nombre -> O
+: -> O
+Itziar -> B-recipient_name
+Benítez -> I-recipient_name
+Gisbert -> I-recipient_name
+Correo -> O
+: -> O
+pvillegas@gmail.com -> B-recipient_email
+Paseo -> B-recipient_address
+de -> I-recipient_address
+Tecla -> I-recipient_address
+Mármol -> I-recipient_address
+72 -> I-recipient_address
+La -> I-recipient_address
+Coruña, -> I-recipient_address
+32093 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+392766 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-28 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+engineer impactful solutions -> B-item_description
+2 -> B-item_quantity
+20.56 -> B-item_total
+engineer dynamic architectures -> B-item_description
+3 -> B-item_quantity
+135.96 -> B-item_total
+synergize innovative ROI -> B-item_description
+2 -> B-item_quantity
+143.34 -> B-item_total
+Subtotal -> O
+ : -> O
+ 299.86 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+47.98 -> B-tax_amount
+TOTAL -> O
+: -> O
+347.84 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+qwK715vZG060 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 715989278 -> B-issuer_phone
+Nombre -> O
+: -> O
+Grupo -> B-issuer_name
+Mármol -> I-issuer_name
+S.Coop. -> I-issuer_name
+Correo -> O
+: -> O
+ochoaarcelia@instalaciones.es -> B-issuer_email
+Cuesta -> B-issuer_address
+Chus -> I-issuer_address
+Bolaños -> I-issuer_address
+56 -> I-issuer_address
+León, -> I-issuer_address
+16669 -> I-issuer_address

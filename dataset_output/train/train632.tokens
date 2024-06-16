@@ -1,0 +1,61 @@
+Construcción -> B-issuer_name
+ZEYZ -> I-issuer_name
+S.Coop. -> I-issuer_name
+Calle -> B-issuer_address
+Godofredo -> I-issuer_address
+Ferrando -> I-issuer_address
+74 -> I-issuer_address
+Apt. -> I-issuer_address
+33 -> I-issuer_address
+Castellón, -> I-issuer_address
+04669 -> I-issuer_address
++34922 167 756 -> B-issuer_phone
+porceljesusa@alberto.com -> B-issuer_email
+UKL584zla098 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Tamara -> B-recipient_name
+Piñol -> I-recipient_name
+Armas -> I-recipient_name
+Glorieta -> B-recipient_address
+Benigno -> I-recipient_address
+Román -> I-recipient_address
+16 -> I-recipient_address
+Castellón, -> I-recipient_address
+19140 -> I-recipient_address
++34986 744 982 -> B-recipient_phone
+dora33@yahoo.com -> B-recipient_email
+uXd850obD890 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+409533 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-04 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+optimize magnetic functionalities -> B-item_description
+37.14 -> B-item_unit_price
+259.98 -> B-item_total
+6 -> B-item_quantity
+matrix wireless markets -> B-item_description
+85.09 -> B-item_unit_price
+510.54 -> B-item_total
+Subtotal -> O 
+: -> O
+ 770.52 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+123.28 -> B-tax_amount
+TOTAL -> O
+: -> O
+893.80 -> B-total

@@ -1,0 +1,74 @@
+Adadia -> B-issuer_name
+y -> I-issuer_name
+Cáceres -> I-issuer_name
+S.L. -> I-issuer_name
+Calle -> B-issuer_address
+de -> I-issuer_address
+Socorro -> I-issuer_address
+Zurita -> I-issuer_address
+726 -> I-issuer_address
+Castellón, -> I-issuer_address
+26244 -> I-issuer_address
++34 976 74 68 80 -> B-issuer_phone
+pia01@hotel.com -> B-issuer_email
+OzQ299RRK823 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Rosa -> B-recipient_name
+María -> I-recipient_name
+Menendez -> I-recipient_name
+Urbanización -> B-recipient_address
+de -> I-recipient_address
+Salud -> I-recipient_address
+Valencia -> I-recipient_address
+65 -> I-recipient_address
+Tarragona, -> I-recipient_address
+27657 -> I-recipient_address
++34811752874 -> B-recipient_phone
+tania83@hotmail.com -> B-recipient_email
+tKi716Tym530 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+560953 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-02 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+e-enable ubiquitous e-tailers -> B-item_description
+79.07 -> B-item_unit_price
+790.70 -> B-item_total
+8 -> B-item_quantity
+exploit e-business convergence -> B-item_description
+44.16 -> B-item_unit_price
+353.28 -> B-item_total
+7 -> B-item_quantity
+scale enterprise solutions -> B-item_description
+61.16 -> B-item_unit_price
+428.12 -> B-item_total
+9 -> B-item_quantity
+benchmark value-added ROI -> B-item_description
+99.36 -> B-item_unit_price
+894.24 -> B-item_total
+8 -> B-item_quantity
+exploit strategic synergies -> B-item_description
+68.57 -> B-item_unit_price
+548.56 -> B-item_total
+Subtotal -> O 
+: -> O
+ 3014.90 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+482.38 -> B-tax_amount
+TOTAL -> O
+: -> O
+3497.28 -> B-total

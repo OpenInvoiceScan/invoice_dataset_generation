@@ -1,0 +1,78 @@
+Factura -> O
+2224 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-05 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-22 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Supermercados -> B-issuer_name
+XP -> I-issuer_name
+S.Coop. -> I-issuer_name
+Cuesta -> B-issuer_address
+Alexandra -> I-issuer_address
+Sevillano -> I-issuer_address
+62 -> I-issuer_address
+Apt. -> I-issuer_address
+01 -> I-issuer_address
+Navarra, -> I-issuer_address
+52076 -> I-issuer_address
++34 951 750 298 -> B-issuer_phone
+ealcala@soluciones.es -> B-issuer_email
+AVv159dst422 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Brunilda -> B-recipient_name
+Téllez-Vazquez -> I-recipient_name
+Pasaje -> B-recipient_address
+de -> I-recipient_address
+Rosenda -> I-recipient_address
+Alcolea -> I-recipient_address
+92 -> I-recipient_address
+Granada, -> I-recipient_address
+03899 -> I-recipient_address
++34882 451 346 -> B-recipient_phone
+domingamontoya@hotmail.com -> B-recipient_email
+OQG972bGl258 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+embrace clicks-and-mortar bandwidth -> B-item_description
+8 -> B-item_quantity
+93.56 -> B-item_unit_price
+748.48 -> B-item_total
+morph transparent channels -> B-item_description
+7 -> B-item_quantity
+53.84 -> B-item_unit_price
+376.88 -> B-item_total
+synthesize ubiquitous vortals -> B-item_description
+6 -> B-item_quantity
+66.55 -> B-item_unit_price
+399.30 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1524.66 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+243.95 -> B-tax_amount
+Total -> O
+: -> O
+1768.61 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

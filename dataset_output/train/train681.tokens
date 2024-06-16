@@ -1,0 +1,79 @@
+Inversiones -> B-issuer_name
+Hoyos -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Vial -> B-issuer_address
+Ámbar -> I-issuer_address
+Carreño -> I-issuer_address
+351 -> I-issuer_address
+Apt. -> I-issuer_address
+35 -> I-issuer_address
+Córdoba, -> I-issuer_address
+38830 -> I-issuer_address
++34 823 91 04 26 -> B-issuer_phone
+dgallo@logistica.com -> B-issuer_email
+Mda098SyY809 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Emperatriz -> B-recipient_name
+Cobo -> I-recipient_name
+Vicente -> I-recipient_name
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Marisela -> I-recipient_address
+Pallarès -> I-recipient_address
+393 -> I-recipient_address
+Piso -> I-recipient_address
+5 -> I-recipient_address
+Granada, -> I-recipient_address
+44159 -> I-recipient_address
++34902 731 218 -> B-recipient_phone
+florvanesa@yahoo.com -> B-recipient_email
+tue156rBQ668 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+297098 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-02 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+target collaborative schemas -> B-item_description
+12.13 -> B-item_unit_price
+36.39 -> B-item_total
+6 -> B-item_quantity
+exploit granular niches -> B-item_description
+94.12 -> B-item_unit_price
+564.72 -> B-item_total
+3 -> B-item_quantity
+morph global channels -> B-item_description
+56.93 -> B-item_unit_price
+170.79 -> B-item_total
+9 -> B-item_quantity
+orchestrate vertical ROI -> B-item_description
+63.77 -> B-item_unit_price
+573.93 -> B-item_total
+2 -> B-item_quantity
+transform efficient metrics -> B-item_description
+21.75 -> B-item_unit_price
+43.50 -> B-item_total
+Subtotal -> O
+: -> O
+ 1389.33 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+222.29 -> B-tax_amount
+TOTAL -> O
+: -> O
+1611.62 -> B-total

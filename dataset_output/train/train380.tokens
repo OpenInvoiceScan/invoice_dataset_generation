@@ -1,0 +1,83 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+lxQ100DNr082 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 884810563 -> B-recipient_phone
+Nombre -> O
+: -> O
+Aurelio -> B-recipient_name
+Avilés -> I-recipient_name
+Ibáñez -> I-recipient_name
+Correo -> O
+: -> O
+benitoguiomar@gmail.com -> B-recipient_email
+Alameda -> B-recipient_address
+Virgilio -> I-recipient_address
+Urrutia -> I-recipient_address
+96 -> I-recipient_address
+Valencia, -> I-recipient_address
+08915 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+680097 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-29 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+transform magnetic deliverables -> B-item_description
+2 -> B-item_quantity
+109.60 -> B-item_total
+reinvent wireless channels -> B-item_description
+4 -> B-item_quantity
+185.40 -> B-item_total
+drive leading-edge portals -> B-item_description
+8 -> B-item_quantity
+604.72 -> B-item_total
+Subtotal -> O
+ : -> O
+ 899.72 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+143.96 -> B-tax_amount
+TOTAL -> O
+: -> O
+1043.68 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+pwB930dnq025 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 922 97 34 55 -> B-issuer_phone
+Nombre -> O
+: -> O
+Familia -> B-issuer_name
+Arcos -> I-issuer_name
+S.Com. -> I-issuer_name
+Correo -> O
+: -> O
+fito13@hotel.net -> B-issuer_email
+Via -> B-issuer_address
+Clemente -> I-issuer_address
+Bartolomé -> I-issuer_address
+36 -> I-issuer_address
+Murcia, -> I-issuer_address
+35273 -> I-issuer_address

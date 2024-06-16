@@ -1,0 +1,67 @@
+Zaragoza -> B-issuer_name
+y -> I-issuer_name
+Llorente -> I-issuer_name
+S.A. -> I-issuer_name
+Rambla -> B-issuer_address
+de -> I-issuer_address
+René -> I-issuer_address
+Villalonga -> I-issuer_address
+89 -> I-issuer_address
+Girona, -> I-issuer_address
+50563 -> I-issuer_address
++34 945 70 31 87 -> B-issuer_phone
+vbarcena@mineria.es -> B-issuer_email
+vxX435lQF364 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Tito -> B-recipient_name
+Mate -> I-recipient_name
+Sáez -> I-recipient_name
+Rambla -> B-recipient_address
+de -> I-recipient_address
+Nidia -> I-recipient_address
+Berrocal -> I-recipient_address
+42 -> I-recipient_address
+Guipúzcoa, -> I-recipient_address
+16309 -> I-recipient_address
++34 883 991 647 -> B-recipient_phone
+epulido@yahoo.com -> B-recipient_email
+QVj280JwK919 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+872819 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-19 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+harness next-generation applications -> B-item_description
+24.96 -> B-item_unit_price
+99.84 -> B-item_total
+10 -> B-item_quantity
+brand holistic portals -> B-item_description
+14.88 -> B-item_unit_price
+148.80 -> B-item_total
+6 -> B-item_quantity
+generate virtual e-commerce -> B-item_description
+81.19 -> B-item_unit_price
+487.14 -> B-item_total
+Subtotal -> O
+: -> O
+ 735.78 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+117.72 -> B-tax_amount
+TOTAL -> O
+: -> O
+853.50 -> B-total

@@ -1,0 +1,92 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+xuL190KHI848 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 946 875 620 -> B-recipient_phone
+Nombre -> O
+: -> O
+Perla -> B-recipient_name
+Duarte -> I-recipient_name
+Huertas -> I-recipient_name
+Correo -> O
+: -> O
+parejacarlos@yahoo.com -> B-recipient_email
+Ronda -> B-recipient_address
+de -> I-recipient_address
+Juan -> I-recipient_address
+Rivera -> I-recipient_address
+465 -> I-recipient_address
+Piso -> I-recipient_address
+0 -> I-recipient_address
+Cantabria, -> I-recipient_address
+01702 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+800348 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-29 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+incubate compelling initiatives -> B-item_description
+4 -> B-item_quantity
+45.36 -> B-item_total
+facilitate front-end infrastructures -> B-item_description
+9 -> B-item_quantity
+385.74 -> B-item_total
+benchmark scalable relationships -> B-item_description
+5 -> B-item_quantity
+98.85 -> B-item_total
+implement bleeding-edge relationships -> B-item_description
+4 -> B-item_quantity
+101.44 -> B-item_total
+morph clicks-and-mortar models -> B-item_description
+9 -> B-item_quantity
+486.63 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1118.02 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+178.88 -> B-tax_amount
+TOTAL -> O
+: -> O
+1296.90 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+FeC217Ojz306 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 873 688 906 -> B-issuer_phone
+Nombre -> O
+: -> O
+Banco -> B-issuer_name
+Pera -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Correo -> O
+: -> O
+rbanos@alimentacion.com -> B-issuer_email
+Pasadizo -> B-issuer_address
+Buenaventura -> I-issuer_address
+Tello -> I-issuer_address
+34 -> I-issuer_address
+Guipúzcoa, -> I-issuer_address
+36494 -> I-issuer_address

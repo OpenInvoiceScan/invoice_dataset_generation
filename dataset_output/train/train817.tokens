@@ -1,0 +1,72 @@
+Calderón -> B-issuer_name
+y -> I-issuer_name
+Comas -> I-issuer_name
+S.Com. -> I-issuer_name
+Pasaje -> B-issuer_address
+de -> I-issuer_address
+Ismael -> I-issuer_address
+Pons -> I-issuer_address
+5 -> I-issuer_address
+Piso -> I-issuer_address
+5 -> I-issuer_address
+Navarra, -> I-issuer_address
+46033 -> I-issuer_address
++34 974 67 84 99 -> B-issuer_phone
+julio-cesar49@desarrollo.es -> B-issuer_email
+iLE603RFc161 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Piedad -> B-recipient_name
+Múñiz -> I-recipient_name
+Riba -> I-recipient_name
+Avenida -> B-recipient_address
+Sebastián -> I-recipient_address
+Moreno -> I-recipient_address
+6 -> I-recipient_address
+Vizcaya, -> I-recipient_address
+34075 -> I-recipient_address
++34 977 001 528 -> B-recipient_phone
+everdejo@gmail.com -> B-recipient_email
+fYs130GPT079 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+39021 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-29 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+engineer viral communities -> B-item_description
+21.11 -> B-item_unit_price
+84.44 -> B-item_total
+9 -> B-item_quantity
+syndicate scalable methodologies -> B-item_description
+74.30 -> B-item_unit_price
+668.70 -> B-item_total
+2 -> B-item_quantity
+seize web-enabled channels -> B-item_description
+20.12 -> B-item_unit_price
+40.24 -> B-item_total
+4 -> B-item_quantity
+visualize enterprise web-readiness -> B-item_description
+30.45 -> B-item_unit_price
+121.80 -> B-item_total
+Subtotal -> O
+: -> O
+ 915.18 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+146.43 -> B-tax_amount
+TOTAL -> O
+: -> O
+1061.61 -> B-total

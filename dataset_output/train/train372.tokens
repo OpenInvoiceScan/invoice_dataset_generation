@@ -1,0 +1,85 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+xzK165Hlv397 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34988 33 67 30 -> B-recipient_phone
+Nombre -> O
+: -> O
+Amarilis -> B-recipient_name
+Taboada-Garay -> I-recipient_name
+Correo -> O
+: -> O
+rcid@gmail.com -> B-recipient_email
+Pasadizo -> B-recipient_address
+de -> I-recipient_address
+Berta -> I-recipient_address
+González -> I-recipient_address
+97 -> I-recipient_address
+Piso -> I-recipient_address
+8 -> I-recipient_address
+Alicante, -> I-recipient_address
+12959 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+20487 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-07 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+re-intermediate plug-and-play applications -> B-item_description
+1 -> B-item_quantity
+90.62 -> B-item_total
+drive one-to-one e-business -> B-item_description
+3 -> B-item_quantity
+154.71 -> B-item_total
+Subtotal -> O
+ : -> O
+ 245.33 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+39.25 -> B-tax_amount
+TOTAL -> O
+: -> O
+284.58 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+PPP638SCC911 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34874 99 85 87 -> B-issuer_phone
+Nombre -> O
+: -> O
+Comercializadora -> B-issuer_name
+del -> I-issuer_name
+Noroeste -> I-issuer_name
+S.L. -> I-issuer_name
+Correo -> O
+: -> O
+nazaret51@infraestructuras.es -> B-issuer_email
+Acceso -> B-issuer_address
+Isabela -> I-issuer_address
+Juliá -> I-issuer_address
+39 -> I-issuer_address
+Piso -> I-issuer_address
+7 -> I-issuer_address
+Guadalajara, -> I-issuer_address
+27225 -> I-issuer_address

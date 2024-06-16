@@ -1,0 +1,88 @@
+Factura -> O
+568288 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-25 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-03 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Soluciones -> B-issuer_name
+Integrales -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Ronda -> B-issuer_address
+Dolores -> I-issuer_address
+Ribera -> I-issuer_address
+94 -> I-issuer_address
+Valencia, -> I-issuer_address
+06522 -> I-issuer_address
++34 974 52 91 12 -> B-issuer_phone
+kcoca@supermercados.es -> B-issuer_email
+xLx308nUG193 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Seve -> B-recipient_name
+Javier -> I-recipient_name
+Haro -> I-recipient_name
+Pascual -> I-recipient_name
+Vial -> B-recipient_address
+Celestino -> I-recipient_address
+Novoa -> I-recipient_address
+687 -> I-recipient_address
+Santa -> I-recipient_address
+Cruz -> I-recipient_address
+de -> I-recipient_address
+Tenerife, -> I-recipient_address
+07258 -> I-recipient_address
++34902 917 415 -> B-recipient_phone
+ambarcalvo@hotmail.com -> B-recipient_email
+zim836LZX006 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+maximize wireless niches -> B-item_description
+4 -> B-item_quantity
+68.26 -> B-item_unit_price
+273.04 -> B-item_total
+syndicate proactive supply-chains -> B-item_description
+5 -> B-item_quantity
+65.04 -> B-item_unit_price
+325.20 -> B-item_total
+unleash real-time e-services -> B-item_description
+3 -> B-item_quantity
+51.60 -> B-item_unit_price
+154.80 -> B-item_total
+benchmark integrated info-mediaries -> B-item_description
+1 -> B-item_quantity
+36.93 -> B-item_unit_price
+36.93 -> B-item_total
+unleash visionary synergies -> B-item_description
+3 -> B-item_quantity
+18.50 -> B-item_unit_price
+55.50 -> B-item_total
+Subtotal -> O
+ : -> O
+ 845.47 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+135.28 -> B-tax_amount
+Total -> O
+: -> O
+980.75 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

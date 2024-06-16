@@ -1,0 +1,78 @@
+Invoice -> O
+412662 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-21 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-03 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Jordá -> B-issuer_name
+y -> I-issuer_name
+Haro -> I-issuer_name
+S.A.U -> I-issuer_name
+Glorieta -> B-issuer_address
+Charo -> I-issuer_address
+Aparicio -> I-issuer_address
+31 -> I-issuer_address
+Sevilla, -> I-issuer_address
+03584 -> I-issuer_address
++34843 69 38 14 -> B-issuer_phone
+zflores@rozas.net -> B-issuer_email
+dIy840EUV672 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Pía -> B-recipient_name
+Salcedo -> I-recipient_name
+Cuenca -> I-recipient_name
+Rambla -> B-recipient_address
+Eutimio -> I-recipient_address
+Seguí -> I-recipient_address
+637 -> I-recipient_address
+Apt. -> I-recipient_address
+59 -> I-recipient_address
+Cádiz, -> I-recipient_address
+13518 -> I-recipient_address
++34846 35 78 34 -> B-recipient_phone
+luciano12@yahoo.com -> B-recipient_email
+GwU019AxQ549 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+visualize innovative architectures -> B-item_description
+2 -> B-item_quantity
+26.82 -> B-item_unit_price
+53.64 -> B-item_total
+productize user-centric platforms -> B-item_description
+1 -> B-item_quantity
+12.62 -> B-item_unit_price
+12.62 -> B-item_total
+mesh ubiquitous solutions -> B-item_description
+7 -> B-item_quantity
+65.59 -> B-item_unit_price
+459.13 -> B-item_total
+e-enable cross-platform e-commerce -> B-item_description
+8 -> B-item_quantity
+61.31 -> B-item_unit_price
+490.48 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1015.87 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+162.54 -> B-tax_amount
+Total -> O
+: -> O
+1178.41 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

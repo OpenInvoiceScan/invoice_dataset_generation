@@ -1,0 +1,83 @@
+Factura -> O
+403846 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-19 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-06 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Despacho -> B-issuer_name
+TGV -> I-issuer_name
+S.L. -> I-issuer_name
+Pasadizo -> B-issuer_address
+Javi -> I-issuer_address
+Blazquez -> I-issuer_address
+96 -> I-issuer_address
+Puerta -> I-issuer_address
+1 -> I-issuer_address
+Las -> I-issuer_address
+Palmas, -> I-issuer_address
+06682 -> I-issuer_address
++34 847 191 177 -> B-issuer_phone
+mauraadadia@font.com -> B-issuer_email
+Qwf195pCs655 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Dionisio -> B-recipient_name
+Huertas-Valero -> I-recipient_name
+Avenida -> B-recipient_address
+de -> I-recipient_address
+Pilar -> I-recipient_address
+Llamas -> I-recipient_address
+257 -> I-recipient_address
+Álava, -> I-recipient_address
+39208 -> I-recipient_address
++34 820068631 -> B-recipient_phone
+maximovidal@hotmail.com -> B-recipient_email
+vBU856DIf258 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+empower customized ROI -> B-item_description
+7 -> B-item_quantity
+75.96 -> B-item_unit_price
+531.72 -> B-item_total
+benchmark vertical schemas -> B-item_description
+5 -> B-item_quantity
+71.60 -> B-item_unit_price
+358.00 -> B-item_total
+deploy sticky mindshare -> B-item_description
+9 -> B-item_quantity
+81.14 -> B-item_unit_price
+730.26 -> B-item_total
+orchestrate seamless supply-chains -> B-item_description
+3 -> B-item_quantity
+83.92 -> B-item_unit_price
+251.76 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1871.74 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+299.48 -> B-tax_amount
+Total -> O
+: -> O
+2171.22 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

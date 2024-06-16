@@ -1,0 +1,77 @@
+Comercial -> B-issuer_name
+Aguirre -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Acceso -> B-issuer_address
+de -> I-issuer_address
+Dominga -> I-issuer_address
+Baños -> I-issuer_address
+836 -> I-issuer_address
+León, -> I-issuer_address
+40057 -> I-issuer_address
++34988781912 -> B-issuer_phone
+barberainmaculada@manzanares.net -> B-issuer_email
+bgO651qUM400 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Teresita -> B-recipient_name
+Arce -> I-recipient_name
+Méndez -> I-recipient_name
+Calle -> B-recipient_address
+Nilo -> I-recipient_address
+Porcel -> I-recipient_address
+543 -> I-recipient_address
+Puerta -> I-recipient_address
+8 -> I-recipient_address
+Soria, -> I-recipient_address
+29366 -> I-recipient_address
++34 885 524 635 -> B-recipient_phone
+alicia30@gmail.com -> B-recipient_email
+Imm679SCP071 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+751918 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-15 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+architect impactful applications -> B-item_description
+50.92 -> B-item_unit_price
+305.52 -> B-item_total
+3 -> B-item_quantity
+enhance e-business relationships -> B-item_description
+58.90 -> B-item_unit_price
+176.70 -> B-item_total
+1 -> B-item_quantity
+whiteboard collaborative relationships -> B-item_description
+73.28 -> B-item_unit_price
+73.28 -> B-item_total
+6 -> B-item_quantity
+productize user-centric deliverables -> B-item_description
+36.81 -> B-item_unit_price
+220.86 -> B-item_total
+3 -> B-item_quantity
+strategize efficient info-mediaries -> B-item_description
+35.51 -> B-item_unit_price
+106.53 -> B-item_total
+Subtotal -> O
+: -> O
+ 882.89 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+141.26 -> B-tax_amount
+TOTAL -> O
+: -> O
+1024.15 -> B-total

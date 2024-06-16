@@ -1,0 +1,68 @@
+Invoice -> O
+395453 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-19 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-23 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Hnos -> B-issuer_name
+Peiró -> I-issuer_name
+S.L.L. -> I-issuer_name
+Alameda -> B-issuer_address
+de -> I-issuer_address
+Andrea -> I-issuer_address
+Santos -> I-issuer_address
+1 -> I-issuer_address
+Navarra, -> I-issuer_address
+31278 -> I-issuer_address
++34 873 42 74 73 -> B-issuer_phone
+baltasarsoto@alimentacion.net -> B-issuer_email
+TAF449OqT589 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Ceferino -> B-recipient_name
+Rivero -> I-recipient_name
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Natanael -> I-recipient_address
+Mosquera -> I-recipient_address
+6 -> I-recipient_address
+Melilla, -> I-recipient_address
+32278 -> I-recipient_address
++34 834 718 132 -> B-recipient_phone
+agulloeufemia@yahoo.com -> B-recipient_email
+gqG535bSp684 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+empower 24/365 supply-chains -> B-item_description
+10 -> B-item_quantity
+16.04 -> B-item_unit_price
+160.40 -> B-item_total
+utilize leading-edge platforms -> B-item_description
+1 -> B-item_quantity
+15.74 -> B-item_unit_price
+15.74 -> B-item_total
+Subtotal -> O
+ : -> O
+ 176.14 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+28.18 -> B-tax_amount
+Total -> O
+: -> O
+204.32 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

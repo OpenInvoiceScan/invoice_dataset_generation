@@ -1,0 +1,60 @@
+Consultoría -> B-issuer_name
+del -> I-issuer_name
+Mediterráneo -> I-issuer_name
+S.Coop. -> I-issuer_name
+Urbanización -> B-issuer_address
+de -> I-issuer_address
+Dani -> I-issuer_address
+Cruz -> I-issuer_address
+2 -> I-issuer_address
+La -> I-issuer_address
+Coruña, -> I-issuer_address
+37131 -> I-issuer_address
++34871 08 04 90 -> B-issuer_phone
+enavarro@industrias.es -> B-issuer_email
+cxz457TBo155 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Anna -> B-recipient_name
+Agustí -> I-recipient_name
+Olivé -> I-recipient_name
+Alameda -> B-recipient_address
+de -> I-recipient_address
+Ciro -> I-recipient_address
+Montoya -> I-recipient_address
+9 -> I-recipient_address
+Guadalajara, -> I-recipient_address
+14772 -> I-recipient_address
++34885 73 63 99 -> B-recipient_phone
+molljafet@gmail.com -> B-recipient_email
+DmH304CKl654 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+816448 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-09 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+facilitate dot-com paradigms -> B-item_description
+33.44 -> B-item_unit_price
+234.08 -> B-item_total
+Subtotal -> O
+: -> O
+ 234.08 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+37.45 -> B-tax_amount
+TOTAL -> O
+: -> O
+271.53 -> B-total

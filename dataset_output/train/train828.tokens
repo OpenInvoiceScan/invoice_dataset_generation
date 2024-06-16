@@ -1,0 +1,92 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+Lbl306tEH661 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 923 126 011 -> B-recipient_phone
+Nombre -> O
+: -> O
+Brígida -> B-recipient_name
+Tomás -> I-recipient_name
+Reina -> I-recipient_name
+Correo -> O
+: -> O
+nicanorbenavent@gmail.com -> B-recipient_email
+Pasaje -> B-recipient_address
+de -> I-recipient_address
+Amor -> I-recipient_address
+López -> I-recipient_address
+69 -> I-recipient_address
+Puerta -> I-recipient_address
+4 -> I-recipient_address
+Valladolid, -> I-recipient_address
+12892 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+88079 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-18 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+streamline holistic users -> B-item_description
+1 -> B-item_quantity
+51.65 -> B-item_total
+integrate cross-platform e-markets -> B-item_description
+4 -> B-item_quantity
+174.96 -> B-item_total
+disintermediate sticky ROI -> B-item_description
+10 -> B-item_quantity
+961.20 -> B-item_total
+architect out-of-the-box initiatives -> B-item_description
+8 -> B-item_quantity
+629.36 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1817.17 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+290.75 -> B-tax_amount
+TOTAL -> O
+: -> O
+2107.92 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+kvy984tts834 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34888 648 380 -> B-issuer_phone
+Nombre -> O
+: -> O
+Despacho -> B-issuer_name
+Hernando -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Correo -> O
+: -> O
+ktovar@distribuciones.es -> B-issuer_email
+Calle -> B-issuer_address
+de -> I-issuer_address
+Dolores -> I-issuer_address
+Porcel -> I-issuer_address
+88 -> I-issuer_address
+Cáceres, -> I-issuer_address
+16305 -> I-issuer_address

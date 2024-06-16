@@ -1,0 +1,86 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+lqP082rYn154 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 827166504 -> B-recipient_phone
+Nombre -> O
+: -> O
+Jafet -> B-recipient_name
+Otero -> I-recipient_name
+Correo -> O
+: -> O
+osunarufina@hotmail.com -> B-recipient_email
+Urbanización -> B-recipient_address
+de -> I-recipient_address
+Concha -> I-recipient_address
+Poza -> I-recipient_address
+50 -> I-recipient_address
+Granada, -> I-recipient_address
+27168 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+145199 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-18 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+optimize mission-critical info-mediaries -> B-item_description
+2 -> B-item_quantity
+27.88 -> B-item_total
+monetize compelling platforms -> B-item_description
+4 -> B-item_quantity
+254.72 -> B-item_total
+extend viral info-mediaries -> B-item_description
+5 -> B-item_quantity
+281.00 -> B-item_total
+Subtotal -> O
+ : -> O
+ 563.60 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+90.18 -> B-tax_amount
+TOTAL -> O
+: -> O
+653.78 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+VTi850sAT245 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34923556653 -> B-issuer_phone
+Nombre -> O
+: -> O
+Logística -> B-issuer_name
+Ibérica -> I-issuer_name
+S.Coop. -> I-issuer_name
+Correo -> O
+: -> O
+valerio71@mineria.com -> B-issuer_email
+Calle -> B-issuer_address
+de -> I-issuer_address
+Tomasa -> I-issuer_address
+Gracia -> I-issuer_address
+56 -> I-issuer_address
+Apt. -> I-issuer_address
+71 -> I-issuer_address
+Murcia, -> I-issuer_address
+26139 -> I-issuer_address

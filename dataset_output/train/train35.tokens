@@ -1,0 +1,79 @@
+Factura -> O
+464352 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-11 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-11 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Pozuelo -> B-issuer_name
+y -> I-issuer_name
+Vilalta -> I-issuer_name
+S.Coop. -> I-issuer_name
+C. -> B-issuer_address
+Maxi -> I-issuer_address
+Rosado -> I-issuer_address
+8 -> I-issuer_address
+Asturias, -> I-issuer_address
+10724 -> I-issuer_address
++34825910955 -> B-issuer_phone
+elena96@mineria.com -> B-issuer_email
+HQp186gxu101 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Carlos -> B-recipient_name
+Valle -> I-recipient_name
+Melero -> I-recipient_name
+Urbanización -> B-recipient_address
+Teodora -> I-recipient_address
+Caro -> I-recipient_address
+90 -> I-recipient_address
+Apt. -> I-recipient_address
+06 -> I-recipient_address
+Lugo, -> I-recipient_address
+29607 -> I-recipient_address
++34883 20 93 72 -> B-recipient_phone
+dllorens@hotmail.com -> B-recipient_email
+bQh412bkK838 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+evolve strategic metrics -> B-item_description
+10 -> B-item_quantity
+65.05 -> B-item_unit_price
+650.50 -> B-item_total
+target extensible functionalities -> B-item_description
+6 -> B-item_quantity
+44.99 -> B-item_unit_price
+269.94 -> B-item_total
+strategize value-added channels -> B-item_description
+2 -> B-item_quantity
+44.50 -> B-item_unit_price
+89.00 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1009.44 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+161.51 -> B-tax_amount
+Total -> O
+: -> O
+1170.95 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

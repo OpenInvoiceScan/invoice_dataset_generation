@@ -1,0 +1,71 @@
+Tomás -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Via -> B-issuer_address
+de -> I-issuer_address
+Marco -> I-issuer_address
+Oller -> I-issuer_address
+54 -> I-issuer_address
+Lugo, -> I-issuer_address
+41919 -> I-issuer_address
++34 885 971 192 -> B-issuer_phone
+chealcantara@suministros.org -> B-issuer_email
+RpF545qWV285 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Beatriz -> B-recipient_name
+Fuster -> I-recipient_name
+Pardo -> I-recipient_name
+Paseo -> B-recipient_address
+Griselda -> I-recipient_address
+Girona -> I-recipient_address
+93 -> I-recipient_address
+Apt. -> I-recipient_address
+86 -> I-recipient_address
+Asturias, -> I-recipient_address
+26490 -> I-recipient_address
++34942178384 -> B-recipient_phone
+sluna@yahoo.com -> B-recipient_email
+BJg780Qtd140 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+812406 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-12 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+re-intermediate visionary communities -> B-item_description
+50.75 -> B-item_unit_price
+507.50 -> B-item_total
+6 -> B-item_quantity
+scale revolutionary e-tailers -> B-item_description
+76.26 -> B-item_unit_price
+457.56 -> B-item_total
+4 -> B-item_quantity
+benchmark synergistic action-items -> B-item_description
+11.88 -> B-item_unit_price
+47.52 -> B-item_total
+10 -> B-item_quantity
+benchmark revolutionary technologies -> B-item_description
+61.53 -> B-item_unit_price
+615.30 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1627.88 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+260.46 -> B-tax_amount
+TOTAL -> O
+: -> O
+1888.34 -> B-total

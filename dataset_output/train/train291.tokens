@@ -1,0 +1,74 @@
+Factura -> O
+761927 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-17 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-29 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Familia -> B-issuer_name
+Hoz -> I-issuer_name
+S.L. -> I-issuer_name
+Camino -> B-issuer_address
+Abilio -> I-issuer_address
+Fuente -> I-issuer_address
+52 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Guipúzcoa, -> I-issuer_address
+15369 -> I-issuer_address
++34880 760 238 -> B-issuer_phone
+marcelinoricart@industrias.es -> B-issuer_email
+zjA627oxz304 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Fátima -> B-recipient_name
+Aroca -> I-recipient_name
+Mascaró -> I-recipient_name
+Urbanización -> B-recipient_address
+Eligio -> I-recipient_address
+Real -> I-recipient_address
+13 -> I-recipient_address
+Toledo, -> I-recipient_address
+38985 -> I-recipient_address
++34821 976 787 -> B-recipient_phone
+valdesvanesa@hotmail.com -> B-recipient_email
+NuT132wsW534 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+synthesize open-source markets -> B-item_description
+4 -> B-item_quantity
+88.35 -> B-item_unit_price
+353.40 -> B-item_total
+optimize mission-critical portals -> B-item_description
+5 -> B-item_quantity
+35.30 -> B-item_unit_price
+176.50 -> B-item_total
+Subtotal -> O
+ : -> O
+ 529.90 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+84.78 -> B-tax_amount
+Total -> O
+: -> O
+614.68 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

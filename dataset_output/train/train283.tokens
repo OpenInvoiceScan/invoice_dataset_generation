@@ -1,0 +1,81 @@
+Factura -> O
+752184 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-07 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-09 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Marquez -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L. -> I-issuer_name
+Via -> B-issuer_address
+César -> I-issuer_address
+Acevedo -> I-issuer_address
+35 -> I-issuer_address
+Barcelona, -> I-issuer_address
+27376 -> I-issuer_address
++34713 738 696 -> B-issuer_phone
+kroman@manufacturas.es -> B-issuer_email
+Jwt919qmF405 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Estela -> B-recipient_name
+del -> I-recipient_name
+Posada -> I-recipient_name
+Glorieta -> B-recipient_address
+de -> I-recipient_address
+Jose -> I-recipient_address
+Angel -> I-recipient_address
+Hidalgo -> I-recipient_address
+97 -> I-recipient_address
+Apt. -> I-recipient_address
+64 -> I-recipient_address
+Ourense, -> I-recipient_address
+17647 -> I-recipient_address
++34 871 968 309 -> B-recipient_phone
+campoteresa@yahoo.com -> B-recipient_email
+ckz173LMp124 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+seize proactive info-mediaries -> B-item_description
+1 -> B-item_quantity
+47.75 -> B-item_unit_price
+47.75 -> B-item_total
+morph bricks-and-clicks portals -> B-item_description
+9 -> B-item_quantity
+69.04 -> B-item_unit_price
+621.36 -> B-item_total
+repurpose scalable eyeballs -> B-item_description
+3 -> B-item_quantity
+78.44 -> B-item_unit_price
+235.32 -> B-item_total
+Subtotal -> O
+ : -> O
+ 904.43 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+144.71 -> B-tax_amount
+Total -> O
+: -> O
+1049.14 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

@@ -1,0 +1,81 @@
+Factura -> O
+545514 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-25 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-06 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Banco -> B-issuer_name
+Ibérica -> I-issuer_name
+S.Com. -> I-issuer_name
+Via -> B-issuer_address
+de -> I-issuer_address
+Natalia -> I-issuer_address
+Real -> I-issuer_address
+435 -> I-issuer_address
+Cáceres, -> I-issuer_address
+34416 -> I-issuer_address
++34 973 501 056 -> B-issuer_phone
+fuentearanzazu@banca.es -> B-issuer_email
+CAr057Bob083 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Felisa -> B-recipient_name
+Álamo -> I-recipient_name
+Jordá -> I-recipient_name
+Glorieta -> B-recipient_address
+Feliciana -> I-recipient_address
+Cid -> I-recipient_address
+36 -> I-recipient_address
+Asturias, -> I-recipient_address
+25985 -> I-recipient_address
++34945060247 -> B-recipient_phone
+bernalalbina@yahoo.com -> B-recipient_email
+EBd795ROy291 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+brand innovative architectures -> B-item_description
+4 -> B-item_quantity
+72.97 -> B-item_unit_price
+291.88 -> B-item_total
+synergize mission-critical technologies -> B-item_description
+10 -> B-item_quantity
+67.35 -> B-item_unit_price
+673.50 -> B-item_total
+incubate out-of-the-box platforms -> B-item_description
+9 -> B-item_quantity
+97.42 -> B-item_unit_price
+876.78 -> B-item_total
+revolutionize cross-platform relationships -> B-item_description
+8 -> B-item_quantity
+61.77 -> B-item_unit_price
+494.16 -> B-item_total
+Subtotal -> O
+ : -> O
+ 2336.32 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+373.81 -> B-tax_amount
+Total -> O
+: -> O
+2710.13 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

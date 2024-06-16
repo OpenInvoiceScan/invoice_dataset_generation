@@ -1,0 +1,72 @@
+Invoice -> O
+934327 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-18 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-23 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Áurea -> B-issuer_name
+Nieto -> I-issuer_name
+Duque -> I-issuer_name
+S.Com. -> I-issuer_name
+Ronda -> B-issuer_address
+de -> I-issuer_address
+Marco -> I-issuer_address
+Camps -> I-issuer_address
+80 -> I-issuer_address
+Cádiz, -> I-issuer_address
+09746 -> I-issuer_address
++34 976388973 -> B-issuer_phone
+candelario48@tecnologias.com -> B-issuer_email
+wRx863FNW384 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Febe -> B-recipient_name
+Quintanilla -> I-recipient_name
+Barba -> I-recipient_name
+Alameda -> B-recipient_address
+de -> I-recipient_address
+Ismael -> I-recipient_address
+Guardiola -> I-recipient_address
+820 -> I-recipient_address
+Puerta -> I-recipient_address
+8 -> I-recipient_address
+Cádiz, -> I-recipient_address
+18598 -> I-recipient_address
++34 631 61 23 31 -> B-recipient_phone
+juliemur@hotmail.com -> B-recipient_email
+UHx532reu099 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+strategize frictionless platforms -> B-item_description
+1 -> B-item_quantity
+93.90 -> B-item_unit_price
+93.90 -> B-item_total
+repurpose scalable e-commerce -> B-item_description
+2 -> B-item_quantity
+24.29 -> B-item_unit_price
+48.58 -> B-item_total
+Subtotal -> O
+ : -> O
+ 142.48 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+22.80 -> B-tax_amount
+Total -> O
+: -> O
+165.28 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

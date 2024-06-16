@@ -1,0 +1,91 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+RlK575WQH683 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 921 442 582 -> B-recipient_phone
+Nombre -> O
+: -> O
+Cebrián -> B-recipient_name
+Belda -> I-recipient_name
+Rodriguez -> I-recipient_name
+Correo -> O
+: -> O
+camilaboada@hotmail.com -> B-recipient_email
+Paseo -> B-recipient_address
+de -> I-recipient_address
+Quirino -> I-recipient_address
+Vélez -> I-recipient_address
+39 -> I-recipient_address
+Apt. -> I-recipient_address
+24 -> I-recipient_address
+Córdoba, -> I-recipient_address
+21764 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+872933 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-10 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+brand front-end schemas -> B-item_description
+3 -> B-item_quantity
+232.29 -> B-item_total
+benchmark robust initiatives -> B-item_description
+4 -> B-item_quantity
+316.92 -> B-item_total
+transform vertical supply-chains -> B-item_description
+8 -> B-item_quantity
+440.96 -> B-item_total
+morph open-source web-readiness -> B-item_description
+7 -> B-item_quantity
+642.95 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1633.12 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+261.30 -> B-tax_amount
+TOTAL -> O
+: -> O
+1894.42 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+GPY936pMa980 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 873214008 -> B-issuer_phone
+Nombre -> O
+: -> O
+Grupo -> B-issuer_name
+Olivé -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Correo -> O
+: -> O
+angel98@transportes.com -> B-issuer_email
+Urbanización -> B-issuer_address
+Encarnita -> I-issuer_address
+Machado -> I-issuer_address
+36 -> I-issuer_address
+Apt. -> I-issuer_address
+81 -> I-issuer_address
+Huesca, -> I-issuer_address
+37004 -> I-issuer_address

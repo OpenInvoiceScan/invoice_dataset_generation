@@ -1,50 +1,50 @@
 {
-  "invoice_id": 290382,
-  "issue_date": "2024-05-09",
-  "due_date": "2024-06-04",
+  "invoice_id": 60172,
+  "issue_date": "2024-05-17",
+  "due_date": "2024-06-02",
   "issuer": {
-    "name": "Townsend-Jones",
-    "address": "USNV Whitaker\nFPO AA 29874",
-    "phone": "744.301.6182x918",
-    "email": "villarrealtammy@long.org",
-    "tax_id": "oMA947Npo021"
+    "name": "Despacho Cid & Asociados S.A.",
+    "address": "Plaza de Jos\u00e9 Antonio Mas 96 Piso 3 \nGuadalajara, 48203",
+    "phone": "+34 974 81 98 39",
+    "email": "umendizabal@jose.com",
+    "tax_id": "Ehm810Anv547"
   },
   "recipient": {
-    "name": "Eric Chang",
-    "address": "2450 Desiree Inlet\nMccartymouth, OH 75325",
-    "phone": "+1-625-706-3869",
-    "email": "john09@yahoo.com",
-    "tax_id": "aMc587bjn981"
+    "name": "Gaspar del Escolano",
+    "address": "Camino de Casandra Andrade 15 Apt. 35 \nNavarra, 40474",
+    "phone": "+34951 87 17 87",
+    "email": "nerea49@hotmail.com",
+    "tax_id": "TmX953kTy472"
   },
   "items": [
     {
-      "description": "synergize cutting-edge convergence",
-      "quantity": 1,
-      "unit_price": 27.28,
-      "total": 27.28
+      "description": "innovate rich models",
+      "quantity": 3,
+      "unit_price": "45.15",
+      "total": "135.45"
     },
     {
-      "description": "transition revolutionary technologies",
+      "description": "innovate distributed e-tailers",
       "quantity": 2,
-      "unit_price": 44.9,
-      "total": 89.8
+      "unit_price": "73.60",
+      "total": "147.20"
     },
     {
-      "description": "integrate collaborative experiences",
-      "quantity": 8,
-      "unit_price": 98.4,
-      "total": 787.2
+      "description": "empower intuitive systems",
+      "quantity": 10,
+      "unit_price": "11.66",
+      "total": "116.60"
     }
   ],
-  "subtotal": 904.28,
+  "subtotal": "399.25",
   "taxes": [
     {
       "description": "VAT",
       "percentage": 16,
-      "amount": 144.68
+      "amount": "63.88"
     }
   ],
-  "total": 1048.96,
-  "payment_method": "Bank Transfer",
+  "total": "463.13",
+  "payment_method": "Credit Card",
   "currency": "EUR"
 }

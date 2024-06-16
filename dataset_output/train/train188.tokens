@@ -1,0 +1,91 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+SjK922PeJ830 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 822 14 88 77 -> B-recipient_phone
+Nombre -> O
+: -> O
+Maite -> B-recipient_name
+Ibañez -> I-recipient_name
+Correo -> O
+: -> O
+wcabo@yahoo.com -> B-recipient_email
+Cañada -> B-recipient_address
+Felicia -> I-recipient_address
+Malo -> I-recipient_address
+301 -> I-recipient_address
+Apt. -> I-recipient_address
+39 -> I-recipient_address
+Madrid, -> I-recipient_address
+01919 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+943419 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-29 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+engineer intuitive supply-chains -> B-item_description
+1 -> B-item_quantity
+88.19 -> B-item_total
+exploit mission-critical experiences -> B-item_description
+4 -> B-item_quantity
+48.00 -> B-item_total
+streamline synergistic infrastructures -> B-item_description
+1 -> B-item_quantity
+80.66 -> B-item_total
+incubate synergistic interfaces -> B-item_description
+6 -> B-item_quantity
+212.04 -> B-item_total
+Subtotal -> O
+ : -> O
+ 428.89 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+68.62 -> B-tax_amount
+TOTAL -> O
+: -> O
+497.51 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+boy099yVu840 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34983 839 170 -> B-issuer_phone
+Nombre -> O
+: -> O
+Yésica -> B-issuer_name
+Martí -> I-issuer_name
+Martorell -> I-issuer_name
+S.L. -> I-issuer_name
+Correo -> O
+: -> O
+gallegojose-francisco@ferran.com -> B-issuer_email
+Glorieta -> B-issuer_address
+de -> I-issuer_address
+Cirino -> I-issuer_address
+Aguilera -> I-issuer_address
+627 -> I-issuer_address
+Piso -> I-issuer_address
+9 -> I-issuer_address
+Alicante, -> I-issuer_address
+36079 -> I-issuer_address

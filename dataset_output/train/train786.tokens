@@ -1,0 +1,81 @@
+Invoice -> O
+924133 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-23 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-05 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Hnos -> B-issuer_name
+Prada -> I-issuer_name
+S.A.U -> I-issuer_name
+Pasaje -> B-issuer_address
+de -> I-issuer_address
+Benita -> I-issuer_address
+Ortuño -> I-issuer_address
+356 -> I-issuer_address
+Cáceres, -> I-issuer_address
+01688 -> I-issuer_address
++34 978 259 345 -> B-issuer_phone
+galvezalba@industrias.com -> B-issuer_email
+IXg741gaN593 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Amílcar -> B-recipient_name
+Macias -> I-recipient_name
+Pujol -> I-recipient_name
+Vial -> B-recipient_address
+de -> I-recipient_address
+Pili -> I-recipient_address
+Acedo -> I-recipient_address
+33 -> I-recipient_address
+Tarragona, -> I-recipient_address
+27281 -> I-recipient_address
++34 839 249 541 -> B-recipient_phone
+desideriomurillo@gmail.com -> B-recipient_email
+imD847xfp620 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+optimize granular portals -> B-item_description
+3 -> B-item_quantity
+61.38 -> B-item_unit_price
+184.14 -> B-item_total
+engineer open-source communities -> B-item_description
+7 -> B-item_quantity
+23.04 -> B-item_unit_price
+161.28 -> B-item_total
+re-intermediate integrated synergies -> B-item_description
+9 -> B-item_quantity
+32.89 -> B-item_unit_price
+296.01 -> B-item_total
+scale distributed e-tailers -> B-item_description
+4 -> B-item_quantity
+40.01 -> B-item_unit_price
+160.04 -> B-item_total
+transition killer technologies -> B-item_description
+10 -> B-item_quantity
+99.60 -> B-item_unit_price
+996.00 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1797.47 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+287.60 -> B-tax_amount
+Total -> O
+: -> O
+2085.07 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

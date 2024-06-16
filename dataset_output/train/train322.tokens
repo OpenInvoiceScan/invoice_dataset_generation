@@ -1,0 +1,82 @@
+Invoice -> O
+839590 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-04-29 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-20 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Arsenio -> B-issuer_name
+Bou -> I-issuer_name
+Llorente -> I-issuer_name
+S.Com. -> I-issuer_name
+Alameda -> B-issuer_address
+Jenaro -> I-issuer_address
+Yáñez -> I-issuer_address
+476 -> I-issuer_address
+Córdoba, -> I-issuer_address
+10517 -> I-issuer_address
++34 879 580 122 -> B-issuer_phone
+jsaavedra@torralba.net -> B-issuer_email
+ioA327HjW255 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Clemente -> B-recipient_name
+Eugenio -> I-recipient_name
+Puig -> I-recipient_name
+Velázquez -> I-recipient_name
+Rambla -> B-recipient_address
+de -> I-recipient_address
+Áurea -> I-recipient_address
+Múgica -> I-recipient_address
+4 -> I-recipient_address
+Lugo, -> I-recipient_address
+29612 -> I-recipient_address
++34986 747 574 -> B-recipient_phone
+paezmayte@hotmail.com -> B-recipient_email
+AuW998rLa147 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+grow bricks-and-clicks architectures -> B-item_description
+6 -> B-item_quantity
+24.38 -> B-item_unit_price
+146.28 -> B-item_total
+enable front-end bandwidth -> B-item_description
+8 -> B-item_quantity
+22.65 -> B-item_unit_price
+181.20 -> B-item_total
+leverage e-business niches -> B-item_description
+3 -> B-item_quantity
+55.71 -> B-item_unit_price
+167.13 -> B-item_total
+generate enterprise communities -> B-item_description
+8 -> B-item_quantity
+32.61 -> B-item_unit_price
+260.88 -> B-item_total
+reinvent plug-and-play models -> B-item_description
+9 -> B-item_quantity
+89.75 -> B-item_unit_price
+807.75 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1563.24 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+250.12 -> B-tax_amount
+Total -> O
+: -> O
+1813.36 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

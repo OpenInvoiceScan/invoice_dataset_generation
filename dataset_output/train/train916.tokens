@@ -1,0 +1,87 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+ZQv542jOB105 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34843 68 05 70 -> B-recipient_phone
+Nombre -> O
+: -> O
+María -> B-recipient_name
+Luisa -> I-recipient_name
+Posada -> I-recipient_name
+Almagro -> I-recipient_name
+Correo -> O
+: -> O
+sanmartinantonia@hotmail.com -> B-recipient_email
+Pasaje -> B-recipient_address
+Nico -> I-recipient_address
+Mercader -> I-recipient_address
+54 -> I-recipient_address
+Huelva, -> I-recipient_address
+12182 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+142517 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-14 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+reinvent proactive relationships -> B-item_description
+4 -> B-item_quantity
+53.36 -> B-item_total
+mesh efficient ROI -> B-item_description
+3 -> B-item_quantity
+228.75 -> B-item_total
+evolve proactive relationships -> B-item_description
+5 -> B-item_quantity
+289.50 -> B-item_total
+Subtotal -> O
+ : -> O
+ 571.61 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+91.46 -> B-tax_amount
+TOTAL -> O
+: -> O
+663.07 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+WAi668qJa995 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 987 95 78 11 -> B-issuer_phone
+Nombre -> O
+: -> O
+Consultoría -> B-issuer_name
+Ibérica -> I-issuer_name
+S.Com. -> I-issuer_name
+Correo -> O
+: -> O
+bernalricarda@familia.es -> B-issuer_email
+Pasaje -> B-issuer_address
+de -> I-issuer_address
+Asunción -> I-issuer_address
+Almazán -> I-issuer_address
+62 -> I-issuer_address
+Piso -> I-issuer_address
+9 -> I-issuer_address
+Madrid, -> I-issuer_address
+28781 -> I-issuer_address

@@ -1,0 +1,57 @@
+Hnos -> B-issuer_name
+Amores -> I-issuer_name
+S.Com. -> I-issuer_name
+Urbanización -> B-issuer_address
+de -> I-issuer_address
+Lara -> I-issuer_address
+Pozo -> I-issuer_address
+4 -> I-issuer_address
+Murcia, -> I-issuer_address
+44682 -> I-issuer_address
++34947 68 51 88 -> B-issuer_phone
+quirinoochoa@farmaceutica.com -> B-issuer_email
+YuP848gXt776 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Leonor -> B-recipient_name
+Jove -> I-recipient_name
+Tur -> I-recipient_name
+Callejón -> B-recipient_address
+de -> I-recipient_address
+Florentina -> I-recipient_address
+Plana -> I-recipient_address
+64 -> I-recipient_address
+Teruel, -> I-recipient_address
+38327 -> I-recipient_address
++34 972 152 961 -> B-recipient_phone
+vazquezarturo@gmail.com -> B-recipient_email
+Tcr134tYh187 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+863436 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-06 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+transform dot-com e-business -> B-item_description
+35.36 -> B-item_unit_price
+282.88 -> B-item_total
+Subtotal -> O 
+: -> O
+ 282.88 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+45.26 -> B-tax_amount
+TOTAL -> O
+: -> O
+328.14 -> B-total

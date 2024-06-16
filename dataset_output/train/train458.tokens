@@ -1,0 +1,70 @@
+Invoice -> O
+5136 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-18 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-22 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Berrocal -> B-issuer_name
+y -> I-issuer_name
+Agustí -> I-issuer_name
+S.Coop. -> I-issuer_name
+Rambla -> B-issuer_address
+de -> I-issuer_address
+Fito -> I-issuer_address
+Campos -> I-issuer_address
+78 -> I-issuer_address
+Valladolid, -> I-issuer_address
+15970 -> I-issuer_address
++34 873590384 -> B-issuer_phone
+regueramercedes@comercializadora.com -> B-issuer_email
+wCI245ihV720 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Itziar -> B-recipient_name
+Sebastián -> I-recipient_name
+Morales -> I-recipient_name
+Pasadizo -> B-recipient_address
+de -> I-recipient_address
+Ignacia -> I-recipient_address
+Elorza -> I-recipient_address
+150 -> I-recipient_address
+Barcelona, -> I-recipient_address
+45350 -> I-recipient_address
++34 844 814 600 -> B-recipient_phone
+encarna98@gmail.com -> B-recipient_email
+xLY335zIe732 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+e-enable impactful supply-chains -> B-item_description
+8 -> B-item_quantity
+23.96 -> B-item_unit_price
+191.68 -> B-item_total
+scale best-of-breed web services -> B-item_description
+3 -> B-item_quantity
+84.98 -> B-item_unit_price
+254.94 -> B-item_total
+Subtotal -> O
+ : -> O
+ 446.62 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+71.46 -> B-tax_amount
+Total -> O
+: -> O
+518.08 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

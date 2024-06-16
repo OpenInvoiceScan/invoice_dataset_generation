@@ -1,0 +1,88 @@
+Factura -> O
+784657 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-02 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-11 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Polo -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Via -> B-issuer_address
+Ema -> I-issuer_address
+Ródenas -> I-issuer_address
+33 -> I-issuer_address
+Zaragoza, -> I-issuer_address
+22452 -> I-issuer_address
++34 825 191 539 -> B-issuer_phone
+ntormo@carretero.es -> B-issuer_email
+QFK114ssd637 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Victorino -> B-recipient_name
+Diaz -> I-recipient_name
+Solera -> I-recipient_name
+Vial -> B-recipient_address
+de -> I-recipient_address
+Marina -> I-recipient_address
+Andres -> I-recipient_address
+54 -> I-recipient_address
+Apt. -> I-recipient_address
+29 -> I-recipient_address
+Valladolid, -> I-recipient_address
+03689 -> I-recipient_address
++34 875043651 -> B-recipient_phone
+ymiguel@hotmail.com -> B-recipient_email
+buA871ZqJ164 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+productize distributed experiences -> B-item_description
+1 -> B-item_quantity
+91.65 -> B-item_unit_price
+91.65 -> B-item_total
+grow web-enabled communities -> B-item_description
+8 -> B-item_quantity
+52.98 -> B-item_unit_price
+423.84 -> B-item_total
+target proactive portals -> B-item_description
+10 -> B-item_quantity
+97.85 -> B-item_unit_price
+978.50 -> B-item_total
+expedite cross-platform e-commerce -> B-item_description
+1 -> B-item_quantity
+26.20 -> B-item_unit_price
+26.20 -> B-item_total
+productize rich systems -> B-item_description
+6 -> B-item_quantity
+66.72 -> B-item_unit_price
+400.32 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1920.51 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+307.28 -> B-tax_amount
+Total -> O
+: -> O
+2227.79 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

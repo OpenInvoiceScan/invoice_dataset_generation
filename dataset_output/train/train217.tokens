@@ -1,0 +1,77 @@
+Jordán -> B-issuer_name
+y -> I-issuer_name
+Zapata -> I-issuer_name
+S.Coop. -> I-issuer_name
+Vial -> B-issuer_address
+de -> I-issuer_address
+Odalis -> I-issuer_address
+Coronado -> I-issuer_address
+27 -> I-issuer_address
+Segovia, -> I-issuer_address
+27622 -> I-issuer_address
++34803446868 -> B-issuer_phone
+vexposito@finanzas.net -> B-issuer_email
+ESN870fRU191 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Palmira -> B-recipient_name
+de -> I-recipient_name
+Antúnez -> I-recipient_name
+Glorieta -> B-recipient_address
+de -> I-recipient_address
+Felicidad -> I-recipient_address
+Leiva -> I-recipient_address
+558 -> I-recipient_address
+Puerta -> I-recipient_address
+5 -> I-recipient_address
+Murcia, -> I-recipient_address
+10372 -> I-recipient_address
++34 974 95 25 64 -> B-recipient_phone
+floresricardo@hotmail.com -> B-recipient_email
+xbL594jCo356 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+36243 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-28 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+generate clicks-and-mortar interfaces -> B-item_description
+18.97 -> B-item_unit_price
+132.79 -> B-item_total
+10 -> B-item_quantity
+synergize strategic functionalities -> B-item_description
+17.90 -> B-item_unit_price
+179.00 -> B-item_total
+8 -> B-item_quantity
+synthesize user-centric initiatives -> B-item_description
+18.33 -> B-item_unit_price
+146.64 -> B-item_total
+6 -> B-item_quantity
+deploy strategic web-readiness -> B-item_description
+39.14 -> B-item_unit_price
+234.84 -> B-item_total
+3 -> B-item_quantity
+monetize ubiquitous vortals -> B-item_description
+82.45 -> B-item_unit_price
+247.35 -> B-item_total
+Subtotal -> O
+: -> O
+ 940.62 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+150.50 -> B-tax_amount
+TOTAL -> O
+: -> O
+1091.12 -> B-total

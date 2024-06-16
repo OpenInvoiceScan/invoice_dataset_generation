@@ -1,0 +1,84 @@
+Factura -> O
+107296 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-08 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-03 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Taboada -> B-issuer_name
+y -> I-issuer_name
+Arnaiz -> I-issuer_name
+S.C.P -> I-issuer_name
+Paseo -> B-issuer_address
+de -> I-issuer_address
+Saturnino -> I-issuer_address
+Heras -> I-issuer_address
+70 -> I-issuer_address
+Lleida, -> I-issuer_address
+19790 -> I-issuer_address
++34979091940 -> B-issuer_phone
+hgalvez@barbera.net -> B-issuer_email
+lWA849EcH841 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Reina -> B-recipient_name
+Magdalena -> I-recipient_name
+Trillo -> I-recipient_name
+Ferrer -> I-recipient_name
+Cañada -> B-recipient_address
+de -> I-recipient_address
+Martina -> I-recipient_address
+Diaz -> I-recipient_address
+90 -> I-recipient_address
+Ávila, -> I-recipient_address
+03061 -> I-recipient_address
++34985278598 -> B-recipient_phone
+xfajardo@hotmail.com -> B-recipient_email
+gwm712omQ118 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+exploit interactive functionalities -> B-item_description
+7 -> B-item_quantity
+62.52 -> B-item_unit_price
+437.64 -> B-item_total
+strategize wireless e-business -> B-item_description
+10 -> B-item_quantity
+59.31 -> B-item_unit_price
+593.10 -> B-item_total
+visualize global relationships -> B-item_description
+1 -> B-item_quantity
+47.83 -> B-item_unit_price
+47.83 -> B-item_total
+aggregate clicks-and-mortar methodologies -> B-item_description
+10 -> B-item_quantity
+22.00 -> B-item_unit_price
+220.00 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1298.57 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+207.77 -> B-tax_amount
+Total -> O
+: -> O
+1506.34 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

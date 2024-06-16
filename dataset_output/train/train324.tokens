@@ -1,0 +1,94 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+wfl608Jse635 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34980 824 031 -> B-recipient_phone
+Nombre -> O
+: -> O
+Ciriaco -> B-recipient_name
+Cases -> I-recipient_name
+Guitart -> I-recipient_name
+Correo -> O
+: -> O
+luquepiedad@gmail.com -> B-recipient_email
+Ronda -> B-recipient_address
+de -> I-recipient_address
+Rosario -> I-recipient_address
+Bauzà -> I-recipient_address
+85 -> I-recipient_address
+Melilla, -> I-recipient_address
+01387 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+140785 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-08 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+re-intermediate holistic web services -> B-item_description
+3 -> B-item_quantity
+156.48 -> B-item_total
+morph transparent users -> B-item_description
+9 -> B-item_quantity
+344.88 -> B-item_total
+streamline cutting-edge architectures -> B-item_description
+3 -> B-item_quantity
+282.57 -> B-item_total
+integrate front-end paradigms -> B-item_description
+3 -> B-item_quantity
+132.78 -> B-item_total
+engineer vertical content -> B-item_description
+7 -> B-item_quantity
+583.87 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1500.58 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+240.09 -> B-tax_amount
+TOTAL -> O
+: -> O
+1740.67 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+iWR514AOO538 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 845 70 12 17 -> B-issuer_phone
+Nombre -> O
+: -> O
+Castell -> B-issuer_name
+y -> I-issuer_name
+Lluch -> I-issuer_name
+S.Com. -> I-issuer_name
+Correo -> O
+: -> O
+soledadllabres@teruel.es -> B-issuer_email
+Plaza -> B-issuer_address
+de -> I-issuer_address
+Roberta -> I-issuer_address
+Medina -> I-issuer_address
+3 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Castellón, -> I-issuer_address
+50411 -> I-issuer_address

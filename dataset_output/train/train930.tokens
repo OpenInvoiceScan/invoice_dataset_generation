@@ -1,0 +1,76 @@
+Invoice -> O
+7752 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-06 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-13 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Íngrid -> B-issuer_name
+Heredia -> I-issuer_name
+Carpio -> I-issuer_name
+S.L.U. -> I-issuer_name
+Alameda -> B-issuer_address
+de -> I-issuer_address
+Jessica -> I-issuer_address
+Martin -> I-issuer_address
+1 -> I-issuer_address
+Apt. -> I-issuer_address
+96 -> I-issuer_address
+Segovia, -> I-issuer_address
+09259 -> I-issuer_address
++34826 556 692 -> B-issuer_phone
+jaramburu@ale.com -> B-issuer_email
+Cop824UTN045 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Aurelia -> B-recipient_name
+Alcántara -> I-recipient_name
+Pulido -> I-recipient_name
+Ronda -> B-recipient_address
+de -> I-recipient_address
+Cándido -> I-recipient_address
+Bermudez -> I-recipient_address
+70 -> I-recipient_address
+Cantabria, -> I-recipient_address
+36320 -> I-recipient_address
++34945789787 -> B-recipient_phone
+ntamarit@hotmail.com -> B-recipient_email
+aRC990Qmc043 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+engage distributed web-readiness -> B-item_description
+6 -> B-item_quantity
+70.40 -> B-item_unit_price
+422.40 -> B-item_total
+implement e-business functionalities -> B-item_description
+5 -> B-item_quantity
+19.63 -> B-item_unit_price
+98.15 -> B-item_total
+scale bricks-and-clicks mindshare -> B-item_description
+1 -> B-item_quantity
+44.71 -> B-item_unit_price
+44.71 -> B-item_total
+Subtotal -> O
+ : -> O
+ 565.26 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+90.44 -> B-tax_amount
+Total -> O
+: -> O
+655.70 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

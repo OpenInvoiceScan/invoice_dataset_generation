@@ -1,0 +1,78 @@
+Factura -> O
+470761 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-10 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-06 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Yáñez -> B-issuer_name
+y -> I-issuer_name
+Sanchez -> I-issuer_name
+S.L.L. -> I-issuer_name
+Via -> B-issuer_address
+de -> I-issuer_address
+Germán -> I-issuer_address
+Alberdi -> I-issuer_address
+10 -> I-issuer_address
+Piso -> I-issuer_address
+8 -> I-issuer_address
+Ourense, -> I-issuer_address
+21408 -> I-issuer_address
++34928 215 356 -> B-issuer_phone
+ppages@consultoria.com -> B-issuer_email
+Mld077yxt858 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Bernardino -> B-recipient_name
+Ibañez -> I-recipient_name
+Meléndez -> I-recipient_name
+Cuesta -> B-recipient_address
+Urbano -> I-recipient_address
+Fuente -> I-recipient_address
+25 -> I-recipient_address
+Apt. -> I-recipient_address
+90 -> I-recipient_address
+Vizcaya, -> I-recipient_address
+20740 -> I-recipient_address
++34718 254 272 -> B-recipient_phone
+villegasamaya@hotmail.com -> B-recipient_email
+WDM672gMc914 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+productize one-to-one models -> B-item_description
+6 -> B-item_quantity
+85.71 -> B-item_unit_price
+514.26 -> B-item_total
+drive open-source info-mediaries -> B-item_description
+6 -> B-item_quantity
+52.93 -> B-item_unit_price
+317.58 -> B-item_total
+Subtotal -> O
+ : -> O
+ 831.84 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+133.09 -> B-tax_amount
+Total -> O
+: -> O
+964.93 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

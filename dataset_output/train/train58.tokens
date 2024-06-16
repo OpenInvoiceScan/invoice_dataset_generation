@@ -1,0 +1,80 @@
+Invoice -> O
+857952 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-12 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-10 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Adadia -> B-issuer_name
+y -> I-issuer_name
+Rebollo -> I-issuer_name
+S.L.N.E -> I-issuer_name
+C. -> B-issuer_address
+de -> I-issuer_address
+Concha -> I-issuer_address
+Pino -> I-issuer_address
+68 -> I-issuer_address
+Puerta -> I-issuer_address
+6 -> I-issuer_address
+Ávila, -> I-issuer_address
+31161 -> I-issuer_address
++34874199391 -> B-issuer_phone
+eligiobilbao@miguel.com -> B-issuer_email
+vDD813Lpr659 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Francisco -> B-recipient_name
+Jose -> I-recipient_name
+Agustín -> I-recipient_name
+Blazquez -> I-recipient_name
+Paredes -> I-recipient_name
+Calle -> B-recipient_address
+de -> I-recipient_address
+Plácido -> I-recipient_address
+Goñi -> I-recipient_address
+35 -> I-recipient_address
+Puerta -> I-recipient_address
+0 -> I-recipient_address
+Zamora, -> I-recipient_address
+06480 -> I-recipient_address
++34944 68 61 09 -> B-recipient_phone
+barbalope@hotmail.com -> B-recipient_email
+QhG152Mwj134 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+extend leading-edge users -> B-item_description
+1 -> B-item_quantity
+51.88 -> B-item_unit_price
+51.88 -> B-item_total
+generate wireless metrics -> B-item_description
+2 -> B-item_quantity
+73.75 -> B-item_unit_price
+147.50 -> B-item_total
+disintermediate clicks-and-mortar e-services -> B-item_description
+6 -> B-item_quantity
+21.82 -> B-item_unit_price
+130.92 -> B-item_total
+Subtotal -> O
+ : -> O
+ 330.30 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+52.85 -> B-tax_amount
+Total -> O
+: -> O
+383.15 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

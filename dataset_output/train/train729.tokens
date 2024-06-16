@@ -1,0 +1,64 @@
+Soluciones -> B-issuer_name
+Farré -> I-issuer_name
+S.A. -> I-issuer_name
+Paseo -> B-issuer_address
+de -> I-issuer_address
+Marcela -> I-issuer_address
+Rosado -> I-issuer_address
+78 -> I-issuer_address
+Puerta -> I-issuer_address
+7 -> I-issuer_address
+Cádiz, -> I-issuer_address
+26588 -> I-issuer_address
++34806 86 67 29 -> B-issuer_phone
+apons@tecnologias.es -> B-issuer_email
+Nyz968DGD721 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Feliciana -> B-recipient_name
+Morata -> I-recipient_name
+Castellanos -> I-recipient_name
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Jose -> I-recipient_address
+Cantón -> I-recipient_address
+4 -> I-recipient_address
+Málaga, -> I-recipient_address
+41334 -> I-recipient_address
++34725 461 428 -> B-recipient_phone
+folchjuan-luis@hotmail.com -> B-recipient_email
+NZJ986YEV129 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+335977 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-23 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+e-enable user-centric platforms -> B-item_description
+60.95 -> B-item_unit_price
+609.50 -> B-item_total
+1 -> B-item_quantity
+cultivate e-business relationships -> B-item_description
+73.58 -> B-item_unit_price
+73.58 -> B-item_total
+Subtotal -> O
+: -> O
+ 683.08 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+109.29 -> B-tax_amount
+TOTAL -> O
+: -> O
+792.37 -> B-total

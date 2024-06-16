@@ -1,0 +1,67 @@
+Transportes -> B-issuer_name
+Juliá -> I-issuer_name
+S.Com. -> I-issuer_name
+Pasaje -> B-issuer_address
+de -> I-issuer_address
+Severo -> I-issuer_address
+Segarra -> I-issuer_address
+86 -> I-issuer_address
+Jaén, -> I-issuer_address
+15839 -> I-issuer_address
++34 927573094 -> B-issuer_phone
+estrellamorata@gomez.org -> B-issuer_email
+AlK390PYZ176 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Marco -> B-recipient_name
+Fortunato -> I-recipient_name
+Ordóñez -> I-recipient_name
+Pineda -> I-recipient_name
+Callejón -> B-recipient_address
+Maricruz -> I-recipient_address
+Lloret -> I-recipient_address
+36 -> I-recipient_address
+Apt. -> I-recipient_address
+90 -> I-recipient_address
+Palencia, -> I-recipient_address
+41219 -> I-recipient_address
++34942 97 27 79 -> B-recipient_phone
+ana-belencampillo@yahoo.com -> B-recipient_email
+SVQ441yGO056 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+435729 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-06 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+brand 24/365 schemas -> B-item_description
+48.86 -> B-item_unit_price
+244.30 -> B-item_total
+10 -> B-item_quantity
+strategize leading-edge infrastructures -> B-item_description
+81.36 -> B-item_unit_price
+813.60 -> B-item_total
+2 -> B-item_quantity
+target proactive eyeballs -> B-item_description
+87.49 -> B-item_unit_price
+174.98 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1232.88 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+197.26 -> B-tax_amount
+TOTAL -> O
+: -> O
+1430.14 -> B-total

@@ -1,0 +1,69 @@
+Banco -> B-issuer_name
+Internacionales -> I-issuer_name
+S.L.N.E -> I-issuer_name
+C. -> B-issuer_address
+de -> I-issuer_address
+Juanita -> I-issuer_address
+Sanz -> I-issuer_address
+32 -> I-issuer_address
+Albacete, -> I-issuer_address
+03180 -> I-issuer_address
++34812057558 -> B-issuer_phone
+batllehumberto@tecnologias.net -> B-issuer_email
+ITi486ZRo293 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Flor -> B-recipient_name
+Rodriguez -> I-recipient_name
+Almeida -> I-recipient_name
+Camino -> B-recipient_address
+de -> I-recipient_address
+Elisa -> I-recipient_address
+Checa -> I-recipient_address
+93 -> I-recipient_address
+Asturias, -> I-recipient_address
+12930 -> I-recipient_address
++34716 25 63 12 -> B-recipient_phone
+rosauramarques@hotmail.com -> B-recipient_email
+OaO403Lar872 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+972495 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-12 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+strategize integrated communities -> B-item_description
+60.31 -> B-item_unit_price
+361.86 -> B-item_total
+9 -> B-item_quantity
+harness customized channels -> B-item_description
+49.86 -> B-item_unit_price
+448.74 -> B-item_total
+5 -> B-item_quantity
+exploit cutting-edge convergence -> B-item_description
+59.14 -> B-item_unit_price
+295.70 -> B-item_total
+8 -> B-item_quantity
+implement 24/7 methodologies -> B-item_description
+34.44 -> B-item_unit_price
+275.52 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1381.82 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+221.09 -> B-tax_amount
+TOTAL -> O
+: -> O
+1602.91 -> B-total

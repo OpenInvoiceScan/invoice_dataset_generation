@@ -1,0 +1,65 @@
+Barrera -> B-issuer_name
+y -> I-issuer_name
+Pagès -> I-issuer_name
+S.A. -> I-issuer_name
+Pasadizo -> B-issuer_address
+Maristela -> I-issuer_address
+Tejedor -> I-issuer_address
+85 -> I-issuer_address
+Melilla, -> I-issuer_address
+19032 -> I-issuer_address
++34843 42 08 65 -> B-issuer_phone
+alberoestrella@industrias.com -> B-issuer_email
+Gvt489RZo105 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Lorenzo -> B-recipient_name
+Vicente -> I-recipient_name
+Lago -> I-recipient_name
+Montero -> I-recipient_name
+Avenida -> B-recipient_address
+de -> I-recipient_address
+Rafaela -> I-recipient_address
+Valenzuela -> I-recipient_address
+88 -> I-recipient_address
+Puerta -> I-recipient_address
+0 -> I-recipient_address
+Córdoba, -> I-recipient_address
+51155 -> I-recipient_address
++34922 10 67 81 -> B-recipient_phone
+rbayon@hotmail.com -> B-recipient_email
+wUu845Ews720 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+82945 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-23 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+maximize mission-critical action-items -> B-item_description
+66.32 -> B-item_unit_price
+530.56 -> B-item_total
+3 -> B-item_quantity
+re-intermediate sticky markets -> B-item_description
+78.15 -> B-item_unit_price
+234.45 -> B-item_total
+Subtotal -> O
+: -> O
+ 765.01 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+122.40 -> B-tax_amount
+TOTAL -> O
+: -> O
+887.41 -> B-total

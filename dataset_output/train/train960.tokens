@@ -1,0 +1,74 @@
+Echeverría -> B-issuer_name
+y -> I-issuer_name
+Asensio -> I-issuer_name
+S.Coop. -> I-issuer_name
+Avenida -> B-issuer_address
+de -> I-issuer_address
+Ricardo -> I-issuer_address
+Alberola -> I-issuer_address
+526 -> I-issuer_address
+Álava, -> I-issuer_address
+15745 -> I-issuer_address
++34 971 55 42 51 -> B-issuer_phone
+amigoisaura@hermanos.com -> B-issuer_email
+uTD670hye965 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Tania -> B-recipient_name
+Galan -> I-recipient_name
+Cuesta -> B-recipient_address
+Consuelo -> I-recipient_address
+Neira -> I-recipient_address
+18 -> I-recipient_address
+Apt. -> I-recipient_address
+02 -> I-recipient_address
+Valencia, -> I-recipient_address
+11974 -> I-recipient_address
++34 823 998 503 -> B-recipient_phone
+casemiroplaza@yahoo.com -> B-recipient_email
+GQC296YOw315 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+629474 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-28 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+e-enable turn-key e-markets -> B-item_description
+82.80 -> B-item_unit_price
+579.60 -> B-item_total
+3 -> B-item_quantity
+extend customized architectures -> B-item_description
+59.39 -> B-item_unit_price
+178.17 -> B-item_total
+6 -> B-item_quantity
+envisioneer customized bandwidth -> B-item_description
+95.65 -> B-item_unit_price
+573.90 -> B-item_total
+1 -> B-item_quantity
+evolve visionary action-items -> B-item_description
+82.84 -> B-item_unit_price
+82.84 -> B-item_total
+8 -> B-item_quantity
+enhance open-source web-readiness -> B-item_description
+94.76 -> B-item_unit_price
+758.08 -> B-item_total
+Subtotal -> O 
+: -> O
+ 2172.59 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+347.61 -> B-tax_amount
+TOTAL -> O
+: -> O
+2520.20 -> B-total

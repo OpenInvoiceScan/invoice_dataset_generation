@@ -1,0 +1,57 @@
+Compañía -> B-issuer_name
+Dalmau -> I-issuer_name
+S.Com. -> I-issuer_name
+Urbanización -> B-issuer_address
+Juliana -> I-issuer_address
+Atienza -> I-issuer_address
+4 -> I-issuer_address
+Melilla, -> I-issuer_address
+45964 -> I-issuer_address
++34 943924456 -> B-issuer_phone
+baezsusana@kike.com -> B-issuer_email
+IlS915JUq866 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Miguel -> B-recipient_name
+Ángel -> I-recipient_name
+Ibarra -> I-recipient_name
+Ferreras -> I-recipient_name
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Eugenio -> I-recipient_address
+Arnaiz -> I-recipient_address
+6 -> I-recipient_address
+Zaragoza, -> I-recipient_address
+29385 -> I-recipient_address
++34813 204 872 -> B-recipient_phone
+zcuellar@gmail.com -> B-recipient_email
+nDv849Jrx662 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+675309 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-11 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+drive leading-edge partnerships -> B-item_description
+36.73 -> B-item_unit_price
+73.46 -> B-item_total
+Subtotal -> O 
+: -> O
+ 73.46 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+11.75 -> B-tax_amount
+TOTAL -> O
+: -> O
+85.21 -> B-total

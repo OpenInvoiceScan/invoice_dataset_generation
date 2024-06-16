@@ -1,0 +1,66 @@
+Invoice -> O
+478955 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-16 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-08 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Grupo -> B-issuer_name
+Cifuentes -> I-issuer_name
+S.Coop. -> I-issuer_name
+Urbanización -> B-issuer_address
+de -> I-issuer_address
+Adrián -> I-issuer_address
+Carro -> I-issuer_address
+94 -> I-issuer_address
+Badajoz, -> I-issuer_address
+15471 -> I-issuer_address
++34946 51 26 58 -> B-issuer_phone
+custodia06@comercial.com -> B-issuer_email
+Fyt390UND233 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Visitación -> B-recipient_name
+Bartolomé -> I-recipient_name
+Lladó -> I-recipient_name
+Pasadizo -> B-recipient_address
+Fortunata -> I-recipient_address
+Pelayo -> I-recipient_address
+5 -> I-recipient_address
+Apt. -> I-recipient_address
+12 -> I-recipient_address
+Cantabria, -> I-recipient_address
+44264 -> I-recipient_address
++34 883 32 43 08 -> B-recipient_phone
+florindacarrera@hotmail.com -> B-recipient_email
+rpD109GMR831 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+exploit mission-critical synergies -> B-item_description
+2 -> B-item_quantity
+78.61 -> B-item_unit_price
+157.22 -> B-item_total
+Subtotal -> O
+ : -> O
+ 157.22 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+25.16 -> B-tax_amount
+Total -> O
+: -> O
+182.38 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

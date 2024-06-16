@@ -1,0 +1,85 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+oam224lHR586 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 674067805 -> B-recipient_phone
+Nombre -> O
+: -> O
+Salomón -> B-recipient_name
+Lasa -> I-recipient_name
+Bonilla -> I-recipient_name
+Correo -> O
+: -> O
+pia27@gmail.com -> B-recipient_email
+Avenida -> B-recipient_address
+Espiridión -> I-recipient_address
+Carvajal -> I-recipient_address
+939 -> I-recipient_address
+Madrid, -> I-recipient_address
+50360 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+109273 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-06 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+enhance interactive portals -> B-item_description
+1 -> B-item_quantity
+28.70 -> B-item_total
+innovate seamless models -> B-item_description
+10 -> B-item_quantity
+592.80 -> B-item_total
+innovate transparent relationships -> B-item_description
+5 -> B-item_quantity
+246.85 -> B-item_total
+Subtotal -> O
+ : -> O
+ 868.35 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+138.94 -> B-tax_amount
+TOTAL -> O
+: -> O
+1007.29 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+PZb344Mqr504 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34737857000 -> B-issuer_phone
+Nombre -> O
+: -> O
+Instalaciones -> B-issuer_name
+Ibéricos -> I-issuer_name
+S.A. -> I-issuer_name
+Correo -> O
+: -> O
+chusmiguel@mineria.com -> B-issuer_email
+Cañada -> B-issuer_address
+Judith -> I-issuer_address
+Tamarit -> I-issuer_address
+48 -> I-issuer_address
+Piso -> I-issuer_address
+2 -> I-issuer_address
+Zaragoza, -> I-issuer_address
+05065 -> I-issuer_address

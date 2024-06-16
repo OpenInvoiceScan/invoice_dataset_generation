@@ -1,0 +1,85 @@
+Factura -> O
+870996 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-04-27 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-08 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Hnos -> B-issuer_name
+Merino -> I-issuer_name
+S.A. -> I-issuer_name
+Pasaje -> B-issuer_address
+Genoveva -> I-issuer_address
+Pedraza -> I-issuer_address
+52 -> I-issuer_address
+Apt. -> I-issuer_address
+61 -> I-issuer_address
+Álava, -> I-issuer_address
+28252 -> I-issuer_address
++34978 15 88 34 -> B-issuer_phone
+corallanda@pastor.com -> B-issuer_email
+oFz268DQJ632 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Blas -> B-recipient_name
+Eustaquio -> I-recipient_name
+Román -> I-recipient_name
+Olivares -> I-recipient_name
+Alameda -> B-recipient_address
+Brígida -> I-recipient_address
+Cuadrado -> I-recipient_address
+71 -> I-recipient_address
+Puerta -> I-recipient_address
+6 -> I-recipient_address
+Córdoba, -> I-recipient_address
+41784 -> I-recipient_address
++34872 55 84 44 -> B-recipient_phone
+htorres@hotmail.com -> B-recipient_email
+fsy529DUl953 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+generate web-enabled synergies -> B-item_description
+9 -> B-item_quantity
+12.31 -> B-item_unit_price
+110.79 -> B-item_total
+visualize revolutionary functionalities -> B-item_description
+3 -> B-item_quantity
+33.90 -> B-item_unit_price
+101.70 -> B-item_total
+syndicate scalable infrastructures -> B-item_description
+2 -> B-item_quantity
+90.35 -> B-item_unit_price
+180.70 -> B-item_total
+incentivize real-time systems -> B-item_description
+3 -> B-item_quantity
+93.90 -> B-item_unit_price
+281.70 -> B-item_total
+Subtotal -> O
+ : -> O
+ 674.89 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+107.98 -> B-tax_amount
+Total -> O
+: -> O
+782.87 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

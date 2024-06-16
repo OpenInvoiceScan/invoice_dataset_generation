@@ -1,0 +1,63 @@
+Servicios -> B-issuer_name
+Ballester -> I-issuer_name
+S.L.L. -> I-issuer_name
+Pasaje -> B-issuer_address
+de -> I-issuer_address
+Mar -> I-issuer_address
+Pinilla -> I-issuer_address
+90 -> I-issuer_address
+Navarra, -> I-issuer_address
+04850 -> I-issuer_address
++34 942346432 -> B-issuer_phone
+gertrudis21@mineria.org -> B-issuer_email
+fXZ779FCb544 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Manolo -> B-recipient_name
+Iborra -> I-recipient_name
+Amaya -> I-recipient_name
+C. -> B-recipient_address
+de -> I-recipient_address
+Timoteo -> I-recipient_address
+Fonseca -> I-recipient_address
+331 -> I-recipient_address
+La -> I-recipient_address
+Coruña, -> I-recipient_address
+18431 -> I-recipient_address
++34910 056 095 -> B-recipient_phone
+warias@hotmail.com -> B-recipient_email
+IYS419GEi071 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+421467 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-14 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+orchestrate killer synergies -> B-item_description
+51.25 -> B-item_unit_price
+410.00 -> B-item_total
+2 -> B-item_quantity
+incubate enterprise schemas -> B-item_description
+28.19 -> B-item_unit_price
+56.38 -> B-item_total
+Subtotal -> O
+: -> O
+ 466.38 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+74.62 -> B-tax_amount
+TOTAL -> O
+: -> O
+541.00 -> B-total

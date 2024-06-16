@@ -1,0 +1,72 @@
+Oliveras -> B-issuer_name
+y -> I-issuer_name
+Guijarro -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Avenida -> B-issuer_address
+de -> I-issuer_address
+Nico -> I-issuer_address
+Revilla -> I-issuer_address
+2 -> I-issuer_address
+Puerta -> I-issuer_address
+7 -> I-issuer_address
+Pontevedra, -> I-issuer_address
+48006 -> I-issuer_address
++34924 07 37 84 -> B-issuer_phone
+ifrancisco@comercializadora.net -> B-issuer_email
+oLT674svK097 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Rodrigo -> B-recipient_name
+Víctor -> I-recipient_name
+Lucas -> I-recipient_name
+Antón -> I-recipient_name
+Avenida -> B-recipient_address
+Carmen -> I-recipient_address
+Chamorro -> I-recipient_address
+41 -> I-recipient_address
+Ávila, -> I-recipient_address
+52064 -> I-recipient_address
++34920 85 46 84 -> B-recipient_phone
+cloecuevas@yahoo.com -> B-recipient_email
+lsY039IMq528 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+326091 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-11 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+utilize efficient systems -> B-item_description
+64.13 -> B-item_unit_price
+641.30 -> B-item_total
+4 -> B-item_quantity
+exploit synergistic supply-chains -> B-item_description
+39.33 -> B-item_unit_price
+157.32 -> B-item_total
+4 -> B-item_quantity
+benchmark granular convergence -> B-item_description
+23.86 -> B-item_unit_price
+95.44 -> B-item_total
+7 -> B-item_quantity
+synthesize web-enabled schemas -> B-item_description
+21.79 -> B-item_unit_price
+152.53 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1046.59 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+167.45 -> B-tax_amount
+TOTAL -> O
+: -> O
+1214.04 -> B-total

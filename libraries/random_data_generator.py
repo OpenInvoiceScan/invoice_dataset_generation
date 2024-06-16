@@ -2,6 +2,8 @@ from faker import Faker
 import json
 from random import randint, uniform
 
+
+
 faker = Faker("es_ES")
 
 def generate_item():
@@ -54,6 +56,6 @@ def generate_invoice():
         "currency": "EUR"
     }
 
-    return json.dumps(invoice, indent=2)
+    return json.dumps(invoice, indent=2, ensure_ascii=False)
 
 # Generate and print the fake invoice JSON

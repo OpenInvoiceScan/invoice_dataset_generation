@@ -1,0 +1,73 @@
+Invoice -> O
+712960 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-02 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-28 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Finanzas -> B-issuer_name
+Iberia -> I-issuer_name
+S.Coop. -> I-issuer_name
+Cañada -> B-issuer_address
+Felipe -> I-issuer_address
+Sotelo -> I-issuer_address
+3 -> I-issuer_address
+Puerta -> I-issuer_address
+6 -> I-issuer_address
+Tarragona, -> I-issuer_address
+36906 -> I-issuer_address
++34 806 71 54 07 -> B-issuer_phone
+raznar@teruel.com -> B-issuer_email
+xNh846ukl944 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Jovita -> B-recipient_name
+Manuel -> I-recipient_name
+Landa -> I-recipient_name
+Glorieta -> B-recipient_address
+Bernarda -> I-recipient_address
+Sanz -> I-recipient_address
+54 -> I-recipient_address
+Teruel, -> I-recipient_address
+21793 -> I-recipient_address
++34822 54 11 25 -> B-recipient_phone
+jmoll@hotmail.com -> B-recipient_email
+zzt358gno492 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+implement back-end methodologies -> B-item_description
+1 -> B-item_quantity
+68.43 -> B-item_unit_price
+68.43 -> B-item_total
+repurpose world-class eyeballs -> B-item_description
+2 -> B-item_quantity
+15.46 -> B-item_unit_price
+30.92 -> B-item_total
+utilize integrated metrics -> B-item_description
+10 -> B-item_quantity
+23.84 -> B-item_unit_price
+238.40 -> B-item_total
+Subtotal -> O
+ : -> O
+ 337.75 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+54.04 -> B-tax_amount
+Total -> O
+: -> O
+391.79 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

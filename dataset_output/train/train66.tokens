@@ -1,0 +1,75 @@
+Invoice -> O
+678383 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-22 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-23 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Tecnologías -> B-issuer_name
+Crespi -> I-issuer_name
+S.L. -> I-issuer_name
+Pasadizo -> B-issuer_address
+Xiomara -> I-issuer_address
+Soria -> I-issuer_address
+6 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Valladolid, -> I-issuer_address
+05045 -> I-issuer_address
++34 922707433 -> B-issuer_phone
+ernesto06@febe.es -> B-issuer_email
+jGn533rGc971 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Carlota -> B-recipient_name
+Viana -> I-recipient_name
+Giner -> I-recipient_name
+Pasadizo -> B-recipient_address
+Saturnino -> I-recipient_address
+Agustí -> I-recipient_address
+86 -> I-recipient_address
+Piso -> I-recipient_address
+0 -> I-recipient_address
+Zaragoza, -> I-recipient_address
+34043 -> I-recipient_address
++34 951 898 299 -> B-recipient_phone
+ulises18@gmail.com -> B-recipient_email
+hec483rKv123 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+cultivate out-of-the-box portals -> B-item_description
+1 -> B-item_quantity
+23.74 -> B-item_unit_price
+23.74 -> B-item_total
+cultivate dot-com mindshare -> B-item_description
+4 -> B-item_quantity
+41.42 -> B-item_unit_price
+165.68 -> B-item_total
+deliver customized users -> B-item_description
+8 -> B-item_quantity
+73.75 -> B-item_unit_price
+590.00 -> B-item_total
+Subtotal -> O
+ : -> O
+ 779.42 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+124.71 -> B-tax_amount
+Total -> O
+: -> O
+904.13 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

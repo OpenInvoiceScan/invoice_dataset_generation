@@ -1,0 +1,62 @@
+Infraestructuras -> B-issuer_name
+Iberia -> I-issuer_name
+S.L.L. -> I-issuer_name
+Via -> B-issuer_address
+Urbano -> I-issuer_address
+Bosch -> I-issuer_address
+26 -> I-issuer_address
+Burgos, -> I-issuer_address
+01477 -> I-issuer_address
++34 886 352 172 -> B-issuer_phone
+eloy65@familia.org -> B-issuer_email
+Kki134mqu227 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Flora -> B-recipient_name
+del -> I-recipient_name
+Llamas -> I-recipient_name
+Calle -> B-recipient_address
+de -> I-recipient_address
+Patricia -> I-recipient_address
+Cabello -> I-recipient_address
+342 -> I-recipient_address
+Puerta -> I-recipient_address
+9 -> I-recipient_address
+Ceuta, -> I-recipient_address
+18081 -> I-recipient_address
++34 885 36 03 45 -> B-recipient_phone
+nandocalleja@gmail.com -> B-recipient_email
+Rxc274Bkr273 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+891462 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-15 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+visualize integrated schemas -> B-item_description
+57.77 -> B-item_unit_price
+115.54 -> B-item_total
+9 -> B-item_quantity
+benchmark viral infrastructures -> B-item_description
+85.14 -> B-item_unit_price
+766.26 -> B-item_total
+Subtotal -> O 
+: -> O
+ 881.80 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+141.09 -> B-tax_amount
+TOTAL -> O
+: -> O
+1022.89 -> B-total

@@ -1,0 +1,91 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+MjI904hZb067 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 740 72 96 49 -> B-recipient_phone
+Nombre -> O
+: -> O
+Anselmo -> B-recipient_name
+Sanmiguel -> I-recipient_name
+Salamanca -> I-recipient_name
+Correo -> O
+: -> O
+celestinocornejo@hotmail.com -> B-recipient_email
+Avenida -> B-recipient_address
+Adrián -> I-recipient_address
+Piñeiro -> I-recipient_address
+38 -> I-recipient_address
+Valladolid, -> I-recipient_address
+36152 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+743892 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-02 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+productize seamless functionalities -> B-item_description
+6 -> B-item_quantity
+543.06 -> B-item_total
+synergize mission-critical e-tailers -> B-item_description
+9 -> B-item_quantity
+97.02 -> B-item_total
+grow open-source systems -> B-item_description
+5 -> B-item_quantity
+470.10 -> B-item_total
+incubate extensible communities -> B-item_description
+8 -> B-item_quantity
+534.40 -> B-item_total
+incentivize web-enabled e-services -> B-item_description
+5 -> B-item_quantity
+87.30 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1731.88 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+277.10 -> B-tax_amount
+TOTAL -> O
+: -> O
+2008.98 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+CUO002exa599 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 913339410 -> B-issuer_phone
+Nombre -> O
+: -> O
+Consultoría -> B-issuer_name
+EGR -> I-issuer_name
+S.L. -> I-issuer_name
+Correo -> O
+: -> O
+brunorobles@inmobiliaria.com -> B-issuer_email
+Pasadizo -> B-issuer_address
+Tomás -> I-issuer_address
+Casas -> I-issuer_address
+701 -> I-issuer_address
+Puerta -> I-issuer_address
+3 -> I-issuer_address
+Baleares, -> I-issuer_address
+10105 -> I-issuer_address

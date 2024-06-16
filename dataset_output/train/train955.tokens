@@ -1,0 +1,85 @@
+Factura -> O
+502612 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-05 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-20 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Suministros -> B-issuer_name
+Españolas -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+Cayetana -> I-issuer_address
+Salas -> I-issuer_address
+5 -> I-issuer_address
+La -> I-issuer_address
+Rioja, -> I-issuer_address
+08438 -> I-issuer_address
++34867 69 87 31 -> B-issuer_phone
+trinidad86@distribuciones.com -> B-issuer_email
+KJc332qUl573 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Berto -> B-recipient_name
+Oller -> I-recipient_name
+Bilbao -> I-recipient_name
+Paseo -> B-recipient_address
+de -> I-recipient_address
+Zoraida -> I-recipient_address
+Olivé -> I-recipient_address
+30 -> I-recipient_address
+Apt. -> I-recipient_address
+70 -> I-recipient_address
+Toledo, -> I-recipient_address
+21764 -> I-recipient_address
++34825 15 66 15 -> B-recipient_phone
+paroca@hotmail.com -> B-recipient_email
+oUB293BYf565 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+orchestrate open-source methodologies -> B-item_description
+8 -> B-item_quantity
+96.01 -> B-item_unit_price
+768.08 -> B-item_total
+exploit scalable bandwidth -> B-item_description
+4 -> B-item_quantity
+66.89 -> B-item_unit_price
+267.56 -> B-item_total
+transform proactive ROI -> B-item_description
+10 -> B-item_quantity
+39.05 -> B-item_unit_price
+390.50 -> B-item_total
+redefine visionary synergies -> B-item_description
+1 -> B-item_quantity
+41.62 -> B-item_unit_price
+41.62 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1467.76 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+234.84 -> B-tax_amount
+Total -> O
+: -> O
+1702.60 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

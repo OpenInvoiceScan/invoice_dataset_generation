@@ -1,0 +1,74 @@
+Farmaceútica -> B-issuer_name
+Bas -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Alameda -> B-issuer_address
+Nieves -> I-issuer_address
+Pellicer -> I-issuer_address
+40 -> I-issuer_address
+Apt. -> I-issuer_address
+65 -> I-issuer_address
+Valencia, -> I-issuer_address
+51899 -> I-issuer_address
++34 963 96 56 24 -> B-issuer_phone
+nacio13@hermanos.es -> B-issuer_email
+WoR774sIB805 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Eli -> B-recipient_name
+Martorell -> I-recipient_name
+Urbanización -> B-recipient_address
+Ricarda -> I-recipient_address
+Yáñez -> I-recipient_address
+2 -> I-recipient_address
+Zaragoza, -> I-recipient_address
+46070 -> I-recipient_address
++34873402875 -> B-recipient_phone
+tcasal@hotmail.com -> B-recipient_email
+FhY983AWe755 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+52109 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-15 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+synthesize efficient channels -> B-item_description
+64.67 -> B-item_unit_price
+582.03 -> B-item_total
+3 -> B-item_quantity
+deliver 24/7 web services -> B-item_description
+24.52 -> B-item_unit_price
+73.56 -> B-item_total
+4 -> B-item_quantity
+morph virtual systems -> B-item_description
+28.48 -> B-item_unit_price
+113.92 -> B-item_total
+7 -> B-item_quantity
+cultivate user-centric networks -> B-item_description
+76.69 -> B-item_unit_price
+536.83 -> B-item_total
+8 -> B-item_quantity
+engage out-of-the-box functionalities -> B-item_description
+79.86 -> B-item_unit_price
+638.88 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1945.22 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+311.24 -> B-tax_amount
+TOTAL -> O
+: -> O
+2256.46 -> B-total

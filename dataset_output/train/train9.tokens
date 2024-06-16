@@ -1,0 +1,62 @@
+Banca -> B-issuer_name
+Privada -> I-issuer_name
+Herranz -> I-issuer_name
+S.C.P -> I-issuer_name
+Callejón -> B-issuer_address
+de -> I-issuer_address
+Hilda -> I-issuer_address
+Cabo -> I-issuer_address
+15 -> I-issuer_address
+Alicante, -> I-issuer_address
+40116 -> I-issuer_address
++34 807 70 62 99 -> B-issuer_phone
+ugargallo@alimentacion.net -> B-issuer_email
+VpN098fDJ556 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Roldán -> B-recipient_name
+Ochoa -> I-recipient_name
+Calle -> B-recipient_address
+de -> I-recipient_address
+Olalla -> I-recipient_address
+Aller -> I-recipient_address
+43 -> I-recipient_address
+Murcia, -> I-recipient_address
+19097 -> I-recipient_address
++34 978 775 314 -> B-recipient_phone
+emacampos@yahoo.com -> B-recipient_email
+tkT738rnb431 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+386862 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-19 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+facilitate ubiquitous models -> B-item_description
+68.02 -> B-item_unit_price
+272.08 -> B-item_total
+2 -> B-item_quantity
+benchmark e-business eyeballs -> B-item_description
+20.27 -> B-item_unit_price
+40.54 -> B-item_total
+Subtotal -> O
+: -> O
+ 312.62 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+50.02 -> B-tax_amount
+TOTAL -> O
+: -> O
+362.64 -> B-total

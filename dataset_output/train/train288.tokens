@@ -1,0 +1,74 @@
+Soluciones -> B-issuer_name
+del -> I-issuer_name
+Levante -> I-issuer_name
+S.Com. -> I-issuer_name
+Urbanización -> B-issuer_address
+de -> I-issuer_address
+Andrés -> I-issuer_address
+Felipe -> I-issuer_address
+Galindo -> I-issuer_address
+62 -> I-issuer_address
+Puerta -> I-issuer_address
+5 -> I-issuer_address
+Ávila, -> I-issuer_address
+28264 -> I-issuer_address
++34946352459 -> B-issuer_phone
+calderonhilario@infraestructuras.org -> B-issuer_email
+ctf579HHK924 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Gervasio -> B-recipient_name
+Pagès-Garzón -> I-recipient_name
+Callejón -> B-recipient_address
+de -> I-recipient_address
+Guillermo -> I-recipient_address
+Castells -> I-recipient_address
+87 -> I-recipient_address
+Piso -> I-recipient_address
+7 -> I-recipient_address
+Melilla, -> I-recipient_address
+23623 -> I-recipient_address
++34 982271606 -> B-recipient_phone
+angelitapazos@gmail.com -> B-recipient_email
+Rci856hNp578 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+85234 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-01 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+evolve seamless interfaces -> B-item_description
+67.31 -> B-item_unit_price
+673.10 -> B-item_total
+3 -> B-item_quantity
+incentivize web-enabled ROI -> B-item_description
+83.23 -> B-item_unit_price
+249.69 -> B-item_total
+1 -> B-item_quantity
+engage frictionless convergence -> B-item_description
+91.97 -> B-item_unit_price
+91.97 -> B-item_total
+3 -> B-item_quantity
+enable B2B mindshare -> B-item_description
+30.71 -> B-item_unit_price
+92.13 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1106.89 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+177.10 -> B-tax_amount
+TOTAL -> O
+: -> O
+1283.99 -> B-total

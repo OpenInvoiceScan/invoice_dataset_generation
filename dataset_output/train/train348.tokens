@@ -1,0 +1,95 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+fHm317zUZ981 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34986 273 479 -> B-recipient_phone
+Nombre -> O
+: -> O
+Adolfo -> B-recipient_name
+Amílcar -> I-recipient_name
+Durán -> I-recipient_name
+Badía -> I-recipient_name
+Correo -> O
+: -> O
+quiquejove@yahoo.com -> B-recipient_email
+Cuesta -> B-recipient_address
+Nicolasa -> I-recipient_address
+Company -> I-recipient_address
+17 -> I-recipient_address
+Puerta -> I-recipient_address
+6 -> I-recipient_address
+Barcelona, -> I-recipient_address
+46381 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+317903 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-12 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+engineer impactful relationships -> B-item_description
+3 -> B-item_quantity
+140.52 -> B-item_total
+benchmark transparent bandwidth -> B-item_description
+9 -> B-item_quantity
+508.05 -> B-item_total
+embrace turn-key markets -> B-item_description
+8 -> B-item_quantity
+487.44 -> B-item_total
+generate strategic channels -> B-item_description
+2 -> B-item_quantity
+27.78 -> B-item_total
+engineer dynamic portals -> B-item_description
+9 -> B-item_quantity
+496.71 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1660.50 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+265.68 -> B-tax_amount
+TOTAL -> O
+: -> O
+1926.18 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+XKb905Mlt150 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 921692406 -> B-issuer_phone
+Nombre -> O
+: -> O
+Hotel -> B-issuer_name
+Jordá -> I-issuer_name
+S.L. -> I-issuer_name
+Correo -> O
+: -> O
+galanmanuel@consultoria.com -> B-issuer_email
+Plaza -> B-issuer_address
+de -> I-issuer_address
+Bernabé -> I-issuer_address
+Contreras -> I-issuer_address
+4 -> I-issuer_address
+Piso -> I-issuer_address
+0 -> I-issuer_address
+Toledo, -> I-issuer_address
+32554 -> I-issuer_address

@@ -1,0 +1,85 @@
+Factura -> O
+855577 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-04 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-16 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Morell -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.A. -> I-issuer_name
+Vial -> B-issuer_address
+de -> I-issuer_address
+Mohamed -> I-issuer_address
+Olivera -> I-issuer_address
+9 -> I-issuer_address
+Málaga, -> I-issuer_address
+44847 -> I-issuer_address
++34822 063 662 -> B-issuer_phone
+montserratsandalio@inmobiliaria.com -> B-issuer_email
+vMO694AEc670 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Loreto -> B-recipient_name
+Morell -> I-recipient_name
+Cañada -> B-recipient_address
+Xavier -> I-recipient_address
+Pavón -> I-recipient_address
+61 -> I-recipient_address
+Huelva, -> I-recipient_address
+46615 -> I-recipient_address
++34845 78 11 56 -> B-recipient_phone
+nbou@gmail.com -> B-recipient_email
+Tpd607AID495 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+grow sticky deliverables -> B-item_description
+5 -> B-item_quantity
+34.58 -> B-item_unit_price
+172.90 -> B-item_total
+embrace innovative niches -> B-item_description
+1 -> B-item_quantity
+23.89 -> B-item_unit_price
+23.89 -> B-item_total
+embrace turn-key e-markets -> B-item_description
+6 -> B-item_quantity
+35.45 -> B-item_unit_price
+212.70 -> B-item_total
+orchestrate 24/7 deliverables -> B-item_description
+3 -> B-item_quantity
+71.04 -> B-item_unit_price
+213.12 -> B-item_total
+engage bleeding-edge web services -> B-item_description
+3 -> B-item_quantity
+41.17 -> B-item_unit_price
+123.51 -> B-item_total
+Subtotal -> O
+ : -> O
+ 746.12 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+119.38 -> B-tax_amount
+Total -> O
+: -> O
+865.50 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

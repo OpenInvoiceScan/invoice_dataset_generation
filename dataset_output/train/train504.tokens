@@ -1,0 +1,74 @@
+Yáñez -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.A. -> I-issuer_name
+Urbanización -> B-issuer_address
+de -> I-issuer_address
+Américo -> I-issuer_address
+Sanmiguel -> I-issuer_address
+174 -> I-issuer_address
+Baleares, -> I-issuer_address
+25364 -> I-issuer_address
++34 977 435 676 -> B-issuer_phone
+gracielaferrando@grupo.es -> B-issuer_email
+cVj300Quv806 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Azucena -> B-recipient_name
+Cornejo -> I-recipient_name
+Crespi -> I-recipient_name
+Cuesta -> B-recipient_address
+de -> I-recipient_address
+Valeria -> I-recipient_address
+Coca -> I-recipient_address
+15 -> I-recipient_address
+Melilla, -> I-recipient_address
+51245 -> I-recipient_address
++34841591987 -> B-recipient_phone
+zuritateodoro@hotmail.com -> B-recipient_email
+aas802zmv215 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+307729 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-12 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+mesh clicks-and-mortar supply-chains -> B-item_description
+17.20 -> B-item_unit_price
+86.00 -> B-item_total
+8 -> B-item_quantity
+evolve integrated vortals -> B-item_description
+19.01 -> B-item_unit_price
+152.08 -> B-item_total
+4 -> B-item_quantity
+reinvent dot-com ROI -> B-item_description
+91.96 -> B-item_unit_price
+367.84 -> B-item_total
+9 -> B-item_quantity
+harness strategic relationships -> B-item_description
+93.26 -> B-item_unit_price
+839.34 -> B-item_total
+8 -> B-item_quantity
+target revolutionary bandwidth -> B-item_description
+18.73 -> B-item_unit_price
+149.84 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1595.10 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+255.22 -> B-tax_amount
+TOTAL -> O
+: -> O
+1850.32 -> B-total

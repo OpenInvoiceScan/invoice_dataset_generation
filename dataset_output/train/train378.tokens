@@ -1,0 +1,77 @@
+Invoice -> O
+335512 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-17 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-14 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Banca -> B-issuer_name
+Privada -> I-issuer_name
+Casas -> I-issuer_name
+S.L. -> I-issuer_name
+Pasadizo -> B-issuer_address
+de -> I-issuer_address
+Sara -> I-issuer_address
+Huguet -> I-issuer_address
+52 -> I-issuer_address
+Apt. -> I-issuer_address
+46 -> I-issuer_address
+Burgos, -> I-issuer_address
+14653 -> I-issuer_address
++34 875 709 046 -> B-issuer_phone
+valentin42@distribuciones.org -> B-issuer_email
+AGJ723Htm006 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Telmo -> B-recipient_name
+Francisco -> I-recipient_name
+Anaya -> I-recipient_name
+Valcárcel -> I-recipient_name
+Pasadizo -> B-recipient_address
+Baltasar -> I-recipient_address
+Sebastián -> I-recipient_address
+396 -> I-recipient_address
+La -> I-recipient_address
+Coruña, -> I-recipient_address
+35708 -> I-recipient_address
++34988 51 74 40 -> B-recipient_phone
+sanchovictor@gmail.com -> B-recipient_email
+nxq881MnG594 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+whiteboard granular vortals -> B-item_description
+1 -> B-item_quantity
+88.26 -> B-item_unit_price
+88.26 -> B-item_total
+target innovative eyeballs -> B-item_description
+6 -> B-item_quantity
+26.14 -> B-item_unit_price
+156.84 -> B-item_total
+generate mission-critical channels -> B-item_description
+2 -> B-item_quantity
+62.86 -> B-item_unit_price
+125.72 -> B-item_total
+Subtotal -> O
+ : -> O
+ 370.82 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+59.33 -> B-tax_amount
+Total -> O
+: -> O
+430.15 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

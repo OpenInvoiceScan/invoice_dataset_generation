@@ -1,0 +1,81 @@
+Factura -> O
+11522 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-04-27 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-28 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Severo -> B-issuer_name
+Camps -> I-issuer_name
+Zurita -> I-issuer_name
+S.Coop. -> I-issuer_name
+Avenida -> B-issuer_address
+de -> I-issuer_address
+Juliana -> I-issuer_address
+Manjón -> I-issuer_address
+83 -> I-issuer_address
+Puerta -> I-issuer_address
+4 -> I-issuer_address
+Ourense, -> I-issuer_address
+24471 -> I-issuer_address
++34 846 65 34 60 -> B-issuer_phone
+tatianablanca@familia.es -> B-issuer_email
+aPp367PCm851 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Anunciación -> B-recipient_name
+Cadenas -> I-recipient_name
+Quirós -> I-recipient_name
+Pasadizo -> B-recipient_address
+de -> I-recipient_address
+Santos -> I-recipient_address
+Verdugo -> I-recipient_address
+47 -> I-recipient_address
+Cuenca, -> I-recipient_address
+01455 -> I-recipient_address
++34 967969801 -> B-recipient_phone
+oayala@gmail.com -> B-recipient_email
+RFa356GqM520 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+mesh killer synergies -> B-item_description
+2 -> B-item_quantity
+86.92 -> B-item_unit_price
+173.84 -> B-item_total
+exploit interactive action-items -> B-item_description
+1 -> B-item_quantity
+23.41 -> B-item_unit_price
+23.41 -> B-item_total
+repurpose proactive e-tailers -> B-item_description
+3 -> B-item_quantity
+61.20 -> B-item_unit_price
+183.60 -> B-item_total
+Subtotal -> O
+ : -> O
+ 380.85 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+60.94 -> B-tax_amount
+Total -> O
+: -> O
+441.79 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

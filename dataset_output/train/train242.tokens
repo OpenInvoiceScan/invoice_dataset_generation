@@ -1,0 +1,74 @@
+Invoice -> O
+742225 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-04 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-23 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Despacho -> B-issuer_name
+Hernández -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Rambla -> B-issuer_address
+de -> I-issuer_address
+Paloma -> I-issuer_address
+Manzano -> I-issuer_address
+958 -> I-issuer_address
+Puerta -> I-issuer_address
+5 -> I-issuer_address
+Alicante, -> I-issuer_address
+50278 -> I-issuer_address
++34 926956854 -> B-issuer_phone
+joseadadia@paredes.es -> B-issuer_email
+pkc029qIy013 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Juan -> B-recipient_name
+Carlos -> I-recipient_name
+Puga -> I-recipient_name
+Glorieta -> B-recipient_address
+Pascual -> I-recipient_address
+Jordán -> I-recipient_address
+5 -> I-recipient_address
+Piso -> I-recipient_address
+4 -> I-recipient_address
+Almería, -> I-recipient_address
+43501 -> I-recipient_address
++34 956 864 592 -> B-recipient_phone
+roldandaniel@hotmail.com -> B-recipient_email
+liL083HbZ355 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+syndicate killer technologies -> B-item_description
+6 -> B-item_quantity
+83.32 -> B-item_unit_price
+499.92 -> B-item_total
+incubate proactive functionalities -> B-item_description
+4 -> B-item_quantity
+28.67 -> B-item_unit_price
+114.68 -> B-item_total
+Subtotal -> O
+ : -> O
+ 614.60 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+98.34 -> B-tax_amount
+Total -> O
+: -> O
+712.94 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

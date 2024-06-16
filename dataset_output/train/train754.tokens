@@ -1,0 +1,71 @@
+Invoice -> O
+394805 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-10 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-27 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Grupo -> B-issuer_name
+Álvarez -> I-issuer_name
+S.Com. -> I-issuer_name
+Glorieta -> B-issuer_address
+Ruy -> I-issuer_address
+Toro -> I-issuer_address
+17 -> I-issuer_address
+Las -> I-issuer_address
+Palmas, -> I-issuer_address
+46918 -> I-issuer_address
++34 884 833 212 -> B-issuer_phone
+aguadoalex@noguera.es -> B-issuer_email
+WRV732fLW793 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Lupita -> B-recipient_name
+Torrecilla -> I-recipient_name
+Cuesta -> I-recipient_name
+Pasaje -> B-recipient_address
+de -> I-recipient_address
+Joel -> I-recipient_address
+Pont -> I-recipient_address
+5 -> I-recipient_address
+Piso -> I-recipient_address
+8 -> I-recipient_address
+Girona, -> I-recipient_address
+30938 -> I-recipient_address
++34922708269 -> B-recipient_phone
+vegarufino@yahoo.com -> B-recipient_email
+MZn801GIF217 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+target front-end eyeballs -> B-item_description
+7 -> B-item_quantity
+24.21 -> B-item_unit_price
+169.47 -> B-item_total
+architect visionary niches -> B-item_description
+4 -> B-item_quantity
+24.99 -> B-item_unit_price
+99.96 -> B-item_total
+Subtotal -> O
+ : -> O
+ 269.43 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+43.11 -> B-tax_amount
+Total -> O
+: -> O
+312.54 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

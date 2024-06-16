@@ -1,0 +1,67 @@
+Construcción -> B-issuer_name
+DHP -> I-issuer_name
+S.Coop. -> I-issuer_name
+Ronda -> B-issuer_address
+Valero -> I-issuer_address
+Almansa -> I-issuer_address
+77 -> I-issuer_address
+Apt. -> I-issuer_address
+45 -> I-issuer_address
+Guadalajara, -> I-issuer_address
+07265 -> I-issuer_address
++34927 596 417 -> B-issuer_phone
+eladiojaen@infraestructuras.es -> B-issuer_email
+BRl617KmE539 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+José -> B-recipient_name
+Manuel -> I-recipient_name
+Cipriano -> I-recipient_name
+Espinosa -> I-recipient_name
+Benítez -> I-recipient_name
+Cañada -> B-recipient_address
+Dominga -> I-recipient_address
+Cid -> I-recipient_address
+6 -> I-recipient_address
+Palencia, -> I-recipient_address
+45112 -> I-recipient_address
++34733447469 -> B-recipient_phone
+oaviles@yahoo.com -> B-recipient_email
+xLB169RDO779 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+500868 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-22 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+1 -> B-item_quantity
+scale next-generation deliverables -> B-item_description
+99.08 -> B-item_unit_price
+99.08 -> B-item_total
+9 -> B-item_quantity
+deploy dynamic systems -> B-item_description
+77.89 -> B-item_unit_price
+701.01 -> B-item_total
+2 -> B-item_quantity
+redefine real-time web-readiness -> B-item_description
+91.69 -> B-item_unit_price
+183.38 -> B-item_total
+Subtotal -> O 
+: -> O
+ 983.47 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+157.36 -> B-tax_amount
+TOTAL -> O
+: -> O
+1140.83 -> B-total

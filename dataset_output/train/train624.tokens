@@ -1,0 +1,63 @@
+Carlos -> B-issuer_name
+y -> I-issuer_name
+Núñez -> I-issuer_name
+S.A.U -> I-issuer_name
+Paseo -> B-issuer_address
+Antonia -> I-issuer_address
+Sanmiguel -> I-issuer_address
+15 -> I-issuer_address
+Ciudad, -> I-issuer_address
+06991 -> I-issuer_address
++34979 083 604 -> B-issuer_phone
+amarilisalonso@industrias.com -> B-issuer_email
+ejJ818ksD552 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Carmelita -> B-recipient_name
+Larrañaga -> I-recipient_name
+Mateu -> I-recipient_name
+Via -> B-recipient_address
+de -> I-recipient_address
+Martín -> I-recipient_address
+Herranz -> I-recipient_address
+66 -> I-recipient_address
+Piso -> I-recipient_address
+2 -> I-recipient_address
+Alicante, -> I-recipient_address
+30734 -> I-recipient_address
++34927 35 63 35 -> B-recipient_phone
+eugenio60@hotmail.com -> B-recipient_email
+Rjp438cKy237 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+382872 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-01 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+incubate seamless web services -> B-item_description
+24.16 -> B-item_unit_price
+169.12 -> B-item_total
+9 -> B-item_quantity
+integrate turn-key web services -> B-item_description
+59.95 -> B-item_unit_price
+539.55 -> B-item_total
+Subtotal -> O 
+: -> O
+ 708.67 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+113.39 -> B-tax_amount
+TOTAL -> O
+: -> O
+822.06 -> B-total

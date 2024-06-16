@@ -1,0 +1,70 @@
+Farmaceútica -> B-issuer_name
+del -> I-issuer_name
+Levante -> I-issuer_name
+S.C.P -> I-issuer_name
+Vial -> B-issuer_address
+Román -> I-issuer_address
+Aroca -> I-issuer_address
+915 -> I-issuer_address
+Lleida, -> I-issuer_address
+10851 -> I-issuer_address
++34 803549250 -> B-issuer_phone
+anunciacion78@desarrollo.org -> B-issuer_email
+uKG779IGy792 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Zoraida -> B-recipient_name
+Guzmán -> I-recipient_name
+Calle -> B-recipient_address
+Desiderio -> I-recipient_address
+Donoso -> I-recipient_address
+44 -> I-recipient_address
+Puerta -> I-recipient_address
+4 -> I-recipient_address
+Las -> I-recipient_address
+Palmas, -> I-recipient_address
+28446 -> I-recipient_address
++34988 038 067 -> B-recipient_phone
+roxana59@gmail.com -> B-recipient_email
+BJk528MUY012 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+860846 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-09 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+monetize revolutionary partnerships -> B-item_description
+85.04 -> B-item_unit_price
+425.20 -> B-item_total
+9 -> B-item_quantity
+integrate seamless ROI -> B-item_description
+43.57 -> B-item_unit_price
+392.13 -> B-item_total
+4 -> B-item_quantity
+scale dynamic infrastructures -> B-item_description
+46.69 -> B-item_unit_price
+186.76 -> B-item_total
+9 -> B-item_quantity
+disintermediate B2B metrics -> B-item_description
+61.18 -> B-item_unit_price
+550.62 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1554.71 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+248.75 -> B-tax_amount
+TOTAL -> O
+: -> O
+1803.46 -> B-total

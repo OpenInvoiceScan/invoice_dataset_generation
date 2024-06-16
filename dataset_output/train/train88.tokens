@@ -1,0 +1,60 @@
+Familia -> B-issuer_name
+Ordóñez -> I-issuer_name
+S.L. -> I-issuer_name
+Plaza -> B-issuer_address
+Micaela -> I-issuer_address
+Cornejo -> I-issuer_address
+36 -> I-issuer_address
+Ceuta, -> I-issuer_address
+31627 -> I-issuer_address
++34902 487 293 -> B-issuer_phone
+genovevatejero@farmaceutica.es -> B-issuer_email
+TaQ837WcM404 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Chelo -> B-recipient_name
+Berrocal -> I-recipient_name
+Taboada -> I-recipient_name
+Calle -> B-recipient_address
+de -> I-recipient_address
+Ruth -> I-recipient_address
+Amorós -> I-recipient_address
+674 -> I-recipient_address
+Guadalajara, -> I-recipient_address
+10639 -> I-recipient_address
++34973 155 032 -> B-recipient_phone
+camposnuria@yahoo.com -> B-recipient_email
+tod387iYJ236 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+329938 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-08 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+architect rich e-markets -> B-item_description
+57.38 -> B-item_unit_price
+516.42 -> B-item_total
+9 -> B-item_quantity
+synergize cutting-edge schemas -> B-item_description
+88.12 -> B-item_unit_price
+793.08 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1309.50 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+209.52 -> B-tax_amount
+TOTAL -> O
+: -> O
+1519.02 -> B-total

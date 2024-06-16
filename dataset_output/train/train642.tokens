@@ -1,0 +1,80 @@
+Invoice -> O
+545963 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-18 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-12 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Familia -> B-issuer_name
+Baeza -> I-issuer_name
+S.L.L. -> I-issuer_name
+C. -> B-issuer_address
+de -> I-issuer_address
+Abril -> I-issuer_address
+Soler -> I-issuer_address
+98 -> I-issuer_address
+Huelva, -> I-issuer_address
+49192 -> I-issuer_address
++34941 74 01 86 -> B-issuer_phone
+humbertoarteaga@grupo.net -> B-issuer_email
+Nvh914krB873 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Quirino -> B-recipient_name
+Losa -> I-recipient_name
+Dueñas -> I-recipient_name
+Pasadizo -> B-recipient_address
+Bartolomé -> I-recipient_address
+Porta -> I-recipient_address
+98 -> I-recipient_address
+Cádiz, -> I-recipient_address
+45162 -> I-recipient_address
++34880 91 97 43 -> B-recipient_phone
+victorortega@hotmail.com -> B-recipient_email
+wCv261Tww261 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+incubate 24/365 users -> B-item_description
+5 -> B-item_quantity
+79.28 -> B-item_unit_price
+396.40 -> B-item_total
+cultivate efficient infrastructures -> B-item_description
+8 -> B-item_quantity
+48.48 -> B-item_unit_price
+387.84 -> B-item_total
+monetize seamless e-business -> B-item_description
+4 -> B-item_quantity
+70.75 -> B-item_unit_price
+283.00 -> B-item_total
+enhance vertical networks -> B-item_description
+5 -> B-item_quantity
+27.67 -> B-item_unit_price
+138.35 -> B-item_total
+transform value-added action-items -> B-item_description
+6 -> B-item_quantity
+35.13 -> B-item_unit_price
+210.78 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1416.37 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+226.62 -> B-tax_amount
+Total -> O
+: -> O
+1642.99 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

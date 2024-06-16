@@ -1,0 +1,70 @@
+Heraclio -> B-issuer_name
+Llano -> I-issuer_name
+Arribas -> I-issuer_name
+S.L.L. -> I-issuer_name
+Paseo -> B-issuer_address
+de -> I-issuer_address
+Adora -> I-issuer_address
+Lluch -> I-issuer_address
+70 -> I-issuer_address
+Álava, -> I-issuer_address
+36057 -> I-issuer_address
++34983797945 -> B-issuer_phone
+uiborra@salgado.es -> B-issuer_email
+TtH849ycV208 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Hortensia -> B-recipient_name
+Coloma -> I-recipient_name
+Machado -> I-recipient_name
+Ronda -> B-recipient_address
+de -> I-recipient_address
+Maximiano -> I-recipient_address
+Alsina -> I-recipient_address
+86 -> I-recipient_address
+Teruel, -> I-recipient_address
+18004 -> I-recipient_address
++34885 10 83 36 -> B-recipient_phone
+mosquerajulie@hotmail.com -> B-recipient_email
+Gad226XUp659 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+206033 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-11 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+streamline intuitive schemas -> B-item_description
+46.43 -> B-item_unit_price
+92.86 -> B-item_total
+1 -> B-item_quantity
+mesh revolutionary platforms -> B-item_description
+57.99 -> B-item_unit_price
+57.99 -> B-item_total
+2 -> B-item_quantity
+facilitate holistic experiences -> B-item_description
+85.53 -> B-item_unit_price
+171.06 -> B-item_total
+6 -> B-item_quantity
+monetize ubiquitous e-commerce -> B-item_description
+55.27 -> B-item_unit_price
+331.62 -> B-item_total
+Subtotal -> O 
+: -> O
+ 653.53 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+104.56 -> B-tax_amount
+TOTAL -> O
+: -> O
+758.09 -> B-total

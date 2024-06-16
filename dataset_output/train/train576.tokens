@@ -1,0 +1,62 @@
+Alimentación -> B-issuer_name
+Gual -> I-issuer_name
+S.A. -> I-issuer_name
+Avenida -> B-issuer_address
+Benigna -> I-issuer_address
+Barreda -> I-issuer_address
+96 -> I-issuer_address
+Puerta -> I-issuer_address
+1 -> I-issuer_address
+Teruel, -> I-issuer_address
+13232 -> I-issuer_address
++34821 39 18 52 -> B-issuer_phone
+diana69@georgina.es -> B-issuer_email
+cDF668Sfx262 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Virgilio -> B-recipient_name
+Cazorla -> I-recipient_name
+Pasadizo -> B-recipient_address
+Úrsula -> I-recipient_address
+Solana -> I-recipient_address
+99 -> I-recipient_address
+Puerta -> I-recipient_address
+0 -> I-recipient_address
+Zamora, -> I-recipient_address
+20701 -> I-recipient_address
++34846 063 851 -> B-recipient_phone
+redondoestefania@gmail.com -> B-recipient_email
+ykR405zQv642 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+428881 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-28 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+target collaborative experiences -> B-item_description
+44.78 -> B-item_unit_price
+268.68 -> B-item_total
+1 -> B-item_quantity
+re-intermediate cutting-edge initiatives -> B-item_description
+83.74 -> B-item_unit_price
+83.74 -> B-item_total
+Subtotal -> O 
+: -> O
+ 352.42 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+56.39 -> B-tax_amount
+TOTAL -> O
+: -> O
+408.81 -> B-total

@@ -1,0 +1,67 @@
+Jorge -> B-issuer_name
+Escalona -> I-issuer_name
+Balaguer -> I-issuer_name
+S.A.D -> I-issuer_name
+C. -> B-issuer_address
+Dionisio -> I-issuer_address
+Marqués -> I-issuer_address
+173 -> I-issuer_address
+Puerta -> I-issuer_address
+4 -> I-issuer_address
+Burgos, -> I-issuer_address
+15511 -> I-issuer_address
++34943 257 157 -> B-issuer_phone
+figuerasencarna@toro.es -> B-issuer_email
+MWc095BwX848 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Pepe -> B-recipient_name
+Arana -> I-recipient_name
+Millán -> I-recipient_name
+Alameda -> B-recipient_address
+de -> I-recipient_address
+Adalberto -> I-recipient_address
+Mendizábal -> I-recipient_address
+2 -> I-recipient_address
+Segovia, -> I-recipient_address
+03509 -> I-recipient_address
++34877608596 -> B-recipient_phone
+yagogibert@yahoo.com -> B-recipient_email
+auZ192JzC278 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+158934 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-13 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+facilitate front-end web-readiness -> B-item_description
+79.94 -> B-item_unit_price
+399.70 -> B-item_total
+5 -> B-item_quantity
+morph scalable action-items -> B-item_description
+76.13 -> B-item_unit_price
+380.65 -> B-item_total
+9 -> B-item_quantity
+e-enable wireless e-tailers -> B-item_description
+77.20 -> B-item_unit_price
+694.80 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1475.15 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+236.02 -> B-tax_amount
+TOTAL -> O
+: -> O
+1711.17 -> B-total

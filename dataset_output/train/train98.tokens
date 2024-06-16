@@ -1,0 +1,70 @@
+Invoice -> O
+310673 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-08 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-09 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Inmobiliaria -> B-issuer_name
+Acedo -> I-issuer_name
+S.A. -> I-issuer_name
+Urbanización -> B-issuer_address
+de -> I-issuer_address
+Lupe -> I-issuer_address
+Fábregas -> I-issuer_address
+94 -> I-issuer_address
+Málaga, -> I-issuer_address
+30078 -> I-issuer_address
++34887 916 977 -> B-issuer_phone
+perezelias@mur.com -> B-issuer_email
+IVW708IPc836 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Clara -> B-recipient_name
+Virginia -> I-recipient_name
+Lerma -> I-recipient_name
+Rivas -> I-recipient_name
+Alameda -> B-recipient_address
+de -> I-recipient_address
+Venceslás -> I-recipient_address
+Arranz -> I-recipient_address
+497 -> I-recipient_address
+Ciudad, -> I-recipient_address
+28463 -> I-recipient_address
++34 823 88 69 59 -> B-recipient_phone
+wilfredo70@yahoo.com -> B-recipient_email
+VhQ764Kkb175 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+target integrated interfaces -> B-item_description
+6 -> B-item_quantity
+82.02 -> B-item_unit_price
+492.12 -> B-item_total
+orchestrate impactful users -> B-item_description
+6 -> B-item_quantity
+88.16 -> B-item_unit_price
+528.96 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1021.08 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+163.37 -> B-tax_amount
+Total -> O
+: -> O
+1184.45 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

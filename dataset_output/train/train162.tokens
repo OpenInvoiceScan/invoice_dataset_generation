@@ -1,0 +1,66 @@
+Invoice -> O
+122631 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-09 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-05 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Casals -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Glorieta -> B-issuer_address
+Tomás -> I-issuer_address
+Falcón -> I-issuer_address
+71 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Girona, -> I-issuer_address
+48669 -> I-issuer_address
++34 887 08 83 02 -> B-issuer_phone
+mateobenitez@compania.com -> B-issuer_email
+LeF352Xwx480 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Candelaria -> B-recipient_name
+Roig-Carlos -> I-recipient_name
+Cañada -> B-recipient_address
+de -> I-recipient_address
+Jordana -> I-recipient_address
+Vidal -> I-recipient_address
+4 -> I-recipient_address
+Granada, -> I-recipient_address
+10688 -> I-recipient_address
++34 875 70 16 02 -> B-recipient_phone
+ballesterosmaximiano@yahoo.com -> B-recipient_email
+EPh594ekA364 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+streamline dynamic niches -> B-item_description
+6 -> B-item_quantity
+17.68 -> B-item_unit_price
+106.08 -> B-item_total
+Subtotal -> O
+ : -> O
+ 106.08 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+16.97 -> B-tax_amount
+Total -> O
+: -> O
+123.05 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

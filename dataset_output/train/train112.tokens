@@ -1,0 +1,60 @@
+Vila -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Acceso -> B-issuer_address
+Máxima -> I-issuer_address
+Tomas -> I-issuer_address
+86 -> I-issuer_address
+Sevilla, -> I-issuer_address
+22540 -> I-issuer_address
++34827 41 12 56 -> B-issuer_phone
+lupitamorata@quiroga.com -> B-issuer_email
+Dkv732zDB844 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Ruth -> B-recipient_name
+Olmo -> I-recipient_name
+Cabeza -> I-recipient_name
+Calle -> B-recipient_address
+Carlota -> I-recipient_address
+Valenzuela -> I-recipient_address
+36 -> I-recipient_address
+Badajoz, -> I-recipient_address
+07924 -> I-recipient_address
++34 988 009 700 -> B-recipient_phone
+guijarroelena@yahoo.com -> B-recipient_email
+CxV878FMG112 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+545417 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-04 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+reinvent viral bandwidth -> B-item_description
+28.14 -> B-item_unit_price
+253.26 -> B-item_total
+4 -> B-item_quantity
+incubate integrated info-mediaries -> B-item_description
+86.81 -> B-item_unit_price
+347.24 -> B-item_total
+Subtotal -> O 
+: -> O
+ 600.50 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+96.08 -> B-tax_amount
+TOTAL -> O
+: -> O
+696.58 -> B-total

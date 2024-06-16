@@ -1,0 +1,85 @@
+Factura -> O
+571116 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-11 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-17 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Promociones -> B-issuer_name
+TKZ -> I-issuer_name
+S.L. -> I-issuer_name
+Calle -> B-issuer_address
+Marino -> I-issuer_address
+Riera -> I-issuer_address
+6 -> I-issuer_address
+Piso -> I-issuer_address
+9 -> I-issuer_address
+Guipúzcoa, -> I-issuer_address
+42696 -> I-issuer_address
++34920 439 520 -> B-issuer_phone
+velezangelita@frias.com -> B-issuer_email
+bdr807umH147 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Elías -> B-recipient_name
+Milla -> I-recipient_name
+Rivera -> I-recipient_name
+Cañada -> B-recipient_address
+Román -> I-recipient_address
+Bautista -> I-recipient_address
+77 -> I-recipient_address
+Santa -> I-recipient_address
+Cruz -> I-recipient_address
+de -> I-recipient_address
+Tenerife, -> I-recipient_address
+11918 -> I-recipient_address
++34871 69 80 49 -> B-recipient_phone
+haronestor@yahoo.com -> B-recipient_email
+xln190BNS709 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+iterate scalable e-business -> B-item_description
+10 -> B-item_quantity
+45.88 -> B-item_unit_price
+458.80 -> B-item_total
+deploy transparent interfaces -> B-item_description
+9 -> B-item_quantity
+45.02 -> B-item_unit_price
+405.18 -> B-item_total
+optimize holistic synergies -> B-item_description
+9 -> B-item_quantity
+19.93 -> B-item_unit_price
+179.37 -> B-item_total
+synthesize intuitive technologies -> B-item_description
+8 -> B-item_quantity
+62.91 -> B-item_unit_price
+503.28 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1546.63 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+247.46 -> B-tax_amount
+Total -> O
+: -> O
+1794.09 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

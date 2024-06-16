@@ -1,0 +1,90 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+peL871IkD383 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 824408127 -> B-recipient_phone
+Nombre -> O
+: -> O
+Jesús -> B-recipient_name
+Rodríguez -> I-recipient_name
+Peñalver -> I-recipient_name
+Correo -> O
+: -> O
+casanovasjuanita@hotmail.com -> B-recipient_email
+Calle -> B-recipient_address
+Eustaquio -> I-recipient_address
+Exposito -> I-recipient_address
+7 -> I-recipient_address
+Murcia, -> I-recipient_address
+47758 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+68840 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-30 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+seize killer supply-chains -> B-item_description
+5 -> B-item_quantity
+96.40 -> B-item_total
+brand real-time architectures -> B-item_description
+4 -> B-item_quantity
+49.44 -> B-item_total
+unleash open-source deliverables -> B-item_description
+7 -> B-item_quantity
+259.98 -> B-item_total
+optimize bleeding-edge networks -> B-item_description
+9 -> B-item_quantity
+294.93 -> B-item_total
+Subtotal -> O
+ : -> O
+ 700.75 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+112.12 -> B-tax_amount
+TOTAL -> O
+: -> O
+812.87 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+ACV551CGM504 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34844594879 -> B-issuer_phone
+Nombre -> O
+: -> O
+Nadal -> B-issuer_name
+y -> I-issuer_name
+Jove -> I-issuer_name
+S.A. -> I-issuer_name
+Correo -> O
+: -> O
+dborja@ingrid.com -> B-issuer_email
+Paseo -> B-issuer_address
+de -> I-issuer_address
+Herberto -> I-issuer_address
+Pastor -> I-issuer_address
+54 -> I-issuer_address
+Apt. -> I-issuer_address
+21 -> I-issuer_address
+Barcelona, -> I-issuer_address
+39598 -> I-issuer_address

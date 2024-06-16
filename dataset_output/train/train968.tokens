@@ -1,0 +1,76 @@
+Quirós -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.A. -> I-issuer_name
+Paseo -> B-issuer_address
+de -> I-issuer_address
+Florencia -> I-issuer_address
+Colom -> I-issuer_address
+99 -> I-issuer_address
+Piso -> I-issuer_address
+0 -> I-issuer_address
+La -> I-issuer_address
+Coruña, -> I-issuer_address
+49953 -> I-issuer_address
++34 888797486 -> B-issuer_phone
+fortunatomarti@borrell.org -> B-issuer_email
+Jgm930jRk339 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Edelmiro -> B-recipient_name
+Roldán -> I-recipient_name
+Palacios -> I-recipient_name
+Urbanización -> B-recipient_address
+Abilio -> I-recipient_address
+Catalá -> I-recipient_address
+40 -> I-recipient_address
+Huesca, -> I-recipient_address
+21025 -> I-recipient_address
++34 876 254 270 -> B-recipient_phone
+sandra36@gmail.com -> B-recipient_email
+dFB461ThL285 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+382756 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-14 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+e-enable cross-media functionalities -> B-item_description
+91.59 -> B-item_unit_price
+549.54 -> B-item_total
+8 -> B-item_quantity
+whiteboard B2B content -> B-item_description
+32.56 -> B-item_unit_price
+260.48 -> B-item_total
+5 -> B-item_quantity
+incubate enterprise action-items -> B-item_description
+90.88 -> B-item_unit_price
+454.40 -> B-item_total
+8 -> B-item_quantity
+enable value-added applications -> B-item_description
+35.89 -> B-item_unit_price
+287.12 -> B-item_total
+3 -> B-item_quantity
+reinvent web-enabled systems -> B-item_description
+11.10 -> B-item_unit_price
+33.30 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1584.84 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+253.57 -> B-tax_amount
+TOTAL -> O
+: -> O
+1838.41 -> B-total

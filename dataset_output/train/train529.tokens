@@ -1,0 +1,73 @@
+Ordóñez -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Pasaje -> B-issuer_address
+de -> I-issuer_address
+Samuel -> I-issuer_address
+Chico -> I-issuer_address
+2 -> I-issuer_address
+Madrid, -> I-issuer_address
+09410 -> I-issuer_address
++34 706851776 -> B-issuer_phone
+valegria@marcial.org -> B-issuer_email
+JxO393iLJ476 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Elba -> B-recipient_name
+Reyes -> I-recipient_name
+Maldonado -> I-recipient_name
+Carballo -> I-recipient_name
+Callejón -> B-recipient_address
+Marisol -> I-recipient_address
+Doménech -> I-recipient_address
+235 -> I-recipient_address
+Puerta -> I-recipient_address
+8 -> I-recipient_address
+Jaén, -> I-recipient_address
+24219 -> I-recipient_address
++34 942 49 40 39 -> B-recipient_phone
+amarilismarquez@gmail.com -> B-recipient_email
+dgk834XgP489 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+738132 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-25 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+leverage collaborative web-readiness -> B-item_description
+51.57 -> B-item_unit_price
+154.71 -> B-item_total
+5 -> B-item_quantity
+utilize revolutionary paradigms -> B-item_description
+53.29 -> B-item_unit_price
+266.45 -> B-item_total
+5 -> B-item_quantity
+integrate ubiquitous initiatives -> B-item_description
+15.61 -> B-item_unit_price
+78.05 -> B-item_total
+4 -> B-item_quantity
+generate cross-platform supply-chains -> B-item_description
+48.42 -> B-item_unit_price
+193.68 -> B-item_total
+Subtotal -> O
+: -> O
+ 692.89 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+110.86 -> B-tax_amount
+TOTAL -> O
+: -> O
+803.75 -> B-total

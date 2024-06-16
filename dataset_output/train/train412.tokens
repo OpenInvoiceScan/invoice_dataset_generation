@@ -1,0 +1,93 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+BZu288Lcv709 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 827 70 71 54 -> B-recipient_phone
+Nombre -> O
+: -> O
+Tecla -> B-recipient_name
+de -> I-recipient_name
+Cuesta -> I-recipient_name
+Correo -> O
+: -> O
+florenciaolmedo@gmail.com -> B-recipient_email
+Vial -> B-recipient_address
+Sabas -> I-recipient_address
+Bejarano -> I-recipient_address
+955 -> I-recipient_address
+Apt. -> I-recipient_address
+34 -> I-recipient_address
+Zamora, -> I-recipient_address
+49091 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+958606 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-28 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+syndicate sticky channels -> B-item_description
+3 -> B-item_quantity
+86.07 -> B-item_total
+grow revolutionary schemas -> B-item_description
+7 -> B-item_quantity
+329.21 -> B-item_total
+iterate B2C relationships -> B-item_description
+5 -> B-item_quantity
+253.60 -> B-item_total
+optimize sticky e-services -> B-item_description
+6 -> B-item_quantity
+409.14 -> B-item_total
+strategize extensible infrastructures -> B-item_description
+7 -> B-item_quantity
+214.83 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1292.85 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+206.86 -> B-tax_amount
+TOTAL -> O
+: -> O
+1499.71 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+qOn060Dfj798 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 949 71 69 55 -> B-issuer_phone
+Nombre -> O
+: -> O
+Banco -> B-issuer_name
+Mayol -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L. -> I-issuer_name
+Correo -> O
+: -> O
+agueda79@familia.com -> B-issuer_email
+Calle -> B-issuer_address
+Eugenio -> I-issuer_address
+Esteve -> I-issuer_address
+87 -> I-issuer_address
+Granada, -> I-issuer_address
+41297 -> I-issuer_address

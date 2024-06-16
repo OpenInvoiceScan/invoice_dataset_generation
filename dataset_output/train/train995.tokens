@@ -1,0 +1,85 @@
+Factura -> O
+538873 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-16 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-25 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Iborra -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.A. -> I-issuer_name
+Urbanización -> B-issuer_address
+Teo -> I-issuer_address
+Roda -> I-issuer_address
+54 -> I-issuer_address
+Piso -> I-issuer_address
+5 -> I-issuer_address
+Castellón, -> I-issuer_address
+47676 -> I-issuer_address
++34 875 01 32 18 -> B-issuer_phone
+utorrijos@alimentacion.org -> B-issuer_email
+CxW483Pni064 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Loida -> B-recipient_name
+Guerrero -> I-recipient_name
+Cobos -> I-recipient_name
+Acceso -> B-recipient_address
+Vasco -> I-recipient_address
+Simó -> I-recipient_address
+802 -> I-recipient_address
+Piso -> I-recipient_address
+6 -> I-recipient_address
+Girona, -> I-recipient_address
+14529 -> I-recipient_address
++34922046656 -> B-recipient_phone
+silvestrebaeza@hotmail.com -> B-recipient_email
+Dqa688pTD940 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+whiteboard granular interfaces -> B-item_description
+2 -> B-item_quantity
+29.37 -> B-item_unit_price
+58.74 -> B-item_total
+innovate intuitive methodologies -> B-item_description
+2 -> B-item_quantity
+70.59 -> B-item_unit_price
+141.18 -> B-item_total
+implement open-source e-business -> B-item_description
+6 -> B-item_quantity
+29.89 -> B-item_unit_price
+179.34 -> B-item_total
+empower strategic e-markets -> B-item_description
+4 -> B-item_quantity
+35.02 -> B-item_unit_price
+140.08 -> B-item_total
+Subtotal -> O
+ : -> O
+ 519.34 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+83.09 -> B-tax_amount
+Total -> O
+: -> O
+602.43 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

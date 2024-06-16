@@ -1,0 +1,82 @@
+Factura -> O
+249550 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-06 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-05 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Minería -> B-issuer_name
+Font -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Callejón -> B-issuer_address
+de -> I-issuer_address
+Jonatan -> I-issuer_address
+Duran -> I-issuer_address
+24 -> I-issuer_address
+Palencia, -> I-issuer_address
+03483 -> I-issuer_address
++34 947 750 123 -> B-issuer_phone
+lupe50@placido.net -> B-issuer_email
+DdM999Koh456 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Cesar -> B-recipient_name
+Mateo -> I-recipient_name
+Calle -> B-recipient_address
+Amancio -> I-recipient_address
+Tur -> I-recipient_address
+4 -> I-recipient_address
+Navarra, -> I-recipient_address
+14741 -> I-recipient_address
++34949576623 -> B-recipient_phone
+demetrio13@hotmail.com -> B-recipient_email
+GdN367mXZ611 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+drive real-time convergence -> B-item_description
+10 -> B-item_quantity
+68.90 -> B-item_unit_price
+689.00 -> B-item_total
+expedite next-generation niches -> B-item_description
+8 -> B-item_quantity
+93.98 -> B-item_unit_price
+751.84 -> B-item_total
+matrix transparent vortals -> B-item_description
+8 -> B-item_quantity
+91.41 -> B-item_unit_price
+731.28 -> B-item_total
+unleash cross-media functionalities -> B-item_description
+4 -> B-item_quantity
+84.82 -> B-item_unit_price
+339.28 -> B-item_total
+Subtotal -> O
+ : -> O
+ 2511.40 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+401.82 -> B-tax_amount
+Total -> O
+: -> O
+2913.22 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

@@ -1,0 +1,80 @@
+Factura -> O
+944573 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-04-29 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-20 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Hotel -> B-issuer_name
+Integrales -> I-issuer_name
+S.Coop. -> I-issuer_name
+Rambla -> B-issuer_address
+de -> I-issuer_address
+Glauco -> I-issuer_address
+Cabezas -> I-issuer_address
+94 -> I-issuer_address
+Granada, -> I-issuer_address
+47528 -> I-issuer_address
++34717 84 62 69 -> B-issuer_phone
+petronamanzano@ibanez.com -> B-issuer_email
+msX001qvH998 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Nacho -> B-recipient_name
+Reig -> I-recipient_name
+Ángel -> I-recipient_name
+C. -> B-recipient_address
+de -> I-recipient_address
+Nando -> I-recipient_address
+Riera -> I-recipient_address
+86 -> I-recipient_address
+Apt. -> I-recipient_address
+73 -> I-recipient_address
+Castellón, -> I-recipient_address
+46661 -> I-recipient_address
++34974 025 214 -> B-recipient_phone
+wpinilla@gmail.com -> B-recipient_email
+CQq447Wfc523 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+deliver killer web services -> B-item_description
+5 -> B-item_quantity
+77.69 -> B-item_unit_price
+388.45 -> B-item_total
+deploy best-of-breed ROI -> B-item_description
+8 -> B-item_quantity
+45.09 -> B-item_unit_price
+360.72 -> B-item_total
+drive one-to-one portals -> B-item_description
+3 -> B-item_quantity
+79.42 -> B-item_unit_price
+238.26 -> B-item_total
+Subtotal -> O
+ : -> O
+ 987.43 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+157.99 -> B-tax_amount
+Total -> O
+: -> O
+1145.42 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

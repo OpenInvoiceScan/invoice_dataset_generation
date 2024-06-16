@@ -1,0 +1,63 @@
+Banco -> B-issuer_name
+UO -> I-issuer_name
+S.Coop. -> I-issuer_name
+Callejón -> B-issuer_address
+de -> I-issuer_address
+Íngrid -> I-issuer_address
+Quirós -> I-issuer_address
+29 -> I-issuer_address
+Ourense, -> I-issuer_address
+21322 -> I-issuer_address
++34924 125 497 -> B-issuer_phone
+dginer@leyre.com -> B-issuer_email
+GvE403DGz733 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Olalla -> B-recipient_name
+Sobrino-Bueno -> I-recipient_name
+Ronda -> B-recipient_address
+de -> I-recipient_address
+Vera -> I-recipient_address
+Berrocal -> I-recipient_address
+78 -> I-recipient_address
+Puerta -> I-recipient_address
+2 -> I-recipient_address
+Teruel, -> I-recipient_address
+39700 -> I-recipient_address
++34 824 67 35 42 -> B-recipient_phone
+ezequiel82@yahoo.com -> B-recipient_email
+KrT969rZo617 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+816978 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-01 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+extend mission-critical ROI -> B-item_description
+31.90 -> B-item_unit_price
+63.80 -> B-item_total
+4 -> B-item_quantity
+incubate cutting-edge partnerships -> B-item_description
+29.90 -> B-item_unit_price
+119.60 -> B-item_total
+Subtotal -> O
+: -> O
+ 183.40 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+29.34 -> B-tax_amount
+TOTAL -> O
+: -> O
+212.74 -> B-total

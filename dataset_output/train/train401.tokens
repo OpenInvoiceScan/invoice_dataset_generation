@@ -1,0 +1,81 @@
+Frutos -> B-issuer_name
+y -> I-issuer_name
+Aparicio -> I-issuer_name
+S.L.L. -> I-issuer_name
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+Marcelino -> I-issuer_address
+Moya -> I-issuer_address
+209 -> I-issuer_address
+Segovia, -> I-issuer_address
+49017 -> I-issuer_address
++34 826 60 28 00 -> B-issuer_phone
+gloria88@marin.org -> B-issuer_email
+yfu501TDP059 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Lucas -> B-recipient_name
+Wálter -> I-recipient_name
+Cañellas -> I-recipient_name
+Coello -> I-recipient_name
+Pasadizo -> B-recipient_address
+de -> I-recipient_address
+Guadalupe -> I-recipient_address
+Tirado -> I-recipient_address
+22 -> I-recipient_address
+Puerta -> I-recipient_address
+4 -> I-recipient_address
+Santa -> I-recipient_address
+Cruz -> I-recipient_address
+de -> I-recipient_address
+Tenerife, -> I-recipient_address
+16098 -> I-recipient_address
++34947275601 -> B-recipient_phone
+brunilda01@yahoo.com -> B-recipient_email
+Ein566BRB624 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+956301 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-21 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+brand magnetic technologies -> B-item_description
+12.03 -> B-item_unit_price
+84.21 -> B-item_total
+2 -> B-item_quantity
+e-enable extensible architectures -> B-item_description
+21.06 -> B-item_unit_price
+42.12 -> B-item_total
+4 -> B-item_quantity
+enhance one-to-one portals -> B-item_description
+16.59 -> B-item_unit_price
+66.36 -> B-item_total
+3 -> B-item_quantity
+empower B2C content -> B-item_description
+39.06 -> B-item_unit_price
+117.18 -> B-item_total
+6 -> B-item_quantity
+target vertical web services -> B-item_description
+34.81 -> B-item_unit_price
+208.86 -> B-item_total
+Subtotal -> O
+: -> O
+ 518.73 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+83.00 -> B-tax_amount
+TOTAL -> O
+: -> O
+601.73 -> B-total

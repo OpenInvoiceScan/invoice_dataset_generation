@@ -1,0 +1,69 @@
+Invoice -> O
+278822 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-20 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-25 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Servicios -> B-issuer_name
+Castells -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Pasaje -> B-issuer_address
+Juan -> I-issuer_address
+Carlos -> I-issuer_address
+Roldan -> I-issuer_address
+40 -> I-issuer_address
+Las -> I-issuer_address
+Palmas, -> I-issuer_address
+12962 -> I-issuer_address
++34 869 590 922 -> B-issuer_phone
+ana-belen45@comercial.org -> B-issuer_email
+fDg122uiX090 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Almudena -> B-recipient_name
+del -> I-recipient_name
+Crespo -> I-recipient_name
+Plaza -> B-recipient_address
+Rafael -> I-recipient_address
+Larrea -> I-recipient_address
+65 -> I-recipient_address
+Puerta -> I-recipient_address
+1 -> I-recipient_address
+Zaragoza, -> I-recipient_address
+41233 -> I-recipient_address
++34877 348 945 -> B-recipient_phone
+esotelo@hotmail.com -> B-recipient_email
+zqn983wFI433 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+expedite B2C partnerships -> B-item_description
+8 -> B-item_quantity
+15.61 -> B-item_unit_price
+124.88 -> B-item_total
+Subtotal -> O
+ : -> O
+ 124.88 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+19.98 -> B-tax_amount
+Total -> O
+: -> O
+144.86 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

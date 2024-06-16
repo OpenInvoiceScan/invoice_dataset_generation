@@ -1,0 +1,89 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+Lvx093aRR394 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34876 89 75 33 -> B-recipient_phone
+Nombre -> O
+: -> O
+Humberto -> B-recipient_name
+Acosta -> I-recipient_name
+Casals -> I-recipient_name
+Correo -> O
+: -> O
+cparejo@gmail.com -> B-recipient_email
+Alameda -> B-recipient_address
+de -> I-recipient_address
+Melchor -> I-recipient_address
+Paz -> I-recipient_address
+71 -> I-recipient_address
+Puerta -> I-recipient_address
+7 -> I-recipient_address
+Ávila, -> I-recipient_address
+08655 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+605502 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-01 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+orchestrate plug-and-play convergence -> B-item_description
+2 -> B-item_quantity
+168.08 -> B-item_total
+syndicate bleeding-edge info-mediaries -> B-item_description
+6 -> B-item_quantity
+420.24 -> B-item_total
+disintermediate revolutionary architectures -> B-item_description
+4 -> B-item_quantity
+183.20 -> B-item_total
+Subtotal -> O
+ : -> O
+ 771.52 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+123.44 -> B-tax_amount
+TOTAL -> O
+: -> O
+894.96 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+wAd396MDZ719 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 827082894 -> B-issuer_phone
+Nombre -> O
+: -> O
+Belda -> B-issuer_name
+y -> I-issuer_name
+Montserrat -> I-issuer_name
+S.Coop. -> I-issuer_name
+Correo -> O
+: -> O
+morananacleto@supermercados.com -> B-issuer_email
+Callejón -> B-issuer_address
+de -> I-issuer_address
+Domitila -> I-issuer_address
+Prada -> I-issuer_address
+48 -> I-issuer_address
+La -> I-issuer_address
+Coruña, -> I-issuer_address
+51291 -> I-issuer_address

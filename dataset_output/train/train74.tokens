@@ -1,0 +1,70 @@
+Invoice -> O
+329655 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-01 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-27 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Manufacturas -> B-issuer_name
+HMMR -> I-issuer_name
+S.L.U. -> I-issuer_name
+Ronda -> B-issuer_address
+Dimas -> I-issuer_address
+Gutiérrez -> I-issuer_address
+60 -> I-issuer_address
+Apt. -> I-issuer_address
+68 -> I-issuer_address
+Las -> I-issuer_address
+Palmas, -> I-issuer_address
+22478 -> I-issuer_address
++34 884 25 62 89 -> B-issuer_phone
+amanda07@jose.es -> B-issuer_email
+BQL782PRC225 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Gracia -> B-recipient_name
+del -> I-recipient_name
+Quintana -> I-recipient_name
+Pasaje -> B-recipient_address
+Rodolfo -> I-recipient_address
+Manrique -> I-recipient_address
+3 -> I-recipient_address
+Barcelona, -> I-recipient_address
+19224 -> I-recipient_address
++34 976 11 36 54 -> B-recipient_phone
+lpalomares@gmail.com -> B-recipient_email
+yDS831VhX277 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+aggregate global deliverables -> B-item_description
+1 -> B-item_quantity
+78.88 -> B-item_unit_price
+78.88 -> B-item_total
+harness cross-platform partnerships -> B-item_description
+9 -> B-item_quantity
+29.96 -> B-item_unit_price
+269.64 -> B-item_total
+Subtotal -> O
+ : -> O
+ 348.52 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+55.76 -> B-tax_amount
+Total -> O
+: -> O
+404.28 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

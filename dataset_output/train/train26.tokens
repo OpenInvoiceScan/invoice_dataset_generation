@@ -1,0 +1,81 @@
+Invoice -> O
+941248 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-18 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-11 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Restauración -> B-issuer_name
+Iberia -> I-issuer_name
+S.L. -> I-issuer_name
+C. -> B-issuer_address
+de -> I-issuer_address
+Amor -> I-issuer_address
+Canals -> I-issuer_address
+83 -> I-issuer_address
+Piso -> I-issuer_address
+2 -> I-issuer_address
+Barcelona, -> I-issuer_address
+35142 -> I-issuer_address
++34976 132 606 -> B-issuer_phone
+scornejo@farmaceutica.org -> B-issuer_email
+VCG052uEa531 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Teresa -> B-recipient_name
+Viña -> I-recipient_name
+Viñas -> I-recipient_name
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Albert -> I-recipient_address
+Gilabert -> I-recipient_address
+70 -> I-recipient_address
+Puerta -> I-recipient_address
+1 -> I-recipient_address
+Jaén, -> I-recipient_address
+23035 -> I-recipient_address
++34 927950719 -> B-recipient_phone
+eliseo62@hotmail.com -> B-recipient_email
+oxh806PsQ103 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+orchestrate frictionless infrastructures -> B-item_description
+9 -> B-item_quantity
+77.46 -> B-item_unit_price
+697.14 -> B-item_total
+grow cutting-edge networks -> B-item_description
+2 -> B-item_quantity
+84.41 -> B-item_unit_price
+168.82 -> B-item_total
+synthesize interactive niches -> B-item_description
+9 -> B-item_quantity
+10.11 -> B-item_unit_price
+90.99 -> B-item_total
+transform 24/365 communities -> B-item_description
+6 -> B-item_quantity
+27.81 -> B-item_unit_price
+166.86 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1123.81 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+179.81 -> B-tax_amount
+Total -> O
+: -> O
+1303.62 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

@@ -1,0 +1,69 @@
+Invoice -> O
+5648 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-16 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-02 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Suministros -> B-issuer_name
+ESQ -> I-issuer_name
+S.Coop. -> I-issuer_name
+C. -> B-issuer_address
+Augusto -> I-issuer_address
+Leon -> I-issuer_address
+969 -> I-issuer_address
+Sevilla, -> I-issuer_address
+22991 -> I-issuer_address
++34722 16 07 35 -> B-issuer_phone
+miriam05@suministros.com -> B-issuer_email
+Kfr205oPV836 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Casandra -> B-recipient_name
+Lamas-Torrecilla -> I-recipient_name
+Plaza -> B-recipient_address
+de -> I-recipient_address
+Leticia -> I-recipient_address
+Ochoa -> I-recipient_address
+72 -> I-recipient_address
+Apt. -> I-recipient_address
+49 -> I-recipient_address
+Ceuta, -> I-recipient_address
+40372 -> I-recipient_address
++34825 13 82 62 -> B-recipient_phone
+fiolencarnacion@yahoo.com -> B-recipient_email
+iIa608VfN031 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+incentivize compelling networks -> B-item_description
+10 -> B-item_quantity
+71.66 -> B-item_unit_price
+716.60 -> B-item_total
+strategize seamless paradigms -> B-item_description
+3 -> B-item_quantity
+69.31 -> B-item_unit_price
+207.93 -> B-item_total
+Subtotal -> O
+ : -> O
+ 924.53 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+147.92 -> B-tax_amount
+Total -> O
+: -> O
+1072.45 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

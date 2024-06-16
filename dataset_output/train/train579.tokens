@@ -1,0 +1,89 @@
+Factura -> O
+235113 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-23 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-01 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Despacho -> B-issuer_name
+Teruel -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Avenida -> B-issuer_address
+de -> I-issuer_address
+Juan -> I-issuer_address
+Manuel -> I-issuer_address
+Ramos -> I-issuer_address
+71 -> I-issuer_address
+Huelva, -> I-issuer_address
+25849 -> I-issuer_address
++34 926527590 -> B-issuer_phone
+lorenzaguitart@donaire.es -> B-issuer_email
+geC254vrB104 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Buenaventura -> B-recipient_name
+Carranza -> I-recipient_name
+Avenida -> B-recipient_address
+Aránzazu -> I-recipient_address
+Viña -> I-recipient_address
+60 -> I-recipient_address
+Puerta -> I-recipient_address
+1 -> I-recipient_address
+Córdoba, -> I-recipient_address
+14693 -> I-recipient_address
++34974286726 -> B-recipient_phone
+millacarmen@gmail.com -> B-recipient_email
+mTD959hTV863 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+target magnetic synergies -> B-item_description
+6 -> B-item_quantity
+48.02 -> B-item_unit_price
+288.12 -> B-item_total
+monetize transparent applications -> B-item_description
+3 -> B-item_quantity
+55.09 -> B-item_unit_price
+165.27 -> B-item_total
+envisioneer vertical bandwidth -> B-item_description
+4 -> B-item_quantity
+64.39 -> B-item_unit_price
+257.56 -> B-item_total
+synergize strategic web-readiness -> B-item_description
+10 -> B-item_quantity
+96.08 -> B-item_unit_price
+960.80 -> B-item_total
+engineer ubiquitous technologies -> B-item_description
+6 -> B-item_quantity
+88.49 -> B-item_unit_price
+530.94 -> B-item_total
+Subtotal -> O
+ : -> O
+ 2202.69 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+352.43 -> B-tax_amount
+Total -> O
+: -> O
+2555.12 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

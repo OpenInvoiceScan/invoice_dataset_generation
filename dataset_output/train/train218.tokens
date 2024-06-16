@@ -1,0 +1,83 @@
+Invoice -> O
+341578 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-02 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-03 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+José -> B-issuer_name
+Arnal -> I-issuer_name
+Rosa -> I-issuer_name
+S.L. -> I-issuer_name
+Camino -> B-issuer_address
+de -> I-issuer_address
+Claudio -> I-issuer_address
+Gomila -> I-issuer_address
+492 -> I-issuer_address
+Piso -> I-issuer_address
+2 -> I-issuer_address
+Asturias, -> I-issuer_address
+39496 -> I-issuer_address
++34980321649 -> B-issuer_phone
+verdumaricruz@humberto.org -> B-issuer_email
+TwS280ZxF478 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Azahara -> B-recipient_name
+Elías-Comas -> I-recipient_name
+Plaza -> B-recipient_address
+de -> I-recipient_address
+Alicia -> I-recipient_address
+Alfaro -> I-recipient_address
+767 -> I-recipient_address
+Guadalajara, -> I-recipient_address
+35689 -> I-recipient_address
++34 965125334 -> B-recipient_phone
+mariselabelmonte@hotmail.com -> B-recipient_email
+rit076pdi658 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+benchmark innovative communities -> B-item_description
+5 -> B-item_quantity
+93.36 -> B-item_unit_price
+466.80 -> B-item_total
+envisioneer next-generation interfaces -> B-item_description
+1 -> B-item_quantity
+52.58 -> B-item_unit_price
+52.58 -> B-item_total
+enhance end-to-end convergence -> B-item_description
+3 -> B-item_quantity
+25.23 -> B-item_unit_price
+75.69 -> B-item_total
+incentivize clicks-and-mortar networks -> B-item_description
+2 -> B-item_quantity
+72.81 -> B-item_unit_price
+145.62 -> B-item_total
+scale efficient functionalities -> B-item_description
+3 -> B-item_quantity
+83.32 -> B-item_unit_price
+249.96 -> B-item_total
+Subtotal -> O
+ : -> O
+ 990.65 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+158.50 -> B-tax_amount
+Total -> O
+: -> O
+1149.15 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

@@ -1,0 +1,66 @@
+Jacinto -> B-issuer_name
+Rebollo -> I-issuer_name
+Lastra -> I-issuer_name
+S.C.P -> I-issuer_name
+Callejón -> B-issuer_address
+de -> I-issuer_address
+Chelo -> I-issuer_address
+Blanes -> I-issuer_address
+53 -> I-issuer_address
+Piso -> I-issuer_address
+9 -> I-issuer_address
+Lleida, -> I-issuer_address
+38067 -> I-issuer_address
++34 974 73 19 21 -> B-issuer_phone
+martorellalma@arias.com -> B-issuer_email
+KJL481uCa729 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Lucila -> B-recipient_name
+del -> I-recipient_name
+Ferrández -> I-recipient_name
+C. -> B-recipient_address
+de -> I-recipient_address
+Jose -> I-recipient_address
+Antonio -> I-recipient_address
+Bustos -> I-recipient_address
+98 -> I-recipient_address
+Cuenca, -> I-recipient_address
+49594 -> I-recipient_address
++34 705473998 -> B-recipient_phone
+caguila@gmail.com -> B-recipient_email
+voL919oJQ935 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+392593 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-18 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+deploy distributed eyeballs -> B-item_description
+12.08 -> B-item_unit_price
+24.16 -> B-item_total
+4 -> B-item_quantity
+whiteboard rich channels -> B-item_description
+14.36 -> B-item_unit_price
+57.44 -> B-item_total
+Subtotal -> O
+: -> O
+ 81.60 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+13.06 -> B-tax_amount
+TOTAL -> O
+: -> O
+94.66 -> B-total

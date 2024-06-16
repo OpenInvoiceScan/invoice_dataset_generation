@@ -1,0 +1,76 @@
+Invoice -> O
+585895 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-04-28 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-12 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Amanda -> B-issuer_name
+Manso -> I-issuer_name
+Rocha -> I-issuer_name
+S.Com. -> I-issuer_name
+Cañada -> B-issuer_address
+de -> I-issuer_address
+Jenaro -> I-issuer_address
+Mata -> I-issuer_address
+89 -> I-issuer_address
+Las -> I-issuer_address
+Palmas, -> I-issuer_address
+20732 -> I-issuer_address
++34 844571524 -> B-issuer_phone
+fbotella@fabrica.es -> B-issuer_email
+bZw098BnL037 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Che -> B-recipient_name
+Arroyo -> I-recipient_name
+Pinilla -> I-recipient_name
+Alameda -> B-recipient_address
+Lázaro -> I-recipient_address
+Carro -> I-recipient_address
+39 -> I-recipient_address
+Puerta -> I-recipient_address
+1 -> I-recipient_address
+Cuenca, -> I-recipient_address
+10892 -> I-recipient_address
++34 974 46 81 61 -> B-recipient_phone
+fermin08@gmail.com -> B-recipient_email
+KLT600XpX985 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+integrate world-class eyeballs -> B-item_description
+4 -> B-item_quantity
+64.88 -> B-item_unit_price
+259.52 -> B-item_total
+leverage cross-platform synergies -> B-item_description
+2 -> B-item_quantity
+96.04 -> B-item_unit_price
+192.08 -> B-item_total
+optimize killer e-tailers -> B-item_description
+7 -> B-item_quantity
+71.85 -> B-item_unit_price
+502.95 -> B-item_total
+Subtotal -> O
+ : -> O
+ 954.55 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+152.73 -> B-tax_amount
+Total -> O
+: -> O
+1107.28 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

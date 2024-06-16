@@ -1,0 +1,62 @@
+Tecnologías -> B-issuer_name
+Española -> I-issuer_name
+S.A. -> I-issuer_name
+Rambla -> B-issuer_address
+de -> I-issuer_address
+Amílcar -> I-issuer_address
+Acuña -> I-issuer_address
+69 -> I-issuer_address
+Córdoba, -> I-issuer_address
+16664 -> I-issuer_address
++34 979 49 33 42 -> B-issuer_phone
+celso81@gimenez.es -> B-issuer_email
+lOF346hpa073 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Isabela -> B-recipient_name
+Sierra -> I-recipient_name
+Laguna -> I-recipient_name
+Avenida -> B-recipient_address
+de -> I-recipient_address
+Ruy -> I-recipient_address
+Carbó -> I-recipient_address
+35 -> I-recipient_address
+Córdoba, -> I-recipient_address
+36407 -> I-recipient_address
++34924 074 162 -> B-recipient_phone
+alvarezapolinar@hotmail.com -> B-recipient_email
+nUO791VUH721 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+563503 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-19 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+enable real-time ROI -> B-item_description
+96.38 -> B-item_unit_price
+289.14 -> B-item_total
+6 -> B-item_quantity
+iterate open-source supply-chains -> B-item_description
+28.07 -> B-item_unit_price
+168.42 -> B-item_total
+Subtotal -> O
+: -> O
+ 457.56 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+73.21 -> B-tax_amount
+TOTAL -> O
+: -> O
+530.77 -> B-total

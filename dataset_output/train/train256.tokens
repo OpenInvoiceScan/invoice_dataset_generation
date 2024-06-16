@@ -1,0 +1,74 @@
+Vergara -> B-issuer_name
+y -> I-issuer_name
+Aller -> I-issuer_name
+S.Coop. -> I-issuer_name
+Ronda -> B-issuer_address
+de -> I-issuer_address
+Emilia -> I-issuer_address
+Amigó -> I-issuer_address
+40 -> I-issuer_address
+Puerta -> I-issuer_address
+5 -> I-issuer_address
+Valladolid, -> I-issuer_address
+22067 -> I-issuer_address
++34 985 113 126 -> B-issuer_phone
+enriquezalex@supermercados.es -> B-issuer_email
+uQf745ixR575 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Donato -> B-recipient_name
+Lorenzo -> I-recipient_name
+Ronda -> B-recipient_address
+Xavier -> I-recipient_address
+Rivero -> I-recipient_address
+40 -> I-recipient_address
+Ávila, -> I-recipient_address
+44827 -> I-recipient_address
++34882305999 -> B-recipient_phone
+felicidadmateo@gmail.com -> B-recipient_email
+Rng604AIa270 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+548816 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-02 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+unleash killer models -> B-item_description
+57.26 -> B-item_unit_price
+286.30 -> B-item_total
+6 -> B-item_quantity
+drive integrated e-markets -> B-item_description
+38.12 -> B-item_unit_price
+228.72 -> B-item_total
+4 -> B-item_quantity
+reinvent sticky metrics -> B-item_description
+44.83 -> B-item_unit_price
+179.32 -> B-item_total
+10 -> B-item_quantity
+whiteboard front-end e-business -> B-item_description
+42.57 -> B-item_unit_price
+425.70 -> B-item_total
+1 -> B-item_quantity
+exploit viral web-readiness -> B-item_description
+24.44 -> B-item_unit_price
+24.44 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1144.48 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+183.12 -> B-tax_amount
+TOTAL -> O
+: -> O
+1327.60 -> B-total

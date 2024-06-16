@@ -1,0 +1,72 @@
+Invoice -> O
+639192 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-26 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-22 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Minería -> B-issuer_name
+Amador -> I-issuer_name
+S.Com. -> I-issuer_name
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+Josefina -> I-issuer_address
+Bellido -> I-issuer_address
+7 -> I-issuer_address
+Almería, -> I-issuer_address
+50994 -> I-issuer_address
++34848 199 428 -> B-issuer_phone
+tcarrion@mateu.com -> B-issuer_email
+iRU232zJE534 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Rosalía -> B-recipient_name
+Castillo -> I-recipient_name
+López -> I-recipient_name
+Rambla -> B-recipient_address
+Onofre -> I-recipient_address
+Ribes -> I-recipient_address
+675 -> I-recipient_address
+Álava, -> I-recipient_address
+21505 -> I-recipient_address
++34 849916651 -> B-recipient_phone
+icarlos@yahoo.com -> B-recipient_email
+Hte236lQj997 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+repurpose open-source convergence -> B-item_description
+5 -> B-item_quantity
+40.26 -> B-item_unit_price
+201.30 -> B-item_total
+embrace collaborative models -> B-item_description
+7 -> B-item_quantity
+20.18 -> B-item_unit_price
+141.26 -> B-item_total
+benchmark turn-key solutions -> B-item_description
+10 -> B-item_quantity
+26.40 -> B-item_unit_price
+264.00 -> B-item_total
+Subtotal -> O
+ : -> O
+ 606.56 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+97.05 -> B-tax_amount
+Total -> O
+: -> O
+703.61 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

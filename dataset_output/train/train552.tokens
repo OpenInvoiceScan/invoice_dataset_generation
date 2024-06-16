@@ -1,0 +1,61 @@
+Hernández -> B-issuer_name
+y -> I-issuer_name
+Téllez -> I-issuer_name
+S.A. -> I-issuer_name
+Rambla -> B-issuer_address
+Simón -> I-issuer_address
+Barrios -> I-issuer_address
+31 -> I-issuer_address
+Murcia, -> I-issuer_address
+05555 -> I-issuer_address
++34942 529 428 -> B-issuer_phone
+cocamerche@restauracion.org -> B-issuer_email
+PGr887iyg779 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Bautista -> B-recipient_name
+Guijarro -> I-recipient_name
+Vial -> B-recipient_address
+Loreto -> I-recipient_address
+Galvez -> I-recipient_address
+6 -> I-recipient_address
+Apt. -> I-recipient_address
+72 -> I-recipient_address
+Castellón, -> I-recipient_address
+33595 -> I-recipient_address
++34711 77 79 12 -> B-recipient_phone
+palauvictoria@hotmail.com -> B-recipient_email
+eEu408HRa657 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+344358 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-12 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+streamline innovative e-tailers -> B-item_description
+29.12 -> B-item_unit_price
+116.48 -> B-item_total
+2 -> B-item_quantity
+e-enable efficient relationships -> B-item_description
+79.08 -> B-item_unit_price
+158.16 -> B-item_total
+Subtotal -> O 
+: -> O
+ 274.64 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+43.94 -> B-tax_amount
+TOTAL -> O
+: -> O
+318.58 -> B-total

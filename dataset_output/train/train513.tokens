@@ -1,0 +1,58 @@
+Garcia -> B-issuer_name
+y -> I-issuer_name
+Llamas -> I-issuer_name
+S.C.P -> I-issuer_name
+Cañada -> B-issuer_address
+Cándida -> I-issuer_address
+Ballester -> I-issuer_address
+55 -> I-issuer_address
+Piso -> I-issuer_address
+3 -> I-issuer_address
+Cantabria, -> I-issuer_address
+48708 -> I-issuer_address
++34 981520144 -> B-issuer_phone
+iconesa@gutierrez.es -> B-issuer_email
+gvM427leJ576 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Arcelia -> B-recipient_name
+Andres -> I-recipient_name
+Vial -> B-recipient_address
+Edelmiro -> I-recipient_address
+Rosell -> I-recipient_address
+430 -> I-recipient_address
+Soria, -> I-recipient_address
+19353 -> I-recipient_address
++34 941 582 878 -> B-recipient_phone
+carlos45@hotmail.com -> B-recipient_email
+vQL919Nqm646 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+826387 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-01 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+envisioneer B2B info-mediaries -> B-item_description
+81.39 -> B-item_unit_price
+244.17 -> B-item_total
+Subtotal -> O
+: -> O
+ 244.17 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+39.07 -> B-tax_amount
+TOTAL -> O
+: -> O
+283.24 -> B-total

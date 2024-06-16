@@ -1,0 +1,74 @@
+Factura -> O
+648940 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-07 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-08 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Ariel -> B-issuer_name
+Belmonte -> I-issuer_name
+Fernández -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Urbanización -> B-issuer_address
+Alba -> I-issuer_address
+Pascual -> I-issuer_address
+58 -> I-issuer_address
+Puerta -> I-issuer_address
+2 -> I-issuer_address
+Navarra, -> I-issuer_address
+31680 -> I-issuer_address
++34 944 08 07 84 -> B-issuer_phone
+elifonseca@restauracion.es -> B-issuer_email
+ATU847gdb147 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Olalla -> B-recipient_name
+Mate -> I-recipient_name
+Vial -> B-recipient_address
+Bibiana -> I-recipient_address
+Burgos -> I-recipient_address
+15 -> I-recipient_address
+Sevilla, -> I-recipient_address
+46207 -> I-recipient_address
++34927 24 30 75 -> B-recipient_phone
+castanedarogelio@hotmail.com -> B-recipient_email
+RDE405jRg137 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+aggregate visionary channels -> B-item_description
+1 -> B-item_quantity
+68.15 -> B-item_unit_price
+68.15 -> B-item_total
+utilize integrated e-commerce -> B-item_description
+8 -> B-item_quantity
+27.82 -> B-item_unit_price
+222.56 -> B-item_total
+Subtotal -> O
+ : -> O
+ 290.71 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+46.51 -> B-tax_amount
+Total -> O
+: -> O
+337.22 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

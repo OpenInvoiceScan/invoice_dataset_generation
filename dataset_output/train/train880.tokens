@@ -1,0 +1,69 @@
+Transportes -> B-issuer_name
+ES -> I-issuer_name
+S.L. -> I-issuer_name
+Alameda -> B-issuer_address
+de -> I-issuer_address
+Candelaria -> I-issuer_address
+Sans -> I-issuer_address
+39 -> I-issuer_address
+Cáceres, -> I-issuer_address
+07988 -> I-issuer_address
++34947 42 68 60 -> B-issuer_phone
+cletoroyo@fabrica.com -> B-issuer_email
+QGo146XzU388 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Elisabet -> B-recipient_name
+del -> I-recipient_name
+Casado -> I-recipient_name
+Pasadizo -> B-recipient_address
+de -> I-recipient_address
+Pelayo -> I-recipient_address
+Ariza -> I-recipient_address
+73 -> I-recipient_address
+Málaga, -> I-recipient_address
+07872 -> I-recipient_address
++34902 70 09 13 -> B-recipient_phone
+lumbrerasjacinta@yahoo.com -> B-recipient_email
+RWu594IGK145 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+268208 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-19 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+redefine turn-key solutions -> B-item_description
+14.30 -> B-item_unit_price
+100.10 -> B-item_total
+4 -> B-item_quantity
+cultivate extensible vortals -> B-item_description
+29.22 -> B-item_unit_price
+116.88 -> B-item_total
+1 -> B-item_quantity
+transition vertical experiences -> B-item_description
+39.63 -> B-item_unit_price
+39.63 -> B-item_total
+8 -> B-item_quantity
+streamline viral platforms -> B-item_description
+76.27 -> B-item_unit_price
+610.16 -> B-item_total
+Subtotal -> O 
+: -> O
+ 866.77 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+138.68 -> B-tax_amount
+TOTAL -> O
+: -> O
+1005.45 -> B-total

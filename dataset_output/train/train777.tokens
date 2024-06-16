@@ -1,0 +1,61 @@
+Manufacturas -> B-issuer_name
+Gimenez -> I-issuer_name
+S.L. -> I-issuer_name
+Via -> B-issuer_address
+de -> I-issuer_address
+Martin -> I-issuer_address
+Santamaría -> I-issuer_address
+246 -> I-issuer_address
+Zaragoza, -> I-issuer_address
+50681 -> I-issuer_address
++34944 696 404 -> B-issuer_phone
+anita43@manufacturas.es -> B-issuer_email
+tuh902ZSc621 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Amada -> B-recipient_name
+Español -> I-recipient_name
+Cañada -> B-recipient_address
+de -> I-recipient_address
+Eulalia -> I-recipient_address
+Zaragoza -> I-recipient_address
+79 -> I-recipient_address
+Castellón, -> I-recipient_address
+25942 -> I-recipient_address
++34878 72 42 32 -> B-recipient_phone
+francisco-josetorres@hotmail.com -> B-recipient_email
+eSP889YKU577 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+281898 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-27 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+engineer integrated action-items -> B-item_description
+90.31 -> B-item_unit_price
+270.93 -> B-item_total
+10 -> B-item_quantity
+incentivize e-business convergence -> B-item_description
+29.64 -> B-item_unit_price
+296.40 -> B-item_total
+Subtotal -> O
+: -> O
+ 567.33 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+90.77 -> B-tax_amount
+TOTAL -> O
+: -> O
+658.10 -> B-total

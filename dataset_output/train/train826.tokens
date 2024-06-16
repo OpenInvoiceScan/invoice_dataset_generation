@@ -1,0 +1,81 @@
+Invoice -> O
+596086 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-22 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-12 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Manrique -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.A.D -> I-issuer_name
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+Luisina -> I-issuer_address
+Fajardo -> I-issuer_address
+50 -> I-issuer_address
+Puerta -> I-issuer_address
+8 -> I-issuer_address
+Alicante, -> I-issuer_address
+35108 -> I-issuer_address
++34 885456439 -> B-issuer_phone
+narciso99@joan.es -> B-issuer_email
+IIG108SmT108 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Sabina -> B-recipient_name
+Izquierdo -> I-recipient_name
+Marquez -> I-recipient_name
+Urbanización -> B-recipient_address
+Jaime -> I-recipient_address
+Andrés -> I-recipient_address
+468 -> I-recipient_address
+Apt. -> I-recipient_address
+87 -> I-recipient_address
+Melilla, -> I-recipient_address
+39981 -> I-recipient_address
++34882 546 645 -> B-recipient_phone
+lunaaurora@yahoo.com -> B-recipient_email
+MiE620vLj672 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+empower global users -> B-item_description
+8 -> B-item_quantity
+80.30 -> B-item_unit_price
+642.40 -> B-item_total
+grow rich relationships -> B-item_description
+1 -> B-item_quantity
+96.56 -> B-item_unit_price
+96.56 -> B-item_total
+deliver impactful schemas -> B-item_description
+1 -> B-item_quantity
+99.23 -> B-item_unit_price
+99.23 -> B-item_total
+benchmark wireless solutions -> B-item_description
+10 -> B-item_quantity
+43.65 -> B-item_unit_price
+436.50 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1274.69 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+203.95 -> B-tax_amount
+Total -> O
+: -> O
+1478.64 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

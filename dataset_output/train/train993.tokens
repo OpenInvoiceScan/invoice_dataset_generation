@@ -1,0 +1,69 @@
+Arenas -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Via -> B-issuer_address
+de -> I-issuer_address
+Fulgencio -> I-issuer_address
+Hidalgo -> I-issuer_address
+78 -> I-issuer_address
+Guipúzcoa, -> I-issuer_address
+10084 -> I-issuer_address
++34709 237 227 -> B-issuer_phone
+ricardapellicer@loreto.net -> B-issuer_email
+IrI761AcP987 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Alex -> B-recipient_name
+del -> I-recipient_name
+Baró -> I-recipient_name
+Pasaje -> B-recipient_address
+de -> I-recipient_address
+Alberto -> I-recipient_address
+Nieto -> I-recipient_address
+85 -> I-recipient_address
+Apt. -> I-recipient_address
+42 -> I-recipient_address
+Soria, -> I-recipient_address
+32271 -> I-recipient_address
++34 901 075 131 -> B-recipient_phone
+daniel09@gmail.com -> B-recipient_email
+Fxb761Kuo548 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+806000 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-26 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+synthesize value-added relationships -> B-item_description
+61.17 -> B-item_unit_price
+611.70 -> B-item_total
+10 -> B-item_quantity
+monetize end-to-end paradigms -> B-item_description
+75.98 -> B-item_unit_price
+759.80 -> B-item_total
+10 -> B-item_quantity
+productize innovative metrics -> B-item_description
+68.48 -> B-item_unit_price
+684.80 -> B-item_total
+Subtotal -> O
+: -> O
+ 2056.30 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+329.01 -> B-tax_amount
+TOTAL -> O
+: -> O
+2385.31 -> B-total

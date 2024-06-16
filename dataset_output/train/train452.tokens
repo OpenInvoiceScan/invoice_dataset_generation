@@ -1,0 +1,89 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+Sjf941WmW043 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 982 01 96 53 -> B-recipient_phone
+Nombre -> O
+: -> O
+Rosendo -> B-recipient_name
+Gimenez -> I-recipient_name
+Ferrer -> I-recipient_name
+Correo -> O
+: -> O
+vvalderrama@gmail.com -> B-recipient_email
+Cañada -> B-recipient_address
+Elías -> I-recipient_address
+Ángel -> I-recipient_address
+9 -> I-recipient_address
+Apt. -> I-recipient_address
+31 -> I-recipient_address
+Vizcaya, -> I-recipient_address
+48482 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+589344 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-04 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+brand interactive content -> B-item_description
+2 -> B-item_quantity
+166.88 -> B-item_total
+seize cross-media relationships -> B-item_description
+9 -> B-item_quantity
+886.59 -> B-item_total
+optimize back-end e-business -> B-item_description
+10 -> B-item_quantity
+404.80 -> B-item_total
+implement efficient bandwidth -> B-item_description
+7 -> B-item_quantity
+630.00 -> B-item_total
+Subtotal -> O
+ : -> O
+ 2088.27 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+334.12 -> B-tax_amount
+TOTAL -> O
+: -> O
+2422.39 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+gqd872UQy083 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 874041259 -> B-issuer_phone
+Nombre -> O
+: -> O
+Ochoa -> B-issuer_name
+y -> I-issuer_name
+Bolaños -> I-issuer_name
+S.C.P -> I-issuer_name
+Correo -> O
+: -> O
+victor93@compania.es -> B-issuer_email
+Rambla -> B-issuer_address
+Iván -> I-issuer_address
+Téllez -> I-issuer_address
+252 -> I-issuer_address
+Almería, -> I-issuer_address
+37831 -> I-issuer_address

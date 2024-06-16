@@ -1,0 +1,83 @@
+Factura -> O
+450574 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-04-27 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-27 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Transportes -> B-issuer_name
+del -> I-issuer_name
+Levante -> I-issuer_name
+S.L. -> I-issuer_name
+Calle -> B-issuer_address
+Violeta -> I-issuer_address
+Dávila -> I-issuer_address
+31 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Ávila, -> I-issuer_address
+06112 -> I-issuer_address
++34972 36 52 83 -> B-issuer_phone
+lmuniz@cristian.es -> B-issuer_email
+ijd065RCZ960 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Sergio -> B-recipient_name
+de -> I-recipient_name
+Giménez -> I-recipient_name
+Rambla -> B-recipient_address
+Angelita -> I-recipient_address
+Casal -> I-recipient_address
+24 -> I-recipient_address
+Baleares, -> I-recipient_address
+19506 -> I-recipient_address
++34902917026 -> B-recipient_phone
+xtomas@hotmail.com -> B-recipient_email
+Kvx705Ojg420 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+deliver customized eyeballs -> B-item_description
+9 -> B-item_quantity
+61.95 -> B-item_unit_price
+557.55 -> B-item_total
+engineer efficient eyeballs -> B-item_description
+3 -> B-item_quantity
+80.59 -> B-item_unit_price
+241.77 -> B-item_total
+target enterprise eyeballs -> B-item_description
+10 -> B-item_quantity
+98.95 -> B-item_unit_price
+989.50 -> B-item_total
+benchmark value-added web services -> B-item_description
+8 -> B-item_quantity
+72.69 -> B-item_unit_price
+581.52 -> B-item_total
+Subtotal -> O
+ : -> O
+ 2370.34 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+379.25 -> B-tax_amount
+Total -> O
+: -> O
+2749.59 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

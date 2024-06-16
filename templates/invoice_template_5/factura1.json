@@ -1,0 +1,38 @@
+{
+  "invoice_id": 721896,
+  "issue_date": "2024-05-09",
+  "due_date": "2024-06-21",
+  "issuer": {
+    "name": "Familia Rosa S.L.",
+    "address": "Pasadizo Norberto Palomares 8 Piso 4 \nOurense, 34015",
+    "phone": "+34 982 825 041",
+    "email": "fvillegas@valera.es",
+    "tax_id": "jWg778TpR233"
+  },
+  "recipient": {
+    "name": "Sebastian Escalona",
+    "address": "Calle de Isa\u00edas Cabezas 90\nSoria, 40115",
+    "phone": "+34 844 847 797",
+    "email": "lpadilla@hotmail.com",
+    "tax_id": "CxG201ZlA905"
+  },
+  "items": [
+    {
+      "description": "incubate customized e-tailers",
+      "quantity": 9,
+      "unit_price": "69.64",
+      "total": "626.76"
+    }
+  ],
+  "subtotal": "626.76",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "100.28"
+    }
+  ],
+  "total": "727.04",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

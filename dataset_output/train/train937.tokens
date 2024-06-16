@@ -1,0 +1,70 @@
+Alimentación -> B-issuer_name
+KW -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Avenida -> B-issuer_address
+Luciana -> I-issuer_address
+Vicens -> I-issuer_address
+4 -> I-issuer_address
+Pontevedra, -> I-issuer_address
+35742 -> I-issuer_address
++34922 40 85 58 -> B-issuer_phone
+emelina25@sevilla.org -> B-issuer_email
+nTI413PYC567 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Catalina -> B-recipient_name
+Carbó -> I-recipient_name
+Botella -> I-recipient_name
+Calle -> B-recipient_address
+Manu -> I-recipient_address
+Murillo -> I-recipient_address
+971 -> I-recipient_address
+Piso -> I-recipient_address
+7 -> I-recipient_address
+Segovia, -> I-recipient_address
+37943 -> I-recipient_address
++34925 390 697 -> B-recipient_phone
+aureliano55@hotmail.com -> B-recipient_email
+HHs041wtZ679 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+338053 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-01 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+enhance wireless portals -> B-item_description
+16.66 -> B-item_unit_price
+99.96 -> B-item_total
+2 -> B-item_quantity
+strategize compelling info-mediaries -> B-item_description
+85.09 -> B-item_unit_price
+170.18 -> B-item_total
+4 -> B-item_quantity
+benchmark leading-edge synergies -> B-item_description
+96.31 -> B-item_unit_price
+385.24 -> B-item_total
+6 -> B-item_quantity
+generate virtual infrastructures -> B-item_description
+92.60 -> B-item_unit_price
+555.60 -> B-item_total
+Subtotal -> O
+: -> O
+ 1210.98 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+193.76 -> B-tax_amount
+TOTAL -> O
+: -> O
+1404.74 -> B-total

@@ -1,0 +1,76 @@
+Factura -> O
+262410 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-19 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-29 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Grupo -> B-issuer_name
+Pintor -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Calle -> B-issuer_address
+de -> I-issuer_address
+Obdulia -> I-issuer_address
+Palomino -> I-issuer_address
+93 -> I-issuer_address
+Huesca, -> I-issuer_address
+35870 -> I-issuer_address
++34 838 44 49 43 -> B-issuer_phone
+benaventebegona@hnos.com -> B-issuer_email
+Qrp622YDJ546 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Leonor -> B-recipient_name
+Zaida -> I-recipient_name
+Barco -> I-recipient_name
+Prieto -> I-recipient_name
+Callejón -> B-recipient_address
+Ruth -> I-recipient_address
+Montesinos -> I-recipient_address
+96 -> I-recipient_address
+Apt. -> I-recipient_address
+98 -> I-recipient_address
+Guipúzcoa, -> I-recipient_address
+12944 -> I-recipient_address
++34 842 612 673 -> B-recipient_phone
+almagroarmando@hotmail.com -> B-recipient_email
+lqp913EEX884 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+productize dot-com platforms -> B-item_description
+10 -> B-item_quantity
+39.26 -> B-item_unit_price
+392.60 -> B-item_total
+seize robust communities -> B-item_description
+8 -> B-item_quantity
+51.64 -> B-item_unit_price
+413.12 -> B-item_total
+Subtotal -> O
+ : -> O
+ 805.72 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+128.92 -> B-tax_amount
+Total -> O
+: -> O
+934.64 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

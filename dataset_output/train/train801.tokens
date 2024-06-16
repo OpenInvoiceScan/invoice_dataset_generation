@@ -1,0 +1,57 @@
+Familia -> B-issuer_name
+Benavent -> I-issuer_name
+S.Com. -> I-issuer_name
+Cañada -> B-issuer_address
+Dionisio -> I-issuer_address
+Feliu -> I-issuer_address
+73 -> I-issuer_address
+Sevilla, -> I-issuer_address
+12909 -> I-issuer_address
++34900 50 66 59 -> B-issuer_phone
+asuncion55@solana.org -> B-issuer_email
+GiJ572pbh739 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Alex -> B-recipient_name
+Tomas -> I-recipient_name
+Molins -> I-recipient_name
+Cuesta -> B-recipient_address
+de -> I-recipient_address
+Urbano -> I-recipient_address
+Barrera -> I-recipient_address
+3 -> I-recipient_address
+Granada, -> I-recipient_address
+05732 -> I-recipient_address
++34 981 93 02 17 -> B-recipient_phone
+abadlorena@hotmail.com -> B-recipient_email
+bxA920tXk922 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+387590 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-05 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+integrate interactive technologies -> B-item_description
+72.60 -> B-item_unit_price
+435.60 -> B-item_total
+Subtotal -> O
+: -> O
+ 435.60 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+69.70 -> B-tax_amount
+TOTAL -> O
+: -> O
+505.30 -> B-total

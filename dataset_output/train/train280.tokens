@@ -1,0 +1,76 @@
+Promociones -> B-issuer_name
+del -> I-issuer_name
+Mediterráneo -> I-issuer_name
+S.A. -> I-issuer_name
+C. -> B-issuer_address
+Custodio -> I-issuer_address
+Enríquez -> I-issuer_address
+755 -> I-issuer_address
+Piso -> I-issuer_address
+4 -> I-issuer_address
+Teruel, -> I-issuer_address
+20759 -> I-issuer_address
++34875 843 600 -> B-issuer_phone
+loidahidalgo@banco.org -> B-issuer_email
+icc099bnr431 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Juan -> B-recipient_name
+Antonio -> I-recipient_name
+Gilabert -> I-recipient_name
+Juan -> I-recipient_name
+Alameda -> B-recipient_address
+de -> I-recipient_address
+Ovidio -> I-recipient_address
+Machado -> I-recipient_address
+905 -> I-recipient_address
+Jaén, -> I-recipient_address
+47754 -> I-recipient_address
++34 987750482 -> B-recipient_phone
+paco22@yahoo.com -> B-recipient_email
+WCX701JHA092 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+702363 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-04 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+benchmark innovative interfaces -> B-item_description
+67.91 -> B-item_unit_price
+543.28 -> B-item_total
+5 -> B-item_quantity
+visualize 24/365 action-items -> B-item_description
+22.80 -> B-item_unit_price
+114.00 -> B-item_total
+3 -> B-item_quantity
+leverage web-enabled partnerships -> B-item_description
+11.09 -> B-item_unit_price
+33.27 -> B-item_total
+2 -> B-item_quantity
+monetize end-to-end networks -> B-item_description
+24.49 -> B-item_unit_price
+48.98 -> B-item_total
+4 -> B-item_quantity
+incentivize next-generation networks -> B-item_description
+62.96 -> B-item_unit_price
+251.84 -> B-item_total
+Subtotal -> O 
+: -> O
+ 991.37 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+158.62 -> B-tax_amount
+TOTAL -> O
+: -> O
+1149.99 -> B-total

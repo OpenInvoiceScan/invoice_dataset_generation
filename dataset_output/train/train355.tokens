@@ -1,0 +1,74 @@
+Factura -> O
+767341 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-05 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-04 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Lorenzo -> B-issuer_name
+Gomez -> I-issuer_name
+Hernando -> I-issuer_name
+S.L. -> I-issuer_name
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+Benita -> I-issuer_address
+Castillo -> I-issuer_address
+10 -> I-issuer_address
+Melilla, -> I-issuer_address
+17681 -> I-issuer_address
++34 846158276 -> B-issuer_phone
+estelacarrillo@hotel.com -> B-issuer_email
+XFW243qSd788 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Emiliano -> B-recipient_name
+de -> I-recipient_name
+Calatayud -> I-recipient_name
+Cuesta -> B-recipient_address
+Ramón -> I-recipient_address
+Belmonte -> I-recipient_address
+74 -> I-recipient_address
+Ceuta, -> I-recipient_address
+26858 -> I-recipient_address
++34 824 277 170 -> B-recipient_phone
+berrocalaurelia@hotmail.com -> B-recipient_email
+lVI360Scj100 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+synergize viral eyeballs -> B-item_description
+1 -> B-item_quantity
+87.47 -> B-item_unit_price
+87.47 -> B-item_total
+seize cross-platform action-items -> B-item_description
+9 -> B-item_quantity
+31.95 -> B-item_unit_price
+287.55 -> B-item_total
+Subtotal -> O
+ : -> O
+ 375.02 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+60.00 -> B-tax_amount
+Total -> O
+: -> O
+435.02 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

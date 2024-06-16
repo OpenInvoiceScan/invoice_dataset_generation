@@ -1,0 +1,81 @@
+Invoice -> O
+792273 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-04-29 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-19 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Supermercados -> B-issuer_name
+Cuesta -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.A. -> I-issuer_name
+Urbanización -> B-issuer_address
+de -> I-issuer_address
+Gloria -> I-issuer_address
+Campoy -> I-issuer_address
+77 -> I-issuer_address
+Apt. -> I-issuer_address
+38 -> I-issuer_address
+Cantabria, -> I-issuer_address
+08601 -> I-issuer_address
++34879 710 609 -> B-issuer_phone
+soriaamalia@tecnologias.es -> B-issuer_email
+SgU295XIu739 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Fausto -> B-recipient_name
+Cal -> I-recipient_name
+Cabezas -> I-recipient_name
+Pasaje -> B-recipient_address
+Juan -> I-recipient_address
+Pablo -> I-recipient_address
+Carmona -> I-recipient_address
+57 -> I-recipient_address
+Huesca, -> I-recipient_address
+28663 -> I-recipient_address
++34827 339 711 -> B-recipient_phone
+fsola@gmail.com -> B-recipient_email
+Bfd810are682 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+engage 24/365 initiatives -> B-item_description
+5 -> B-item_quantity
+67.83 -> B-item_unit_price
+339.15 -> B-item_total
+implement dynamic deliverables -> B-item_description
+7 -> B-item_quantity
+92.25 -> B-item_unit_price
+645.75 -> B-item_total
+deliver synergistic e-services -> B-item_description
+7 -> B-item_quantity
+89.39 -> B-item_unit_price
+625.73 -> B-item_total
+synthesize efficient channels -> B-item_description
+6 -> B-item_quantity
+77.21 -> B-item_unit_price
+463.26 -> B-item_total
+Subtotal -> O
+ : -> O
+ 2073.89 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+331.82 -> B-tax_amount
+Total -> O
+: -> O
+2405.71 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

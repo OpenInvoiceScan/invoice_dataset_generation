@@ -1,0 +1,71 @@
+Invoice -> O
+282504 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-09 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-30 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Leon -> B-issuer_name
+y -> I-issuer_name
+Gibert -> I-issuer_name
+S.L. -> I-issuer_name
+Pasaje -> B-issuer_address
+de -> I-issuer_address
+Tania -> I-issuer_address
+Oliveras -> I-issuer_address
+88 -> I-issuer_address
+Albacete, -> I-issuer_address
+44692 -> I-issuer_address
++34 976 568 941 -> B-issuer_phone
+otiliaalcazar@cabello.com -> B-issuer_email
+IHW691BZD556 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Corona -> B-recipient_name
+Barreda -> I-recipient_name
+Niño -> I-recipient_name
+Urbanización -> B-recipient_address
+Paca -> I-recipient_address
+Higueras -> I-recipient_address
+3 -> I-recipient_address
+Puerta -> I-recipient_address
+5 -> I-recipient_address
+Badajoz, -> I-recipient_address
+21836 -> I-recipient_address
++34855 19 83 18 -> B-recipient_phone
+juliomurillo@hotmail.com -> B-recipient_email
+aAz113Whj604 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+matrix vertical portals -> B-item_description
+9 -> B-item_quantity
+35.52 -> B-item_unit_price
+319.68 -> B-item_total
+repurpose robust portals -> B-item_description
+10 -> B-item_quantity
+98.91 -> B-item_unit_price
+989.10 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1308.78 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+209.40 -> B-tax_amount
+Total -> O
+: -> O
+1518.18 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

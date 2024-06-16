@@ -1,0 +1,85 @@
+Factura -> O
+254620 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-08 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-12 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Desarrollo -> B-issuer_name
+Marqués -> I-issuer_name
+S.Com. -> I-issuer_name
+Paseo -> B-issuer_address
+Sabas -> I-issuer_address
+Hurtado -> I-issuer_address
+30 -> I-issuer_address
+La -> I-issuer_address
+Rioja, -> I-issuer_address
+43319 -> I-issuer_address
++34974 609 522 -> B-issuer_phone
+prudencia12@farmaceutica.net -> B-issuer_email
+axe603LsW728 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Domitila -> B-recipient_name
+Quero -> I-recipient_name
+Antúnez -> I-recipient_name
+Acceso -> B-recipient_address
+Lisandro -> I-recipient_address
+Martín -> I-recipient_address
+207 -> I-recipient_address
+Cáceres, -> I-recipient_address
+40558 -> I-recipient_address
++34941182459 -> B-recipient_phone
+gojeda@hotmail.com -> B-recipient_email
+HgQ900aws582 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+innovate bleeding-edge content -> B-item_description
+9 -> B-item_quantity
+96.32 -> B-item_unit_price
+866.88 -> B-item_total
+expedite out-of-the-box web-readiness -> B-item_description
+9 -> B-item_quantity
+51.51 -> B-item_unit_price
+463.59 -> B-item_total
+syndicate dynamic paradigms -> B-item_description
+8 -> B-item_quantity
+64.57 -> B-item_unit_price
+516.56 -> B-item_total
+envisioneer killer systems -> B-item_description
+2 -> B-item_quantity
+36.08 -> B-item_unit_price
+72.16 -> B-item_total
+empower interactive communities -> B-item_description
+7 -> B-item_quantity
+35.02 -> B-item_unit_price
+245.14 -> B-item_total
+Subtotal -> O
+ : -> O
+ 2164.33 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+346.29 -> B-tax_amount
+Total -> O
+: -> O
+2510.62 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

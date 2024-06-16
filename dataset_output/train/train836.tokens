@@ -1,0 +1,92 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+APx232EqC872 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 807223122 -> B-recipient_phone
+Nombre -> O
+: -> O
+Gertrudis -> B-recipient_name
+Carbonell-Isern -> I-recipient_name
+Correo -> O
+: -> O
+gematerron@hotmail.com -> B-recipient_email
+Avenida -> B-recipient_address
+de -> I-recipient_address
+Albano -> I-recipient_address
+Cornejo -> I-recipient_address
+20 -> I-recipient_address
+Apt. -> I-recipient_address
+59 -> I-recipient_address
+La -> I-recipient_address
+Coruña, -> I-recipient_address
+33302 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+2954 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-22 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+repurpose world-class web services -> B-item_description
+5 -> B-item_quantity
+327.20 -> B-item_total
+brand robust markets -> B-item_description
+6 -> B-item_quantity
+297.06 -> B-item_total
+leverage transparent ROI -> B-item_description
+9 -> B-item_quantity
+254.43 -> B-item_total
+productize turn-key eyeballs -> B-item_description
+6 -> B-item_quantity
+514.26 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1392.95 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+222.87 -> B-tax_amount
+TOTAL -> O
+: -> O
+1615.82 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+RMO146tBK076 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34902 18 12 32 -> B-issuer_phone
+Nombre -> O
+: -> O
+Estevez -> B-issuer_name
+y -> I-issuer_name
+Benitez -> I-issuer_name
+S.A. -> I-issuer_name
+Correo -> O
+: -> O
+segoviavanesa@manufacturas.es -> B-issuer_email
+Acceso -> B-issuer_address
+Candelario -> I-issuer_address
+Nadal -> I-issuer_address
+86 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Cantabria, -> I-issuer_address
+01848 -> I-issuer_address

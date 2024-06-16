@@ -1,0 +1,83 @@
+Factura -> O
+160980 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-10 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-02 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Farmaceútica -> B-issuer_name
+QOW -> I-issuer_name
+S.Com. -> I-issuer_name
+Cañada -> B-issuer_address
+Francisco -> I-issuer_address
+Peña -> I-issuer_address
+486 -> I-issuer_address
+Granada, -> I-issuer_address
+20812 -> I-issuer_address
++34 985 42 17 22 -> B-issuer_phone
+lucas00@consultoria.es -> B-issuer_email
+IdP738BVj970 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Perlita -> B-recipient_name
+Mireia -> I-recipient_name
+Frutos -> I-recipient_name
+Dalmau -> I-recipient_name
+Camino -> B-recipient_address
+Rubén -> I-recipient_address
+Palacios -> I-recipient_address
+9 -> I-recipient_address
+Apt. -> I-recipient_address
+28 -> I-recipient_address
+Palencia, -> I-recipient_address
+10106 -> I-recipient_address
++34836166992 -> B-recipient_phone
+egaya@gmail.com -> B-recipient_email
+vYD150teF946 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+deploy holistic action-items -> B-item_description
+9 -> B-item_quantity
+85.03 -> B-item_unit_price
+765.27 -> B-item_total
+innovate rich e-markets -> B-item_description
+6 -> B-item_quantity
+15.48 -> B-item_unit_price
+92.88 -> B-item_total
+evolve mission-critical convergence -> B-item_description
+4 -> B-item_quantity
+28.64 -> B-item_unit_price
+114.56 -> B-item_total
+drive bleeding-edge platforms -> B-item_description
+8 -> B-item_quantity
+40.99 -> B-item_unit_price
+327.92 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1300.63 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+208.10 -> B-tax_amount
+Total -> O
+: -> O
+1508.73 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

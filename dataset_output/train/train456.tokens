@@ -1,0 +1,72 @@
+Transportes -> B-issuer_name
+del -> I-issuer_name
+Sur -> I-issuer_name
+S.Coop. -> I-issuer_name
+Vial -> B-issuer_address
+de -> I-issuer_address
+Adriana -> I-issuer_address
+Ferrán -> I-issuer_address
+5 -> I-issuer_address
+Girona, -> I-issuer_address
+04202 -> I-issuer_address
++34987 68 99 35 -> B-issuer_phone
+camachoapolonia@despacho.es -> B-issuer_email
+PJr156EBk511 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Gaspar -> B-recipient_name
+Cobos -> I-recipient_name
+Frutos -> I-recipient_name
+Avenida -> B-recipient_address
+de -> I-recipient_address
+Melisa -> I-recipient_address
+Castelló -> I-recipient_address
+8 -> I-recipient_address
+Apt. -> I-recipient_address
+26 -> I-recipient_address
+Murcia, -> I-recipient_address
+11572 -> I-recipient_address
++34980312753 -> B-recipient_phone
+lgimenez@yahoo.com -> B-recipient_email
+NDd417dxO912 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+612815 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-20 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+mesh innovative supply-chains -> B-item_description
+58.94 -> B-item_unit_price
+235.76 -> B-item_total
+8 -> B-item_quantity
+matrix one-to-one eyeballs -> B-item_description
+36.02 -> B-item_unit_price
+288.16 -> B-item_total
+10 -> B-item_quantity
+reinvent B2C interfaces -> B-item_description
+75.85 -> B-item_unit_price
+758.50 -> B-item_total
+2 -> B-item_quantity
+reinvent 24/7 users -> B-item_description
+91.76 -> B-item_unit_price
+183.52 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1465.94 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+234.55 -> B-tax_amount
+TOTAL -> O
+: -> O
+1700.49 -> B-total

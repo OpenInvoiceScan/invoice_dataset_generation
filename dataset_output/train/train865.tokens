@@ -1,0 +1,56 @@
+Minería -> B-issuer_name
+JTJ -> I-issuer_name
+S.Com. -> I-issuer_name
+Avenida -> B-issuer_address
+Olga -> I-issuer_address
+Teruel -> I-issuer_address
+5 -> I-issuer_address
+Badajoz, -> I-issuer_address
+10102 -> I-issuer_address
++34942 50 33 66 -> B-issuer_phone
+leon34@transportes.net -> B-issuer_email
+TBC977Phd241 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Almudena -> B-recipient_name
+Mayo -> I-recipient_name
+Collado -> I-recipient_name
+Ronda -> B-recipient_address
+Alicia -> I-recipient_address
+Briones -> I-recipient_address
+813 -> I-recipient_address
+Murcia, -> I-recipient_address
+33491 -> I-recipient_address
++34 978 237 690 -> B-recipient_phone
+narcisamendez@gmail.com -> B-recipient_email
+hUx144LAU275 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+398484 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-12 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+enable best-of-breed methodologies -> B-item_description
+66.03 -> B-item_unit_price
+528.24 -> B-item_total
+Subtotal -> O
+: -> O
+ 528.24 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+84.52 -> B-tax_amount
+TOTAL -> O
+: -> O
+612.76 -> B-total

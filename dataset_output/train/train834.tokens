@@ -1,0 +1,66 @@
+Invoice -> O
+915887 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-16 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-10 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Manufacturas -> B-issuer_name
+Berenguer -> I-issuer_name
+S.L. -> I-issuer_name
+Calle -> B-issuer_address
+de -> I-issuer_address
+Fabio -> I-issuer_address
+Páez -> I-issuer_address
+40 -> I-issuer_address
+La -> I-issuer_address
+Rioja, -> I-issuer_address
+39249 -> I-issuer_address
++34951452262 -> B-issuer_phone
+valenzuelasebastian@diana.net -> B-issuer_email
+gws588OcR083 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Quirino -> B-recipient_name
+Hoyos -> I-recipient_name
+Cabezas -> I-recipient_name
+Paseo -> B-recipient_address
+de -> I-recipient_address
+Alonso -> I-recipient_address
+Novoa -> I-recipient_address
+31 -> I-recipient_address
+Guipúzcoa, -> I-recipient_address
+11920 -> I-recipient_address
++34978 975 173 -> B-recipient_phone
+macarenaarco@gmail.com -> B-recipient_email
+WnL408WUj765 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+engineer leading-edge users -> B-item_description
+3 -> B-item_quantity
+84.53 -> B-item_unit_price
+253.59 -> B-item_total
+Subtotal -> O
+ : -> O
+ 253.59 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+40.57 -> B-tax_amount
+Total -> O
+: -> O
+294.16 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

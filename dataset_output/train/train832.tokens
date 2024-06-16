@@ -1,0 +1,67 @@
+Tecnologías -> B-issuer_name
+Leon -> I-issuer_name
+S.A. -> I-issuer_name
+Pasaje -> B-issuer_address
+Régulo -> I-issuer_address
+Agullo -> I-issuer_address
+80 -> I-issuer_address
+Lleida, -> I-issuer_address
+20297 -> I-issuer_address
++34923 19 97 47 -> B-issuer_phone
+jennifer76@inmaculada.org -> B-issuer_email
+Jdp841hKP999 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Leonardo -> B-recipient_name
+Barón -> I-recipient_name
+Alameda -> B-recipient_address
+de -> I-recipient_address
+Alejandro -> I-recipient_address
+Barco -> I-recipient_address
+358 -> I-recipient_address
+Huelva, -> I-recipient_address
+36990 -> I-recipient_address
++34974 98 87 49 -> B-recipient_phone
+rosa-mariaperalta@hotmail.com -> B-recipient_email
+CvU990ibB464 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+511773 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-29 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+strategize proactive experiences -> B-item_description
+35.58 -> B-item_unit_price
+106.74 -> B-item_total
+1 -> B-item_quantity
+expedite ubiquitous functionalities -> B-item_description
+60.55 -> B-item_unit_price
+60.55 -> B-item_total
+3 -> B-item_quantity
+matrix bleeding-edge deliverables -> B-item_description
+15.84 -> B-item_unit_price
+47.52 -> B-item_total
+10 -> B-item_quantity
+synergize turn-key networks -> B-item_description
+75.05 -> B-item_unit_price
+750.50 -> B-item_total
+Subtotal -> O 
+: -> O
+ 965.31 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+154.45 -> B-tax_amount
+TOTAL -> O
+: -> O
+1119.76 -> B-total

@@ -1,0 +1,68 @@
+Planas -> B-issuer_name
+y -> I-issuer_name
+Báez -> I-issuer_name
+S.L. -> I-issuer_name
+Via -> B-issuer_address
+Narcisa -> I-issuer_address
+Suárez -> I-issuer_address
+271 -> I-issuer_address
+Puerta -> I-issuer_address
+7 -> I-issuer_address
+Cantabria, -> I-issuer_address
+30609 -> I-issuer_address
++34 902733808 -> B-issuer_phone
+sjuan@hotel.es -> B-issuer_email
+nDL013DXg297 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Teodoro -> B-recipient_name
+Moll -> I-recipient_name
+Marcos -> I-recipient_name
+Urbanización -> B-recipient_address
+de -> I-recipient_address
+Wilfredo -> I-recipient_address
+Aroca -> I-recipient_address
+29 -> I-recipient_address
+Cáceres, -> I-recipient_address
+35999 -> I-recipient_address
++34 977734466 -> B-recipient_phone
+ebaez@hotmail.com -> B-recipient_email
+jQF785JFy514 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+418714 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-27 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+empower one-to-one e-tailers -> B-item_description
+41.05 -> B-item_unit_price
+410.50 -> B-item_total
+4 -> B-item_quantity
+enhance customized applications -> B-item_description
+37.40 -> B-item_unit_price
+149.60 -> B-item_total
+6 -> B-item_quantity
+facilitate impactful markets -> B-item_description
+76.20 -> B-item_unit_price
+457.20 -> B-item_total
+Subtotal -> O
+: -> O
+ 1017.30 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+162.77 -> B-tax_amount
+TOTAL -> O
+: -> O
+1180.07 -> B-total

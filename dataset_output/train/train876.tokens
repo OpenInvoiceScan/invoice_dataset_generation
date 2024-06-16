@@ -1,0 +1,95 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+ygL626SFi278 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34947 868 181 -> B-recipient_phone
+Nombre -> O
+: -> O
+Reina -> B-recipient_name
+Aguilar -> I-recipient_name
+Caballero -> I-recipient_name
+Correo -> O
+: -> O
+etellez@gmail.com -> B-recipient_email
+Calle -> B-recipient_address
+de -> I-recipient_address
+Isa -> I-recipient_address
+Rivero -> I-recipient_address
+34 -> I-recipient_address
+Piso -> I-recipient_address
+7 -> I-recipient_address
+Salamanca, -> I-recipient_address
+05489 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+250997 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-20 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+enable virtual deliverables -> B-item_description
+10 -> B-item_quantity
+128.00 -> B-item_total
+architect best-of-breed partnerships -> B-item_description
+9 -> B-item_quantity
+520.11 -> B-item_total
+facilitate best-of-breed synergies -> B-item_description
+8 -> B-item_quantity
+361.84 -> B-item_total
+visualize cross-media methodologies -> B-item_description
+8 -> B-item_quantity
+657.28 -> B-item_total
+enable magnetic eyeballs -> B-item_description
+10 -> B-item_quantity
+389.00 -> B-item_total
+Subtotal -> O
+ : -> O
+ 2056.23 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+329.00 -> B-tax_amount
+TOTAL -> O
+: -> O
+2385.23 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+tgU059mao705 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34882552839 -> B-issuer_phone
+Nombre -> O
+: -> O
+Verdú -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Correo -> O
+: -> O
+purificacion43@hnos.es -> B-issuer_email
+Acceso -> B-issuer_address
+Elena -> I-issuer_address
+Sanchez -> I-issuer_address
+9 -> I-issuer_address
+Piso -> I-issuer_address
+3 -> I-issuer_address
+Tarragona, -> I-issuer_address
+38843 -> I-issuer_address

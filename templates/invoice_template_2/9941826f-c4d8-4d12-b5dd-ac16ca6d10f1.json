@@ -1,0 +1,38 @@
+{
+  "invoice_id": 541258,
+  "issue_date": "2024-05-19",
+  "due_date": "2024-05-28",
+  "issuer": {
+    "name": "Familia Tapia S.Coop.",
+    "address": "Vial Pascuala Posada 2 Puerta 5 \nMurcia, 17544",
+    "phone": "+34976 13 47 03",
+    "email": "eustaquiosevilla@banco.com",
+    "tax_id": "qlM523Kfy057"
+  },
+  "recipient": {
+    "name": "Patricia Tomas Corral",
+    "address": "Rambla de Narcisa Arregui 438\nZaragoza, 21164",
+    "phone": "+34 846 00 23 64",
+    "email": "manola54@hotmail.com",
+    "tax_id": "yUF758mqE867"
+  },
+  "items": [
+    {
+      "description": "utilize leading-edge e-business",
+      "quantity": 10,
+      "unit_price": "35.44",
+      "total": "354.40"
+    }
+  ],
+  "subtotal": "354.40",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "56.70"
+    }
+  ],
+  "total": "411.10",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

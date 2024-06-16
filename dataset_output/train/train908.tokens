@@ -1,0 +1,90 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+lbK220qcr223 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 981221705 -> B-recipient_phone
+Nombre -> O
+: -> O
+Leopoldo -> B-recipient_name
+Abad -> I-recipient_name
+Fonseca -> I-recipient_name
+Correo -> O
+: -> O
+ncorbacho@gmail.com -> B-recipient_email
+Plaza -> B-recipient_address
+Eutropio -> I-recipient_address
+Moliner -> I-recipient_address
+62 -> I-recipient_address
+Piso -> I-recipient_address
+1 -> I-recipient_address
+Álava, -> I-recipient_address
+39097 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+694271 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-04 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+deploy collaborative technologies -> B-item_description
+4 -> B-item_quantity
+240.76 -> B-item_total
+evolve synergistic platforms -> B-item_description
+4 -> B-item_quantity
+81.48 -> B-item_total
+evolve dot-com bandwidth -> B-item_description
+6 -> B-item_quantity
+182.88 -> B-item_total
+repurpose mission-critical applications -> B-item_description
+9 -> B-item_quantity
+784.98 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1290.10 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+206.42 -> B-tax_amount
+TOTAL -> O
+: -> O
+1496.52 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+vHq454rPk187 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 700 16 62 88 -> B-issuer_phone
+Nombre -> O
+: -> O
+María -> B-issuer_name
+Cristina -> I-issuer_name
+Noriega -> I-issuer_name
+Recio -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Correo -> O
+: -> O
+manueleligia@eustaquio.com -> B-issuer_email
+Avenida -> B-issuer_address
+Geraldo -> I-issuer_address
+Herranz -> I-issuer_address
+56 -> I-issuer_address
+Asturias, -> I-issuer_address
+26265 -> I-issuer_address

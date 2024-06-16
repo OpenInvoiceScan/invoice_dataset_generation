@@ -1,0 +1,81 @@
+Invoice -> O
+226619 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-22 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-15 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Hnos -> B-issuer_name
+Uriarte -> I-issuer_name
+S.Coop. -> I-issuer_name
+Avenida -> B-issuer_address
+Paula -> I-issuer_address
+Balaguer -> I-issuer_address
+32 -> I-issuer_address
+Puerta -> I-issuer_address
+1 -> I-issuer_address
+Badajoz, -> I-issuer_address
+10429 -> I-issuer_address
++34823504510 -> B-issuer_phone
+delfinanicolas@manufacturas.com -> B-issuer_email
+VMx568ccI910 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Nieves -> B-recipient_name
+Reguera -> I-recipient_name
+Garcia -> I-recipient_name
+Cuesta -> B-recipient_address
+René -> I-recipient_address
+Gámez -> I-recipient_address
+72 -> I-recipient_address
+Lugo, -> I-recipient_address
+50317 -> I-recipient_address
++34978394558 -> B-recipient_phone
+arcojoaquina@yahoo.com -> B-recipient_email
+Vkc948GgT311 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+orchestrate next-generation ROI -> B-item_description
+7 -> B-item_quantity
+65.99 -> B-item_unit_price
+461.93 -> B-item_total
+maximize integrated methodologies -> B-item_description
+5 -> B-item_quantity
+93.33 -> B-item_unit_price
+466.65 -> B-item_total
+repurpose proactive web services -> B-item_description
+3 -> B-item_quantity
+63.14 -> B-item_unit_price
+189.42 -> B-item_total
+syndicate customized solutions -> B-item_description
+8 -> B-item_quantity
+73.59 -> B-item_unit_price
+588.72 -> B-item_total
+engineer enterprise systems -> B-item_description
+5 -> B-item_quantity
+44.21 -> B-item_unit_price
+221.05 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1927.77 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+308.44 -> B-tax_amount
+Total -> O
+: -> O
+2236.21 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

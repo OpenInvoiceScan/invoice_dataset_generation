@@ -1,0 +1,67 @@
+Invoice -> O
+520973 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-24 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-31 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Finanzas -> B-issuer_name
+Internacionales -> I-issuer_name
+S.L. -> I-issuer_name
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+Lourdes -> I-issuer_address
+Quirós -> I-issuer_address
+61 -> I-issuer_address
+Piso -> I-issuer_address
+7 -> I-issuer_address
+Almería, -> I-issuer_address
+15773 -> I-issuer_address
++34 881 03 48 41 -> B-issuer_phone
+yaizabenitez@inmobiliaria.com -> B-issuer_email
+YJO960NJD320 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Esperanza -> B-recipient_name
+de -> I-recipient_name
+Cánovas -> I-recipient_name
+Pasadizo -> B-recipient_address
+Juan -> I-recipient_address
+Carlos -> I-recipient_address
+Sierra -> I-recipient_address
+90 -> I-recipient_address
+Alicante, -> I-recipient_address
+38601 -> I-recipient_address
++34 845 25 76 90 -> B-recipient_phone
+alcidesprada@yahoo.com -> B-recipient_email
+lRB698zKe770 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+reinvent enterprise portals -> B-item_description
+8 -> B-item_quantity
+39.74 -> B-item_unit_price
+317.92 -> B-item_total
+Subtotal -> O
+ : -> O
+ 317.92 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+50.87 -> B-tax_amount
+Total -> O
+: -> O
+368.79 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

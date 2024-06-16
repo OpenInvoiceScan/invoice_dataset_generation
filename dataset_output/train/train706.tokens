@@ -1,0 +1,77 @@
+Invoice -> O
+430112 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-10 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-31 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Inversiones -> B-issuer_name
+CW -> I-issuer_name
+S.A. -> I-issuer_name
+Glorieta -> B-issuer_address
+Paz -> I-issuer_address
+Chico -> I-issuer_address
+2 -> I-issuer_address
+Piso -> I-issuer_address
+2 -> I-issuer_address
+Barcelona, -> I-issuer_address
+30483 -> I-issuer_address
++34825 50 44 78 -> B-issuer_phone
+jnovoa@anabel.es -> B-issuer_email
+Jde306qjW930 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Ariadna -> B-recipient_name
+Araceli -> I-recipient_name
+Calvo -> I-recipient_name
+Catalá -> I-recipient_name
+Via -> B-recipient_address
+Ceferino -> I-recipient_address
+Cerdá -> I-recipient_address
+804 -> I-recipient_address
+Apt. -> I-recipient_address
+78 -> I-recipient_address
+La -> I-recipient_address
+Rioja, -> I-recipient_address
+42811 -> I-recipient_address
++34 947130316 -> B-recipient_phone
+mariaperal@hotmail.com -> B-recipient_email
+oms704gCk587 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+iterate real-time ROI -> B-item_description
+3 -> B-item_quantity
+60.61 -> B-item_unit_price
+181.83 -> B-item_total
+synergize revolutionary architectures -> B-item_description
+6 -> B-item_quantity
+87.89 -> B-item_unit_price
+527.34 -> B-item_total
+mesh value-added platforms -> B-item_description
+2 -> B-item_quantity
+16.31 -> B-item_unit_price
+32.62 -> B-item_total
+Subtotal -> O
+ : -> O
+ 741.79 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+118.69 -> B-tax_amount
+Total -> O
+: -> O
+860.48 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

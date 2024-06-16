@@ -1,0 +1,71 @@
+Invoice -> O
+861373 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-14 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-25 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Prat -> B-issuer_name
+y -> I-issuer_name
+Gallart -> I-issuer_name
+S.L. -> I-issuer_name
+Alameda -> B-issuer_address
+de -> I-issuer_address
+Jacinto -> I-issuer_address
+Quintanilla -> I-issuer_address
+78 -> I-issuer_address
+La -> I-issuer_address
+Coruña, -> I-issuer_address
+33930 -> I-issuer_address
++34 866846141 -> B-issuer_phone
+ismaelballester@servicios.es -> B-issuer_email
+tUO737GYQ219 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Guadalupe -> B-recipient_name
+Piquer -> I-recipient_name
+Martinez -> I-recipient_name
+Calle -> B-recipient_address
+de -> I-recipient_address
+Lucila -> I-recipient_address
+Lerma -> I-recipient_address
+10 -> I-recipient_address
+Vizcaya, -> I-recipient_address
+51548 -> I-recipient_address
++34986263411 -> B-recipient_phone
+mendezencarnacion@gmail.com -> B-recipient_email
+tnL159vXu349 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+transform leading-edge paradigms -> B-item_description
+6 -> B-item_quantity
+80.84 -> B-item_unit_price
+485.04 -> B-item_total
+matrix wireless mindshare -> B-item_description
+6 -> B-item_quantity
+44.98 -> B-item_unit_price
+269.88 -> B-item_total
+Subtotal -> O
+ : -> O
+ 754.92 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+120.79 -> B-tax_amount
+Total -> O
+: -> O
+875.71 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

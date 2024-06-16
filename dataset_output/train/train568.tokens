@@ -1,0 +1,68 @@
+Banco -> B-issuer_name
+España -> I-issuer_name
+S.A.T. -> I-issuer_name
+Pasadizo -> B-issuer_address
+Anita -> I-issuer_address
+Nadal -> I-issuer_address
+78 -> I-issuer_address
+Apt. -> I-issuer_address
+70 -> I-issuer_address
+Madrid, -> I-issuer_address
+07922 -> I-issuer_address
++34824077723 -> B-issuer_phone
+fabraolegario@adan.es -> B-issuer_email
+rWd736xHA173 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Domingo -> B-recipient_name
+Barba-Prada -> I-recipient_name
+Callejón -> B-recipient_address
+Victoria -> I-recipient_address
+Arévalo -> I-recipient_address
+19 -> I-recipient_address
+Zamora, -> I-recipient_address
+35741 -> I-recipient_address
++34983 29 76 86 -> B-recipient_phone
+heraclio93@yahoo.com -> B-recipient_email
+VLz825ROI626 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+956999 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-24 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+re-intermediate proactive mindshare -> B-item_description
+14.29 -> B-item_unit_price
+28.58 -> B-item_total
+2 -> B-item_quantity
+grow user-centric communities -> B-item_description
+57.92 -> B-item_unit_price
+115.84 -> B-item_total
+10 -> B-item_quantity
+transition open-source partnerships -> B-item_description
+24.84 -> B-item_unit_price
+248.40 -> B-item_total
+6 -> B-item_quantity
+innovate one-to-one web-readiness -> B-item_description
+60.42 -> B-item_unit_price
+362.52 -> B-item_total
+Subtotal -> O 
+: -> O
+ 755.34 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+120.85 -> B-tax_amount
+TOTAL -> O
+: -> O
+876.19 -> B-total

@@ -1,0 +1,62 @@
+Distribuciones -> B-issuer_name
+WOV -> I-issuer_name
+S.Com. -> I-issuer_name
+Ronda -> B-issuer_address
+de -> I-issuer_address
+Francisco -> I-issuer_address
+Salcedo -> I-issuer_address
+8 -> I-issuer_address
+Alicante, -> I-issuer_address
+28982 -> I-issuer_address
++34 819 483 527 -> B-issuer_phone
+ejaen@grupo.es -> B-issuer_email
+YjS414hbN673 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Alonso -> B-recipient_name
+Quintana -> I-recipient_name
+Huguet -> I-recipient_name
+Glorieta -> B-recipient_address
+de -> I-recipient_address
+Maura -> I-recipient_address
+Bayón -> I-recipient_address
+918 -> I-recipient_address
+Pontevedra, -> I-recipient_address
+29966 -> I-recipient_address
++34 942837831 -> B-recipient_phone
+celestinaugarte@gmail.com -> B-recipient_email
+bMr779lVJ436 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+172295 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-26 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+seize granular e-services -> B-item_description
+69.26 -> B-item_unit_price
+277.04 -> B-item_total
+7 -> B-item_quantity
+leverage global applications -> B-item_description
+50.18 -> B-item_unit_price
+351.26 -> B-item_total
+Subtotal -> O
+: -> O
+ 628.30 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+100.53 -> B-tax_amount
+TOTAL -> O
+: -> O
+728.83 -> B-total

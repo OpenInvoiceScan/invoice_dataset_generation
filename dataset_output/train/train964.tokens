@@ -1,0 +1,91 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+wGU479CYk760 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 921713051 -> B-recipient_phone
+Nombre -> O
+: -> O
+Paco -> B-recipient_name
+Geraldo -> I-recipient_name
+Juliá -> I-recipient_name
+Vera -> I-recipient_name
+Correo -> O
+: -> O
+mesteban@gmail.com -> B-recipient_email
+Avenida -> B-recipient_address
+de -> I-recipient_address
+Encarnación -> I-recipient_address
+Rosales -> I-recipient_address
+4 -> I-recipient_address
+Piso -> I-recipient_address
+6 -> I-recipient_address
+Teruel, -> I-recipient_address
+10288 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+987822 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-08 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+re-contextualize viral channels -> B-item_description
+1 -> B-item_quantity
+10.65 -> B-item_total
+extend back-end markets -> B-item_description
+10 -> B-item_quantity
+864.00 -> B-item_total
+repurpose cross-media experiences -> B-item_description
+5 -> B-item_quantity
+294.65 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1169.30 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+187.09 -> B-tax_amount
+TOTAL -> O
+: -> O
+1356.39 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+tEG283HOS341 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 872 744 406 -> B-issuer_phone
+Nombre -> O
+: -> O
+Grupo -> B-issuer_name
+Batalla -> I-issuer_name
+S.Com. -> I-issuer_name
+Correo -> O
+: -> O
+gsalom@familia.org -> B-issuer_email
+Alameda -> B-issuer_address
+de -> I-issuer_address
+José -> I-issuer_address
+María -> I-issuer_address
+Batalla -> I-issuer_address
+4 -> I-issuer_address
+Puerta -> I-issuer_address
+7 -> I-issuer_address
+Castellón, -> I-issuer_address
+32706 -> I-issuer_address

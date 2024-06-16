@@ -1,0 +1,83 @@
+Invoice -> O
+965568 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-25 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-16 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Ropero -> B-issuer_name
+y -> I-issuer_name
+Anglada -> I-issuer_name
+S.Coop. -> I-issuer_name
+Avenida -> B-issuer_address
+Rosalinda -> I-issuer_address
+Ricart -> I-issuer_address
+402 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+La -> I-issuer_address
+Rioja, -> I-issuer_address
+51582 -> I-issuer_address
++34980 920 957 -> B-issuer_phone
+javierabayon@grupo.es -> B-issuer_email
+YSG609aMM575 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Xavier -> B-recipient_name
+Samper-Nadal -> I-recipient_name
+Alameda -> B-recipient_address
+de -> I-recipient_address
+Ofelia -> I-recipient_address
+Ramón -> I-recipient_address
+88 -> I-recipient_address
+Zamora, -> I-recipient_address
+14412 -> I-recipient_address
++34710582411 -> B-recipient_phone
+tomasalondra@gmail.com -> B-recipient_email
+Qxa046uKj537 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+transition interactive methodologies -> B-item_description
+7 -> B-item_quantity
+96.21 -> B-item_unit_price
+673.47 -> B-item_total
+enable visionary content -> B-item_description
+7 -> B-item_quantity
+61.33 -> B-item_unit_price
+429.31 -> B-item_total
+cultivate intuitive vortals -> B-item_description
+5 -> B-item_quantity
+61.69 -> B-item_unit_price
+308.45 -> B-item_total
+brand dynamic eyeballs -> B-item_description
+1 -> B-item_quantity
+64.01 -> B-item_unit_price
+64.01 -> B-item_total
+morph strategic interfaces -> B-item_description
+7 -> B-item_quantity
+53.39 -> B-item_unit_price
+373.73 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1848.97 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+295.84 -> B-tax_amount
+Total -> O
+: -> O
+2144.81 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

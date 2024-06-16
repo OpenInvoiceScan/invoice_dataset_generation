@@ -1,0 +1,96 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+BAH907fLj262 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34984 799 338 -> B-recipient_phone
+Nombre -> O
+: -> O
+Danilo -> B-recipient_name
+Sanmartín -> I-recipient_name
+Plaza -> I-recipient_name
+Correo -> O
+: -> O
+javi38@hotmail.com -> B-recipient_email
+Pasadizo -> B-recipient_address
+de -> I-recipient_address
+Miguel -> I-recipient_address
+Ángel -> I-recipient_address
+Orozco -> I-recipient_address
+6 -> I-recipient_address
+Apt. -> I-recipient_address
+80 -> I-recipient_address
+Las -> I-recipient_address
+Palmas, -> I-recipient_address
+13692 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+901243 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-19 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+orchestrate collaborative architectures -> B-item_description
+4 -> B-item_quantity
+366.32 -> B-item_total
+leverage open-source technologies -> B-item_description
+9 -> B-item_quantity
+562.68 -> B-item_total
+re-intermediate bricks-and-clicks infrastructures -> B-item_description
+2 -> B-item_quantity
+148.02 -> B-item_total
+implement leading-edge e-business -> B-item_description
+3 -> B-item_quantity
+139.02 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1216.04 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+194.57 -> B-tax_amount
+TOTAL -> O
+: -> O
+1410.61 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+uCW765tIR521 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 812949663 -> B-issuer_phone
+Nombre -> O
+: -> O
+Industrias -> B-issuer_name
+Segovia -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Correo -> O
+: -> O
+lalouriarte@marquez.com -> B-issuer_email
+Alameda -> B-issuer_address
+de -> I-issuer_address
+Ximena -> I-issuer_address
+Gual -> I-issuer_address
+33 -> I-issuer_address
+Piso -> I-issuer_address
+7 -> I-issuer_address
+Segovia, -> I-issuer_address
+47722 -> I-issuer_address

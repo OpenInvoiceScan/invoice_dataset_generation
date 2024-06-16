@@ -1,0 +1,72 @@
+Invoice -> O
+336501 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-04 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-31 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Manufacturas -> B-issuer_name
+Internacionales -> I-issuer_name
+S.Coop. -> I-issuer_name
+Pasadizo -> B-issuer_address
+de -> I-issuer_address
+Herberto -> I-issuer_address
+Díaz -> I-issuer_address
+2 -> I-issuer_address
+Apt. -> I-issuer_address
+99 -> I-issuer_address
+Cádiz, -> I-issuer_address
+06137 -> I-issuer_address
++34 920 20 55 29 -> B-issuer_phone
+asdrubal33@infraestructuras.es -> B-issuer_email
+ejb113dbh617 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Carlota -> B-recipient_name
+Zaragoza-Aparicio -> I-recipient_name
+Rambla -> B-recipient_address
+de -> I-recipient_address
+Jimena -> I-recipient_address
+Ribas -> I-recipient_address
+32 -> I-recipient_address
+Piso -> I-recipient_address
+7 -> I-recipient_address
+Ciudad, -> I-recipient_address
+34992 -> I-recipient_address
++34800 693 630 -> B-recipient_phone
+bermejocelso@gmail.com -> B-recipient_email
+ErC921AQC241 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+productize web-enabled eyeballs -> B-item_description
+4 -> B-item_quantity
+41.34 -> B-item_unit_price
+165.36 -> B-item_total
+evolve proactive networks -> B-item_description
+10 -> B-item_quantity
+16.32 -> B-item_unit_price
+163.20 -> B-item_total
+Subtotal -> O
+ : -> O
+ 328.56 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+52.57 -> B-tax_amount
+Total -> O
+: -> O
+381.13 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

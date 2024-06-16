@@ -1,62 +1,50 @@
 {
-  "invoice_id": 799862,
-  "issue_date": "2024-04-26",
-  "due_date": "2024-06-10",
+  "invoice_id": 833174,
+  "issue_date": "2024-04-23",
+  "due_date": "2024-06-03",
   "issuer": {
-    "name": "Alarc\u00f3n & Asociados S.L.",
-    "address": "Vial Marco Pizarro 401 Apt. 20 \nCeuta, 29794",
-    "phone": "+34 842 843 548",
-    "email": "tomascebrian@aragon.com",
-    "tax_id": "TLj213zKF131"
+    "name": "Gilabert y Jove S.L.N.E",
+    "address": "Avenida de Ainara Jara 4\nZaragoza, 12207",
+    "phone": "+34945 56 81 11",
+    "email": "claudiozamorano@restauracion.com",
+    "tax_id": "ZNY159xQc186"
   },
   "recipient": {
-    "name": "Ildefonso Robledo Salinas",
-    "address": "Acceso de Hermenegildo Mariscal 19 Piso 3 \nBarcelona, 30973",
-    "phone": "+34886626948",
-    "email": "ymontserrat@yahoo.com",
-    "tax_id": "Epi307clk008"
+    "name": "Rolando Soler",
+    "address": "Calle de Georgina Dalmau 199\nAlicante, 08014",
+    "phone": "+34 922 313 957",
+    "email": "maria-jesusarranz@yahoo.com",
+    "tax_id": "daS211ySQ715"
   },
   "items": [
     {
-      "description": "extend clicks-and-mortar content",
-      "quantity": 2,
-      "unit_price": 61.34,
-      "total": 122.68
-    },
-    {
-      "description": "cultivate holistic channels",
-      "quantity": 8,
-      "unit_price": 16.5,
-      "total": 132.0
-    },
-    {
-      "description": "redefine seamless technologies",
-      "quantity": 8,
-      "unit_price": 90.01,
-      "total": 720.08
-    },
-    {
-      "description": "generate magnetic platforms",
+      "description": "visualize out-of-the-box eyeballs",
       "quantity": 9,
-      "unit_price": 76.51,
-      "total": 688.59
+      "unit_price": "97.95",
+      "total": "881.55"
     },
     {
-      "description": "incentivize real-time systems",
-      "quantity": 3,
-      "unit_price": 23.16,
-      "total": 69.48
+      "description": "grow impactful channels",
+      "quantity": 5,
+      "unit_price": "83.26",
+      "total": "416.30"
+    },
+    {
+      "description": "aggregate e-business applications",
+      "quantity": 7,
+      "unit_price": "91.83",
+      "total": "642.81"
     }
   ],
-  "subtotal": 1732.83,
+  "subtotal": "1940.66",
   "taxes": [
     {
       "description": "VAT",
       "percentage": 16,
-      "amount": 277.25
+      "amount": "310.51"
     }
   ],
-  "total": 2010.08,
-  "payment_method": "Credit Card",
+  "total": "2251.17",
+  "payment_method": "Bank Transfer",
   "currency": "EUR"
 }

@@ -1,0 +1,78 @@
+Factura -> O
+227869 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-20 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-17 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Sacristán -> B-issuer_name
+y -> I-issuer_name
+Cano -> I-issuer_name
+S.A. -> I-issuer_name
+Plaza -> B-issuer_address
+Ciríaco -> I-issuer_address
+Nicolás -> I-issuer_address
+4 -> I-issuer_address
+Albacete, -> I-issuer_address
+20278 -> I-issuer_address
++34716 590 656 -> B-issuer_phone
+orozconazario@inmobiliaria.es -> B-issuer_email
+ueG583Aul753 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Susana -> B-recipient_name
+Ros-Vidal -> I-recipient_name
+Callejón -> B-recipient_address
+Joan -> I-recipient_address
+Arévalo -> I-recipient_address
+19 -> I-recipient_address
+Puerta -> I-recipient_address
+9 -> I-recipient_address
+Ceuta, -> I-recipient_address
+07887 -> I-recipient_address
++34 945 64 41 30 -> B-recipient_phone
+fgodoy@gmail.com -> B-recipient_email
+ZNP736Mzm274 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+engage back-end metrics -> B-item_description
+5 -> B-item_quantity
+86.81 -> B-item_unit_price
+434.05 -> B-item_total
+enhance next-generation markets -> B-item_description
+1 -> B-item_quantity
+42.04 -> B-item_unit_price
+42.04 -> B-item_total
+synergize sticky users -> B-item_description
+7 -> B-item_quantity
+76.57 -> B-item_unit_price
+535.99 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1012.08 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+161.93 -> B-tax_amount
+Total -> O
+: -> O
+1174.01 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

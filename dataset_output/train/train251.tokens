@@ -1,0 +1,73 @@
+Factura -> O
+274599 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-19 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-15 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Hnos -> B-issuer_name
+Solera -> I-issuer_name
+S.A. -> I-issuer_name
+Pasaje -> B-issuer_address
+de -> I-issuer_address
+Amado -> I-issuer_address
+Rosado -> I-issuer_address
+3 -> I-issuer_address
+Valladolid, -> I-issuer_address
+24636 -> I-issuer_address
++34 879 368 523 -> B-issuer_phone
+rita01@carbonell.es -> B-issuer_email
+fwR371kAp754 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Eva -> B-recipient_name
+María -> I-recipient_name
+Zabala -> I-recipient_name
+C. -> B-recipient_address
+Felicidad -> I-recipient_address
+Sobrino -> I-recipient_address
+48 -> I-recipient_address
+Cádiz, -> I-recipient_address
+11525 -> I-recipient_address
++34885 397 159 -> B-recipient_phone
+javieruriarte@yahoo.com -> B-recipient_email
+cMc605baU509 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+deploy out-of-the-box info-mediaries -> B-item_description
+7 -> B-item_quantity
+73.51 -> B-item_unit_price
+514.57 -> B-item_total
+facilitate killer architectures -> B-item_description
+2 -> B-item_quantity
+32.17 -> B-item_unit_price
+64.34 -> B-item_total
+Subtotal -> O
+ : -> O
+ 578.91 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+92.63 -> B-tax_amount
+Total -> O
+: -> O
+671.54 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

@@ -1,0 +1,83 @@
+Factura -> O
+937184 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-23 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-31 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Redondo -> B-issuer_name
+y -> I-issuer_name
+Ramos -> I-issuer_name
+S.A. -> I-issuer_name
+Callejón -> B-issuer_address
+Nicanor -> I-issuer_address
+Andrés -> I-issuer_address
+97 -> I-issuer_address
+Piso -> I-issuer_address
+5 -> I-issuer_address
+Toledo, -> I-issuer_address
+08910 -> I-issuer_address
++34944 181 108 -> B-issuer_phone
+urrutiamarina@comercializadora.com -> B-issuer_email
+GxO787GkL091 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Diana -> B-recipient_name
+Castells-Soto -> I-recipient_name
+Paseo -> B-recipient_address
+de -> I-recipient_address
+Odalis -> I-recipient_address
+Marquez -> I-recipient_address
+66 -> I-recipient_address
+Lleida, -> I-recipient_address
+52054 -> I-recipient_address
++34 985 236 418 -> B-recipient_phone
+mayoralreyna@yahoo.com -> B-recipient_email
+JYb648YXd291 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+repurpose enterprise platforms -> B-item_description
+2 -> B-item_quantity
+87.54 -> B-item_unit_price
+175.08 -> B-item_total
+exploit vertical infrastructures -> B-item_description
+10 -> B-item_quantity
+13.82 -> B-item_unit_price
+138.20 -> B-item_total
+synthesize robust infrastructures -> B-item_description
+1 -> B-item_quantity
+45.58 -> B-item_unit_price
+45.58 -> B-item_total
+whiteboard end-to-end infrastructures -> B-item_description
+6 -> B-item_quantity
+79.43 -> B-item_unit_price
+476.58 -> B-item_total
+Subtotal -> O
+ : -> O
+ 835.44 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+133.67 -> B-tax_amount
+Total -> O
+: -> O
+969.11 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

@@ -1,0 +1,67 @@
+Invoice -> O
+966699 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-26 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-30 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Inmobiliaria -> B-issuer_name
+Larrañaga -> I-issuer_name
+S.Com. -> I-issuer_name
+Calle -> B-issuer_address
+Clementina -> I-issuer_address
+Talavera -> I-issuer_address
+1 -> I-issuer_address
+Apt. -> I-issuer_address
+67 -> I-issuer_address
+Toledo, -> I-issuer_address
+30601 -> I-issuer_address
++34 922 39 28 75 -> B-issuer_phone
+arcejovita@hilario.com -> B-issuer_email
+yBU524qgu931 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Nuria -> B-recipient_name
+Vall -> I-recipient_name
+Quintanilla -> I-recipient_name
+Glorieta -> B-recipient_address
+Prudencio -> I-recipient_address
+Soto -> I-recipient_address
+6 -> I-recipient_address
+Apt. -> I-recipient_address
+67 -> I-recipient_address
+Huelva, -> I-recipient_address
+03030 -> I-recipient_address
++34925 847 742 -> B-recipient_phone
+ferranrogelio@hotmail.com -> B-recipient_email
+eYi248Ghw648 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+maximize clicks-and-mortar interfaces -> B-item_description
+3 -> B-item_quantity
+97.29 -> B-item_unit_price
+291.87 -> B-item_total
+Subtotal -> O
+ : -> O
+ 291.87 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+46.70 -> B-tax_amount
+Total -> O
+: -> O
+338.57 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

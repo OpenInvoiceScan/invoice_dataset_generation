@@ -1,0 +1,66 @@
+Servicios -> B-issuer_name
+Marquez -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Calle -> B-issuer_address
+María -> I-issuer_address
+Pilar -> I-issuer_address
+Gabaldón -> I-issuer_address
+1 -> I-issuer_address
+Puerta -> I-issuer_address
+6 -> I-issuer_address
+Lugo, -> I-issuer_address
+02497 -> I-issuer_address
++34821 30 49 81 -> B-issuer_phone
+rcanales@comercial.es -> B-issuer_email
+jHd833pBh398 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Josefa -> B-recipient_name
+Albero -> I-recipient_name
+Plaza -> B-recipient_address
+de -> I-recipient_address
+Nicolás -> I-recipient_address
+Granados -> I-recipient_address
+8 -> I-recipient_address
+Apt. -> I-recipient_address
+62 -> I-recipient_address
+Zaragoza, -> I-recipient_address
+34585 -> I-recipient_address
++34 827 35 22 83 -> B-recipient_phone
+yesicapalau@yahoo.com -> B-recipient_email
+HiI719nbt812 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+41436 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-28 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+monetize e-business info-mediaries -> B-item_description
+29.06 -> B-item_unit_price
+87.18 -> B-item_total
+1 -> B-item_quantity
+facilitate extensible niches -> B-item_description
+86.18 -> B-item_unit_price
+86.18 -> B-item_total
+Subtotal -> O 
+: -> O
+ 173.36 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+27.74 -> B-tax_amount
+TOTAL -> O
+: -> O
+201.10 -> B-total

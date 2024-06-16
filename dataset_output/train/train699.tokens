@@ -1,0 +1,74 @@
+Factura -> O
+263310 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-11 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-11 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Inmobiliaria -> B-issuer_name
+Integrales -> I-issuer_name
+S.C.P -> I-issuer_name
+Alameda -> B-issuer_address
+Maximiano -> I-issuer_address
+Plana -> I-issuer_address
+7 -> I-issuer_address
+Apt. -> I-issuer_address
+92 -> I-issuer_address
+Palencia, -> I-issuer_address
+24775 -> I-issuer_address
++34 932533831 -> B-issuer_phone
+casalsjimena@distribuciones.net -> B-issuer_email
+SXt215Ghd768 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Albert -> B-recipient_name
+Ibáñez -> I-recipient_name
+Frutos -> I-recipient_name
+Calle -> B-recipient_address
+Débora -> I-recipient_address
+Mancebo -> I-recipient_address
+91 -> I-recipient_address
+Madrid, -> I-recipient_address
+17358 -> I-recipient_address
++34 881 26 27 35 -> B-recipient_phone
+abraham20@yahoo.com -> B-recipient_email
+onW970gxm383 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+grow bleeding-edge content -> B-item_description
+6 -> B-item_quantity
+58.31 -> B-item_unit_price
+349.86 -> B-item_total
+extend interactive portals -> B-item_description
+3 -> B-item_quantity
+70.15 -> B-item_unit_price
+210.45 -> B-item_total
+Subtotal -> O
+ : -> O
+ 560.31 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+89.65 -> B-tax_amount
+Total -> O
+: -> O
+649.96 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

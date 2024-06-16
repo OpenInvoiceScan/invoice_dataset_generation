@@ -1,0 +1,77 @@
+Factura -> O
+784048 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-05 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-30 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Hnos -> B-issuer_name
+Bilbao -> I-issuer_name
+S.Com. -> I-issuer_name
+C. -> B-issuer_address
+de -> I-issuer_address
+Elías -> I-issuer_address
+Pallarès -> I-issuer_address
+975 -> I-issuer_address
+Baleares, -> I-issuer_address
+12411 -> I-issuer_address
++34887 589 537 -> B-issuer_phone
+calixto69@davila.es -> B-issuer_email
+rGM677axJ541 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Maximiliano -> B-recipient_name
+Ramón -> I-recipient_name
+Delgado -> I-recipient_name
+Urbanización -> B-recipient_address
+de -> I-recipient_address
+María -> I-recipient_address
+Fernanda -> I-recipient_address
+Menendez -> I-recipient_address
+46 -> I-recipient_address
+Apt. -> I-recipient_address
+78 -> I-recipient_address
+Ceuta, -> I-recipient_address
+36004 -> I-recipient_address
++34 976246685 -> B-recipient_phone
+qcarpio@gmail.com -> B-recipient_email
+Wjh232yEk961 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+drive collaborative channels -> B-item_description
+9 -> B-item_quantity
+67.92 -> B-item_unit_price
+611.28 -> B-item_total
+transition next-generation models -> B-item_description
+9 -> B-item_quantity
+79.05 -> B-item_unit_price
+711.45 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1322.73 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+211.64 -> B-tax_amount
+Total -> O
+: -> O
+1534.37 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

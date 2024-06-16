@@ -1,0 +1,68 @@
+Factura -> O
+492895 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-04-29 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-05 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Hermanos -> B-issuer_name
+Galán -> I-issuer_name
+S.A. -> I-issuer_name
+Pasadizo -> B-issuer_address
+Celestina -> I-issuer_address
+Moraleda -> I-issuer_address
+207 -> I-issuer_address
+Albacete, -> I-issuer_address
+23867 -> I-issuer_address
++34974 04 39 67 -> B-issuer_phone
+amada80@industrias.net -> B-issuer_email
+DCv152ylx066 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Leyre -> B-recipient_name
+Vendrell -> I-recipient_name
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Sancho -> I-recipient_address
+Cisneros -> I-recipient_address
+8 -> I-recipient_address
+Ceuta, -> I-recipient_address
+07520 -> I-recipient_address
++34980 24 68 42 -> B-recipient_phone
+juan-josepedro@gmail.com -> B-recipient_email
+Bol880oJy138 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+extend enterprise e-tailers -> B-item_description
+1 -> B-item_quantity
+43.50 -> B-item_unit_price
+43.50 -> B-item_total
+Subtotal -> O
+ : -> O
+ 43.50 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+6.96 -> B-tax_amount
+Total -> O
+: -> O
+50.46 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

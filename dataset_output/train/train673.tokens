@@ -1,0 +1,70 @@
+Farmaceútica -> B-issuer_name
+NK -> I-issuer_name
+S.L.L. -> I-issuer_name
+Callejón -> B-issuer_address
+Josué -> I-issuer_address
+Rosselló -> I-issuer_address
+21 -> I-issuer_address
+Puerta -> I-issuer_address
+0 -> I-issuer_address
+Granada, -> I-issuer_address
+26400 -> I-issuer_address
++34820010454 -> B-issuer_phone
+villenageorgina@gallardo.es -> B-issuer_email
+ttq514rtl171 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+José -> B-recipient_name
+Olivera -> I-recipient_name
+Lledó -> I-recipient_name
+Paseo -> B-recipient_address
+Ágata -> I-recipient_address
+Gallo -> I-recipient_address
+65 -> I-recipient_address
+Cáceres, -> I-recipient_address
+27225 -> I-recipient_address
++34 976 061 897 -> B-recipient_phone
+canteroinigo@yahoo.com -> B-recipient_email
+pTo019NzJ210 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+406489 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-07 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+embrace interactive channels -> B-item_description
+52.95 -> B-item_unit_price
+370.65 -> B-item_total
+10 -> B-item_quantity
+seize 24/7 platforms -> B-item_description
+92.91 -> B-item_unit_price
+929.10 -> B-item_total
+1 -> B-item_quantity
+monetize enterprise infrastructures -> B-item_description
+11.29 -> B-item_unit_price
+11.29 -> B-item_total
+5 -> B-item_quantity
+transform scalable relationships -> B-item_description
+93.74 -> B-item_unit_price
+468.70 -> B-item_total
+Subtotal -> O
+: -> O
+ 1779.74 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+284.76 -> B-tax_amount
+TOTAL -> O
+: -> O
+2064.50 -> B-total

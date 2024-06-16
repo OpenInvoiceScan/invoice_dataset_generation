@@ -1,0 +1,78 @@
+Fernandez -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+María -> I-issuer_address
+Manuela -> I-issuer_address
+Santamaria -> I-issuer_address
+662 -> I-issuer_address
+Ciudad, -> I-issuer_address
+13221 -> I-issuer_address
++34877854770 -> B-issuer_phone
+santiagopazos@industrias.es -> B-issuer_email
+nfA576SYV120 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Victor -> B-recipient_name
+Manuel -> I-recipient_name
+Reguera-Castañeda -> I-recipient_name
+Calle -> B-recipient_address
+de -> I-recipient_address
+Eduardo -> I-recipient_address
+Hernández -> I-recipient_address
+530 -> I-recipient_address
+Apt. -> I-recipient_address
+02 -> I-recipient_address
+Cádiz, -> I-recipient_address
+46008 -> I-recipient_address
++34728 965 471 -> B-recipient_phone
+miguelhigueras@hotmail.com -> B-recipient_email
+Djl104ukR964 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+741324 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-14 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+reinvent one-to-one paradigms -> B-item_description
+99.41 -> B-item_unit_price
+994.10 -> B-item_total
+9 -> B-item_quantity
+deploy out-of-the-box paradigms -> B-item_description
+90.13 -> B-item_unit_price
+811.17 -> B-item_total
+5 -> B-item_quantity
+grow intuitive functionalities -> B-item_description
+70.49 -> B-item_unit_price
+352.45 -> B-item_total
+5 -> B-item_quantity
+deliver efficient supply-chains -> B-item_description
+87.89 -> B-item_unit_price
+439.45 -> B-item_total
+3 -> B-item_quantity
+innovate interactive deliverables -> B-item_description
+92.55 -> B-item_unit_price
+277.65 -> B-item_total
+Subtotal -> O
+: -> O
+ 2874.82 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+459.97 -> B-tax_amount
+TOTAL -> O
+: -> O
+3334.79 -> B-total

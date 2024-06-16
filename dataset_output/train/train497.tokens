@@ -1,0 +1,61 @@
+Servicios -> B-issuer_name
+Sureda -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Avenida -> B-issuer_address
+Bernardo -> I-issuer_address
+Perez -> I-issuer_address
+2 -> I-issuer_address
+Girona, -> I-issuer_address
+17322 -> I-issuer_address
++34946 083 527 -> B-issuer_phone
+manuela05@compania.com -> B-issuer_email
+oSb718Shp934 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Pepe -> B-recipient_name
+Bellido-Verdú -> I-recipient_name
+Ronda -> B-recipient_address
+Aitor -> I-recipient_address
+Osorio -> I-recipient_address
+6 -> I-recipient_address
+Badajoz, -> I-recipient_address
+49998 -> I-recipient_address
++34821 93 05 53 -> B-recipient_phone
+eduardo79@gmail.com -> B-recipient_email
+awM706Fkv219 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+843607 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-06 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+streamline transparent channels -> B-item_description
+52.50 -> B-item_unit_price
+105.00 -> B-item_total
+8 -> B-item_quantity
+generate strategic applications -> B-item_description
+20.26 -> B-item_unit_price
+162.08 -> B-item_total
+Subtotal -> O
+: -> O
+ 267.08 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+42.73 -> B-tax_amount
+TOTAL -> O
+: -> O
+309.81 -> B-total

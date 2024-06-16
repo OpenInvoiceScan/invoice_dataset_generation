@@ -1,0 +1,77 @@
+Invoice -> O
+453511 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-04 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-22 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Belda -> B-issuer_name
+y -> I-issuer_name
+Agustín -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+Azucena -> I-issuer_address
+Sánchez -> I-issuer_address
+2 -> I-issuer_address
+Piso -> I-issuer_address
+8 -> I-issuer_address
+Ourense, -> I-issuer_address
+35395 -> I-issuer_address
++34902 542 932 -> B-issuer_phone
+xluque@alimentacion.com -> B-issuer_email
+lij055rjV922 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Máxima -> B-recipient_name
+Ferrer -> I-recipient_name
+Zamorano -> I-recipient_name
+Glorieta -> B-recipient_address
+Pili -> I-recipient_address
+Perales -> I-recipient_address
+33 -> I-recipient_address
+Puerta -> I-recipient_address
+1 -> I-recipient_address
+Cantabria, -> I-recipient_address
+38043 -> I-recipient_address
++34988 37 87 22 -> B-recipient_phone
+lope42@yahoo.com -> B-recipient_email
+jdh115ttI633 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+generate e-business web services -> B-item_description
+8 -> B-item_quantity
+54.23 -> B-item_unit_price
+433.84 -> B-item_total
+target collaborative schemas -> B-item_description
+8 -> B-item_quantity
+88.45 -> B-item_unit_price
+707.60 -> B-item_total
+disintermediate customized content -> B-item_description
+4 -> B-item_quantity
+41.04 -> B-item_unit_price
+164.16 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1305.60 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+208.90 -> B-tax_amount
+Total -> O
+: -> O
+1514.50 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

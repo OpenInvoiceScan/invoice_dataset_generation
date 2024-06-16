@@ -1,0 +1,72 @@
+Factura -> O
+770534 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-04-27 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-27 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Hnos -> B-issuer_name
+Heras -> I-issuer_name
+S.Coop. -> I-issuer_name
+Avenida -> B-issuer_address
+de -> I-issuer_address
+Carolina -> I-issuer_address
+Ferrando -> I-issuer_address
+230 -> I-issuer_address
+Puerta -> I-issuer_address
+8 -> I-issuer_address
+Melilla, -> I-issuer_address
+42756 -> I-issuer_address
++34 900650475 -> B-issuer_phone
+cgarrido@compania.com -> B-issuer_email
+tKk306wiR862 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Íñigo -> B-recipient_name
+Rius -> I-recipient_name
+Machado -> I-recipient_name
+Via -> B-recipient_address
+de -> I-recipient_address
+Florina -> I-recipient_address
+Montero -> I-recipient_address
+639 -> I-recipient_address
+Albacete, -> I-recipient_address
+47064 -> I-recipient_address
++34 821 361 994 -> B-recipient_phone
+cadenasmaricela@hotmail.com -> B-recipient_email
+Afd003txB829 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+embrace rich technologies -> B-item_description
+8 -> B-item_quantity
+43.37 -> B-item_unit_price
+346.96 -> B-item_total
+Subtotal -> O
+ : -> O
+ 346.96 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+55.51 -> B-tax_amount
+Total -> O
+: -> O
+402.47 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

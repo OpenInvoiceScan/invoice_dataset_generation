@@ -1,0 +1,76 @@
+Inversiones -> B-issuer_name
+del -> I-issuer_name
+Levante -> I-issuer_name
+S.Coop. -> I-issuer_name
+Via -> B-issuer_address
+Daniel -> I-issuer_address
+Escudero -> I-issuer_address
+74 -> I-issuer_address
+Apt. -> I-issuer_address
+10 -> I-issuer_address
+Castellón, -> I-issuer_address
+14391 -> I-issuer_address
++34827 00 93 44 -> B-issuer_phone
+albinaescribano@ferreras.com -> B-issuer_email
+TOG209pHq707 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Felicidad -> B-recipient_name
+Prada -> I-recipient_name
+Tovar -> I-recipient_name
+Ronda -> B-recipient_address
+de -> I-recipient_address
+Jordán -> I-recipient_address
+Ibañez -> I-recipient_address
+65 -> I-recipient_address
+Lugo, -> I-recipient_address
+15646 -> I-recipient_address
++34 885 83 28 92 -> B-recipient_phone
+dcrespo@hotmail.com -> B-recipient_email
+Lns734FoO779 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+568787 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-30 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+visualize enterprise portals -> B-item_description
+11.95 -> B-item_unit_price
+59.75 -> B-item_total
+5 -> B-item_quantity
+disintermediate one-to-one experiences -> B-item_description
+90.28 -> B-item_unit_price
+451.40 -> B-item_total
+7 -> B-item_quantity
+implement robust applications -> B-item_description
+78.02 -> B-item_unit_price
+546.14 -> B-item_total
+8 -> B-item_quantity
+revolutionize dot-com portals -> B-item_description
+60.47 -> B-item_unit_price
+483.76 -> B-item_total
+5 -> B-item_quantity
+enable dot-com users -> B-item_description
+45.12 -> B-item_unit_price
+225.60 -> B-item_total
+Subtotal -> O
+: -> O
+ 1766.65 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+282.66 -> B-tax_amount
+TOTAL -> O
+: -> O
+2049.31 -> B-total

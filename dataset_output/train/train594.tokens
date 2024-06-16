@@ -1,0 +1,67 @@
+Invoice -> O
+969506 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-11 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-05 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Infraestructuras -> B-issuer_name
+Maza -> I-issuer_name
+S.C.P -> I-issuer_name
+Pasadizo -> B-issuer_address
+de -> I-issuer_address
+Josep -> I-issuer_address
+Arco -> I-issuer_address
+55 -> I-issuer_address
+Lugo, -> I-issuer_address
+30193 -> I-issuer_address
++34922 71 16 11 -> B-issuer_phone
+zmanuel@moles.com -> B-issuer_email
+Otq385sEX763 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Fabiola -> B-recipient_name
+Rovira -> I-recipient_name
+Bru -> I-recipient_name
+Ronda -> B-recipient_address
+de -> I-recipient_address
+Ceferino -> I-recipient_address
+Saura -> I-recipient_address
+384 -> I-recipient_address
+Puerta -> I-recipient_address
+7 -> I-recipient_address
+Lleida, -> I-recipient_address
+02716 -> I-recipient_address
++34 974514984 -> B-recipient_phone
+rosellmiguela@gmail.com -> B-recipient_email
+ewm259zRe371 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+strategize leading-edge methodologies -> B-item_description
+10 -> B-item_quantity
+76.15 -> B-item_unit_price
+761.50 -> B-item_total
+Subtotal -> O
+ : -> O
+ 761.50 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+121.84 -> B-tax_amount
+Total -> O
+: -> O
+883.34 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

@@ -1,0 +1,72 @@
+Invoice -> O
+842003 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-12 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-20 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Abascal -> B-issuer_name
+y -> I-issuer_name
+Quintanilla -> I-issuer_name
+S.Coop. -> I-issuer_name
+Plaza -> B-issuer_address
+Leocadia -> I-issuer_address
+Ariza -> I-issuer_address
+87 -> I-issuer_address
+Piso -> I-issuer_address
+7 -> I-issuer_address
+Granada, -> I-issuer_address
+41126 -> I-issuer_address
++34 902409939 -> B-issuer_phone
+blanchnidia@leon.es -> B-issuer_email
+DQC699KCG079 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Cloe -> B-recipient_name
+Checa -> I-recipient_name
+Vilanova -> I-recipient_name
+Cuesta -> B-recipient_address
+Bernardita -> I-recipient_address
+Bilbao -> I-recipient_address
+85 -> I-recipient_address
+Puerta -> I-recipient_address
+4 -> I-recipient_address
+Huesca, -> I-recipient_address
+45048 -> I-recipient_address
++34 811 414 261 -> B-recipient_phone
+marisolfranch@yahoo.com -> B-recipient_email
+PQn902gkL062 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+productize viral supply-chains -> B-item_description
+10 -> B-item_quantity
+54.28 -> B-item_unit_price
+542.80 -> B-item_total
+matrix one-to-one applications -> B-item_description
+9 -> B-item_quantity
+49.50 -> B-item_unit_price
+445.50 -> B-item_total
+Subtotal -> O
+ : -> O
+ 988.30 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+158.13 -> B-tax_amount
+Total -> O
+: -> O
+1146.43 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

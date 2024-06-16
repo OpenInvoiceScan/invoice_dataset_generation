@@ -1,0 +1,85 @@
+Factura -> O
+911243 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-25 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-08 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Suministros -> B-issuer_name
+Escudero -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Ronda -> B-issuer_address
+de -> I-issuer_address
+Teófila -> I-issuer_address
+Roda -> I-issuer_address
+1 -> I-issuer_address
+Puerta -> I-issuer_address
+3 -> I-issuer_address
+Sevilla, -> I-issuer_address
+41356 -> I-issuer_address
++34 928 59 70 27 -> B-issuer_phone
+capdevilaclaudia@transportes.com -> B-issuer_email
+VfR658xPA195 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Ovidio -> B-recipient_name
+Iglesia -> I-recipient_name
+Cepeda -> I-recipient_name
+Paseo -> B-recipient_address
+Edgardo -> I-recipient_address
+Villegas -> I-recipient_address
+366 -> I-recipient_address
+Segovia, -> I-recipient_address
+45912 -> I-recipient_address
++34 941 68 41 52 -> B-recipient_phone
+lozanopaca@yahoo.com -> B-recipient_email
+NyX041pDv325 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+repurpose real-time web services -> B-item_description
+8 -> B-item_quantity
+16.47 -> B-item_unit_price
+131.76 -> B-item_total
+iterate dynamic ROI -> B-item_description
+6 -> B-item_quantity
+35.58 -> B-item_unit_price
+213.48 -> B-item_total
+seize leading-edge paradigms -> B-item_description
+1 -> B-item_quantity
+69.63 -> B-item_unit_price
+69.63 -> B-item_total
+integrate B2C schemas -> B-item_description
+6 -> B-item_quantity
+62.21 -> B-item_unit_price
+373.26 -> B-item_total
+Subtotal -> O
+ : -> O
+ 788.13 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+126.10 -> B-tax_amount
+Total -> O
+: -> O
+914.23 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

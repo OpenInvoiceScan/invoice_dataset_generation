@@ -1,0 +1,71 @@
+Invoice -> O
+311894 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-23 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-03 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Gaspar -> B-issuer_name
+Figueras -> I-issuer_name
+Sánchez -> I-issuer_name
+S.Com. -> I-issuer_name
+Via -> B-issuer_address
+María -> I-issuer_address
+Aguilar -> I-issuer_address
+76 -> I-issuer_address
+Girona, -> I-issuer_address
+49392 -> I-issuer_address
++34924 676 425 -> B-issuer_phone
+mirtazamora@julie.es -> B-issuer_email
+pji730ylJ015 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Belén -> B-recipient_name
+Fanny -> I-recipient_name
+Marin -> I-recipient_name
+Haro -> I-recipient_name
+Pasadizo -> B-recipient_address
+Mateo -> I-recipient_address
+Pedraza -> I-recipient_address
+8 -> I-recipient_address
+Puerta -> I-recipient_address
+8 -> I-recipient_address
+Madrid, -> I-recipient_address
+48665 -> I-recipient_address
++34 948 032 452 -> B-recipient_phone
+juliaadan@hotmail.com -> B-recipient_email
+eCN300sGr895 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+monetize cross-platform experiences -> B-item_description
+1 -> B-item_quantity
+39.87 -> B-item_unit_price
+39.87 -> B-item_total
+reinvent dot-com supply-chains -> B-item_description
+2 -> B-item_quantity
+31.60 -> B-item_unit_price
+63.20 -> B-item_total
+Subtotal -> O
+ : -> O
+ 103.07 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+16.49 -> B-tax_amount
+Total -> O
+: -> O
+119.56 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

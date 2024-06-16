@@ -1,0 +1,77 @@
+Invoice -> O
+717355 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-21 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-29 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Consultoría -> B-issuer_name
+Acero -> I-issuer_name
+S.C.P -> I-issuer_name
+Paseo -> B-issuer_address
+de -> I-issuer_address
+Marianela -> I-issuer_address
+Trujillo -> I-issuer_address
+470 -> I-issuer_address
+Palencia, -> I-issuer_address
+03222 -> I-issuer_address
++34 973 66 60 91 -> B-issuer_phone
+fanny98@ruano.com -> B-issuer_email
+ePu153akP525 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Evangelina -> B-recipient_name
+Madrid -> I-recipient_name
+Pizarro -> I-recipient_name
+Cañada -> B-recipient_address
+de -> I-recipient_address
+Plinio -> I-recipient_address
+Abad -> I-recipient_address
+380 -> I-recipient_address
+Madrid, -> I-recipient_address
+29601 -> I-recipient_address
++34 874090800 -> B-recipient_phone
+olgapaez@gmail.com -> B-recipient_email
+oYP582xWG233 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+visualize innovative users -> B-item_description
+6 -> B-item_quantity
+97.77 -> B-item_unit_price
+586.62 -> B-item_total
+benchmark holistic functionalities -> B-item_description
+9 -> B-item_quantity
+97.03 -> B-item_unit_price
+873.27 -> B-item_total
+maximize front-end functionalities -> B-item_description
+7 -> B-item_quantity
+21.55 -> B-item_unit_price
+150.85 -> B-item_total
+redefine strategic vortals -> B-item_description
+10 -> B-item_quantity
+31.62 -> B-item_unit_price
+316.20 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1926.94 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+308.31 -> B-tax_amount
+Total -> O
+: -> O
+2235.25 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

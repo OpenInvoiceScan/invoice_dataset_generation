@@ -1,0 +1,44 @@
+{
+  "invoice_id": 515669,
+  "issue_date": "2024-04-26",
+  "due_date": "2024-06-03",
+  "issuer": {
+    "name": "Instalaciones Cerro S.L.",
+    "address": "Callej\u00f3n Adolfo Mir 9 Piso 9 \nMadrid, 04639",
+    "phone": "+34942830174",
+    "email": "narciso33@inversiones.com",
+    "tax_id": "xcZ717sgw885"
+  },
+  "recipient": {
+    "name": "Pelayo Cifuentes Ni\u00f1o",
+    "address": "Pasadizo de Pepita Barriga 850 Apt. 35 \nLugo, 40679",
+    "phone": "+34 825431618",
+    "email": "prius@hotmail.com",
+    "tax_id": "Wpc847HGH935"
+  },
+  "items": [
+    {
+      "description": "generate best-of-breed web-readiness",
+      "quantity": 3,
+      "unit_price": "87.77",
+      "total": "263.31"
+    },
+    {
+      "description": "aggregate user-centric e-services",
+      "quantity": 4,
+      "unit_price": "67.95",
+      "total": "271.80"
+    }
+  ],
+  "subtotal": "535.11",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "85.62"
+    }
+  ],
+  "total": "620.73",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

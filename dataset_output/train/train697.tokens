@@ -1,0 +1,59 @@
+Restauración -> B-issuer_name
+del -> I-issuer_name
+Norte -> I-issuer_name
+S.A. -> I-issuer_name
+Vial -> B-issuer_address
+de -> I-issuer_address
+Epifanio -> I-issuer_address
+Torre -> I-issuer_address
+3 -> I-issuer_address
+Las -> I-issuer_address
+Palmas, -> I-issuer_address
+39337 -> I-issuer_address
++34 975 45 85 39 -> B-issuer_phone
+dionisiavilaplana@hnos.es -> B-issuer_email
+JHF508pUI532 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Ulises -> B-recipient_name
+Nicolás -> I-recipient_name
+Gámez -> I-recipient_name
+Glorieta -> B-recipient_address
+Roberta -> I-recipient_address
+Sabater -> I-recipient_address
+8 -> I-recipient_address
+Ávila, -> I-recipient_address
+19699 -> I-recipient_address
++34 847 281 670 -> B-recipient_phone
+llanocandida@yahoo.com -> B-recipient_email
+tnK389kAZ233 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+514158 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-07 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+integrate leading-edge e-markets -> B-item_description
+17.78 -> B-item_unit_price
+106.68 -> B-item_total
+Subtotal -> O
+: -> O
+ 106.68 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+17.07 -> B-tax_amount
+TOTAL -> O
+: -> O
+123.75 -> B-total

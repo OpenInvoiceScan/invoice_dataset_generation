@@ -1,0 +1,72 @@
+Oliveras -> B-issuer_name
+y -> I-issuer_name
+Montoya -> I-issuer_name
+S.L. -> I-issuer_name
+Plaza -> B-issuer_address
+Alejandro -> I-issuer_address
+Hervás -> I-issuer_address
+50 -> I-issuer_address
+Cádiz, -> I-issuer_address
+41771 -> I-issuer_address
++34712267163 -> B-issuer_phone
+gisela78@restauracion.com -> B-issuer_email
+uaG839Zjx615 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Águeda -> B-recipient_name
+Sebastián -> I-recipient_name
+Valcárcel -> I-recipient_name
+Glorieta -> B-recipient_address
+Maximiliano -> I-recipient_address
+Andres -> I-recipient_address
+74 -> I-recipient_address
+Burgos, -> I-recipient_address
+27548 -> I-recipient_address
++34844 270 197 -> B-recipient_phone
+erasmo53@yahoo.com -> B-recipient_email
+HCN423SJe878 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+452016 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-21 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+strategize viral mindshare -> B-item_description
+58.43 -> B-item_unit_price
+525.87 -> B-item_total
+5 -> B-item_quantity
+visualize robust content -> B-item_description
+79.33 -> B-item_unit_price
+396.65 -> B-item_total
+9 -> B-item_quantity
+re-contextualize clicks-and-mortar convergence -> B-item_description
+27.15 -> B-item_unit_price
+244.35 -> B-item_total
+9 -> B-item_quantity
+iterate sticky networks -> B-item_description
+84.02 -> B-item_unit_price
+756.18 -> B-item_total
+6 -> B-item_quantity
+utilize visionary e-markets -> B-item_description
+89.20 -> B-item_unit_price
+535.20 -> B-item_total
+Subtotal -> O 
+: -> O
+ 2458.25 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+393.32 -> B-tax_amount
+TOTAL -> O
+: -> O
+2851.57 -> B-total

@@ -1,0 +1,72 @@
+Redondo -> B-issuer_name
+y -> I-issuer_name
+Cuesta -> I-issuer_name
+S.L. -> I-issuer_name
+Via -> B-issuer_address
+Sabas -> I-issuer_address
+Uría -> I-issuer_address
+19 -> I-issuer_address
+Cáceres, -> I-issuer_address
+30285 -> I-issuer_address
++34 878649430 -> B-issuer_phone
+donatouribe@crescencia.com -> B-issuer_email
+Fwl461aNt808 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Bárbara -> B-recipient_name
+Corona -> I-recipient_name
+Ayala -> I-recipient_name
+Santamaria -> I-recipient_name
+Alameda -> B-recipient_address
+Charo -> I-recipient_address
+Poza -> I-recipient_address
+65 -> I-recipient_address
+Apt. -> I-recipient_address
+79 -> I-recipient_address
+La -> I-recipient_address
+Rioja, -> I-recipient_address
+19851 -> I-recipient_address
++34 975823019 -> B-recipient_phone
+inigo18@gmail.com -> B-recipient_email
+CeW456Glg479 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+273387 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-06 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+architect robust e-services -> B-item_description
+35.42 -> B-item_unit_price
+212.52 -> B-item_total
+1 -> B-item_quantity
+streamline frictionless mindshare -> B-item_description
+77.59 -> B-item_unit_price
+77.59 -> B-item_total
+3 -> B-item_quantity
+facilitate efficient web-readiness -> B-item_description
+45.67 -> B-item_unit_price
+137.01 -> B-item_total
+10 -> B-item_quantity
+engineer world-class e-commerce -> B-item_description
+82.77 -> B-item_unit_price
+827.70 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1254.82 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+200.77 -> B-tax_amount
+TOTAL -> O
+: -> O
+1455.59 -> B-total

@@ -1,0 +1,64 @@
+Fábrica -> B-issuer_name
+FPP -> I-issuer_name
+S.Coop. -> I-issuer_name
+C. -> B-issuer_address
+Wilfredo -> I-issuer_address
+Blanca -> I-issuer_address
+5 -> I-issuer_address
+Madrid, -> I-issuer_address
+17368 -> I-issuer_address
++34 886631914 -> B-issuer_phone
+bautistagriselda@chita.es -> B-issuer_email
+XcY995yxo795 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Chita -> B-recipient_name
+Pujol -> I-recipient_name
+Costa -> I-recipient_name
+Cañada -> B-recipient_address
+de -> I-recipient_address
+Hermenegildo -> I-recipient_address
+Matas -> I-recipient_address
+71 -> I-recipient_address
+Zamora, -> I-recipient_address
+09023 -> I-recipient_address
++34883 658 802 -> B-recipient_phone
+ocastell@yahoo.com -> B-recipient_email
+PLO548oke983 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+520210 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-19 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+strategize innovative systems -> B-item_description
+53.69 -> B-item_unit_price
+322.14 -> B-item_total
+9 -> B-item_quantity
+redefine real-time web services -> B-item_description
+50.97 -> B-item_unit_price
+458.73 -> B-item_total
+8 -> B-item_quantity
+grow visionary communities -> B-item_description
+51.76 -> B-item_unit_price
+414.08 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1194.95 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+191.19 -> B-tax_amount
+TOTAL -> O
+: -> O
+1386.14 -> B-total

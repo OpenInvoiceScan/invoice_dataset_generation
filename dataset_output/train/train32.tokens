@@ -1,0 +1,62 @@
+Consultoría -> B-issuer_name
+Calzada -> I-issuer_name
+S.Coop. -> I-issuer_name
+Pasaje -> B-issuer_address
+Abel -> I-issuer_address
+Osorio -> I-issuer_address
+3 -> I-issuer_address
+Guipúzcoa, -> I-issuer_address
+52039 -> I-issuer_address
++34 941067190 -> B-issuer_phone
+viviana94@hnos.net -> B-issuer_email
+bLu499ajd117 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Ximena -> B-recipient_name
+Bernad -> I-recipient_name
+Callejón -> B-recipient_address
+Óscar -> I-recipient_address
+Pujol -> I-recipient_address
+34 -> I-recipient_address
+Melilla, -> I-recipient_address
+25398 -> I-recipient_address
++34886 919 193 -> B-recipient_phone
+ocanajoaquin@hotmail.com -> B-recipient_email
+xTR391YmJ239 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+49251 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-01 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+deliver turn-key architectures -> B-item_description
+86.52 -> B-item_unit_price
+173.04 -> B-item_total
+6 -> B-item_quantity
+empower magnetic content -> B-item_description
+87.89 -> B-item_unit_price
+527.34 -> B-item_total
+1 -> B-item_quantity
+productize proactive portals -> B-item_description
+66.21 -> B-item_unit_price
+66.21 -> B-item_total
+Subtotal -> O 
+: -> O
+ 766.59 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+122.65 -> B-tax_amount
+TOTAL -> O
+: -> O
+889.24 -> B-total

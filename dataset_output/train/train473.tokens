@@ -1,0 +1,59 @@
+Inversiones -> B-issuer_name
+Cabeza -> I-issuer_name
+S.A. -> I-issuer_name
+Pasadizo -> B-issuer_address
+Eugenia -> I-issuer_address
+Mate -> I-issuer_address
+578 -> I-issuer_address
+Puerta -> I-issuer_address
+2 -> I-issuer_address
+Huesca, -> I-issuer_address
+19261 -> I-issuer_address
++34725 56 20 32 -> B-issuer_phone
+gutierrezisaura@servicios.com -> B-issuer_email
+WTT595eHO429 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Armando -> B-recipient_name
+Corominas -> I-recipient_name
+Aguiló -> I-recipient_name
+Ronda -> B-recipient_address
+de -> I-recipient_address
+Calisto -> I-recipient_address
+Torrent -> I-recipient_address
+46 -> I-recipient_address
+Asturias, -> I-recipient_address
+22716 -> I-recipient_address
++34 800457799 -> B-recipient_phone
+antoniamaestre@hotmail.com -> B-recipient_email
+RYf172QMW317 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+493812 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-24 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+seize innovative ROI -> B-item_description
+91.09 -> B-item_unit_price
+546.54 -> B-item_total
+Subtotal -> O
+: -> O
+ 546.54 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+87.45 -> B-tax_amount
+TOTAL -> O
+: -> O
+633.99 -> B-total

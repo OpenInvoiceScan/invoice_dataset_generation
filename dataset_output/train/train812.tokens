@@ -1,0 +1,82 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+JXV864iPN194 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 851 631 101 -> B-recipient_phone
+Nombre -> O
+: -> O
+Nilo -> B-recipient_name
+Segarra -> I-recipient_name
+Cuéllar -> I-recipient_name
+Correo -> O
+: -> O
+santos32@gmail.com -> B-recipient_email
+Plaza -> B-recipient_address
+de -> I-recipient_address
+Ligia -> I-recipient_address
+Arnau -> I-recipient_address
+1 -> I-recipient_address
+Castellón, -> I-recipient_address
+24388 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+109041 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-16 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+extend frictionless networks -> B-item_description
+4 -> B-item_quantity
+276.96 -> B-item_total
+generate compelling convergence -> B-item_description
+8 -> B-item_quantity
+618.72 -> B-item_total
+Subtotal -> O
+ : -> O
+ 895.68 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+143.31 -> B-tax_amount
+TOTAL -> O
+: -> O
+1038.99 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+Oht134gRa555 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 911254043 -> B-issuer_phone
+Nombre -> O
+: -> O
+Fabio -> B-issuer_name
+Moliner -> I-issuer_name
+Hervás -> I-issuer_name
+S.L. -> I-issuer_name
+Correo -> O
+: -> O
+xarana@sales.es -> B-issuer_email
+Vial -> B-issuer_address
+Segismundo -> I-issuer_address
+Peinado -> I-issuer_address
+646 -> I-issuer_address
+Lugo, -> I-issuer_address
+25642 -> I-issuer_address

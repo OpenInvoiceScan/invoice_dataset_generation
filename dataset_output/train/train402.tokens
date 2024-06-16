@@ -1,0 +1,81 @@
+Invoice -> O
+986018 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-11 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-13 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Construcción -> B-issuer_name
+Revilla -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Vial -> B-issuer_address
+Ángeles -> I-issuer_address
+Galan -> I-issuer_address
+50 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Zaragoza, -> I-issuer_address
+51694 -> I-issuer_address
++34 877184331 -> B-issuer_phone
+imontana@ainara.org -> B-issuer_email
+Llh078XdV858 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Nazaret -> B-recipient_name
+Vergara -> I-recipient_name
+Villalba -> I-recipient_name
+Via -> B-recipient_address
+Graciana -> I-recipient_address
+Prieto -> I-recipient_address
+49 -> I-recipient_address
+Puerta -> I-recipient_address
+9 -> I-recipient_address
+Ávila, -> I-recipient_address
+21316 -> I-recipient_address
++34920682970 -> B-recipient_phone
+epaez@yahoo.com -> B-recipient_email
+XQD418Zpi776 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+unleash 24/365 users -> B-item_description
+4 -> B-item_quantity
+86.67 -> B-item_unit_price
+346.68 -> B-item_total
+brand mission-critical e-business -> B-item_description
+4 -> B-item_quantity
+76.68 -> B-item_unit_price
+306.72 -> B-item_total
+engage global partnerships -> B-item_description
+4 -> B-item_quantity
+45.24 -> B-item_unit_price
+180.96 -> B-item_total
+e-enable B2B applications -> B-item_description
+10 -> B-item_quantity
+70.69 -> B-item_unit_price
+706.90 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1541.26 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+246.60 -> B-tax_amount
+Total -> O
+: -> O
+1787.86 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

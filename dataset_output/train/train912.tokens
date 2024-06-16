@@ -1,0 +1,61 @@
+Grupo -> B-issuer_name
+Sanmiguel -> I-issuer_name
+S.Com. -> I-issuer_name
+Camino -> B-issuer_address
+Augusto -> I-issuer_address
+Donoso -> I-issuer_address
+79 -> I-issuer_address
+Piso -> I-issuer_address
+0 -> I-issuer_address
+Baleares, -> I-issuer_address
+37048 -> I-issuer_address
++34 975 822 458 -> B-issuer_phone
+tbejarano@hnos.com -> B-issuer_email
+xmi507Scg837 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Tomás -> B-recipient_name
+Pineda -> I-recipient_name
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Aránzazu -> I-recipient_address
+Verdugo -> I-recipient_address
+63 -> I-recipient_address
+Girona, -> I-recipient_address
+43072 -> I-recipient_address
++34947 216 639 -> B-recipient_phone
+guillenlupe@hotmail.com -> B-recipient_email
+iqP736CIS536 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+751446 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-15 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+expedite back-end experiences -> B-item_description
+90.20 -> B-item_unit_price
+721.60 -> B-item_total
+7 -> B-item_quantity
+utilize impactful infrastructures -> B-item_description
+46.50 -> B-item_unit_price
+325.50 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1047.10 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+167.54 -> B-tax_amount
+TOTAL -> O
+: -> O
+1214.64 -> B-total

@@ -1,0 +1,70 @@
+Invoice -> O
+76866 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-04-28 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-04 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Arana -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Plaza -> B-issuer_address
+de -> I-issuer_address
+Valentín -> I-issuer_address
+Estrada -> I-issuer_address
+40 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Barcelona, -> I-issuer_address
+15295 -> I-issuer_address
++34 807633706 -> B-issuer_phone
+dulcemanuel@hermanos.es -> B-issuer_email
+OFI108xbi545 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Iker -> B-recipient_name
+del -> I-recipient_name
+Cerro -> I-recipient_name
+Avenida -> B-recipient_address
+de -> I-recipient_address
+Flavio -> I-recipient_address
+Dueñas -> I-recipient_address
+7 -> I-recipient_address
+Puerta -> I-recipient_address
+7 -> I-recipient_address
+Melilla, -> I-recipient_address
+49576 -> I-recipient_address
++34 972099924 -> B-recipient_phone
+carneronieves@hotmail.com -> B-recipient_email
+iFa685OOb909 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+envisioneer turn-key convergence -> B-item_description
+3 -> B-item_quantity
+61.96 -> B-item_unit_price
+185.88 -> B-item_total
+Subtotal -> O
+ : -> O
+ 185.88 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+29.74 -> B-tax_amount
+Total -> O
+: -> O
+215.62 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

@@ -1,0 +1,65 @@
+Invoice -> O
+227919 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-19 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-13 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Comercial -> B-issuer_name
+Españolas -> I-issuer_name
+S.L.L. -> I-issuer_name
+Ronda -> B-issuer_address
+Gil -> I-issuer_address
+Gibert -> I-issuer_address
+86 -> I-issuer_address
+Puerta -> I-issuer_address
+6 -> I-issuer_address
+Teruel, -> I-issuer_address
+19525 -> I-issuer_address
++34 946146462 -> B-issuer_phone
+nagusti@despacho.es -> B-issuer_email
+Pmv823GhR417 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Rubén -> B-recipient_name
+del -> I-recipient_name
+Vélez -> I-recipient_name
+Cuesta -> B-recipient_address
+Marco -> I-recipient_address
+Vera -> I-recipient_address
+701 -> I-recipient_address
+Vizcaya, -> I-recipient_address
+34999 -> I-recipient_address
++34827085593 -> B-recipient_phone
+vilarlope@gmail.com -> B-recipient_email
+wCX284prA480 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+evolve B2B e-markets -> B-item_description
+1 -> B-item_quantity
+21.76 -> B-item_unit_price
+21.76 -> B-item_total
+Subtotal -> O
+ : -> O
+ 21.76 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+3.48 -> B-tax_amount
+Total -> O
+: -> O
+25.24 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

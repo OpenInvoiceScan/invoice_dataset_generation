@@ -1,0 +1,81 @@
+Factura -> O
+620340 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-25 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-28 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Finanzas -> B-issuer_name
+Galán -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Rambla -> B-issuer_address
+de -> I-issuer_address
+Casemiro -> I-issuer_address
+Agustín -> I-issuer_address
+86 -> I-issuer_address
+Lugo, -> I-issuer_address
+16757 -> I-issuer_address
++34846 48 80 25 -> B-issuer_phone
+aranzazu64@carina.es -> B-issuer_email
+Itu954pkp492 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Elisa -> B-recipient_name
+Aramburu -> I-recipient_name
+Fuertes -> I-recipient_name
+Alameda -> B-recipient_address
+de -> I-recipient_address
+Feliciana -> I-recipient_address
+Manjón -> I-recipient_address
+32 -> I-recipient_address
+Piso -> I-recipient_address
+2 -> I-recipient_address
+Santa -> I-recipient_address
+Cruz -> I-recipient_address
+de -> I-recipient_address
+Tenerife, -> I-recipient_address
+05968 -> I-recipient_address
++34 943733351 -> B-recipient_phone
+jenaro83@gmail.com -> B-recipient_email
+McF159GBY659 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+mesh global niches -> B-item_description
+10 -> B-item_quantity
+69.27 -> B-item_unit_price
+692.70 -> B-item_total
+morph bleeding-edge web-readiness -> B-item_description
+8 -> B-item_quantity
+76.94 -> B-item_unit_price
+615.52 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1308.22 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+209.32 -> B-tax_amount
+Total -> O
+: -> O
+1517.54 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

@@ -1,0 +1,76 @@
+Invoice -> O
+18390 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-25 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-02 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Transportes -> B-issuer_name
+FU -> I-issuer_name
+S.L. -> I-issuer_name
+Via -> B-issuer_address
+Ángeles -> I-issuer_address
+Carballo -> I-issuer_address
+62 -> I-issuer_address
+Zaragoza, -> I-issuer_address
+36268 -> I-issuer_address
++34 857 15 91 28 -> B-issuer_phone
+qcodina@hotel.net -> B-issuer_email
+sCa479nWl343 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Wilfredo -> B-recipient_name
+Collado -> I-recipient_name
+Palomo -> I-recipient_name
+Rambla -> B-recipient_address
+de -> I-recipient_address
+Salomón -> I-recipient_address
+Borrás -> I-recipient_address
+55 -> I-recipient_address
+Zaragoza, -> I-recipient_address
+26698 -> I-recipient_address
++34 927 32 16 89 -> B-recipient_phone
+maribel03@yahoo.com -> B-recipient_email
+jKk139Wer863 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+grow vertical niches -> B-item_description
+1 -> B-item_quantity
+60.91 -> B-item_unit_price
+60.91 -> B-item_total
+disintermediate magnetic e-tailers -> B-item_description
+4 -> B-item_quantity
+90.56 -> B-item_unit_price
+362.24 -> B-item_total
+incubate efficient initiatives -> B-item_description
+8 -> B-item_quantity
+91.40 -> B-item_unit_price
+731.20 -> B-item_total
+implement virtual eyeballs -> B-item_description
+8 -> B-item_quantity
+64.78 -> B-item_unit_price
+518.24 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1672.59 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+267.61 -> B-tax_amount
+Total -> O
+: -> O
+1940.20 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

@@ -1,0 +1,76 @@
+Invoice -> O
+710830 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-17 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-09 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Chucho -> B-issuer_name
+Molina -> I-issuer_name
+Mayo -> I-issuer_name
+S.A. -> I-issuer_name
+Pasadizo -> B-issuer_address
+de -> I-issuer_address
+Chus -> I-issuer_address
+Recio -> I-issuer_address
+124 -> I-issuer_address
+Valladolid, -> I-issuer_address
+48380 -> I-issuer_address
++34986466422 -> B-issuer_phone
+omarino@hermanos.com -> B-issuer_email
+rje474zrl142 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Alejo -> B-recipient_name
+Dalmau -> I-recipient_name
+Carbajo -> I-recipient_name
+Plaza -> B-recipient_address
+de -> I-recipient_address
+Sabas -> I-recipient_address
+Garay -> I-recipient_address
+72 -> I-recipient_address
+Piso -> I-recipient_address
+7 -> I-recipient_address
+Cantabria, -> I-recipient_address
+05108 -> I-recipient_address
++34 873 778 057 -> B-recipient_phone
+pradatadeo@yahoo.com -> B-recipient_email
+gRf849Bey744 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+strategize integrated interfaces -> B-item_description
+9 -> B-item_quantity
+31.11 -> B-item_unit_price
+279.99 -> B-item_total
+monetize end-to-end relationships -> B-item_description
+3 -> B-item_quantity
+31.72 -> B-item_unit_price
+95.16 -> B-item_total
+revolutionize end-to-end e-tailers -> B-item_description
+7 -> B-item_quantity
+98.80 -> B-item_unit_price
+691.60 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1066.75 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+170.68 -> B-tax_amount
+Total -> O
+: -> O
+1237.43 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

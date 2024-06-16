@@ -1,0 +1,66 @@
+Alimentación -> B-issuer_name
+Iberia -> I-issuer_name
+S.Com. -> I-issuer_name
+Acceso -> B-issuer_address
+Ana -> I-issuer_address
+Belén -> I-issuer_address
+Rojas -> I-issuer_address
+938 -> I-issuer_address
+Ciudad, -> I-issuer_address
+47509 -> I-issuer_address
++34841 034 162 -> B-issuer_phone
+amayasegarra@inmobiliaria.es -> B-issuer_email
+OIw253HEG028 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Bernardino -> B-recipient_name
+Losa -> I-recipient_name
+Baeza -> I-recipient_name
+Urbanización -> B-recipient_address
+de -> I-recipient_address
+Florencio -> I-recipient_address
+Tapia -> I-recipient_address
+69 -> I-recipient_address
+Toledo, -> I-recipient_address
+15670 -> I-recipient_address
++34806939928 -> B-recipient_phone
+canalesbernabe@gmail.com -> B-recipient_email
+ndY686fXH286 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+409048 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-08 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+repurpose ubiquitous schemas -> B-item_description
+91.51 -> B-item_unit_price
+640.57 -> B-item_total
+10 -> B-item_quantity
+deliver out-of-the-box web services -> B-item_description
+37.53 -> B-item_unit_price
+375.30 -> B-item_total
+3 -> B-item_quantity
+scale value-added e-commerce -> B-item_description
+51.41 -> B-item_unit_price
+154.23 -> B-item_total
+Subtotal -> O
+: -> O
+ 1170.10 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+187.22 -> B-tax_amount
+TOTAL -> O
+: -> O
+1357.32 -> B-total

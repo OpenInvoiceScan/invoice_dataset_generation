@@ -1,0 +1,76 @@
+Despacho -> B-issuer_name
+Inteligentes -> I-issuer_name
+S.L.L. -> I-issuer_name
+Vial -> B-issuer_address
+de -> I-issuer_address
+Adriana -> I-issuer_address
+Santamaria -> I-issuer_address
+529 -> I-issuer_address
+Segovia, -> I-issuer_address
+04869 -> I-issuer_address
++34 841226597 -> B-issuer_phone
+esmeralda51@comercializadora.com -> B-issuer_email
+jov908wNc086 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Olegario -> B-recipient_name
+Navarrete -> I-recipient_name
+Aguilar -> I-recipient_name
+Urbanización -> B-recipient_address
+de -> I-recipient_address
+Alba -> I-recipient_address
+Carbó -> I-recipient_address
+3 -> I-recipient_address
+Puerta -> I-recipient_address
+2 -> I-recipient_address
+Segovia, -> I-recipient_address
+40936 -> I-recipient_address
++34877 425 240 -> B-recipient_phone
+emilia39@yahoo.com -> B-recipient_email
+TiT144bdg838 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+720581 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-02 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+utilize robust e-services -> B-item_description
+83.97 -> B-item_unit_price
+839.70 -> B-item_total
+7 -> B-item_quantity
+strategize revolutionary paradigms -> B-item_description
+20.27 -> B-item_unit_price
+141.89 -> B-item_total
+8 -> B-item_quantity
+utilize cutting-edge channels -> B-item_description
+20.54 -> B-item_unit_price
+164.32 -> B-item_total
+6 -> B-item_quantity
+benchmark front-end synergies -> B-item_description
+87.33 -> B-item_unit_price
+523.98 -> B-item_total
+6 -> B-item_quantity
+embrace bleeding-edge e-business -> B-item_description
+30.96 -> B-item_unit_price
+185.76 -> B-item_total
+Subtotal -> O
+: -> O
+ 1855.65 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+296.90 -> B-tax_amount
+TOTAL -> O
+: -> O
+2152.55 -> B-total

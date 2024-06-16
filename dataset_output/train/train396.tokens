@@ -1,0 +1,87 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+nqx274lEr753 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 977 887 512 -> B-recipient_phone
+Nombre -> O
+: -> O
+Jose -> B-recipient_name
+Antonio -> I-recipient_name
+Barba -> I-recipient_name
+Villalobos -> I-recipient_name
+Correo -> O
+: -> O
+querolflorencia@yahoo.com -> B-recipient_email
+Camino -> B-recipient_address
+Isidora -> I-recipient_address
+Mesa -> I-recipient_address
+65 -> I-recipient_address
+Apt. -> I-recipient_address
+08 -> I-recipient_address
+Cádiz, -> I-recipient_address
+03329 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+330426 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-09 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+expedite visionary ROI -> B-item_description
+8 -> B-item_quantity
+446.16 -> B-item_total
+aggregate vertical convergence -> B-item_description
+3 -> B-item_quantity
+251.52 -> B-item_total
+Subtotal -> O
+ : -> O
+ 697.68 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+111.63 -> B-tax_amount
+TOTAL -> O
+: -> O
+809.31 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+iOy120UjI584 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 741 30 59 17 -> B-issuer_phone
+Nombre -> O
+: -> O
+Perlita -> B-issuer_name
+Vendrell -> I-issuer_name
+Valdés -> I-issuer_name
+S.Coop. -> I-issuer_name
+Correo -> O
+: -> O
+mauriciolaguna@sobrino.es -> B-issuer_email
+Rambla -> B-issuer_address
+de -> I-issuer_address
+Nacho -> I-issuer_address
+Rivas -> I-issuer_address
+4 -> I-issuer_address
+Apt. -> I-issuer_address
+54 -> I-issuer_address
+Málaga, -> I-issuer_address
+17944 -> I-issuer_address

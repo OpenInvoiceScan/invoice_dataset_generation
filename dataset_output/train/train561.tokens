@@ -1,0 +1,77 @@
+Promociones -> B-issuer_name
+Valbuena -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L. -> I-issuer_name
+Paseo -> B-issuer_address
+Susana -> I-issuer_address
+Elías -> I-issuer_address
+85 -> I-issuer_address
+Zamora, -> I-issuer_address
+16288 -> I-issuer_address
++34 844 61 68 93 -> B-issuer_phone
+jpalmer@nevado.net -> B-issuer_email
+wJb885odL137 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Lourdes -> B-recipient_name
+Isidora -> I-recipient_name
+Arranz -> I-recipient_name
+Blázquez -> I-recipient_name
+Via -> B-recipient_address
+de -> I-recipient_address
+Crescencia -> I-recipient_address
+Alonso -> I-recipient_address
+2 -> I-recipient_address
+Piso -> I-recipient_address
+8 -> I-recipient_address
+Santa -> I-recipient_address
+Cruz -> I-recipient_address
+de -> I-recipient_address
+Tenerife, -> I-recipient_address
+06129 -> I-recipient_address
++34879 540 277 -> B-recipient_phone
+fperello@hotmail.com -> B-recipient_email
+tDO039STE782 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+95402 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-06 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+strategize interactive eyeballs -> B-item_description
+31.52 -> B-item_unit_price
+189.12 -> B-item_total
+1 -> B-item_quantity
+scale frictionless technologies -> B-item_description
+43.89 -> B-item_unit_price
+43.89 -> B-item_total
+2 -> B-item_quantity
+cultivate front-end e-business -> B-item_description
+27.64 -> B-item_unit_price
+55.28 -> B-item_total
+2 -> B-item_quantity
+mesh innovative users -> B-item_description
+41.99 -> B-item_unit_price
+83.98 -> B-item_total
+Subtotal -> O
+: -> O
+ 372.27 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+59.56 -> B-tax_amount
+TOTAL -> O
+: -> O
+431.83 -> B-total

@@ -1,0 +1,66 @@
+Cleto -> B-issuer_name
+Tormo -> I-issuer_name
+Rocamora -> I-issuer_name
+S.A. -> I-issuer_name
+C. -> B-issuer_address
+Bernardino -> I-issuer_address
+Vendrell -> I-issuer_address
+62 -> I-issuer_address
+Málaga, -> I-issuer_address
+27178 -> I-issuer_address
++34880 06 31 54 -> B-issuer_phone
+elpidio34@fabrica.net -> B-issuer_email
+xUl518qSh417 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Priscila -> B-recipient_name
+Torrents -> I-recipient_name
+Olivera -> I-recipient_name
+Glorieta -> B-recipient_address
+Rosenda -> I-recipient_address
+Cervantes -> I-recipient_address
+8 -> I-recipient_address
+Apt. -> I-recipient_address
+91 -> I-recipient_address
+León, -> I-recipient_address
+43017 -> I-recipient_address
++34 825 569 942 -> B-recipient_phone
+lcal@yahoo.com -> B-recipient_email
+Dll462nuz683 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+925272 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-23 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+disintermediate virtual vortals -> B-item_description
+37.40 -> B-item_unit_price
+74.80 -> B-item_total
+9 -> B-item_quantity
+leverage compelling portals -> B-item_description
+42.61 -> B-item_unit_price
+383.49 -> B-item_total
+9 -> B-item_quantity
+revolutionize turn-key systems -> B-item_description
+53.36 -> B-item_unit_price
+480.24 -> B-item_total
+Subtotal -> O 
+: -> O
+ 938.53 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+150.16 -> B-tax_amount
+TOTAL -> O
+: -> O
+1088.69 -> B-total

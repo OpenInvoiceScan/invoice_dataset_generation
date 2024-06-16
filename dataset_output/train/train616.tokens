@@ -1,0 +1,69 @@
+Felicidad -> B-issuer_name
+Mercader -> I-issuer_name
+Osorio -> I-issuer_name
+S.Com. -> I-issuer_name
+Camino -> B-issuer_address
+de -> I-issuer_address
+Apolinar -> I-issuer_address
+Morante -> I-issuer_address
+8 -> I-issuer_address
+Apt. -> I-issuer_address
+77 -> I-issuer_address
+Alicante, -> I-issuer_address
+34427 -> I-issuer_address
++34 826 92 81 82 -> B-issuer_phone
+felicianomena@talleres.es -> B-issuer_email
+PKB464Svv447 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+América -> B-recipient_name
+Aguilera -> I-recipient_name
+Vélez -> I-recipient_name
+Camino -> B-recipient_address
+Tito -> I-recipient_address
+Aguilera -> I-recipient_address
+57 -> I-recipient_address
+Apt. -> I-recipient_address
+55 -> I-recipient_address
+Granada, -> I-recipient_address
+07526 -> I-recipient_address
++34 962687808 -> B-recipient_phone
+evitamartinez@gmail.com -> B-recipient_email
+ZYJ601GEw339 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+879710 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-04 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+exploit web-enabled experiences -> B-item_description
+48.26 -> B-item_unit_price
+482.60 -> B-item_total
+1 -> B-item_quantity
+unleash compelling eyeballs -> B-item_description
+94.36 -> B-item_unit_price
+94.36 -> B-item_total
+10 -> B-item_quantity
+unleash killer e-business -> B-item_description
+99.50 -> B-item_unit_price
+995.00 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1571.96 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+251.51 -> B-tax_amount
+TOTAL -> O
+: -> O
+1823.47 -> B-total

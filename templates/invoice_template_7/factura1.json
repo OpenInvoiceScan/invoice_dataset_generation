@@ -1,0 +1,62 @@
+{
+  "invoice_id": 139673,
+  "issue_date": "2024-05-02",
+  "due_date": "2024-06-04",
+  "issuer": {
+    "name": "Bilbao y Mosquera S.L.",
+    "address": "Via de Aureliano Nicolau 6\nValladolid, 10529",
+    "phone": "+34986401436",
+    "email": "molinsteodosio@manso.org",
+    "tax_id": "mPy169zYp613"
+  },
+  "recipient": {
+    "name": "Toni Cordero Luz",
+    "address": "Avenida de Sol Llano 1 Piso 5 \nToledo, 49506",
+    "phone": "+34988 81 86 21",
+    "email": "agudoxavier@yahoo.com",
+    "tax_id": "EEH377cFi860"
+  },
+  "items": [
+    {
+      "description": "target robust e-tailers",
+      "quantity": 6,
+      "unit_price": "45.04",
+      "total": "270.24"
+    },
+    {
+      "description": "repurpose killer mindshare",
+      "quantity": 9,
+      "unit_price": "49.94",
+      "total": "449.46"
+    },
+    {
+      "description": "morph revolutionary infrastructures",
+      "quantity": 1,
+      "unit_price": "94.90",
+      "total": "94.90"
+    },
+    {
+      "description": "engage wireless vortals",
+      "quantity": 8,
+      "unit_price": "73.28",
+      "total": "586.24"
+    },
+    {
+      "description": "architect transparent eyeballs",
+      "quantity": 9,
+      "unit_price": "36.40",
+      "total": "327.60"
+    }
+  ],
+  "subtotal": "1728.44",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "276.55"
+    }
+  ],
+  "total": "2004.99",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

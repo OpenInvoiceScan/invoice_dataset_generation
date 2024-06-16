@@ -1,0 +1,80 @@
+Invoice -> O
+458984 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-18 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-31 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Manufacturas -> B-issuer_name
+Frías -> I-issuer_name
+S.Coop. -> I-issuer_name
+Rambla -> B-issuer_address
+Claudia -> I-issuer_address
+Vilalta -> I-issuer_address
+12 -> I-issuer_address
+Apt. -> I-issuer_address
+86 -> I-issuer_address
+La -> I-issuer_address
+Coruña, -> I-issuer_address
+12408 -> I-issuer_address
++34 941 66 40 07 -> B-issuer_phone
+pedrosachus@susanita.es -> B-issuer_email
+uNS197yIn718 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Jacinto -> B-recipient_name
+Artemio -> I-recipient_name
+Muro -> I-recipient_name
+Bernat -> I-recipient_name
+Camino -> B-recipient_address
+de -> I-recipient_address
+Ariadna -> I-recipient_address
+Fajardo -> I-recipient_address
+27 -> I-recipient_address
+Girona, -> I-recipient_address
+21137 -> I-recipient_address
++34 863038397 -> B-recipient_phone
+pablotejedor@hotmail.com -> B-recipient_email
+mSg713tDc285 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+scale ubiquitous e-commerce -> B-item_description
+6 -> B-item_quantity
+98.73 -> B-item_unit_price
+592.38 -> B-item_total
+re-intermediate compelling portals -> B-item_description
+8 -> B-item_quantity
+46.85 -> B-item_unit_price
+374.80 -> B-item_total
+morph granular e-services -> B-item_description
+4 -> B-item_quantity
+56.77 -> B-item_unit_price
+227.08 -> B-item_total
+reinvent compelling systems -> B-item_description
+9 -> B-item_quantity
+51.52 -> B-item_unit_price
+463.68 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1657.94 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+265.27 -> B-tax_amount
+Total -> O
+: -> O
+1923.21 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

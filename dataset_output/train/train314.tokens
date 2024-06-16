@@ -1,0 +1,75 @@
+Invoice -> O
+880710 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-21 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-24 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Inversiones -> B-issuer_name
+Españolas -> I-issuer_name
+S.Com. -> I-issuer_name
+Camino -> B-issuer_address
+Angelita -> I-issuer_address
+Daza -> I-issuer_address
+30 -> I-issuer_address
+Alicante, -> I-issuer_address
+23900 -> I-issuer_address
++34956 875 462 -> B-issuer_phone
+teresaballester@almagro.es -> B-issuer_email
+NKM041atf265 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Hugo -> B-recipient_name
+del -> I-recipient_name
+Palomar -> I-recipient_name
+C. -> B-recipient_address
+Plinio -> I-recipient_address
+Solano -> I-recipient_address
+78 -> I-recipient_address
+Guipúzcoa, -> I-recipient_address
+05887 -> I-recipient_address
++34748463650 -> B-recipient_phone
+otorre@gmail.com -> B-recipient_email
+yyC740JXZ388 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+e-enable strategic infrastructures -> B-item_description
+8 -> B-item_quantity
+20.07 -> B-item_unit_price
+160.56 -> B-item_total
+mesh enterprise convergence -> B-item_description
+5 -> B-item_quantity
+78.10 -> B-item_unit_price
+390.50 -> B-item_total
+deliver innovative users -> B-item_description
+2 -> B-item_quantity
+46.57 -> B-item_unit_price
+93.14 -> B-item_total
+enable clicks-and-mortar niches -> B-item_description
+2 -> B-item_quantity
+13.54 -> B-item_unit_price
+27.08 -> B-item_total
+Subtotal -> O
+ : -> O
+ 671.28 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+107.40 -> B-tax_amount
+Total -> O
+: -> O
+778.68 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

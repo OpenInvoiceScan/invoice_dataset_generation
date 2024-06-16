@@ -1,0 +1,73 @@
+Invoice -> O
+86943 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-01 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-17 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Construcción -> B-issuer_name
+del -> I-issuer_name
+Norte -> I-issuer_name
+S.L.L. -> I-issuer_name
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+Sigfrido -> I-issuer_address
+Iglesias -> I-issuer_address
+82 -> I-issuer_address
+Burgos, -> I-issuer_address
+24971 -> I-issuer_address
++34847 760 260 -> B-issuer_phone
+jnavarro@hnos.es -> B-issuer_email
+hdL011ABN626 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Natanael -> B-recipient_name
+Porfirio -> I-recipient_name
+Checa -> I-recipient_name
+Arteaga -> I-recipient_name
+Pasaje -> B-recipient_address
+de -> I-recipient_address
+Elvira -> I-recipient_address
+Galván -> I-recipient_address
+9 -> I-recipient_address
+Puerta -> I-recipient_address
+6 -> I-recipient_address
+Madrid, -> I-recipient_address
+16513 -> I-recipient_address
++34 973 55 69 57 -> B-recipient_phone
+alberocasandra@hotmail.com -> B-recipient_email
+Yqh221kPz299 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+strategize compelling web services -> B-item_description
+8 -> B-item_quantity
+18.00 -> B-item_unit_price
+144.00 -> B-item_total
+implement turn-key interfaces -> B-item_description
+1 -> B-item_quantity
+80.29 -> B-item_unit_price
+80.29 -> B-item_total
+Subtotal -> O
+ : -> O
+ 224.29 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+35.89 -> B-tax_amount
+Total -> O
+: -> O
+260.18 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

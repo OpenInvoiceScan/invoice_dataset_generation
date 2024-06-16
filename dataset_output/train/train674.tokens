@@ -1,0 +1,75 @@
+Invoice -> O
+456893 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-10 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-07 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Industrias -> B-issuer_name
+Ferreras -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.A.T. -> I-issuer_name
+Cañada -> B-issuer_address
+de -> I-issuer_address
+Ruth -> I-issuer_address
+Miranda -> I-issuer_address
+718 -> I-issuer_address
+Puerta -> I-issuer_address
+3 -> I-issuer_address
+Granada, -> I-issuer_address
+17855 -> I-issuer_address
++34984 183 240 -> B-issuer_phone
+fcanet@grupo.es -> B-issuer_email
+LwF732tiR561 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Artemio -> B-recipient_name
+Doménech -> I-recipient_name
+Saez -> I-recipient_name
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Ignacia -> I-recipient_address
+Vallés -> I-recipient_address
+91 -> I-recipient_address
+Piso -> I-recipient_address
+1 -> I-recipient_address
+Cádiz, -> I-recipient_address
+41570 -> I-recipient_address
++34 974 895 388 -> B-recipient_phone
+maximinopomares@gmail.com -> B-recipient_email
+MKy509WUV830 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+aggregate dot-com web-readiness -> B-item_description
+3 -> B-item_quantity
+95.87 -> B-item_unit_price
+287.61 -> B-item_total
+target transparent methodologies -> B-item_description
+9 -> B-item_quantity
+22.46 -> B-item_unit_price
+202.14 -> B-item_total
+Subtotal -> O
+ : -> O
+ 489.75 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+78.36 -> B-tax_amount
+Total -> O
+: -> O
+568.11 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

@@ -1,0 +1,65 @@
+Familia -> B-issuer_name
+Parra -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Callejón -> B-issuer_address
+de -> I-issuer_address
+Chus -> I-issuer_address
+Morillo -> I-issuer_address
+1 -> I-issuer_address
+Madrid, -> I-issuer_address
+06884 -> I-issuer_address
++34975 74 11 34 -> B-issuer_phone
+miguel-angelbernal@wilfredo.es -> B-issuer_email
+sdo502oxN481 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Venceslás -> B-recipient_name
+Rafa -> I-recipient_name
+Mancebo -> I-recipient_name
+Iglesia -> I-recipient_name
+Glorieta -> B-recipient_address
+de -> I-recipient_address
+Amanda -> I-recipient_address
+Dominguez -> I-recipient_address
+12 -> I-recipient_address
+Puerta -> I-recipient_address
+2 -> I-recipient_address
+Guadalajara, -> I-recipient_address
+18108 -> I-recipient_address
++34820557258 -> B-recipient_phone
+araceli10@gmail.com -> B-recipient_email
+fTC671kkC858 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+356650 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-27 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+revolutionize sticky portals -> B-item_description
+67.00 -> B-item_unit_price
+335.00 -> B-item_total
+8 -> B-item_quantity
+maximize out-of-the-box web services -> B-item_description
+55.79 -> B-item_unit_price
+446.32 -> B-item_total
+Subtotal -> O
+: -> O
+ 781.32 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+125.01 -> B-tax_amount
+TOTAL -> O
+: -> O
+906.33 -> B-total

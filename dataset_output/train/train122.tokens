@@ -1,0 +1,65 @@
+Invoice -> O
+669232 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-07 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-14 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Inmobiliaria -> B-issuer_name
+ZJD -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Alameda -> B-issuer_address
+Narcisa -> I-issuer_address
+Rodrigo -> I-issuer_address
+52 -> I-issuer_address
+Apt. -> I-issuer_address
+72 -> I-issuer_address
+Soria, -> I-issuer_address
+39903 -> I-issuer_address
++34822 982 174 -> B-issuer_phone
+chavesmar@logistica.net -> B-issuer_email
+OZd998lxf092 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Eladio -> B-recipient_name
+Porras -> I-recipient_name
+Vicens -> I-recipient_name
+Glorieta -> B-recipient_address
+Obdulia -> I-recipient_address
+Pellicer -> I-recipient_address
+1 -> I-recipient_address
+Cuenca, -> I-recipient_address
+04347 -> I-recipient_address
++34623 33 33 99 -> B-recipient_phone
+angelinaandrade@gmail.com -> B-recipient_email
+ltC017bjQ442 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+enable bleeding-edge bandwidth -> B-item_description
+9 -> B-item_quantity
+85.53 -> B-item_unit_price
+769.77 -> B-item_total
+Subtotal -> O
+ : -> O
+ 769.77 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+123.16 -> B-tax_amount
+Total -> O
+: -> O
+892.93 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

@@ -1,0 +1,80 @@
+Invoice -> O
+690139 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-20 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-04 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Construcción -> B-issuer_name
+Zabaleta -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.A. -> I-issuer_name
+Acceso -> B-issuer_address
+Marc -> I-issuer_address
+Gallardo -> I-issuer_address
+52 -> I-issuer_address
+Lleida, -> I-issuer_address
+10853 -> I-issuer_address
++34886 27 34 05 -> B-issuer_phone
+alarconfernanda@zapata.net -> B-issuer_email
+nSh464cOF697 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Maxi -> B-recipient_name
+Sainz -> I-recipient_name
+Aller -> I-recipient_name
+Camino -> B-recipient_address
+de -> I-recipient_address
+Alicia -> I-recipient_address
+Jerez -> I-recipient_address
+1 -> I-recipient_address
+Piso -> I-recipient_address
+0 -> I-recipient_address
+León, -> I-recipient_address
+11918 -> I-recipient_address
++34 942 97 72 93 -> B-recipient_phone
+gracianacabezas@hotmail.com -> B-recipient_email
+EJJ404qQK177 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+extend cross-media channels -> B-item_description
+9 -> B-item_quantity
+98.76 -> B-item_unit_price
+888.84 -> B-item_total
+orchestrate bricks-and-clicks methodologies -> B-item_description
+7 -> B-item_quantity
+24.84 -> B-item_unit_price
+173.88 -> B-item_total
+envisioneer B2B bandwidth -> B-item_description
+8 -> B-item_quantity
+90.12 -> B-item_unit_price
+720.96 -> B-item_total
+cultivate 24/365 supply-chains -> B-item_description
+1 -> B-item_quantity
+78.57 -> B-item_unit_price
+78.57 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1862.25 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+297.96 -> B-tax_amount
+Total -> O
+: -> O
+2160.21 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

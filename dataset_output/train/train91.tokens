@@ -1,0 +1,82 @@
+Factura -> O
+332482 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-05 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-02 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Distribuciones -> B-issuer_name
+Cuéllar -> I-issuer_name
+S.L.L. -> I-issuer_name
+Via -> B-issuer_address
+Custodia -> I-issuer_address
+Vélez -> I-issuer_address
+4 -> I-issuer_address
+Huelva, -> I-issuer_address
+30484 -> I-issuer_address
++34 871 340 863 -> B-issuer_phone
+vallejoconsuelo@fabregat.com -> B-issuer_email
+CAF015IbM738 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Florinda -> B-recipient_name
+Tamarit -> I-recipient_name
+Galindo -> I-recipient_name
+Acceso -> B-recipient_address
+Úrsula -> I-recipient_address
+Fabregat -> I-recipient_address
+45 -> I-recipient_address
+Piso -> I-recipient_address
+1 -> I-recipient_address
+Melilla, -> I-recipient_address
+49028 -> I-recipient_address
++34885213544 -> B-recipient_phone
+erueda@yahoo.com -> B-recipient_email
+nuT219lHf723 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+syndicate world-class content -> B-item_description
+1 -> B-item_quantity
+96.48 -> B-item_unit_price
+96.48 -> B-item_total
+monetize cross-media synergies -> B-item_description
+6 -> B-item_quantity
+51.20 -> B-item_unit_price
+307.20 -> B-item_total
+disintermediate scalable metrics -> B-item_description
+10 -> B-item_quantity
+94.26 -> B-item_unit_price
+942.60 -> B-item_total
+syndicate turn-key channels -> B-item_description
+5 -> B-item_quantity
+19.68 -> B-item_unit_price
+98.40 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1444.68 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+231.15 -> B-tax_amount
+Total -> O
+: -> O
+1675.83 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

@@ -1,0 +1,66 @@
+Comercializadora -> B-issuer_name
+Pareja -> I-issuer_name
+S.Com. -> I-issuer_name
+Ronda -> B-issuer_address
+Gracia -> I-issuer_address
+Barba -> I-issuer_address
+262 -> I-issuer_address
+Ourense, -> I-issuer_address
+34948 -> I-issuer_address
++34924 08 22 52 -> B-issuer_phone
+javimorante@supermercados.org -> B-issuer_email
+PbE590EnH769 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Elvira -> B-recipient_name
+Pacheco -> I-recipient_name
+Sola -> I-recipient_name
+Plaza -> B-recipient_address
+Carmelo -> I-recipient_address
+Armengol -> I-recipient_address
+5 -> I-recipient_address
+Piso -> I-recipient_address
+4 -> I-recipient_address
+Melilla, -> I-recipient_address
+16180 -> I-recipient_address
++34976 73 23 05 -> B-recipient_phone
+morapastora@yahoo.com -> B-recipient_email
+BQS262RdY446 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+380265 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-02 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+exploit user-centric infrastructures -> B-item_description
+92.12 -> B-item_unit_price
+460.60 -> B-item_total
+1 -> B-item_quantity
+innovate integrated relationships -> B-item_description
+18.77 -> B-item_unit_price
+18.77 -> B-item_total
+8 -> B-item_quantity
+integrate B2B relationships -> B-item_description
+82.04 -> B-item_unit_price
+656.32 -> B-item_total
+Subtotal -> O
+: -> O
+ 1135.69 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+181.71 -> B-tax_amount
+TOTAL -> O
+: -> O
+1317.40 -> B-total

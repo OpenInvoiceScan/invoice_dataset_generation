@@ -1,0 +1,76 @@
+Invoice -> O
+463091 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-03 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-15 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Suministros -> B-issuer_name
+IPMF -> I-issuer_name
+S.Coop. -> I-issuer_name
+Cañada -> B-issuer_address
+Modesta -> I-issuer_address
+Barrena -> I-issuer_address
+10 -> I-issuer_address
+Apt. -> I-issuer_address
+26 -> I-issuer_address
+Segovia, -> I-issuer_address
+20518 -> I-issuer_address
++34967 283 433 -> B-issuer_phone
+jose-maria90@tecnologias.com -> B-issuer_email
+sQm846tiz644 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Paulino -> B-recipient_name
+Bayón -> I-recipient_name
+Ortuño -> I-recipient_name
+C. -> B-recipient_address
+de -> I-recipient_address
+Wilfredo -> I-recipient_address
+Blanca -> I-recipient_address
+18 -> I-recipient_address
+Puerta -> I-recipient_address
+7 -> I-recipient_address
+Baleares, -> I-recipient_address
+44561 -> I-recipient_address
++34944 37 51 07 -> B-recipient_phone
+olgacarrillo@yahoo.com -> B-recipient_email
+Xlb137AZc117 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+scale value-added functionalities -> B-item_description
+1 -> B-item_quantity
+52.33 -> B-item_unit_price
+52.33 -> B-item_total
+syndicate sticky systems -> B-item_description
+8 -> B-item_quantity
+23.30 -> B-item_unit_price
+186.40 -> B-item_total
+iterate best-of-breed supply-chains -> B-item_description
+1 -> B-item_quantity
+47.17 -> B-item_unit_price
+47.17 -> B-item_total
+Subtotal -> O
+ : -> O
+ 285.90 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+45.74 -> B-tax_amount
+Total -> O
+: -> O
+331.64 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

@@ -1,0 +1,90 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+qkX632Bwm336 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 882881403 -> B-recipient_phone
+Nombre -> O
+: -> O
+Ruperta -> B-recipient_name
+Blanes -> I-recipient_name
+Correo -> O
+: -> O
+prudenciomulet@hotmail.com -> B-recipient_email
+Ronda -> B-recipient_address
+Ovidio -> I-recipient_address
+Bertrán -> I-recipient_address
+9 -> I-recipient_address
+Puerta -> I-recipient_address
+6 -> I-recipient_address
+Pontevedra, -> I-recipient_address
+18360 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+6430 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-01 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+optimize seamless ROI -> B-item_description
+6 -> B-item_quantity
+120.18 -> B-item_total
+seize cross-media mindshare -> B-item_description
+4 -> B-item_quantity
+40.28 -> B-item_total
+matrix sticky systems -> B-item_description
+5 -> B-item_quantity
+273.05 -> B-item_total
+synergize B2C convergence -> B-item_description
+4 -> B-item_quantity
+174.84 -> B-item_total
+Subtotal -> O
+ : -> O
+ 608.35 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+97.34 -> B-tax_amount
+TOTAL -> O
+: -> O
+705.69 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+rZJ874KJf506 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 711 18 40 79 -> B-issuer_phone
+Nombre -> O
+: -> O
+Arturo -> B-issuer_name
+Amador -> I-issuer_name
+Ruiz -> I-issuer_name
+S.L.U. -> I-issuer_name
+Correo -> O
+: -> O
+belen66@fito.com -> B-issuer_email
+Plaza -> B-issuer_address
+Danilo -> I-issuer_address
+Barbero -> I-issuer_address
+437 -> I-issuer_address
+Piso -> I-issuer_address
+0 -> I-issuer_address
+Pontevedra, -> I-issuer_address
+10038 -> I-issuer_address

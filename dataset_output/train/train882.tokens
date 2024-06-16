@@ -1,0 +1,73 @@
+Invoice -> O
+38900 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-02 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-25 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Juan -> B-issuer_name
+Campo -> I-issuer_name
+Campoy -> I-issuer_name
+S.L. -> I-issuer_name
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+Isa -> I-issuer_address
+Pagès -> I-issuer_address
+78 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Alicante, -> I-issuer_address
+21121 -> I-issuer_address
++34 976 06 39 62 -> B-issuer_phone
+diana76@banco.com -> B-issuer_email
+JAG299LIF276 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Selena -> B-recipient_name
+Carrasco -> I-recipient_name
+Bellido -> I-recipient_name
+Paseo -> B-recipient_address
+Rolando -> I-recipient_address
+Berenguer -> I-recipient_address
+99 -> I-recipient_address
+Piso -> I-recipient_address
+9 -> I-recipient_address
+Huelva, -> I-recipient_address
+06438 -> I-recipient_address
++34 877886702 -> B-recipient_phone
+palmeresperanza@yahoo.com -> B-recipient_email
+xpO473aSh572 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+utilize turn-key interfaces -> B-item_description
+1 -> B-item_quantity
+67.82 -> B-item_unit_price
+67.82 -> B-item_total
+drive end-to-end bandwidth -> B-item_description
+7 -> B-item_quantity
+52.90 -> B-item_unit_price
+370.30 -> B-item_total
+Subtotal -> O
+ : -> O
+ 438.12 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+70.10 -> B-tax_amount
+Total -> O
+: -> O
+508.22 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

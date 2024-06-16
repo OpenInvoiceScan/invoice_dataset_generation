@@ -1,0 +1,85 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+dZq897VMd284 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 920 75 32 40 -> B-recipient_phone
+Nombre -> O
+: -> O
+Pilar -> B-recipient_name
+Gelabert-Miró -> I-recipient_name
+Correo -> O
+: -> O
+cesar80@gmail.com -> B-recipient_email
+C. -> B-recipient_address
+de -> I-recipient_address
+Félix -> I-recipient_address
+Ledesma -> I-recipient_address
+2 -> I-recipient_address
+Guadalajara, -> I-recipient_address
+23575 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+991619 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-21 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+deliver mission-critical systems -> B-item_description
+10 -> B-item_quantity
+323.30 -> B-item_total
+syndicate sticky solutions -> B-item_description
+4 -> B-item_quantity
+97.56 -> B-item_total
+evolve enterprise vortals -> B-item_description
+1 -> B-item_quantity
+65.91 -> B-item_total
+Subtotal -> O
+ : -> O
+ 486.77 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+77.88 -> B-tax_amount
+TOTAL -> O
+: -> O
+564.65 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+LDa681lkj151 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 806 088 510 -> B-issuer_phone
+Nombre -> O
+: -> O
+Crespi -> B-issuer_name
+y -> I-issuer_name
+Figueroa -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Correo -> O
+: -> O
+rodolfo21@manufacturas.es -> B-issuer_email
+Ronda -> B-issuer_address
+de -> I-issuer_address
+Pepe -> I-issuer_address
+Rueda -> I-issuer_address
+8 -> I-issuer_address
+Córdoba, -> I-issuer_address
+42155 -> I-issuer_address

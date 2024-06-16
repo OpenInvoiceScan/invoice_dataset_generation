@@ -1,0 +1,66 @@
+Joaquín -> B-issuer_name
+Palacios -> I-issuer_name
+Barrena -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Callejón -> B-issuer_address
+de -> I-issuer_address
+René -> I-issuer_address
+Vall -> I-issuer_address
+758 -> I-issuer_address
+Puerta -> I-issuer_address
+7 -> I-issuer_address
+Guipúzcoa, -> I-issuer_address
+25659 -> I-issuer_address
++34 878 48 56 93 -> B-issuer_phone
+cayetana95@promociones.com -> B-issuer_email
+DDl510XHu374 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Mayte -> B-recipient_name
+Vilaplana -> I-recipient_name
+Morell -> I-recipient_name
+Pasadizo -> B-recipient_address
+Roque -> I-recipient_address
+Cabeza -> I-recipient_address
+818 -> I-recipient_address
+Piso -> I-recipient_address
+2 -> I-recipient_address
+Ávila, -> I-recipient_address
+50308 -> I-recipient_address
++34848 978 064 -> B-recipient_phone
+azorinosvaldo@yahoo.com -> B-recipient_email
+TwZ789pIz169 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+687421 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-29 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+transition frictionless e-services -> B-item_description
+62.09 -> B-item_unit_price
+496.72 -> B-item_total
+3 -> B-item_quantity
+utilize user-centric systems -> B-item_description
+27.61 -> B-item_unit_price
+82.83 -> B-item_total
+Subtotal -> O
+: -> O
+ 579.55 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+92.73 -> B-tax_amount
+TOTAL -> O
+: -> O
+672.28 -> B-total

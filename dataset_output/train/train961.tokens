@@ -1,0 +1,62 @@
+Aroca -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Urbanización -> B-issuer_address
+de -> I-issuer_address
+Pía -> I-issuer_address
+Morell -> I-issuer_address
+47 -> I-issuer_address
+Apt. -> I-issuer_address
+26 -> I-issuer_address
+Cádiz, -> I-issuer_address
+21956 -> I-issuer_address
++34 883 744 987 -> B-issuer_phone
+ulisescarnero@yanez.net -> B-issuer_email
+faW233bMA452 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Íñigo -> B-recipient_name
+Sáez -> I-recipient_name
+Tapia -> I-recipient_name
+Paseo -> B-recipient_address
+Dora -> I-recipient_address
+Echevarría -> I-recipient_address
+79 -> I-recipient_address
+Piso -> I-recipient_address
+1 -> I-recipient_address
+Segovia, -> I-recipient_address
+14335 -> I-recipient_address
++34901 15 55 50 -> B-recipient_phone
+victorinorosell@gmail.com -> B-recipient_email
+TbC202mDA244 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+935020 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-15 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+iterate strategic paradigms -> B-item_description
+62.99 -> B-item_unit_price
+188.97 -> B-item_total
+Subtotal -> O
+: -> O
+ 188.97 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+30.24 -> B-tax_amount
+TOTAL -> O
+: -> O
+219.21 -> B-total

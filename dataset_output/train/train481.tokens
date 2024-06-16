@@ -1,0 +1,72 @@
+Hnos -> B-issuer_name
+Carreras -> I-issuer_name
+S.L. -> I-issuer_name
+Pasadizo -> B-issuer_address
+de -> I-issuer_address
+Victor -> I-issuer_address
+Zurita -> I-issuer_address
+73 -> I-issuer_address
+Piso -> I-issuer_address
+8 -> I-issuer_address
+Navarra, -> I-issuer_address
+10236 -> I-issuer_address
++34 846149143 -> B-issuer_phone
+llobetadriana@hermanos.es -> B-issuer_email
+gsv010hPO808 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Reyna -> B-recipient_name
+Piñeiro -> I-recipient_name
+Costa -> I-recipient_name
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Amanda -> I-recipient_address
+Alcázar -> I-recipient_address
+56 -> I-recipient_address
+Albacete, -> I-recipient_address
+40437 -> I-recipient_address
++34 865 169 805 -> B-recipient_phone
+verdejoeli@yahoo.com -> B-recipient_email
+JXH235iSB005 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+22290 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-27 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+seize virtual initiatives -> B-item_description
+37.85 -> B-item_unit_price
+151.40 -> B-item_total
+9 -> B-item_quantity
+iterate proactive methodologies -> B-item_description
+41.47 -> B-item_unit_price
+373.23 -> B-item_total
+1 -> B-item_quantity
+syndicate clicks-and-mortar users -> B-item_description
+20.39 -> B-item_unit_price
+20.39 -> B-item_total
+5 -> B-item_quantity
+synergize real-time technologies -> B-item_description
+31.97 -> B-item_unit_price
+159.85 -> B-item_total
+Subtotal -> O
+: -> O
+ 704.87 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+112.78 -> B-tax_amount
+TOTAL -> O
+: -> O
+817.65 -> B-total

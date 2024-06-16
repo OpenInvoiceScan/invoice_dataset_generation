@@ -1,0 +1,78 @@
+Familia -> B-issuer_name
+Falcón -> I-issuer_name
+S.Com. -> I-issuer_name
+Camino -> B-issuer_address
+Damián -> I-issuer_address
+Chaves -> I-issuer_address
+22 -> I-issuer_address
+Teruel, -> I-issuer_address
+48001 -> I-issuer_address
++34 847 57 21 92 -> B-issuer_phone
+claudia22@escalona.com -> B-issuer_email
+LXh238wTD329 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Adoración -> B-recipient_name
+Solano -> I-recipient_name
+Rodríguez -> I-recipient_name
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Encarna -> I-recipient_address
+Cuesta -> I-recipient_address
+78 -> I-recipient_address
+Piso -> I-recipient_address
+6 -> I-recipient_address
+Santa -> I-recipient_address
+Cruz -> I-recipient_address
+de -> I-recipient_address
+Tenerife, -> I-recipient_address
+15787 -> I-recipient_address
++34 741 02 88 00 -> B-recipient_phone
+leontiburcio@gmail.com -> B-recipient_email
+mKj843wEe913 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+677774 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-29 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+morph robust e-markets -> B-item_description
+25.06 -> B-item_unit_price
+250.60 -> B-item_total
+5 -> B-item_quantity
+syndicate compelling e-business -> B-item_description
+63.63 -> B-item_unit_price
+318.15 -> B-item_total
+6 -> B-item_quantity
+synergize integrated channels -> B-item_description
+48.63 -> B-item_unit_price
+291.78 -> B-item_total
+6 -> B-item_quantity
+synergize compelling users -> B-item_description
+63.91 -> B-item_unit_price
+383.46 -> B-item_total
+8 -> B-item_quantity
+orchestrate one-to-one action-items -> B-item_description
+42.92 -> B-item_unit_price
+343.36 -> B-item_total
+Subtotal -> O
+: -> O
+ 1587.35 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+253.98 -> B-tax_amount
+TOTAL -> O
+: -> O
+1841.33 -> B-total

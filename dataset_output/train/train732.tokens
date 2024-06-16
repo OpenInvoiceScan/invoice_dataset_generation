@@ -1,0 +1,92 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+QDo328cFx885 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34846 599 144 -> B-recipient_phone
+Nombre -> O
+: -> O
+José -> B-recipient_name
+Manuel -> I-recipient_name
+Planas-Espada -> I-recipient_name
+Correo -> O
+: -> O
+consuelo47@hotmail.com -> B-recipient_email
+Camino -> B-recipient_address
+de -> I-recipient_address
+Benita -> I-recipient_address
+Mir -> I-recipient_address
+7 -> I-recipient_address
+Puerta -> I-recipient_address
+7 -> I-recipient_address
+Murcia, -> I-recipient_address
+11992 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+171375 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-24 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+whiteboard virtual networks -> B-item_description
+9 -> B-item_quantity
+145.17 -> B-item_total
+target revolutionary communities -> B-item_description
+10 -> B-item_quantity
+209.10 -> B-item_total
+grow plug-and-play communities -> B-item_description
+2 -> B-item_quantity
+154.22 -> B-item_total
+streamline enterprise vortals -> B-item_description
+4 -> B-item_quantity
+284.36 -> B-item_total
+Subtotal -> O
+ : -> O
+ 792.85 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+126.86 -> B-tax_amount
+TOTAL -> O
+: -> O
+919.71 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+xYI552IHs162 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34945 66 32 20 -> B-issuer_phone
+Nombre -> O
+: -> O
+Hnos -> B-issuer_name
+Sedano -> I-issuer_name
+S.A. -> I-issuer_name
+Correo -> O
+: -> O
+ulisesmaza@despacho.es -> B-issuer_email
+Cañada -> B-issuer_address
+de -> I-issuer_address
+León -> I-issuer_address
+Toledo -> I-issuer_address
+90 -> I-issuer_address
+Puerta -> I-issuer_address
+2 -> I-issuer_address
+Valladolid, -> I-issuer_address
+22964 -> I-issuer_address

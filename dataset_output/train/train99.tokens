@@ -1,0 +1,82 @@
+Factura -> O
+355230 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-19 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-30 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Cueto -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Via -> B-issuer_address
+de -> I-issuer_address
+Sergio -> I-issuer_address
+Ferrándiz -> I-issuer_address
+40 -> I-issuer_address
+Apt. -> I-issuer_address
+26 -> I-issuer_address
+Ávila, -> I-issuer_address
+47361 -> I-issuer_address
++34 886 022 107 -> B-issuer_phone
+isaiaslloret@figueroa.com -> B-issuer_email
+VcO675wwS678 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Rosaura -> B-recipient_name
+Cortés -> I-recipient_name
+Ibarra -> I-recipient_name
+Callejón -> B-recipient_address
+Alexandra -> I-recipient_address
+Núñez -> I-recipient_address
+5 -> I-recipient_address
+Apt. -> I-recipient_address
+00 -> I-recipient_address
+Guipúzcoa, -> I-recipient_address
+09956 -> I-recipient_address
++34 806 271 566 -> B-recipient_phone
+canetecarlota@gmail.com -> B-recipient_email
+hez184JQK294 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+deliver ubiquitous content -> B-item_description
+6 -> B-item_quantity
+19.97 -> B-item_unit_price
+119.82 -> B-item_total
+matrix seamless info-mediaries -> B-item_description
+2 -> B-item_quantity
+63.88 -> B-item_unit_price
+127.76 -> B-item_total
+revolutionize dynamic channels -> B-item_description
+7 -> B-item_quantity
+14.75 -> B-item_unit_price
+103.25 -> B-item_total
+Subtotal -> O
+ : -> O
+ 350.83 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+56.13 -> B-tax_amount
+Total -> O
+: -> O
+406.96 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

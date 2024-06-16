@@ -1,0 +1,89 @@
+Factura -> O
+427426 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-21 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-24 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Consultoría -> B-issuer_name
+DILY -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Urbanización -> B-issuer_address
+de -> I-issuer_address
+Ana -> I-issuer_address
+Sofía -> I-issuer_address
+Castelló -> I-issuer_address
+21 -> I-issuer_address
+Piso -> I-issuer_address
+3 -> I-issuer_address
+Guipúzcoa, -> I-issuer_address
+26608 -> I-issuer_address
++34927643152 -> B-issuer_phone
+belenporcel@compania.org -> B-issuer_email
+htM517bIr454 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Yolanda -> B-recipient_name
+Yuste -> I-recipient_name
+Pedro -> I-recipient_name
+Plaza -> B-recipient_address
+de -> I-recipient_address
+Clotilde -> I-recipient_address
+Gras -> I-recipient_address
+90 -> I-recipient_address
+Toledo, -> I-recipient_address
+17076 -> I-recipient_address
++34 873 64 27 96 -> B-recipient_phone
+opuente@gmail.com -> B-recipient_email
+xzQ863JCL496 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+transform efficient synergies -> B-item_description
+3 -> B-item_quantity
+98.07 -> B-item_unit_price
+294.21 -> B-item_total
+evolve bleeding-edge initiatives -> B-item_description
+2 -> B-item_quantity
+12.53 -> B-item_unit_price
+25.06 -> B-item_total
+transform cross-platform networks -> B-item_description
+2 -> B-item_quantity
+12.35 -> B-item_unit_price
+24.70 -> B-item_total
+deliver mission-critical methodologies -> B-item_description
+9 -> B-item_quantity
+58.21 -> B-item_unit_price
+523.89 -> B-item_total
+optimize intuitive info-mediaries -> B-item_description
+8 -> B-item_quantity
+84.39 -> B-item_unit_price
+675.12 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1542.98 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+246.88 -> B-tax_amount
+Total -> O
+: -> O
+1789.86 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

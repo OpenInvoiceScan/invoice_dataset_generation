@@ -1,0 +1,97 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+HKy234tlL884 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34975 78 40 16 -> B-recipient_phone
+Nombre -> O
+: -> O
+Eliseo -> B-recipient_name
+Pelayo -> I-recipient_name
+Corominas -> I-recipient_name
+Correo -> O
+: -> O
+federicocuadrado@yahoo.com -> B-recipient_email
+Avenida -> B-recipient_address
+Ildefonso -> I-recipient_address
+Blazquez -> I-recipient_address
+394 -> I-recipient_address
+Apt. -> I-recipient_address
+00 -> I-recipient_address
+La -> I-recipient_address
+Coruña, -> I-recipient_address
+32718 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+949944 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-24 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+disintermediate viral e-business -> B-item_description
+3 -> B-item_quantity
+195.69 -> B-item_total
+transition collaborative eyeballs -> B-item_description
+9 -> B-item_quantity
+392.49 -> B-item_total
+e-enable cutting-edge synergies -> B-item_description
+5 -> B-item_quantity
+315.80 -> B-item_total
+mesh front-end schemas -> B-item_description
+1 -> B-item_quantity
+63.74 -> B-item_total
+enhance bleeding-edge portals -> B-item_description
+7 -> B-item_quantity
+300.37 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1268.09 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+202.89 -> B-tax_amount
+TOTAL -> O
+: -> O
+1470.98 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+Iot119Vey309 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34885624924 -> B-issuer_phone
+Nombre -> O
+: -> O
+Infraestructuras -> B-issuer_name
+Integrales -> I-issuer_name
+S.L.L. -> I-issuer_name
+Correo -> O
+: -> O
+vergarairis@restauracion.es -> B-issuer_email
+Acceso -> B-issuer_address
+de -> I-issuer_address
+María -> I-issuer_address
+Pilar -> I-issuer_address
+Valdés -> I-issuer_address
+1 -> I-issuer_address
+Apt. -> I-issuer_address
+22 -> I-issuer_address
+Las -> I-issuer_address
+Palmas, -> I-issuer_address
+28523 -> I-issuer_address

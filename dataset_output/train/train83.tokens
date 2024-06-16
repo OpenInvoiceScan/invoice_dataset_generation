@@ -1,0 +1,87 @@
+Factura -> O
+482741 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-18 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-05 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Saez -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Cañada -> B-issuer_address
+Silvestre -> I-issuer_address
+Rico -> I-issuer_address
+16 -> I-issuer_address
+Lleida, -> I-issuer_address
+26469 -> I-issuer_address
++34 973 332 852 -> B-issuer_phone
+sarmientobenita@alimentacion.net -> B-issuer_email
+YJp614ajq178 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Encarna -> B-recipient_name
+Iniesta -> I-recipient_name
+Fuertes -> I-recipient_name
+Pasaje -> B-recipient_address
+Isaías -> I-recipient_address
+Naranjo -> I-recipient_address
+5 -> I-recipient_address
+Apt. -> I-recipient_address
+06 -> I-recipient_address
+Teruel, -> I-recipient_address
+51723 -> I-recipient_address
++34 821 76 84 17 -> B-recipient_phone
+patriciovillena@gmail.com -> B-recipient_email
+xpQ753UXW158 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+deliver world-class schemas -> B-item_description
+8 -> B-item_quantity
+29.30 -> B-item_unit_price
+234.40 -> B-item_total
+syndicate web-enabled architectures -> B-item_description
+2 -> B-item_quantity
+48.99 -> B-item_unit_price
+97.98 -> B-item_total
+redefine value-added bandwidth -> B-item_description
+7 -> B-item_quantity
+93.46 -> B-item_unit_price
+654.22 -> B-item_total
+brand intuitive channels -> B-item_description
+7 -> B-item_quantity
+46.26 -> B-item_unit_price
+323.82 -> B-item_total
+cultivate distributed deliverables -> B-item_description
+10 -> B-item_quantity
+41.61 -> B-item_unit_price
+416.10 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1726.52 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+276.24 -> B-tax_amount
+Total -> O
+: -> O
+2002.76 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

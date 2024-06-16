@@ -1,0 +1,69 @@
+Comercializadora -> B-issuer_name
+STUI -> I-issuer_name
+S.A. -> I-issuer_name
+Callejón -> B-issuer_address
+Nando -> I-issuer_address
+Rivas -> I-issuer_address
+74 -> I-issuer_address
+Apt. -> I-issuer_address
+74 -> I-issuer_address
+Málaga, -> I-issuer_address
+18163 -> I-issuer_address
++34 979 02 18 35 -> B-issuer_phone
+lunamarco@transportes.com -> B-issuer_email
+VEM055wnM347 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Tere -> B-recipient_name
+Benavente -> I-recipient_name
+Frías -> I-recipient_name
+Callejón -> B-recipient_address
+de -> I-recipient_address
+Inés -> I-recipient_address
+Melero -> I-recipient_address
+48 -> I-recipient_address
+Piso -> I-recipient_address
+7 -> I-recipient_address
+Huesca, -> I-recipient_address
+19879 -> I-recipient_address
++34879413070 -> B-recipient_phone
+asola@yahoo.com -> B-recipient_email
+xcS320OFK720 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+410387 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-22 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+syndicate holistic info-mediaries -> B-item_description
+97.18 -> B-item_unit_price
+680.26 -> B-item_total
+9 -> B-item_quantity
+maximize B2B info-mediaries -> B-item_description
+40.38 -> B-item_unit_price
+363.42 -> B-item_total
+7 -> B-item_quantity
+re-contextualize cross-platform ROI -> B-item_description
+49.97 -> B-item_unit_price
+349.79 -> B-item_total
+Subtotal -> O
+: -> O
+ 1393.47 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+222.96 -> B-tax_amount
+TOTAL -> O
+: -> O
+1616.43 -> B-total

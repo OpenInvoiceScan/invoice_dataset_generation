@@ -1,0 +1,65 @@
+Inmobiliaria -> B-issuer_name
+SGSX -> I-issuer_name
+S.A. -> I-issuer_name
+Pasadizo -> B-issuer_address
+de -> I-issuer_address
+Violeta -> I-issuer_address
+Diéguez -> I-issuer_address
+4 -> I-issuer_address
+León, -> I-issuer_address
+41539 -> I-issuer_address
++34828 491 847 -> B-issuer_phone
+sandratorres@paulina.com -> B-issuer_email
+PFL420gpe280 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Elvira -> B-recipient_name
+Belmonte-Camino -> I-recipient_name
+Urbanización -> B-recipient_address
+de -> I-recipient_address
+Mauricio -> I-recipient_address
+Alba -> I-recipient_address
+11 -> I-recipient_address
+Málaga, -> I-recipient_address
+26172 -> I-recipient_address
++34882087184 -> B-recipient_phone
+marcocordero@hotmail.com -> B-recipient_email
+BgU678lEs802 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+762529 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-25 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+morph granular web-readiness -> B-item_description
+11.18 -> B-item_unit_price
+55.90 -> B-item_total
+2 -> B-item_quantity
+architect enterprise interfaces -> B-item_description
+85.08 -> B-item_unit_price
+170.16 -> B-item_total
+1 -> B-item_quantity
+revolutionize collaborative vortals -> B-item_description
+91.31 -> B-item_unit_price
+91.31 -> B-item_total
+Subtotal -> O
+: -> O
+ 317.37 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+50.78 -> B-tax_amount
+TOTAL -> O
+: -> O
+368.15 -> B-total

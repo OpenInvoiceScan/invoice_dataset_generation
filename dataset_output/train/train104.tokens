@@ -1,0 +1,67 @@
+Bas -> B-issuer_name
+y -> I-issuer_name
+Aguiló -> I-issuer_name
+S.L.L. -> I-issuer_name
+Vial -> B-issuer_address
+Fernanda -> I-issuer_address
+España -> I-issuer_address
+65 -> I-issuer_address
+Piso -> I-issuer_address
+0 -> I-issuer_address
+Burgos, -> I-issuer_address
+24947 -> I-issuer_address
++34902 728 445 -> B-issuer_phone
+balduinoalcolea@benitez.org -> B-issuer_email
+oIH324jMh467 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Cristian -> B-recipient_name
+Bermudez-Albero -> I-recipient_name
+Avenida -> B-recipient_address
+Elisa -> I-recipient_address
+Roselló -> I-recipient_address
+44 -> I-recipient_address
+Apt. -> I-recipient_address
+11 -> I-recipient_address
+Lugo, -> I-recipient_address
+30610 -> I-recipient_address
++34986458370 -> B-recipient_phone
+arturorevilla@gmail.com -> B-recipient_email
+utN398DJQ125 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+48025 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-25 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+incubate value-added e-tailers -> B-item_description
+42.97 -> B-item_unit_price
+300.79 -> B-item_total
+9 -> B-item_quantity
+re-intermediate distributed action-items -> B-item_description
+65.04 -> B-item_unit_price
+585.36 -> B-item_total
+10 -> B-item_quantity
+enable B2B initiatives -> B-item_description
+95.78 -> B-item_unit_price
+957.80 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1843.95 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+295.03 -> B-tax_amount
+TOTAL -> O
+: -> O
+2138.98 -> B-total

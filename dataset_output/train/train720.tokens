@@ -1,0 +1,72 @@
+Banco -> B-issuer_name
+QSJ -> I-issuer_name
+S.A. -> I-issuer_name
+Alameda -> B-issuer_address
+Nereida -> I-issuer_address
+Gomila -> I-issuer_address
+834 -> I-issuer_address
+Piso -> I-issuer_address
+4 -> I-issuer_address
+Ceuta, -> I-issuer_address
+28087 -> I-issuer_address
++34 882223779 -> B-issuer_phone
+guzmangoyo@margarita.es -> B-issuer_email
+Hgs437viV716 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Felicidad -> B-recipient_name
+Roda -> I-recipient_name
+Armas -> I-recipient_name
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Amor -> I-recipient_address
+Arenas -> I-recipient_address
+79 -> I-recipient_address
+Puerta -> I-recipient_address
+3 -> I-recipient_address
+Álava, -> I-recipient_address
+20344 -> I-recipient_address
++34926291004 -> B-recipient_phone
+kbermudez@gmail.com -> B-recipient_email
+KDK306TRU063 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+265516 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-26 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+monetize out-of-the-box action-items -> B-item_description
+97.82 -> B-item_unit_price
+880.38 -> B-item_total
+6 -> B-item_quantity
+incentivize revolutionary bandwidth -> B-item_description
+70.61 -> B-item_unit_price
+423.66 -> B-item_total
+2 -> B-item_quantity
+scale next-generation interfaces -> B-item_description
+55.93 -> B-item_unit_price
+111.86 -> B-item_total
+10 -> B-item_quantity
+deliver dynamic e-business -> B-item_description
+43.53 -> B-item_unit_price
+435.30 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1851.20 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+296.19 -> B-tax_amount
+TOTAL -> O
+: -> O
+2147.39 -> B-total

@@ -1,0 +1,64 @@
+Talleres -> B-issuer_name
+Internacionales -> I-issuer_name
+S.L. -> I-issuer_name
+Urbanización -> B-issuer_address
+Amor -> I-issuer_address
+Campoy -> I-issuer_address
+55 -> I-issuer_address
+Piso -> I-issuer_address
+3 -> I-issuer_address
+Madrid, -> I-issuer_address
+37065 -> I-issuer_address
++34926 222 166 -> B-issuer_phone
+javiera30@angelina.com -> B-issuer_email
+Hzg585Xmd554 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Concepción -> B-recipient_name
+Ayuso -> I-recipient_name
+Sedano -> I-recipient_name
+Camino -> B-recipient_address
+de -> I-recipient_address
+Benjamín -> I-recipient_address
+Sans -> I-recipient_address
+645 -> I-recipient_address
+Apt. -> I-recipient_address
+02 -> I-recipient_address
+León, -> I-recipient_address
+48758 -> I-recipient_address
++34972 813 803 -> B-recipient_phone
+wnicolau@hotmail.com -> B-recipient_email
+Gyx694oVa060 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+553543 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-14 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+brand magnetic paradigms -> B-item_description
+95.62 -> B-item_unit_price
+382.48 -> B-item_total
+5 -> B-item_quantity
+architect seamless e-markets -> B-item_description
+74.76 -> B-item_unit_price
+373.80 -> B-item_total
+Subtotal -> O 
+: -> O
+ 756.28 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+121.00 -> B-tax_amount
+TOTAL -> O
+: -> O
+877.28 -> B-total

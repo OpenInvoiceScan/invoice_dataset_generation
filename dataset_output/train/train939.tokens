@@ -1,0 +1,85 @@
+Factura -> O
+337362 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-16 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-28 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Banco -> B-issuer_name
+Fuster -> I-issuer_name
+S.A. -> I-issuer_name
+Cañada -> B-issuer_address
+Marcia -> I-issuer_address
+Barba -> I-issuer_address
+7 -> I-issuer_address
+Puerta -> I-issuer_address
+2 -> I-issuer_address
+Castellón, -> I-issuer_address
+38834 -> I-issuer_address
++34 806 67 81 32 -> B-issuer_phone
+gbayon@arrieta.es -> B-issuer_email
+lCA880Lgb011 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Joaquín -> B-recipient_name
+Rozas -> I-recipient_name
+Cantero -> I-recipient_name
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Evelia -> I-recipient_address
+Baró -> I-recipient_address
+69 -> I-recipient_address
+Piso -> I-recipient_address
+7 -> I-recipient_address
+Cádiz, -> I-recipient_address
+19850 -> I-recipient_address
++34 858 84 58 65 -> B-recipient_phone
+chus25@gmail.com -> B-recipient_email
+QXW254fZs168 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+engineer user-centric e-tailers -> B-item_description
+1 -> B-item_quantity
+46.58 -> B-item_unit_price
+46.58 -> B-item_total
+re-intermediate synergistic bandwidth -> B-item_description
+8 -> B-item_quantity
+70.84 -> B-item_unit_price
+566.72 -> B-item_total
+aggregate sticky e-commerce -> B-item_description
+9 -> B-item_quantity
+56.05 -> B-item_unit_price
+504.45 -> B-item_total
+scale next-generation eyeballs -> B-item_description
+8 -> B-item_quantity
+84.36 -> B-item_unit_price
+674.88 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1792.63 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+286.82 -> B-tax_amount
+Total -> O
+: -> O
+2079.45 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

@@ -1,0 +1,92 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+Wcm586bYL537 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34975 29 30 74 -> B-recipient_phone
+Nombre -> O
+: -> O
+Amelia -> B-recipient_name
+Ballester -> I-recipient_name
+Baró -> I-recipient_name
+Correo -> O
+: -> O
+jaramarcos@yahoo.com -> B-recipient_email
+Alameda -> B-recipient_address
+de -> I-recipient_address
+Gabino -> I-recipient_address
+Cuervo -> I-recipient_address
+17 -> I-recipient_address
+Piso -> I-recipient_address
+7 -> I-recipient_address
+Soria, -> I-recipient_address
+33077 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+326807 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-11 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+visualize value-added convergence -> B-item_description
+6 -> B-item_quantity
+525.42 -> B-item_total
+leverage frictionless channels -> B-item_description
+1 -> B-item_quantity
+55.62 -> B-item_total
+synthesize holistic convergence -> B-item_description
+1 -> B-item_quantity
+41.35 -> B-item_total
+benchmark seamless infrastructures -> B-item_description
+10 -> B-item_quantity
+225.40 -> B-item_total
+Subtotal -> O
+ : -> O
+ 847.79 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+135.65 -> B-tax_amount
+TOTAL -> O
+: -> O
+983.44 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+VGz168ZmI877 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34849939706 -> B-issuer_phone
+Nombre -> O
+: -> O
+Pla -> B-issuer_name
+y -> I-issuer_name
+Villalonga -> I-issuer_name
+S.Coop. -> I-issuer_name
+Correo -> O
+: -> O
+piasales@carrasco.net -> B-issuer_email
+Pasaje -> B-issuer_address
+Dalila -> I-issuer_address
+Alba -> I-issuer_address
+1 -> I-issuer_address
+Apt. -> I-issuer_address
+83 -> I-issuer_address
+Ávila, -> I-issuer_address
+16923 -> I-issuer_address

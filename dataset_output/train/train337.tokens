@@ -1,0 +1,70 @@
+Banca -> B-issuer_name
+Privada -> I-issuer_name
+Alfonso -> I-issuer_name
+S.Com. -> I-issuer_name
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+Itziar -> I-issuer_address
+Sanchez -> I-issuer_address
+40 -> I-issuer_address
+Ourense, -> I-issuer_address
+25947 -> I-issuer_address
++34881 663 493 -> B-issuer_phone
+victoriano27@alcides.es -> B-issuer_email
+EPZ701rnl009 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Renata -> B-recipient_name
+Pomares -> I-recipient_name
+Alberdi -> I-recipient_name
+Cuesta -> B-recipient_address
+de -> I-recipient_address
+Che -> I-recipient_address
+Jurado -> I-recipient_address
+924 -> I-recipient_address
+Puerta -> I-recipient_address
+9 -> I-recipient_address
+Las -> I-recipient_address
+Palmas, -> I-recipient_address
+26412 -> I-recipient_address
++34816 86 39 97 -> B-recipient_phone
+teodoraruano@hotmail.com -> B-recipient_email
+zqs026Qks950 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+384911 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-07 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+re-intermediate viral e-services -> B-item_description
+92.41 -> B-item_unit_price
+831.69 -> B-item_total
+10 -> B-item_quantity
+disintermediate viral content -> B-item_description
+53.34 -> B-item_unit_price
+533.40 -> B-item_total
+6 -> B-item_quantity
+synthesize cutting-edge markets -> B-item_description
+99.12 -> B-item_unit_price
+594.72 -> B-item_total
+Subtotal -> O
+: -> O
+ 1959.81 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+313.57 -> B-tax_amount
+TOTAL -> O
+: -> O
+2273.38 -> B-total

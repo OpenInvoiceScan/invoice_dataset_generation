@@ -1,0 +1,93 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+Tcr458otK847 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 949 727 391 -> B-recipient_phone
+Nombre -> O
+: -> O
+Marcelo -> B-recipient_name
+Omar -> I-recipient_name
+Leon -> I-recipient_name
+Nicolau -> I-recipient_name
+Correo -> O
+: -> O
+xsaldana@hotmail.com -> B-recipient_email
+Camino -> B-recipient_address
+de -> I-recipient_address
+Mar -> I-recipient_address
+Cal -> I-recipient_address
+33 -> I-recipient_address
+Puerta -> I-recipient_address
+6 -> I-recipient_address
+Ourense, -> I-recipient_address
+25493 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+439625 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-27 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+monetize out-of-the-box partnerships -> B-item_description
+8 -> B-item_quantity
+134.32 -> B-item_total
+architect robust channels -> B-item_description
+8 -> B-item_quantity
+476.16 -> B-item_total
+transform enterprise relationships -> B-item_description
+3 -> B-item_quantity
+78.39 -> B-item_total
+repurpose efficient content -> B-item_description
+2 -> B-item_quantity
+136.56 -> B-item_total
+Subtotal -> O
+ : -> O
+ 825.43 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+132.07 -> B-tax_amount
+TOTAL -> O
+: -> O
+957.50 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+aHw894GAR884 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34822 15 99 66 -> B-issuer_phone
+Nombre -> O
+: -> O
+Tecnologías -> B-issuer_name
+Valderrama -> I-issuer_name
+S.C.P -> I-issuer_name
+Correo -> O
+: -> O
+perellochus@tecnologias.net -> B-issuer_email
+Vial -> B-issuer_address
+de -> I-issuer_address
+Juana -> I-issuer_address
+Morcillo -> I-issuer_address
+108 -> I-issuer_address
+Piso -> I-issuer_address
+4 -> I-issuer_address
+Castellón, -> I-issuer_address
+05009 -> I-issuer_address

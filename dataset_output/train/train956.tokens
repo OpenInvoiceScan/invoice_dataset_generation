@@ -1,0 +1,93 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+Ofz427qJp435 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34848 26 07 31 -> B-recipient_phone
+Nombre -> O
+: -> O
+Rebeca -> B-recipient_name
+Clara -> I-recipient_name
+Aragonés -> I-recipient_name
+Chamorro -> I-recipient_name
+Correo -> O
+: -> O
+nicolasa56@gmail.com -> B-recipient_email
+Cañada -> B-recipient_address
+de -> I-recipient_address
+Rosa -> I-recipient_address
+María -> I-recipient_address
+Blasco -> I-recipient_address
+27 -> I-recipient_address
+Apt. -> I-recipient_address
+88 -> I-recipient_address
+Sevilla, -> I-recipient_address
+16289 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+32654 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-26 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+aggregate proactive e-business -> B-item_description
+10 -> B-item_quantity
+208.40 -> B-item_total
+seize vertical e-markets -> B-item_description
+1 -> B-item_quantity
+56.96 -> B-item_total
+deliver impactful communities -> B-item_description
+5 -> B-item_quantity
+450.70 -> B-item_total
+transform cross-platform models -> B-item_description
+10 -> B-item_quantity
+447.40 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1163.46 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+186.15 -> B-tax_amount
+TOTAL -> O
+: -> O
+1349.61 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+hev874FLm016 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 803 927 270 -> B-issuer_phone
+Nombre -> O
+: -> O
+Botella -> B-issuer_name
+y -> I-issuer_name
+Barral -> I-issuer_name
+S.Com. -> I-issuer_name
+Correo -> O
+: -> O
+chema83@construccion.net -> B-issuer_email
+Pasadizo -> B-issuer_address
+de -> I-issuer_address
+José -> I-issuer_address
+Marquez -> I-issuer_address
+7 -> I-issuer_address
+Granada, -> I-issuer_address
+31757 -> I-issuer_address

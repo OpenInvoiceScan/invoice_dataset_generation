@@ -1,0 +1,86 @@
+Factura -> O
+294093 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-04-29 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-27 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Soluciones -> B-issuer_name
+del -> I-issuer_name
+Sur -> I-issuer_name
+S.L. -> I-issuer_name
+Plaza -> B-issuer_address
+Eugenia -> I-issuer_address
+Gallo -> I-issuer_address
+1 -> I-issuer_address
+Lleida, -> I-issuer_address
+41971 -> I-issuer_address
++34716 29 59 51 -> B-issuer_phone
+cruzcalleja@inmobiliaria.com -> B-issuer_email
+JSM379gkg029 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Manu -> B-recipient_name
+Gual -> I-recipient_name
+Coronado -> I-recipient_name
+Cuesta -> B-recipient_address
+de -> I-recipient_address
+Galo -> I-recipient_address
+Roda -> I-recipient_address
+9 -> I-recipient_address
+Cuenca, -> I-recipient_address
+30483 -> I-recipient_address
++34 944 88 04 57 -> B-recipient_phone
+baeznazaret@yahoo.com -> B-recipient_email
+ekp956MJm881 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+re-intermediate seamless communities -> B-item_description
+8 -> B-item_quantity
+19.48 -> B-item_unit_price
+155.84 -> B-item_total
+synergize user-centric e-services -> B-item_description
+6 -> B-item_quantity
+88.80 -> B-item_unit_price
+532.80 -> B-item_total
+enable ubiquitous synergies -> B-item_description
+6 -> B-item_quantity
+33.41 -> B-item_unit_price
+200.46 -> B-item_total
+disintermediate robust e-services -> B-item_description
+2 -> B-item_quantity
+20.11 -> B-item_unit_price
+40.22 -> B-item_total
+cultivate B2C e-tailers -> B-item_description
+3 -> B-item_quantity
+32.65 -> B-item_unit_price
+97.95 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1027.27 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+164.36 -> B-tax_amount
+Total -> O
+: -> O
+1191.63 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

@@ -1,0 +1,70 @@
+Invoice -> O
+847252 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-14 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-07 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Familia -> B-issuer_name
+Olmo -> I-issuer_name
+S.C.P -> I-issuer_name
+Cañada -> B-issuer_address
+de -> I-issuer_address
+Edelmira -> I-issuer_address
+Falcó -> I-issuer_address
+37 -> I-issuer_address
+Huesca, -> I-issuer_address
+12410 -> I-issuer_address
++34 925283825 -> B-issuer_phone
+telmo82@banco.com -> B-issuer_email
+ZVg855Msy693 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Griselda -> B-recipient_name
+Lillo -> I-recipient_name
+Alameda -> B-recipient_address
+de -> I-recipient_address
+Bonifacio -> I-recipient_address
+Pavón -> I-recipient_address
+64 -> I-recipient_address
+Puerta -> I-recipient_address
+4 -> I-recipient_address
+Toledo, -> I-recipient_address
+10023 -> I-recipient_address
++34 848 574 175 -> B-recipient_phone
+ferrerahipolito@hotmail.com -> B-recipient_email
+uif186tiV249 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+strategize compelling info-mediaries -> B-item_description
+8 -> B-item_quantity
+92.83 -> B-item_unit_price
+742.64 -> B-item_total
+brand cutting-edge paradigms -> B-item_description
+4 -> B-item_quantity
+52.79 -> B-item_unit_price
+211.16 -> B-item_total
+Subtotal -> O
+ : -> O
+ 953.80 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+152.61 -> B-tax_amount
+Total -> O
+: -> O
+1106.41 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

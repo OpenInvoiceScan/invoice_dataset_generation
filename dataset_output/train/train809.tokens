@@ -1,0 +1,67 @@
+Cortés -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.A. -> I-issuer_name
+Ronda -> B-issuer_address
+de -> I-issuer_address
+Zoraida -> I-issuer_address
+Iglesias -> I-issuer_address
+79 -> I-issuer_address
+Cáceres, -> I-issuer_address
+48799 -> I-issuer_address
++34 974 957 724 -> B-issuer_phone
+benigno32@compania.org -> B-issuer_email
+ZYx353Sye475 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Tamara -> B-recipient_name
+Lladó -> I-recipient_name
+Domingo -> I-recipient_name
+Alameda -> B-recipient_address
+de -> I-recipient_address
+Eusebia -> I-recipient_address
+Llabrés -> I-recipient_address
+36 -> I-recipient_address
+Navarra, -> I-recipient_address
+41150 -> I-recipient_address
++34 873 22 93 05 -> B-recipient_phone
+daniela68@gmail.com -> B-recipient_email
+bai855hmz524 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+514954 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-19 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+integrate transparent content -> B-item_description
+73.28 -> B-item_unit_price
+512.96 -> B-item_total
+4 -> B-item_quantity
+deliver end-to-end initiatives -> B-item_description
+21.23 -> B-item_unit_price
+84.92 -> B-item_total
+9 -> B-item_quantity
+leverage cross-media e-markets -> B-item_description
+19.21 -> B-item_unit_price
+172.89 -> B-item_total
+Subtotal -> O
+: -> O
+ 770.77 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+123.32 -> B-tax_amount
+TOTAL -> O
+: -> O
+894.09 -> B-total

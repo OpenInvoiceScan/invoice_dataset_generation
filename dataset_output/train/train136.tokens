@@ -1,0 +1,71 @@
+Pardo -> B-issuer_name
+y -> I-issuer_name
+Cortés -> I-issuer_name
+S.L. -> I-issuer_name
+Ronda -> B-issuer_address
+de -> I-issuer_address
+Severo -> I-issuer_address
+Manuel -> I-issuer_address
+41 -> I-issuer_address
+León, -> I-issuer_address
+22201 -> I-issuer_address
++34973 50 08 95 -> B-issuer_phone
+luna53@fabrica.com -> B-issuer_email
+pkf716RUb455 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Aroa -> B-recipient_name
+de -> I-recipient_name
+Cózar -> I-recipient_name
+Pasadizo -> B-recipient_address
+Reyes -> I-recipient_address
+Navarro -> I-recipient_address
+73 -> I-recipient_address
+Piso -> I-recipient_address
+2 -> I-recipient_address
+Soria, -> I-recipient_address
+11031 -> I-recipient_address
++34 849816921 -> B-recipient_phone
+omar74@yahoo.com -> B-recipient_email
+Kkh893xVC759 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+460359 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-27 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+expedite proactive action-items -> B-item_description
+22.40 -> B-item_unit_price
+179.20 -> B-item_total
+9 -> B-item_quantity
+harness scalable portals -> B-item_description
+30.34 -> B-item_unit_price
+273.06 -> B-item_total
+2 -> B-item_quantity
+drive cutting-edge architectures -> B-item_description
+49.71 -> B-item_unit_price
+99.42 -> B-item_total
+6 -> B-item_quantity
+optimize visionary ROI -> B-item_description
+38.10 -> B-item_unit_price
+228.60 -> B-item_total
+Subtotal -> O 
+: -> O
+ 780.28 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+124.84 -> B-tax_amount
+TOTAL -> O
+: -> O
+905.12 -> B-total

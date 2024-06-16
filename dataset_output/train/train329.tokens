@@ -1,0 +1,71 @@
+Ernesto -> B-issuer_name
+Madrid -> I-issuer_name
+Benavides -> I-issuer_name
+S.Coop. -> I-issuer_name
+Camino -> B-issuer_address
+Diana -> I-issuer_address
+Bernat -> I-issuer_address
+424 -> I-issuer_address
+Apt. -> I-issuer_address
+35 -> I-issuer_address
+Palencia, -> I-issuer_address
+50083 -> I-issuer_address
++34884 471 656 -> B-issuer_phone
+quinterodamian@otero.org -> B-issuer_email
+REs010yUX046 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Pascual -> B-recipient_name
+Palma-Anguita -> I-recipient_name
+Ronda -> B-recipient_address
+Maricela -> I-recipient_address
+Carbajo -> I-recipient_address
+50 -> I-recipient_address
+Puerta -> I-recipient_address
+0 -> I-recipient_address
+Santa -> I-recipient_address
+Cruz -> I-recipient_address
+de -> I-recipient_address
+Tenerife, -> I-recipient_address
+24624 -> I-recipient_address
++34 944 268 328 -> B-recipient_phone
+ainoacalatayud@yahoo.com -> B-recipient_email
+RZs242HlD278 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+892126 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-24 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+syndicate user-centric eyeballs -> B-item_description
+81.80 -> B-item_unit_price
+327.20 -> B-item_total
+7 -> B-item_quantity
+utilize rich functionalities -> B-item_description
+71.19 -> B-item_unit_price
+498.33 -> B-item_total
+1 -> B-item_quantity
+exploit ubiquitous convergence -> B-item_description
+87.94 -> B-item_unit_price
+87.94 -> B-item_total
+Subtotal -> O
+: -> O
+ 913.47 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+146.16 -> B-tax_amount
+TOTAL -> O
+: -> O
+1059.63 -> B-total

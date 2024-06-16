@@ -1,0 +1,67 @@
+Grupo -> B-issuer_name
+Roda -> I-issuer_name
+S.L.U. -> I-issuer_name
+Pasaje -> B-issuer_address
+de -> I-issuer_address
+Aurelia -> I-issuer_address
+Pellicer -> I-issuer_address
+567 -> I-issuer_address
+Huesca, -> I-issuer_address
+08095 -> I-issuer_address
++34928 30 75 95 -> B-issuer_phone
+perezmaria-dolores@tecnologias.net -> B-issuer_email
+Ujv674CzG356 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Encarna -> B-recipient_name
+Iniesta -> I-recipient_name
+Rivera -> I-recipient_name
+Glorieta -> B-recipient_address
+Hilda -> I-recipient_address
+Rivas -> I-recipient_address
+492 -> I-recipient_address
+Piso -> I-recipient_address
+5 -> I-recipient_address
+Ourense, -> I-recipient_address
+18275 -> I-recipient_address
++34 874 63 90 94 -> B-recipient_phone
+garridoseverino@gmail.com -> B-recipient_email
+Vuf410YEe908 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+561818 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-22 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+synergize next-generation methodologies -> B-item_description
+62.07 -> B-item_unit_price
+124.14 -> B-item_total
+1 -> B-item_quantity
+orchestrate strategic partnerships -> B-item_description
+48.25 -> B-item_unit_price
+48.25 -> B-item_total
+6 -> B-item_quantity
+repurpose dynamic e-business -> B-item_description
+92.94 -> B-item_unit_price
+557.64 -> B-item_total
+Subtotal -> O
+: -> O
+ 730.03 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+116.80 -> B-tax_amount
+TOTAL -> O
+: -> O
+846.83 -> B-total

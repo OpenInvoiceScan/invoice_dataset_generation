@@ -1,0 +1,63 @@
+Villaverde -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Plaza -> B-issuer_address
+Graciela -> I-issuer_address
+Heras -> I-issuer_address
+60 -> I-issuer_address
+Málaga, -> I-issuer_address
+03785 -> I-issuer_address
++34 879 348 376 -> B-issuer_phone
+lino06@inmobiliaria.com -> B-issuer_email
+uyh986hgX735 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Marciano -> B-recipient_name
+Ojeda -> I-recipient_name
+Vallés -> I-recipient_name
+Avenida -> B-recipient_address
+María -> I-recipient_address
+Dolores -> I-recipient_address
+Chaves -> I-recipient_address
+14 -> I-recipient_address
+Apt. -> I-recipient_address
+31 -> I-recipient_address
+Ourense, -> I-recipient_address
+50220 -> I-recipient_address
++34939 385 588 -> B-recipient_phone
+ycomas@yahoo.com -> B-recipient_email
+dEv097nzt573 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+368097 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-03 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+scale world-class markets -> B-item_description
+17.56 -> B-item_unit_price
+122.92 -> B-item_total
+8 -> B-item_quantity
+productize next-generation e-tailers -> B-item_description
+73.79 -> B-item_unit_price
+590.32 -> B-item_total
+Subtotal -> O 
+: -> O
+ 713.24 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+114.12 -> B-tax_amount
+TOTAL -> O
+: -> O
+827.36 -> B-total

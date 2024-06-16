@@ -1,0 +1,76 @@
+Hotel -> B-issuer_name
+Integrales -> I-issuer_name
+S.L. -> I-issuer_name
+Pasaje -> B-issuer_address
+de -> I-issuer_address
+Morena -> I-issuer_address
+Espinosa -> I-issuer_address
+15 -> I-issuer_address
+Apt. -> I-issuer_address
+40 -> I-issuer_address
+Zamora, -> I-issuer_address
+37400 -> I-issuer_address
++34981891465 -> B-issuer_phone
+celestino97@soluciones.es -> B-issuer_email
+uXQ326dtj290 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Dorotea -> B-recipient_name
+Valera -> I-recipient_name
+Saldaña -> I-recipient_name
+Via -> B-recipient_address
+Miguel -> I-recipient_address
+Ángel -> I-recipient_address
+Puga -> I-recipient_address
+54 -> I-recipient_address
+Murcia, -> I-recipient_address
+46377 -> I-recipient_address
++34 988 033 878 -> B-recipient_phone
+jharo@gmail.com -> B-recipient_email
+ody083rGk741 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+352047 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-09 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+maximize extensible infrastructures -> B-item_description
+65.85 -> B-item_unit_price
+460.95 -> B-item_total
+9 -> B-item_quantity
+morph next-generation systems -> B-item_description
+24.25 -> B-item_unit_price
+218.25 -> B-item_total
+6 -> B-item_quantity
+repurpose bricks-and-clicks methodologies -> B-item_description
+37.33 -> B-item_unit_price
+223.98 -> B-item_total
+2 -> B-item_quantity
+morph cross-platform relationships -> B-item_description
+99.65 -> B-item_unit_price
+199.30 -> B-item_total
+5 -> B-item_quantity
+re-contextualize front-end niches -> B-item_description
+51.87 -> B-item_unit_price
+259.35 -> B-item_total
+Subtotal -> O
+: -> O
+ 1361.83 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+217.89 -> B-tax_amount
+TOTAL -> O
+: -> O
+1579.72 -> B-total

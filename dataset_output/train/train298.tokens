@@ -1,0 +1,74 @@
+Invoice -> O
+367621 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-20 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-01 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Familia -> B-issuer_name
+Serra -> I-issuer_name
+S.L.L. -> I-issuer_name
+Vial -> B-issuer_address
+de -> I-issuer_address
+Roxana -> I-issuer_address
+Mateu -> I-issuer_address
+791 -> I-issuer_address
+Toledo, -> I-issuer_address
+38948 -> I-issuer_address
++34710622394 -> B-issuer_phone
+ninoruben@transportes.es -> B-issuer_email
+mLp036qVA705 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Florentino -> B-recipient_name
+Marí -> I-recipient_name
+Albero -> I-recipient_name
+Ronda -> B-recipient_address
+Gerardo -> I-recipient_address
+Tello -> I-recipient_address
+93 -> I-recipient_address
+Piso -> I-recipient_address
+3 -> I-recipient_address
+Valladolid, -> I-recipient_address
+35087 -> I-recipient_address
++34923889506 -> B-recipient_phone
+anitatellez@gmail.com -> B-recipient_email
+yUy215cgE065 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+engineer revolutionary content -> B-item_description
+10 -> B-item_quantity
+54.77 -> B-item_unit_price
+547.70 -> B-item_total
+architect web-enabled synergies -> B-item_description
+9 -> B-item_quantity
+40.72 -> B-item_unit_price
+366.48 -> B-item_total
+orchestrate frictionless portals -> B-item_description
+5 -> B-item_quantity
+68.59 -> B-item_unit_price
+342.95 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1257.13 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+201.14 -> B-tax_amount
+Total -> O
+: -> O
+1458.27 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

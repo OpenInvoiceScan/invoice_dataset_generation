@@ -1,0 +1,90 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+Cdh390SYN644 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 942 281 297 -> B-recipient_phone
+Nombre -> O
+: -> O
+Haroldo -> B-recipient_name
+Conesa -> I-recipient_name
+Balaguer -> I-recipient_name
+Correo -> O
+: -> O
+nando06@hotmail.com -> B-recipient_email
+Urbanización -> B-recipient_address
+de -> I-recipient_address
+Amaya -> I-recipient_address
+Exposito -> I-recipient_address
+9 -> I-recipient_address
+Las -> I-recipient_address
+Palmas, -> I-recipient_address
+31398 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+681663 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-24 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+re-contextualize frictionless schemas -> B-item_description
+3 -> B-item_quantity
+147.18 -> B-item_total
+engineer collaborative deliverables -> B-item_description
+1 -> B-item_quantity
+89.61 -> B-item_total
+integrate B2B action-items -> B-item_description
+2 -> B-item_quantity
+88.74 -> B-item_total
+re-intermediate bleeding-edge e-markets -> B-item_description
+10 -> B-item_quantity
+409.70 -> B-item_total
+Subtotal -> O
+ : -> O
+ 735.23 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+117.64 -> B-tax_amount
+TOTAL -> O
+: -> O
+852.87 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+MVZ019Yln974 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 984459816 -> B-issuer_phone
+Nombre -> O
+: -> O
+Albano -> B-issuer_name
+Ferrer -> I-issuer_name
+Cano -> I-issuer_name
+S.Coop. -> I-issuer_name
+Correo -> O
+: -> O
+ocastilla@servicios.com -> B-issuer_email
+Rambla -> B-issuer_address
+de -> I-issuer_address
+Felipa -> I-issuer_address
+Salom -> I-issuer_address
+5 -> I-issuer_address
+Asturias, -> I-issuer_address
+29057 -> I-issuer_address

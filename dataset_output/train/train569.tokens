@@ -1,0 +1,66 @@
+Sans -> B-issuer_name
+y -> I-issuer_name
+Zapata -> I-issuer_name
+S.Com. -> I-issuer_name
+Pasadizo -> B-issuer_address
+Fausto -> I-issuer_address
+Cánovas -> I-issuer_address
+57 -> I-issuer_address
+Apt. -> I-issuer_address
+86 -> I-issuer_address
+Córdoba, -> I-issuer_address
+03204 -> I-issuer_address
++34846 35 99 90 -> B-issuer_phone
+loretocarrillo@promociones.org -> B-issuer_email
+JUH841fmY408 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Wálter -> B-recipient_name
+Clímaco -> I-recipient_name
+Barba -> I-recipient_name
+Arranz -> I-recipient_name
+C. -> B-recipient_address
+Clímaco -> I-recipient_address
+Vergara -> I-recipient_address
+80 -> I-recipient_address
+Piso -> I-recipient_address
+0 -> I-recipient_address
+Melilla, -> I-recipient_address
+12307 -> I-recipient_address
++34 873 59 72 94 -> B-recipient_phone
+jacobocaro@yahoo.com -> B-recipient_email
+aFE228Wgl138 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+271625 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-25 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+integrate transparent communities -> B-item_description
+31.68 -> B-item_unit_price
+95.04 -> B-item_total
+5 -> B-item_quantity
+deliver strategic e-services -> B-item_description
+61.64 -> B-item_unit_price
+308.20 -> B-item_total
+Subtotal -> O
+: -> O
+ 403.24 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+64.52 -> B-tax_amount
+TOTAL -> O
+: -> O
+467.76 -> B-total

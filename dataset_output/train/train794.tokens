@@ -1,0 +1,73 @@
+Invoice -> O
+359806 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-04-29 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-19 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Tecnologías -> B-issuer_name
+ZUKR -> I-issuer_name
+S.Com. -> I-issuer_name
+Vial -> B-issuer_address
+de -> I-issuer_address
+Lucas -> I-issuer_address
+Botella -> I-issuer_address
+77 -> I-issuer_address
+Piso -> I-issuer_address
+5 -> I-issuer_address
+Málaga, -> I-issuer_address
+15280 -> I-issuer_address
++34 719 945 030 -> B-issuer_phone
+rafa52@restauracion.es -> B-issuer_email
+qaL422kEU540 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Guiomar -> B-recipient_name
+Casares -> I-recipient_name
+Cañada -> B-recipient_address
+Elías -> I-recipient_address
+Delgado -> I-recipient_address
+318 -> I-recipient_address
+Valencia, -> I-recipient_address
+20239 -> I-recipient_address
++34 845 96 48 90 -> B-recipient_phone
+pdiaz@hotmail.com -> B-recipient_email
+XjU148Lvq008 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+incentivize web-enabled communities -> B-item_description
+8 -> B-item_quantity
+38.14 -> B-item_unit_price
+305.12 -> B-item_total
+implement cutting-edge info-mediaries -> B-item_description
+4 -> B-item_quantity
+89.32 -> B-item_unit_price
+357.28 -> B-item_total
+streamline holistic solutions -> B-item_description
+1 -> B-item_quantity
+26.59 -> B-item_unit_price
+26.59 -> B-item_total
+Subtotal -> O
+ : -> O
+ 688.99 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+110.24 -> B-tax_amount
+Total -> O
+: -> O
+799.23 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

@@ -1,0 +1,72 @@
+Inmobiliaria -> B-issuer_name
+Andrés -> I-issuer_name
+S.A.D -> I-issuer_name
+Pasaje -> B-issuer_address
+Dora -> I-issuer_address
+Corominas -> I-issuer_address
+923 -> I-issuer_address
+Apt. -> I-issuer_address
+89 -> I-issuer_address
+Albacete, -> I-issuer_address
+07735 -> I-issuer_address
++34 983 49 18 76 -> B-issuer_phone
+guiomar50@otilia.org -> B-issuer_email
+Ydq788ZVl845 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Bonifacio -> B-recipient_name
+Calvet -> I-recipient_name
+Ribera -> I-recipient_name
+Pasadizo -> B-recipient_address
+de -> I-recipient_address
+Paloma -> I-recipient_address
+Rosales -> I-recipient_address
+69 -> I-recipient_address
+Piso -> I-recipient_address
+0 -> I-recipient_address
+Ciudad, -> I-recipient_address
+37859 -> I-recipient_address
++34 941780315 -> B-recipient_phone
+winiguez@hotmail.com -> B-recipient_email
+hwI069vaM270 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+404529 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-25 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+1 -> B-item_quantity
+architect extensible synergies -> B-item_description
+56.32 -> B-item_unit_price
+56.32 -> B-item_total
+9 -> B-item_quantity
+engineer interactive relationships -> B-item_description
+98.11 -> B-item_unit_price
+882.99 -> B-item_total
+1 -> B-item_quantity
+scale sticky interfaces -> B-item_description
+99.97 -> B-item_unit_price
+99.97 -> B-item_total
+10 -> B-item_quantity
+orchestrate frictionless e-markets -> B-item_description
+43.90 -> B-item_unit_price
+439.00 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1478.28 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+236.52 -> B-tax_amount
+TOTAL -> O
+: -> O
+1714.80 -> B-total

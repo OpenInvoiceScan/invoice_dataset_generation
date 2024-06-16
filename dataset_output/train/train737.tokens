@@ -1,0 +1,61 @@
+Talleres -> B-issuer_name
+del -> I-issuer_name
+Sur -> I-issuer_name
+S.Com. -> I-issuer_name
+Acceso -> B-issuer_address
+Juliana -> I-issuer_address
+Cerdá -> I-issuer_address
+86 -> I-issuer_address
+Jaén, -> I-issuer_address
+42691 -> I-issuer_address
++34806 857 514 -> B-issuer_phone
+reyescabo@alcalde.es -> B-issuer_email
+Xha178rfS558 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Apolinar -> B-recipient_name
+Hernández -> I-recipient_name
+Duarte -> I-recipient_name
+Camino -> B-recipient_address
+Conrado -> I-recipient_address
+Galván -> I-recipient_address
+59 -> I-recipient_address
+Baleares, -> I-recipient_address
+48583 -> I-recipient_address
++34944 71 58 64 -> B-recipient_phone
+andresfidela@yahoo.com -> B-recipient_email
+bRh056lDc913 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+566179 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-11 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+incentivize holistic models -> B-item_description
+81.98 -> B-item_unit_price
+163.96 -> B-item_total
+6 -> B-item_quantity
+re-intermediate interactive supply-chains -> B-item_description
+38.94 -> B-item_unit_price
+233.64 -> B-item_total
+Subtotal -> O
+: -> O
+ 397.60 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+63.62 -> B-tax_amount
+TOTAL -> O
+: -> O
+461.22 -> B-total

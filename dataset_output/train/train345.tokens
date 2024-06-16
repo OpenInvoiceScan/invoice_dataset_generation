@@ -1,0 +1,57 @@
+Farmaceútica -> B-issuer_name
+MM -> I-issuer_name
+S.Coop. -> I-issuer_name
+Via -> B-issuer_address
+Ema -> I-issuer_address
+Villalobos -> I-issuer_address
+81 -> I-issuer_address
+León, -> I-issuer_address
+46441 -> I-issuer_address
++34873 31 85 36 -> B-issuer_phone
+moralescarmina@hnos.net -> B-issuer_email
+IeS484uKw233 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Serafina -> B-recipient_name
+Huguet -> I-recipient_name
+Casal -> I-recipient_name
+Rambla -> B-recipient_address
+de -> I-recipient_address
+Sandra -> I-recipient_address
+Palma -> I-recipient_address
+186 -> I-recipient_address
+Cantabria, -> I-recipient_address
+49704 -> I-recipient_address
++34 947 78 82 64 -> B-recipient_phone
+espadarosa@hotmail.com -> B-recipient_email
+OFQ546oVK420 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+598229 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-13 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+synthesize clicks-and-mortar partnerships -> B-item_description
+70.02 -> B-item_unit_price
+280.08 -> B-item_total
+Subtotal -> O
+: -> O
+ 280.08 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+44.81 -> B-tax_amount
+TOTAL -> O
+: -> O
+324.89 -> B-total

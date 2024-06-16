@@ -1,0 +1,68 @@
+Hnos -> B-issuer_name
+Porras -> I-issuer_name
+S.Com. -> I-issuer_name
+Alameda -> B-issuer_address
+de -> I-issuer_address
+Roxana -> I-issuer_address
+Valderrama -> I-issuer_address
+97 -> I-issuer_address
+Apt. -> I-issuer_address
+48 -> I-issuer_address
+Cáceres, -> I-issuer_address
+28008 -> I-issuer_address
++34901 36 98 33 -> B-issuer_phone
+chus55@luis.com -> B-issuer_email
+Yly304cdK116 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Dorotea -> B-recipient_name
+Berrocal -> I-recipient_name
+Coll -> I-recipient_name
+Via -> B-recipient_address
+Fidela -> I-recipient_address
+Blazquez -> I-recipient_address
+67 -> I-recipient_address
+Apt. -> I-recipient_address
+61 -> I-recipient_address
+Alicante, -> I-recipient_address
+10666 -> I-recipient_address
++34966 64 56 30 -> B-recipient_phone
+jesussainz@yahoo.com -> B-recipient_email
+VRW039iNC930 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+210137 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-26 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+productize seamless channels -> B-item_description
+68.66 -> B-item_unit_price
+686.60 -> B-item_total
+10 -> B-item_quantity
+optimize robust networks -> B-item_description
+80.24 -> B-item_unit_price
+802.40 -> B-item_total
+7 -> B-item_quantity
+target collaborative applications -> B-item_description
+59.60 -> B-item_unit_price
+417.20 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1906.20 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+304.99 -> B-tax_amount
+TOTAL -> O
+: -> O
+2211.19 -> B-total

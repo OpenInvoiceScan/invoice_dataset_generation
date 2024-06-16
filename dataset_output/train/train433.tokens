@@ -1,0 +1,72 @@
+Banca -> B-issuer_name
+Privada -> I-issuer_name
+Castellana -> I-issuer_name
+S.L.N.E -> I-issuer_name
+C. -> B-issuer_address
+de -> I-issuer_address
+Macarena -> I-issuer_address
+Saavedra -> I-issuer_address
+291 -> I-issuer_address
+Huelva, -> I-issuer_address
+36528 -> I-issuer_address
++34 978726286 -> B-issuer_phone
+faustino33@bruno.es -> B-issuer_email
+fbr414LlI394 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Haydée -> B-recipient_name
+María -> I-recipient_name
+Pilar -> I-recipient_name
+Alsina -> I-recipient_name
+Dalmau -> I-recipient_name
+Camino -> B-recipient_address
+Simón -> I-recipient_address
+Fuentes -> I-recipient_address
+6 -> I-recipient_address
+Jaén, -> I-recipient_address
+17768 -> I-recipient_address
++34 922 239 247 -> B-recipient_phone
+ocaro@hotmail.com -> B-recipient_email
+SGQ676eaB759 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+40732 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-09 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+generate holistic users -> B-item_description
+27.33 -> B-item_unit_price
+81.99 -> B-item_total
+3 -> B-item_quantity
+deploy killer relationships -> B-item_description
+30.65 -> B-item_unit_price
+91.95 -> B-item_total
+8 -> B-item_quantity
+facilitate B2B deliverables -> B-item_description
+19.52 -> B-item_unit_price
+156.16 -> B-item_total
+8 -> B-item_quantity
+deliver granular paradigms -> B-item_description
+45.02 -> B-item_unit_price
+360.16 -> B-item_total
+Subtotal -> O
+: -> O
+ 690.26 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+110.44 -> B-tax_amount
+TOTAL -> O
+: -> O
+800.70 -> B-total

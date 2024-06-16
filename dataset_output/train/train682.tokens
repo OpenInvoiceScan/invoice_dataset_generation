@@ -1,0 +1,74 @@
+Invoice -> O
+980364 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-15 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-08 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Gordillo -> B-issuer_name
+y -> I-issuer_name
+Novoa -> I-issuer_name
+S.Com. -> I-issuer_name
+Urbanización -> B-issuer_address
+Lucho -> I-issuer_address
+Sosa -> I-issuer_address
+86 -> I-issuer_address
+Cáceres, -> I-issuer_address
+26347 -> I-issuer_address
++34 849 70 26 60 -> B-issuer_phone
+cesarlopez@fabrica.es -> B-issuer_email
+EFB343Qdl809 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Bruno -> B-recipient_name
+Coll -> I-recipient_name
+Lladó -> I-recipient_name
+Via -> B-recipient_address
+Raquel -> I-recipient_address
+Rosselló -> I-recipient_address
+27 -> I-recipient_address
+Apt. -> I-recipient_address
+00 -> I-recipient_address
+Cantabria, -> I-recipient_address
+18385 -> I-recipient_address
++34884 787 372 -> B-recipient_phone
+peraltaalejo@gmail.com -> B-recipient_email
+lDf202LDz059 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+integrate world-class experiences -> B-item_description
+1 -> B-item_quantity
+10.62 -> B-item_unit_price
+10.62 -> B-item_total
+synergize plug-and-play systems -> B-item_description
+3 -> B-item_quantity
+12.76 -> B-item_unit_price
+38.28 -> B-item_total
+transform bleeding-edge metrics -> B-item_description
+8 -> B-item_quantity
+94.53 -> B-item_unit_price
+756.24 -> B-item_total
+Subtotal -> O
+ : -> O
+ 805.14 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+128.82 -> B-tax_amount
+Total -> O
+: -> O
+933.96 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

@@ -1,0 +1,82 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+Jpf282oEc892 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34854 065 574 -> B-recipient_phone
+Nombre -> O
+: -> O
+Evaristo -> B-recipient_name
+Solé-Peralta -> I-recipient_name
+Correo -> O
+: -> O
+arranzseverino@gmail.com -> B-recipient_email
+C. -> B-recipient_address
+de -> I-recipient_address
+Melisa -> I-recipient_address
+Sanmiguel -> I-recipient_address
+49 -> I-recipient_address
+Teruel, -> I-recipient_address
+24306 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+569992 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-23 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+utilize sticky systems -> B-item_description
+1 -> B-item_quantity
+48.66 -> B-item_total
+re-contextualize transparent markets -> B-item_description
+9 -> B-item_quantity
+658.26 -> B-item_total
+Subtotal -> O
+ : -> O
+ 706.92 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+113.11 -> B-tax_amount
+TOTAL -> O
+: -> O
+820.03 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+yGI396blH625 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34925 969 590 -> B-issuer_phone
+Nombre -> O
+: -> O
+Servicios -> B-issuer_name
+del -> I-issuer_name
+Mediterráneo -> I-issuer_name
+S.A.D -> I-issuer_name
+Correo -> O
+: -> O
+pablosedano@servicios.es -> B-issuer_email
+Rambla -> B-issuer_address
+de -> I-issuer_address
+Tamara -> I-issuer_address
+Jara -> I-issuer_address
+7 -> I-issuer_address
+Asturias, -> I-issuer_address
+31001 -> I-issuer_address

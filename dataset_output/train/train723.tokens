@@ -1,0 +1,71 @@
+Factura -> O
+696284 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-18 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-10 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Iborra -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Glorieta -> B-issuer_address
+Fulgencio -> I-issuer_address
+Almeida -> I-issuer_address
+3 -> I-issuer_address
+Piso -> I-issuer_address
+7 -> I-issuer_address
+Badajoz, -> I-issuer_address
+46930 -> I-issuer_address
++34 872352124 -> B-issuer_phone
+patricioalmeida@mineria.com -> B-issuer_email
+FKJ476DqU197 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Remedios -> B-recipient_name
+Flores -> I-recipient_name
+Mateu -> I-recipient_name
+Via -> B-recipient_address
+Juana -> I-recipient_address
+Mariño -> I-recipient_address
+5 -> I-recipient_address
+Guipúzcoa, -> I-recipient_address
+41335 -> I-recipient_address
++34 717 524 726 -> B-recipient_phone
+pastorpastor@yahoo.com -> B-recipient_email
+JOG334QAV299 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+cultivate sticky e-commerce -> B-item_description
+8 -> B-item_quantity
+84.03 -> B-item_unit_price
+672.24 -> B-item_total
+Subtotal -> O
+ : -> O
+ 672.24 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+107.56 -> B-tax_amount
+Total -> O
+: -> O
+779.80 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

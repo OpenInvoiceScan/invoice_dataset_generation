@@ -1,0 +1,70 @@
+Logística -> B-issuer_name
+SJ -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Pasaje -> B-issuer_address
+Benita -> I-issuer_address
+Mayol -> I-issuer_address
+304 -> I-issuer_address
+Madrid, -> I-issuer_address
+44948 -> I-issuer_address
++34707 49 21 54 -> B-issuer_phone
+albert48@chucho.com -> B-issuer_email
+Sfz308mxP192 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Rosalva -> B-recipient_name
+Romero -> I-recipient_name
+Barbero -> I-recipient_name
+Pasaje -> B-recipient_address
+Dulce -> I-recipient_address
+Company -> I-recipient_address
+48 -> I-recipient_address
+Piso -> I-recipient_address
+0 -> I-recipient_address
+Huesca, -> I-recipient_address
+43670 -> I-recipient_address
++34 978 63 44 70 -> B-recipient_phone
+agustinasalvador@yahoo.com -> B-recipient_email
+hXG972qSP357 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+299478 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-10 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+evolve visionary markets -> B-item_description
+88.58 -> B-item_unit_price
+442.90 -> B-item_total
+6 -> B-item_quantity
+e-enable visionary convergence -> B-item_description
+94.69 -> B-item_unit_price
+568.14 -> B-item_total
+3 -> B-item_quantity
+transform vertical technologies -> B-item_description
+18.24 -> B-item_unit_price
+54.72 -> B-item_total
+9 -> B-item_quantity
+benchmark out-of-the-box e-business -> B-item_description
+48.71 -> B-item_unit_price
+438.39 -> B-item_total
+Subtotal -> O
+: -> O
+ 1504.15 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+240.66 -> B-tax_amount
+TOTAL -> O
+: -> O
+1744.81 -> B-total

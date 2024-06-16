@@ -1,0 +1,73 @@
+Transportes -> B-issuer_name
+NK -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Via -> B-issuer_address
+de -> I-issuer_address
+Luis -> I-issuer_address
+Miguel -> I-issuer_address
+Paniagua -> I-issuer_address
+3 -> I-issuer_address
+Piso -> I-issuer_address
+2 -> I-issuer_address
+Huesca, -> I-issuer_address
+03825 -> I-issuer_address
++34 806665340 -> B-issuer_phone
+camposjuan-pablo@davila.com -> B-issuer_email
+CPS556NLs727 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Mirta -> B-recipient_name
+Gárate -> I-recipient_name
+Bárcena -> I-recipient_name
+Plaza -> B-recipient_address
+de -> I-recipient_address
+Cebrián -> I-recipient_address
+Aguilera -> I-recipient_address
+670 -> I-recipient_address
+Huesca, -> I-recipient_address
+18187 -> I-recipient_address
++34810346109 -> B-recipient_phone
+elisa03@yahoo.com -> B-recipient_email
+gJF588Nyf246 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+735967 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-15 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+re-contextualize leading-edge infrastructures -> B-item_description
+18.57 -> B-item_unit_price
+148.56 -> B-item_total
+5 -> B-item_quantity
+disintermediate transparent markets -> B-item_description
+85.04 -> B-item_unit_price
+425.20 -> B-item_total
+3 -> B-item_quantity
+expedite bleeding-edge e-services -> B-item_description
+40.83 -> B-item_unit_price
+122.49 -> B-item_total
+2 -> B-item_quantity
+re-contextualize distributed bandwidth -> B-item_description
+31.49 -> B-item_unit_price
+62.98 -> B-item_total
+Subtotal -> O
+: -> O
+ 759.23 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+121.48 -> B-tax_amount
+TOTAL -> O
+: -> O
+880.71 -> B-total

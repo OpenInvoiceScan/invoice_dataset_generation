@@ -1,0 +1,94 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+laf023dbV305 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 921 50 17 30 -> B-recipient_phone
+Nombre -> O
+: -> O
+Sosimo -> B-recipient_name
+Rosell -> I-recipient_name
+Ortiz -> I-recipient_name
+Correo -> O
+: -> O
+smenendez@hotmail.com -> B-recipient_email
+Ronda -> B-recipient_address
+Rafael -> I-recipient_address
+Luján -> I-recipient_address
+35 -> I-recipient_address
+Álava, -> I-recipient_address
+31988 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+668629 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-05 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+matrix dot-com models -> B-item_description
+10 -> B-item_quantity
+624.60 -> B-item_total
+incentivize cross-media vortals -> B-item_description
+3 -> B-item_quantity
+238.11 -> B-item_total
+re-contextualize global convergence -> B-item_description
+8 -> B-item_quantity
+718.80 -> B-item_total
+matrix cross-platform eyeballs -> B-item_description
+8 -> B-item_quantity
+478.56 -> B-item_total
+enhance global paradigms -> B-item_description
+2 -> B-item_quantity
+36.24 -> B-item_total
+Subtotal -> O
+ : -> O
+ 2096.31 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+335.41 -> B-tax_amount
+TOTAL -> O
+: -> O
+2431.72 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+lox503EUX413 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34749 15 82 14 -> B-issuer_phone
+Nombre -> O
+: -> O
+Infraestructuras -> B-issuer_name
+Losa -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L. -> I-issuer_name
+Correo -> O
+: -> O
+vreina@bilbao.org -> B-issuer_email
+Pasaje -> B-issuer_address
+de -> I-issuer_address
+Lupita -> I-issuer_address
+Cabañas -> I-issuer_address
+20 -> I-issuer_address
+Apt. -> I-issuer_address
+08 -> I-issuer_address
+Valladolid, -> I-issuer_address
+33513 -> I-issuer_address

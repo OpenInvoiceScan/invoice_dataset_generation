@@ -1,0 +1,70 @@
+Invoice -> O
+183998 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-13 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-30 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Despacho -> B-issuer_name
+Galindo -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Callejón -> B-issuer_address
+Nazaret -> I-issuer_address
+Plana -> I-issuer_address
+66 -> I-issuer_address
+Piso -> I-issuer_address
+5 -> I-issuer_address
+Ciudad, -> I-issuer_address
+46859 -> I-issuer_address
++34 885 426 995 -> B-issuer_phone
+gervasio41@promociones.com -> B-issuer_email
+AMb378oYd319 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Nacho -> B-recipient_name
+de -> I-recipient_name
+Torrecilla -> I-recipient_name
+Ronda -> B-recipient_address
+de -> I-recipient_address
+Trinidad -> I-recipient_address
+Guardia -> I-recipient_address
+41 -> I-recipient_address
+Apt. -> I-recipient_address
+09 -> I-recipient_address
+Zamora, -> I-recipient_address
+43430 -> I-recipient_address
++34 806 765 426 -> B-recipient_phone
+isanmiguel@hotmail.com -> B-recipient_email
+bEN275Lfp042 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+innovate cross-media infrastructures -> B-item_description
+1 -> B-item_quantity
+11.00 -> B-item_unit_price
+11.00 -> B-item_total
+Subtotal -> O
+ : -> O
+ 11.00 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+1.76 -> B-tax_amount
+Total -> O
+: -> O
+12.76 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

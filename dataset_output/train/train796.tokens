@@ -1,0 +1,91 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+nLi048gNc006 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34902 037 374 -> B-recipient_phone
+Nombre -> O
+: -> O
+Leyre -> B-recipient_name
+Viana -> I-recipient_name
+Pablo -> I-recipient_name
+Correo -> O
+: -> O
+castellanosmayte@hotmail.com -> B-recipient_email
+Via -> B-recipient_address
+Jose -> I-recipient_address
+Angel -> I-recipient_address
+Cerdán -> I-recipient_address
+511 -> I-recipient_address
+Piso -> I-recipient_address
+0 -> I-recipient_address
+Guipúzcoa, -> I-recipient_address
+19852 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+463544 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-29 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+benchmark killer paradigms -> B-item_description
+7 -> B-item_quantity
+276.57 -> B-item_total
+streamline integrated web services -> B-item_description
+1 -> B-item_quantity
+86.00 -> B-item_total
+cultivate granular platforms -> B-item_description
+2 -> B-item_quantity
+143.24 -> B-item_total
+repurpose next-generation functionalities -> B-item_description
+7 -> B-item_quantity
+687.61 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1193.42 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+190.95 -> B-tax_amount
+TOTAL -> O
+: -> O
+1384.37 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+vgO774GIB242 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34923 866 381 -> B-issuer_phone
+Nombre -> O
+: -> O
+Casares -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.L.L. -> I-issuer_name
+Correo -> O
+: -> O
+rufina61@martinez.es -> B-issuer_email
+Acceso -> B-issuer_address
+María -> I-issuer_address
+Teresa -> I-issuer_address
+Pinedo -> I-issuer_address
+183 -> I-issuer_address
+Valladolid, -> I-issuer_address
+12171 -> I-issuer_address

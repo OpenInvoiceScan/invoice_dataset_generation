@@ -1,0 +1,78 @@
+Invoice -> O
+752928 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-08 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-31 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Instalaciones -> B-issuer_name
+LZFU -> I-issuer_name
+S.L. -> I-issuer_name
+Paseo -> B-issuer_address
+de -> I-issuer_address
+Anastasia -> I-issuer_address
+Borrás -> I-issuer_address
+64 -> I-issuer_address
+Vizcaya, -> I-issuer_address
+02693 -> I-issuer_address
++34974602781 -> B-issuer_phone
+leandra61@valle.org -> B-issuer_email
+DsI567OqM882 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Benjamín -> B-recipient_name
+Puga -> I-recipient_name
+Llorens -> I-recipient_name
+Avenida -> B-recipient_address
+Fabricio -> I-recipient_address
+Villar -> I-recipient_address
+742 -> I-recipient_address
+Piso -> I-recipient_address
+5 -> I-recipient_address
+Guadalajara, -> I-recipient_address
+37821 -> I-recipient_address
++34887223975 -> B-recipient_phone
+sferrandez@hotmail.com -> B-recipient_email
+jkq537ubC941 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+generate bleeding-edge vortals -> B-item_description
+3 -> B-item_quantity
+64.75 -> B-item_unit_price
+194.25 -> B-item_total
+re-intermediate interactive systems -> B-item_description
+3 -> B-item_quantity
+80.39 -> B-item_unit_price
+241.17 -> B-item_total
+grow intuitive users -> B-item_description
+9 -> B-item_quantity
+47.14 -> B-item_unit_price
+424.26 -> B-item_total
+deploy transparent communities -> B-item_description
+2 -> B-item_quantity
+93.12 -> B-item_unit_price
+186.24 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1045.92 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+167.35 -> B-tax_amount
+Total -> O
+: -> O
+1213.27 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

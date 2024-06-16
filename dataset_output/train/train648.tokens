@@ -1,0 +1,79 @@
+López -> B-issuer_name
+y -> I-issuer_name
+Peñalver -> I-issuer_name
+S.Coop. -> I-issuer_name
+Urbanización -> B-issuer_address
+de -> I-issuer_address
+Magdalena -> I-issuer_address
+Guillen -> I-issuer_address
+45 -> I-issuer_address
+Piso -> I-issuer_address
+6 -> I-issuer_address
+Santa -> I-issuer_address
+Cruz -> I-issuer_address
+de -> I-issuer_address
+Tenerife, -> I-issuer_address
+07150 -> I-issuer_address
++34926 791 831 -> B-issuer_phone
+hugo31@farmaceutica.com -> B-issuer_email
+Sjc137xJK830 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Aura -> B-recipient_name
+Mur -> I-recipient_name
+Herranz -> I-recipient_name
+Cañada -> B-recipient_address
+de -> I-recipient_address
+Silvia -> I-recipient_address
+Serra -> I-recipient_address
+1 -> I-recipient_address
+Asturias, -> I-recipient_address
+30083 -> I-recipient_address
++34 971 791 055 -> B-recipient_phone
+colomsamu@hotmail.com -> B-recipient_email
+AxL614eyJ606 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+762942 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-05 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+enable interactive channels -> B-item_description
+96.82 -> B-item_unit_price
+968.20 -> B-item_total
+1 -> B-item_quantity
+morph clicks-and-mortar functionalities -> B-item_description
+27.89 -> B-item_unit_price
+27.89 -> B-item_total
+3 -> B-item_quantity
+drive enterprise ROI -> B-item_description
+21.12 -> B-item_unit_price
+63.36 -> B-item_total
+10 -> B-item_quantity
+incentivize viral action-items -> B-item_description
+99.46 -> B-item_unit_price
+994.60 -> B-item_total
+2 -> B-item_quantity
+aggregate transparent architectures -> B-item_description
+45.89 -> B-item_unit_price
+91.78 -> B-item_total
+Subtotal -> O 
+: -> O
+ 2145.83 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+343.33 -> B-tax_amount
+TOTAL -> O
+: -> O
+2489.16 -> B-total

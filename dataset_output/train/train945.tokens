@@ -1,0 +1,64 @@
+Hotel -> B-issuer_name
+Blazquez -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Glorieta -> B-issuer_address
+Jordana -> I-issuer_address
+García -> I-issuer_address
+95 -> I-issuer_address
+Apt. -> I-issuer_address
+56 -> I-issuer_address
+Huelva, -> I-issuer_address
+18179 -> I-issuer_address
++34823523564 -> B-issuer_phone
+mhervia@alberdi.es -> B-issuer_email
+jYs372LVk046 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Anselmo -> B-recipient_name
+Izquierdo-Jaén -> I-recipient_name
+Cañada -> B-recipient_address
+de -> I-recipient_address
+Sosimo -> I-recipient_address
+Prada -> I-recipient_address
+244 -> I-recipient_address
+Ourense, -> I-recipient_address
+11617 -> I-recipient_address
++34 878 83 18 24 -> B-recipient_phone
+icorral@gmail.com -> B-recipient_email
+HFU086mId913 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+215875 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-18 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+seize B2B technologies -> B-item_description
+93.02 -> B-item_unit_price
+465.10 -> B-item_total
+1 -> B-item_quantity
+evolve vertical functionalities -> B-item_description
+33.65 -> B-item_unit_price
+33.65 -> B-item_total
+Subtotal -> O
+: -> O
+ 498.75 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+79.80 -> B-tax_amount
+TOTAL -> O
+: -> O
+578.55 -> B-total

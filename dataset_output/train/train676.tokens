@@ -1,0 +1,92 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+hRI194xCZ946 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34922 861 217 -> B-recipient_phone
+Nombre -> O
+: -> O
+Marta -> B-recipient_name
+Arnal -> I-recipient_name
+Palomo -> I-recipient_name
+Correo -> O
+: -> O
+hbertran@gmail.com -> B-recipient_email
+Camino -> B-recipient_address
+Jessica -> I-recipient_address
+Novoa -> I-recipient_address
+606 -> I-recipient_address
+Apt. -> I-recipient_address
+82 -> I-recipient_address
+Cáceres, -> I-recipient_address
+34769 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+816870 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-06 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+morph bleeding-edge content -> B-item_description
+2 -> B-item_quantity
+85.50 -> B-item_total
+target 24/365 channels -> B-item_description
+2 -> B-item_quantity
+187.32 -> B-item_total
+monetize cross-media e-business -> B-item_description
+9 -> B-item_quantity
+207.45 -> B-item_total
+whiteboard ubiquitous e-services -> B-item_description
+10 -> B-item_quantity
+319.10 -> B-item_total
+Subtotal -> O
+ : -> O
+ 799.37 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+127.90 -> B-tax_amount
+TOTAL -> O
+: -> O
+927.27 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+oud993qPH371 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 887 52 98 21 -> B-issuer_phone
+Nombre -> O
+: -> O
+Servicios -> B-issuer_name
+Lorenzo -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Correo -> O
+: -> O
+barrosleonardo@amat.org -> B-issuer_email
+Plaza -> B-issuer_address
+Tomás -> I-issuer_address
+Baena -> I-issuer_address
+2 -> I-issuer_address
+Piso -> I-issuer_address
+7 -> I-issuer_address
+Burgos, -> I-issuer_address
+51924 -> I-issuer_address

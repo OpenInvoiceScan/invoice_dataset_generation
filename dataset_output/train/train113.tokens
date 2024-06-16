@@ -1,0 +1,68 @@
+Manufacturas -> B-issuer_name
+Alberdi -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Cañada -> B-issuer_address
+Severo -> I-issuer_address
+Montenegro -> I-issuer_address
+55 -> I-issuer_address
+Ourense, -> I-issuer_address
+02117 -> I-issuer_address
++34830125888 -> B-issuer_phone
+broura@baena.com -> B-issuer_email
+zqw484wAG086 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Olalla -> B-recipient_name
+Gras -> I-recipient_name
+Villalobos -> I-recipient_name
+Ronda -> B-recipient_address
+Armida -> I-recipient_address
+Olmedo -> I-recipient_address
+5 -> I-recipient_address
+Puerta -> I-recipient_address
+8 -> I-recipient_address
+Palencia, -> I-recipient_address
+46194 -> I-recipient_address
++34748 23 93 27 -> B-recipient_phone
+ema16@gmail.com -> B-recipient_email
+UIZ612EPa300 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+396944 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-01 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+harness magnetic synergies -> B-item_description
+59.22 -> B-item_unit_price
+532.98 -> B-item_total
+8 -> B-item_quantity
+repurpose user-centric technologies -> B-item_description
+19.31 -> B-item_unit_price
+154.48 -> B-item_total
+9 -> B-item_quantity
+e-enable end-to-end content -> B-item_description
+90.39 -> B-item_unit_price
+813.51 -> B-item_total
+Subtotal -> O
+: -> O
+ 1500.97 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+240.16 -> B-tax_amount
+TOTAL -> O
+: -> O
+1741.13 -> B-total

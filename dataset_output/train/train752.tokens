@@ -1,0 +1,67 @@
+Hnos -> B-issuer_name
+Olmo -> I-issuer_name
+S.Com. -> I-issuer_name
+Glorieta -> B-issuer_address
+Duilio -> I-issuer_address
+Losada -> I-issuer_address
+3 -> I-issuer_address
+Piso -> I-issuer_address
+9 -> I-issuer_address
+Cantabria, -> I-issuer_address
+26838 -> I-issuer_address
++34 901 523 594 -> B-issuer_phone
+blashernando@banca.es -> B-issuer_email
+cIA834TiR087 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Alicia -> B-recipient_name
+Ferrán -> I-recipient_name
+Valentín -> I-recipient_name
+Calle -> B-recipient_address
+Reynaldo -> I-recipient_address
+Sanz -> I-recipient_address
+82 -> I-recipient_address
+Apt. -> I-recipient_address
+52 -> I-recipient_address
+Albacete, -> I-recipient_address
+28057 -> I-recipient_address
++34920465612 -> B-recipient_phone
+claudia71@gmail.com -> B-recipient_email
+NkJ297ntC318 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+428993 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-09 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+maximize revolutionary e-markets -> B-item_description
+82.64 -> B-item_unit_price
+413.20 -> B-item_total
+1 -> B-item_quantity
+e-enable seamless bandwidth -> B-item_description
+44.00 -> B-item_unit_price
+44.00 -> B-item_total
+6 -> B-item_quantity
+target proactive infrastructures -> B-item_description
+23.95 -> B-item_unit_price
+143.70 -> B-item_total
+Subtotal -> O 
+: -> O
+ 600.90 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+96.14 -> B-tax_amount
+TOTAL -> O
+: -> O
+697.04 -> B-total

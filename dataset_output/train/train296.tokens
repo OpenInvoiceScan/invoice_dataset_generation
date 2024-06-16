@@ -1,0 +1,76 @@
+Alvarez -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Alameda -> B-issuer_address
+de -> I-issuer_address
+Carmen -> I-issuer_address
+Fuente -> I-issuer_address
+1 -> I-issuer_address
+Puerta -> I-issuer_address
+3 -> I-issuer_address
+Teruel, -> I-issuer_address
+17675 -> I-issuer_address
++34847 940 900 -> B-issuer_phone
+marticasemiro@tecnologias.com -> B-issuer_email
+juS275stO527 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Ale -> B-recipient_name
+Cristina -> I-recipient_name
+Vázquez -> I-recipient_name
+Arregui -> I-recipient_name
+Plaza -> B-recipient_address
+Dorita -> I-recipient_address
+Quevedo -> I-recipient_address
+40 -> I-recipient_address
+Alicante, -> I-recipient_address
+36006 -> I-recipient_address
++34 887656725 -> B-recipient_phone
+ndomingo@gmail.com -> B-recipient_email
+ZfP639eTw781 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+700873 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-09 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+8 -> B-item_quantity
+aggregate dot-com models -> B-item_description
+71.04 -> B-item_unit_price
+568.32 -> B-item_total
+5 -> B-item_quantity
+streamline distributed metrics -> B-item_description
+96.37 -> B-item_unit_price
+481.85 -> B-item_total
+6 -> B-item_quantity
+incentivize innovative functionalities -> B-item_description
+39.99 -> B-item_unit_price
+239.94 -> B-item_total
+2 -> B-item_quantity
+re-intermediate enterprise e-commerce -> B-item_description
+27.31 -> B-item_unit_price
+54.62 -> B-item_total
+6 -> B-item_quantity
+target virtual info-mediaries -> B-item_description
+29.01 -> B-item_unit_price
+174.06 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1518.79 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+243.01 -> B-tax_amount
+TOTAL -> O
+: -> O
+1761.80 -> B-total

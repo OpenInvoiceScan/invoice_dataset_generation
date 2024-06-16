@@ -1,0 +1,73 @@
+Invoice -> O
+93656 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-24 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-30 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Cipriano -> B-issuer_name
+Calatayud -> I-issuer_name
+Llorens -> I-issuer_name
+S.A. -> I-issuer_name
+Plaza -> B-issuer_address
+de -> I-issuer_address
+Anastasia -> I-issuer_address
+Toledo -> I-issuer_address
+81 -> I-issuer_address
+Castellón, -> I-issuer_address
+16851 -> I-issuer_address
++34692804796 -> B-issuer_phone
+jgil@compania.com -> B-issuer_email
+Miy894MYf148 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Amparo -> B-recipient_name
+del -> I-recipient_name
+Escudero -> I-recipient_name
+Via -> B-recipient_address
+Tere -> I-recipient_address
+Casal -> I-recipient_address
+8 -> I-recipient_address
+Vizcaya, -> I-recipient_address
+34841 -> I-recipient_address
++34 828613033 -> B-recipient_phone
+amorosoriana@hotmail.com -> B-recipient_email
+teX134WEB688 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+maximize one-to-one deliverables -> B-item_description
+8 -> B-item_quantity
+81.11 -> B-item_unit_price
+648.88 -> B-item_total
+target magnetic info-mediaries -> B-item_description
+10 -> B-item_quantity
+34.59 -> B-item_unit_price
+345.90 -> B-item_total
+extend web-enabled convergence -> B-item_description
+6 -> B-item_quantity
+93.16 -> B-item_unit_price
+558.96 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1553.74 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+248.60 -> B-tax_amount
+Total -> O
+: -> O
+1802.34 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

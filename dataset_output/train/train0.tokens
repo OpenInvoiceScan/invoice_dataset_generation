@@ -1,0 +1,73 @@
+Consultoría -> B-issuer_name
+Domingo -> I-issuer_name
+S.C.P -> I-issuer_name
+Pasadizo -> B-issuer_address
+Carolina -> I-issuer_address
+Morales -> I-issuer_address
+3 -> I-issuer_address
+Piso -> I-issuer_address
+3 -> I-issuer_address
+Segovia, -> I-issuer_address
+11358 -> I-issuer_address
++34 982 032 315 -> B-issuer_phone
+rmontesinos@compania.net -> B-issuer_email
+NOf751swi647 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Zacarías -> B-recipient_name
+Núñez-Mayoral -> I-recipient_name
+Cuesta -> B-recipient_address
+de -> I-recipient_address
+Roberta -> I-recipient_address
+Lago -> I-recipient_address
+1 -> I-recipient_address
+Navarra, -> I-recipient_address
+35867 -> I-recipient_address
++34 885471914 -> B-recipient_phone
+nico76@hotmail.com -> B-recipient_email
+Jfi852fQZ939 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+159984 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-24 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+synergize bricks-and-clicks ROI -> B-item_description
+49.51 -> B-item_unit_price
+445.59 -> B-item_total
+10 -> B-item_quantity
+generate leading-edge web services -> B-item_description
+57.78 -> B-item_unit_price
+577.80 -> B-item_total
+1 -> B-item_quantity
+incentivize proactive schemas -> B-item_description
+49.11 -> B-item_unit_price
+49.11 -> B-item_total
+1 -> B-item_quantity
+maximize B2B metrics -> B-item_description
+59.78 -> B-item_unit_price
+59.78 -> B-item_total
+3 -> B-item_quantity
+expedite vertical networks -> B-item_description
+70.98 -> B-item_unit_price
+212.94 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1345.22 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+215.24 -> B-tax_amount
+TOTAL -> O
+: -> O
+1560.46 -> B-total

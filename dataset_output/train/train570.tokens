@@ -1,0 +1,69 @@
+Invoice -> O
+33232 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-20 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-21 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Hermanos -> B-issuer_name
+Armas -> I-issuer_name
+S.C.P -> I-issuer_name
+Plaza -> B-issuer_address
+Rosalía -> I-issuer_address
+Canals -> I-issuer_address
+84 -> I-issuer_address
+Navarra, -> I-issuer_address
+25355 -> I-issuer_address
++34 875 437 684 -> B-issuer_phone
+htorrent@esparza.com -> B-issuer_email
+kNZ699fzq403 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Espiridión -> B-recipient_name
+Gallego -> I-recipient_name
+Cantón -> I-recipient_name
+Camino -> B-recipient_address
+Charo -> I-recipient_address
+Corbacho -> I-recipient_address
+394 -> I-recipient_address
+Piso -> I-recipient_address
+1 -> I-recipient_address
+Ceuta, -> I-recipient_address
+18141 -> I-recipient_address
++34 844 049 333 -> B-recipient_phone
+agarcia@gmail.com -> B-recipient_email
+XAB603XTM326 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+monetize cross-platform e-tailers -> B-item_description
+6 -> B-item_quantity
+85.14 -> B-item_unit_price
+510.84 -> B-item_total
+e-enable end-to-end metrics -> B-item_description
+7 -> B-item_quantity
+26.23 -> B-item_unit_price
+183.61 -> B-item_total
+Subtotal -> O
+ : -> O
+ 694.45 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+111.11 -> B-tax_amount
+Total -> O
+: -> O
+805.56 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

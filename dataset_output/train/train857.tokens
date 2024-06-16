@@ -1,0 +1,73 @@
+Transportes -> B-issuer_name
+DL -> I-issuer_name
+S.Coop. -> I-issuer_name
+Calle -> B-issuer_address
+de -> I-issuer_address
+Gonzalo -> I-issuer_address
+Guzmán -> I-issuer_address
+2 -> I-issuer_address
+Baleares, -> I-issuer_address
+31493 -> I-issuer_address
++34 837479881 -> B-issuer_phone
+uborrell@hnos.org -> B-issuer_email
+KIf489Hvl698 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Gisela -> B-recipient_name
+Ramirez -> I-recipient_name
+Gracia -> I-recipient_name
+Ronda -> B-recipient_address
+de -> I-recipient_address
+Rosa -> I-recipient_address
+María -> I-recipient_address
+Escolano -> I-recipient_address
+24 -> I-recipient_address
+Puerta -> I-recipient_address
+1 -> I-recipient_address
+León, -> I-recipient_address
+05177 -> I-recipient_address
++34877 74 62 32 -> B-recipient_phone
+rodolfomayol@hotmail.com -> B-recipient_email
+xPb638CYf808 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+641774 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-01 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+engineer enterprise markets -> B-item_description
+71.03 -> B-item_unit_price
+710.30 -> B-item_total
+9 -> B-item_quantity
+syndicate seamless convergence -> B-item_description
+16.18 -> B-item_unit_price
+145.62 -> B-item_total
+1 -> B-item_quantity
+engineer B2B eyeballs -> B-item_description
+52.54 -> B-item_unit_price
+52.54 -> B-item_total
+1 -> B-item_quantity
+seize global convergence -> B-item_description
+20.27 -> B-item_unit_price
+20.27 -> B-item_total
+Subtotal -> O
+: -> O
+ 928.73 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+148.60 -> B-tax_amount
+TOTAL -> O
+: -> O
+1077.33 -> B-total

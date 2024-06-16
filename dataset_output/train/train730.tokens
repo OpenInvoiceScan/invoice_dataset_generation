@@ -1,0 +1,70 @@
+Invoice -> O
+972335 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-13 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-13 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Viñas -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Vial -> B-issuer_address
+de -> I-issuer_address
+Balduino -> I-issuer_address
+Cuadrado -> I-issuer_address
+81 -> I-issuer_address
+Piso -> I-issuer_address
+2 -> I-issuer_address
+Ávila, -> I-issuer_address
+31112 -> I-issuer_address
++34 871439958 -> B-issuer_phone
+heliodoro66@canellas.net -> B-issuer_email
+tEG345RaE210 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Rufino -> B-recipient_name
+Nicolau -> I-recipient_name
+Mateu -> I-recipient_name
+Ronda -> B-recipient_address
+de -> I-recipient_address
+Clara -> I-recipient_address
+Montesinos -> I-recipient_address
+96 -> I-recipient_address
+Puerta -> I-recipient_address
+9 -> I-recipient_address
+Soria, -> I-recipient_address
+38073 -> I-recipient_address
++34708 51 94 25 -> B-recipient_phone
+clemente52@yahoo.com -> B-recipient_email
+GXx984YHC595 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+reinvent robust experiences -> B-item_description
+10 -> B-item_quantity
+41.55 -> B-item_unit_price
+415.50 -> B-item_total
+Subtotal -> O
+ : -> O
+ 415.50 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+66.48 -> B-tax_amount
+Total -> O
+: -> O
+481.98 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

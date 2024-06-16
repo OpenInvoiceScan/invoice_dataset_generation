@@ -1,0 +1,90 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+UZr019DFY237 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34712092821 -> B-recipient_phone
+Nombre -> O
+: -> O
+Lucas -> B-recipient_name
+Padilla -> I-recipient_name
+Carreras -> I-recipient_name
+Correo -> O
+: -> O
+coronasalva@yahoo.com -> B-recipient_email
+Paseo -> B-recipient_address
+de -> I-recipient_address
+Ana -> I-recipient_address
+Franch -> I-recipient_address
+53 -> I-recipient_address
+Castellón, -> I-recipient_address
+41573 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+905839 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-26 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+incentivize viral mindshare -> B-item_description
+2 -> B-item_quantity
+48.04 -> B-item_total
+enable plug-and-play schemas -> B-item_description
+10 -> B-item_quantity
+513.50 -> B-item_total
+strategize one-to-one architectures -> B-item_description
+6 -> B-item_quantity
+532.68 -> B-item_total
+harness distributed supply-chains -> B-item_description
+5 -> B-item_quantity
+105.65 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1199.87 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+191.98 -> B-tax_amount
+TOTAL -> O
+: -> O
+1391.85 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+LFD345xFt347 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 824 208 915 -> B-issuer_phone
+Nombre -> O
+: -> O
+Hermanos -> B-issuer_name
+Casal -> I-issuer_name
+S.A. -> I-issuer_name
+Correo -> O
+: -> O
+knogues@rosa.es -> B-issuer_email
+Acceso -> B-issuer_address
+de -> I-issuer_address
+Macaria -> I-issuer_address
+Rey -> I-issuer_address
+19 -> I-issuer_address
+Piso -> I-issuer_address
+8 -> I-issuer_address
+Melilla, -> I-issuer_address
+43953 -> I-issuer_address

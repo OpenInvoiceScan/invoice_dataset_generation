@@ -1,0 +1,73 @@
+Factura -> O
+600463 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-24 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-13 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Inmobiliaria -> B-issuer_name
+Bartolomé -> I-issuer_name
+S.L. -> I-issuer_name
+Alameda -> B-issuer_address
+de -> I-issuer_address
+Elisa -> I-issuer_address
+Porras -> I-issuer_address
+74 -> I-issuer_address
+Cantabria, -> I-issuer_address
+25080 -> I-issuer_address
++34 901 87 68 45 -> B-issuer_phone
+ysuarez@distribuciones.net -> B-issuer_email
+hDA208TQj374 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Lucas -> B-recipient_name
+Bartolomé -> I-recipient_name
+Bermudez -> I-recipient_name
+Pizarro -> I-recipient_name
+Pasadizo -> B-recipient_address
+de -> I-recipient_address
+Julio -> I-recipient_address
+César -> I-recipient_address
+Gámez -> I-recipient_address
+116 -> I-recipient_address
+La -> I-recipient_address
+Rioja, -> I-recipient_address
+46973 -> I-recipient_address
++34 843 91 39 69 -> B-recipient_phone
+narcisomanuel@gmail.com -> B-recipient_email
+oZw735jBh113 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+reinvent efficient e-commerce -> B-item_description
+10 -> B-item_quantity
+80.46 -> B-item_unit_price
+804.60 -> B-item_total
+Subtotal -> O
+ : -> O
+ 804.60 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+128.74 -> B-tax_amount
+Total -> O
+: -> O
+933.34 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

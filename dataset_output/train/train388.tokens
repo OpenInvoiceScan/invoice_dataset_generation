@@ -1,0 +1,86 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+VKq079JSj391 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34871 892 693 -> B-recipient_phone
+Nombre -> O
+: -> O
+Fanny -> B-recipient_name
+María -> I-recipient_name
+Fernanda -> I-recipient_name
+Bonet -> I-recipient_name
+Catalá -> I-recipient_name
+Correo -> O
+: -> O
+hmuro@gmail.com -> B-recipient_email
+Calle -> B-recipient_address
+de -> I-recipient_address
+Abigaíl -> I-recipient_address
+Garcia -> I-recipient_address
+11 -> I-recipient_address
+Las -> I-recipient_address
+Palmas, -> I-recipient_address
+39740 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+112422 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-26 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+engineer cross-media applications -> B-item_description
+2 -> B-item_quantity
+73.60 -> B-item_total
+integrate end-to-end eyeballs -> B-item_description
+6 -> B-item_quantity
+256.44 -> B-item_total
+Subtotal -> O
+ : -> O
+ 330.04 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+52.81 -> B-tax_amount
+TOTAL -> O
+: -> O
+382.85 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+hBb656Yxi300 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 974971024 -> B-issuer_phone
+Nombre -> O
+: -> O
+Rius -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Correo -> O
+: -> O
+kcorbacho@transportes.com -> B-issuer_email
+Pasadizo -> B-issuer_address
+de -> I-issuer_address
+Maura -> I-issuer_address
+Artigas -> I-issuer_address
+89 -> I-issuer_address
+Melilla, -> I-issuer_address
+45884 -> I-issuer_address

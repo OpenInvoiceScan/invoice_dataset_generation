@@ -1,0 +1,73 @@
+Bueno -> B-issuer_name
+y -> I-issuer_name
+Saavedra -> I-issuer_name
+S.A.T. -> I-issuer_name
+Ronda -> B-issuer_address
+de -> I-issuer_address
+Miguel -> I-issuer_address
+Macias -> I-issuer_address
+1 -> I-issuer_address
+Puerta -> I-issuer_address
+3 -> I-issuer_address
+Santa -> I-issuer_address
+Cruz -> I-issuer_address
+de -> I-issuer_address
+Tenerife, -> I-issuer_address
+31309 -> I-issuer_address
++34 902967394 -> B-issuer_phone
+gaston01@ribera.org -> B-issuer_email
+qzd427umw447 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Nazaret -> B-recipient_name
+Noguera -> I-recipient_name
+Cal -> I-recipient_name
+Plaza -> B-recipient_address
+Loreto -> I-recipient_address
+Saldaña -> I-recipient_address
+538 -> I-recipient_address
+Apt. -> I-recipient_address
+62 -> I-recipient_address
+Álava, -> I-recipient_address
+51473 -> I-recipient_address
++34 885 653 765 -> B-recipient_phone
+ubriones@gmail.com -> B-recipient_email
+RGP910GkP634 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+284477 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-24 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+optimize rich synergies -> B-item_description
+76.06 -> B-item_unit_price
+760.60 -> B-item_total
+7 -> B-item_quantity
+embrace viral communities -> B-item_description
+49.26 -> B-item_unit_price
+344.82 -> B-item_total
+8 -> B-item_quantity
+implement impactful infrastructures -> B-item_description
+66.11 -> B-item_unit_price
+528.88 -> B-item_total
+Subtotal -> O
+: -> O
+ 1634.30 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+261.49 -> B-tax_amount
+TOTAL -> O
+: -> O
+1895.79 -> B-total

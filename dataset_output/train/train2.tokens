@@ -1,0 +1,80 @@
+Invoice -> O
+607653 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-04-29 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-20 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Espinosa -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L.L. -> I-issuer_name
+Glorieta -> B-issuer_address
+de -> I-issuer_address
+Natanael -> I-issuer_address
+Pacheco -> I-issuer_address
+79 -> I-issuer_address
+Cáceres, -> I-issuer_address
+30448 -> I-issuer_address
++34 967 07 96 27 -> B-issuer_phone
+ibanezcebrian@barbera.com -> B-issuer_email
+OKu480Dhc636 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Jenaro -> B-recipient_name
+Esteban -> I-recipient_name
+Nadal -> I-recipient_name
+Paseo -> B-recipient_address
+de -> I-recipient_address
+Nando -> I-recipient_address
+Rey -> I-recipient_address
+84 -> I-recipient_address
+Puerta -> I-recipient_address
+4 -> I-recipient_address
+Murcia, -> I-recipient_address
+09661 -> I-recipient_address
++34 978 64 65 67 -> B-recipient_phone
+trinidad40@yahoo.com -> B-recipient_email
+dUo839xko006 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+seize plug-and-play deliverables -> B-item_description
+6 -> B-item_quantity
+42.59 -> B-item_unit_price
+255.54 -> B-item_total
+productize enterprise systems -> B-item_description
+10 -> B-item_quantity
+45.68 -> B-item_unit_price
+456.80 -> B-item_total
+target enterprise mindshare -> B-item_description
+10 -> B-item_quantity
+67.80 -> B-item_unit_price
+678.00 -> B-item_total
+implement intuitive web services -> B-item_description
+8 -> B-item_quantity
+76.56 -> B-item_unit_price
+612.48 -> B-item_total
+Subtotal -> O
+ : -> O
+ 2002.82 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+320.45 -> B-tax_amount
+Total -> O
+: -> O
+2323.27 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

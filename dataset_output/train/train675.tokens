@@ -1,0 +1,80 @@
+Factura -> O
+17485 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-01 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-16 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Hnos -> B-issuer_name
+Pinilla -> I-issuer_name
+S.Com. -> I-issuer_name
+Vial -> B-issuer_address
+Marcio -> I-issuer_address
+Roman -> I-issuer_address
+78 -> I-issuer_address
+Lleida, -> I-issuer_address
+44786 -> I-issuer_address
++34 915 962 542 -> B-issuer_phone
+roldanbarbara@manufacturas.es -> B-issuer_email
+mgB347YeX928 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Prudencio -> B-recipient_name
+Cano -> I-recipient_name
+Redondo -> I-recipient_name
+Camino -> B-recipient_address
+Anselma -> I-recipient_address
+Montesinos -> I-recipient_address
+50 -> I-recipient_address
+Lleida, -> I-recipient_address
+34261 -> I-recipient_address
++34 849460074 -> B-recipient_phone
+francisco-javiersola@hotmail.com -> B-recipient_email
+ScL122gfm321 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+revolutionize proactive action-items -> B-item_description
+6 -> B-item_quantity
+93.81 -> B-item_unit_price
+562.86 -> B-item_total
+extend enterprise initiatives -> B-item_description
+4 -> B-item_quantity
+80.77 -> B-item_unit_price
+323.08 -> B-item_total
+orchestrate back-end web-readiness -> B-item_description
+6 -> B-item_quantity
+15.86 -> B-item_unit_price
+95.16 -> B-item_total
+scale vertical methodologies -> B-item_description
+2 -> B-item_quantity
+52.82 -> B-item_unit_price
+105.64 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1086.74 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+173.88 -> B-tax_amount
+Total -> O
+: -> O
+1260.62 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

@@ -1,0 +1,68 @@
+Elodia -> B-issuer_name
+Ariza -> I-issuer_name
+Boix -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Callejón -> B-issuer_address
+Rosendo -> I-issuer_address
+Losada -> I-issuer_address
+16 -> I-issuer_address
+Las -> I-issuer_address
+Palmas, -> I-issuer_address
+06075 -> I-issuer_address
++34 814 14 25 98 -> B-issuer_phone
+tania08@vazquez.com -> B-issuer_email
+gyE486tBJ718 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Eduardo -> B-recipient_name
+Riquelme -> I-recipient_name
+Pasadizo -> B-recipient_address
+Carmela -> I-recipient_address
+Guitart -> I-recipient_address
+6 -> I-recipient_address
+Huesca, -> I-recipient_address
+30967 -> I-recipient_address
++34 807 212 884 -> B-recipient_phone
+julianacid@yahoo.com -> B-recipient_email
+yav970HyQ837 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+434809 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-20 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+grow turn-key supply-chains -> B-item_description
+46.25 -> B-item_unit_price
+323.75 -> B-item_total
+3 -> B-item_quantity
+matrix extensible platforms -> B-item_description
+86.32 -> B-item_unit_price
+258.96 -> B-item_total
+6 -> B-item_quantity
+maximize dot-com systems -> B-item_description
+39.25 -> B-item_unit_price
+235.50 -> B-item_total
+9 -> B-item_quantity
+revolutionize end-to-end action-items -> B-item_description
+12.69 -> B-item_unit_price
+114.21 -> B-item_total
+Subtotal -> O 
+: -> O
+ 932.42 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+149.19 -> B-tax_amount
+TOTAL -> O
+: -> O
+1081.61 -> B-total

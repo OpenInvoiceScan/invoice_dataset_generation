@@ -1,0 +1,84 @@
+Factura -> O
+901358 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-07 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-16 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Fábrica -> B-issuer_name
+Azcona -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.A. -> I-issuer_name
+Urbanización -> B-issuer_address
+José -> I-issuer_address
+Ángel -> I-issuer_address
+Priego -> I-issuer_address
+448 -> I-issuer_address
+Apt. -> I-issuer_address
+57 -> I-issuer_address
+Vizcaya, -> I-issuer_address
+21221 -> I-issuer_address
++34 883 28 54 56 -> B-issuer_phone
+mateopol@supermercados.net -> B-issuer_email
+Zmo906Gmk802 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Albina -> B-recipient_name
+Guillen -> I-recipient_name
+Glorieta -> B-recipient_address
+Adoración -> I-recipient_address
+Gómez -> I-recipient_address
+202 -> I-recipient_address
+Palencia, -> I-recipient_address
+21374 -> I-recipient_address
++34 877 34 74 24 -> B-recipient_phone
+hortensia80@hotmail.com -> B-recipient_email
+KRV028ipR745 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+brand strategic e-commerce -> B-item_description
+7 -> B-item_quantity
+93.81 -> B-item_unit_price
+656.67 -> B-item_total
+synergize robust vortals -> B-item_description
+8 -> B-item_quantity
+31.84 -> B-item_unit_price
+254.72 -> B-item_total
+evolve scalable users -> B-item_description
+3 -> B-item_quantity
+67.99 -> B-item_unit_price
+203.97 -> B-item_total
+envisioneer efficient communities -> B-item_description
+9 -> B-item_quantity
+47.25 -> B-item_unit_price
+425.25 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1540.61 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+246.50 -> B-tax_amount
+Total -> O
+: -> O
+1787.11 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

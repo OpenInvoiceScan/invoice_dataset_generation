@@ -1,0 +1,81 @@
+Factura -> O
+748441 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-03 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-12 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Ponce -> B-issuer_name
+y -> I-issuer_name
+Guzmán -> I-issuer_name
+S.A. -> I-issuer_name
+Urbanización -> B-issuer_address
+de -> I-issuer_address
+Manuel -> I-issuer_address
+Ojeda -> I-issuer_address
+41 -> I-issuer_address
+Zaragoza, -> I-issuer_address
+32520 -> I-issuer_address
++34927415487 -> B-issuer_phone
+eveliapatino@despacho.com -> B-issuer_email
+Tzw761yDz606 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Antonia -> B-recipient_name
+Gómez -> I-recipient_name
+Paseo -> B-recipient_address
+Tamara -> I-recipient_address
+Diaz -> I-recipient_address
+17 -> I-recipient_address
+Pontevedra, -> I-recipient_address
+11467 -> I-recipient_address
++34 948176671 -> B-recipient_phone
+diegocastaneda@yahoo.com -> B-recipient_email
+RmE260KBt461 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+redefine cross-platform paradigms -> B-item_description
+9 -> B-item_quantity
+18.52 -> B-item_unit_price
+166.68 -> B-item_total
+iterate enterprise communities -> B-item_description
+5 -> B-item_quantity
+55.81 -> B-item_unit_price
+279.05 -> B-item_total
+transform granular convergence -> B-item_description
+5 -> B-item_quantity
+94.46 -> B-item_unit_price
+472.30 -> B-item_total
+streamline seamless ROI -> B-item_description
+1 -> B-item_quantity
+63.94 -> B-item_unit_price
+63.94 -> B-item_total
+Subtotal -> O
+ : -> O
+ 981.97 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+157.12 -> B-tax_amount
+Total -> O
+: -> O
+1139.09 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

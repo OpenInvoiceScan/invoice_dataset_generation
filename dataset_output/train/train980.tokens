@@ -1,0 +1,88 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+Rad021lVx033 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34976 919 227 -> B-recipient_phone
+Nombre -> O
+: -> O
+Eutropio -> B-recipient_name
+Borja -> I-recipient_name
+Cervera -> I-recipient_name
+Soria -> I-recipient_name
+Correo -> O
+: -> O
+farreimelda@gmail.com -> B-recipient_email
+Camino -> B-recipient_address
+de -> I-recipient_address
+Florina -> I-recipient_address
+Escamilla -> I-recipient_address
+8 -> I-recipient_address
+Ourense, -> I-recipient_address
+25402 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+878870 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-09 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+synergize collaborative users -> B-item_description
+10 -> B-item_quantity
+655.30 -> B-item_total
+incubate ubiquitous info-mediaries -> B-item_description
+6 -> B-item_quantity
+219.54 -> B-item_total
+deliver B2C partnerships -> B-item_description
+1 -> B-item_quantity
+50.84 -> B-item_total
+Subtotal -> O
+ : -> O
+ 925.68 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+148.11 -> B-tax_amount
+TOTAL -> O
+: -> O
+1073.79 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+YFK284Iga485 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34875 260 138 -> B-issuer_phone
+Nombre -> O
+: -> O
+Grupo -> B-issuer_name
+Belda -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Correo -> O
+: -> O
+felixsalamanca@coello.es -> B-issuer_email
+Cañada -> B-issuer_address
+de -> I-issuer_address
+Hortensia -> I-issuer_address
+Lucena -> I-issuer_address
+2 -> I-issuer_address
+Apt. -> I-issuer_address
+95 -> I-issuer_address
+Álava, -> I-issuer_address
+10117 -> I-issuer_address

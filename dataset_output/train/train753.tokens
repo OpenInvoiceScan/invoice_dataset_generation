@@ -1,0 +1,59 @@
+Compañía -> B-issuer_name
+Carlos -> I-issuer_name
+S.A. -> I-issuer_name
+Paseo -> B-issuer_address
+de -> I-issuer_address
+Iris -> I-issuer_address
+Sanabria -> I-issuer_address
+65 -> I-issuer_address
+Apt. -> I-issuer_address
+16 -> I-issuer_address
+Las -> I-issuer_address
+Palmas, -> I-issuer_address
+42712 -> I-issuer_address
++34 845025105 -> B-issuer_phone
+paulinocamara@distribuciones.com -> B-issuer_email
+smL486OQX587 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Ceferino -> B-recipient_name
+Morillo-Cerdán -> I-recipient_name
+Paseo -> B-recipient_address
+Candelas -> I-recipient_address
+Redondo -> I-recipient_address
+58 -> I-recipient_address
+Madrid, -> I-recipient_address
+13159 -> I-recipient_address
++34 823 47 01 20 -> B-recipient_phone
+ucerezo@yahoo.com -> B-recipient_email
+oOi757Lku675 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+375568 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-21 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+transform transparent users -> B-item_description
+31.25 -> B-item_unit_price
+312.50 -> B-item_total
+Subtotal -> O
+: -> O
+ 312.50 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+50.00 -> B-tax_amount
+TOTAL -> O
+: -> O
+362.50 -> B-total

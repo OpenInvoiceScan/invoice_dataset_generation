@@ -1,0 +1,77 @@
+Suministros -> B-issuer_name
+QI -> I-issuer_name
+S.Coop. -> I-issuer_name
+Calle -> B-issuer_address
+de -> I-issuer_address
+Aroa -> I-issuer_address
+Lozano -> I-issuer_address
+18 -> I-issuer_address
+León, -> I-issuer_address
+05850 -> I-issuer_address
++34 926 78 69 19 -> B-issuer_phone
+manu96@alcalde.es -> B-issuer_email
+nYf283FKk840 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Adriana -> B-recipient_name
+Ramona -> I-recipient_name
+Luz -> I-recipient_name
+Robledo -> I-recipient_name
+Via -> B-recipient_address
+de -> I-recipient_address
+Rosenda -> I-recipient_address
+Roda -> I-recipient_address
+80 -> I-recipient_address
+Apt. -> I-recipient_address
+20 -> I-recipient_address
+Málaga, -> I-recipient_address
+08946 -> I-recipient_address
++34976 459 867 -> B-recipient_phone
+arseniojuan@hotmail.com -> B-recipient_email
+GXp010sBS906 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+202109 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-20 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+enable extensible vortals -> B-item_description
+69.11 -> B-item_unit_price
+276.44 -> B-item_total
+7 -> B-item_quantity
+syndicate cutting-edge paradigms -> B-item_description
+53.90 -> B-item_unit_price
+377.30 -> B-item_total
+5 -> B-item_quantity
+redefine 24/365 niches -> B-item_description
+15.13 -> B-item_unit_price
+75.65 -> B-item_total
+6 -> B-item_quantity
+disintermediate visionary content -> B-item_description
+58.29 -> B-item_unit_price
+349.74 -> B-item_total
+8 -> B-item_quantity
+deploy turn-key web-readiness -> B-item_description
+66.31 -> B-item_unit_price
+530.48 -> B-item_total
+Subtotal -> O
+: -> O
+ 1609.61 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+257.54 -> B-tax_amount
+TOTAL -> O
+: -> O
+1867.15 -> B-total

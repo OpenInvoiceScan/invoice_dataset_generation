@@ -1,0 +1,72 @@
+Fabiola -> B-issuer_name
+Cantón -> I-issuer_name
+Zapata -> I-issuer_name
+S.L. -> I-issuer_name
+Cuesta -> B-issuer_address
+Baudelio -> I-issuer_address
+Ruano -> I-issuer_address
+271 -> I-issuer_address
+Sevilla, -> I-issuer_address
+35738 -> I-issuer_address
++34879 663 024 -> B-issuer_phone
+upedraza@suministros.org -> B-issuer_email
+Csn882oqZ115 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Vicenta -> B-recipient_name
+del -> I-recipient_name
+Ibañez -> I-recipient_name
+Urbanización -> B-recipient_address
+de -> I-recipient_address
+Amílcar -> I-recipient_address
+Higueras -> I-recipient_address
+267 -> I-recipient_address
+Piso -> I-recipient_address
+9 -> I-recipient_address
+Tarragona, -> I-recipient_address
+51323 -> I-recipient_address
++34873754736 -> B-recipient_phone
+nilda96@yahoo.com -> B-recipient_email
+CcT627AtY551 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+831672 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-15 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+orchestrate revolutionary convergence -> B-item_description
+11.37 -> B-item_unit_price
+34.11 -> B-item_total
+9 -> B-item_quantity
+visualize extensible supply-chains -> B-item_description
+90.44 -> B-item_unit_price
+813.96 -> B-item_total
+7 -> B-item_quantity
+leverage frictionless solutions -> B-item_description
+92.63 -> B-item_unit_price
+648.41 -> B-item_total
+8 -> B-item_quantity
+engage ubiquitous niches -> B-item_description
+42.80 -> B-item_unit_price
+342.40 -> B-item_total
+Subtotal -> O
+: -> O
+ 1838.88 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+294.22 -> B-tax_amount
+TOTAL -> O
+: -> O
+2133.10 -> B-total

@@ -1,0 +1,76 @@
+Valdés -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Calle -> B-issuer_address
+de -> I-issuer_address
+Ligia -> I-issuer_address
+Martorell -> I-issuer_address
+57 -> I-issuer_address
+Apt. -> I-issuer_address
+97 -> I-issuer_address
+Huelva, -> I-issuer_address
+09041 -> I-issuer_address
++34946 802 592 -> B-issuer_phone
+cuestaaurea@industrias.com -> B-issuer_email
+YUE494bDz689 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Ileana -> B-recipient_name
+Orozco -> I-recipient_name
+Solís -> I-recipient_name
+Pasadizo -> B-recipient_address
+de -> I-recipient_address
+Griselda -> I-recipient_address
+Ferrer -> I-recipient_address
+7 -> I-recipient_address
+Pontevedra, -> I-recipient_address
+07602 -> I-recipient_address
++34 872 924 926 -> B-recipient_phone
+cocajuan-luis@hotmail.com -> B-recipient_email
+dMW588Afl542 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+838194 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-02 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+1 -> B-item_quantity
+incentivize next-generation vortals -> B-item_description
+91.75 -> B-item_unit_price
+91.75 -> B-item_total
+7 -> B-item_quantity
+utilize global info-mediaries -> B-item_description
+19.98 -> B-item_unit_price
+139.86 -> B-item_total
+4 -> B-item_quantity
+engage robust bandwidth -> B-item_description
+13.04 -> B-item_unit_price
+52.16 -> B-item_total
+4 -> B-item_quantity
+envisioneer leading-edge eyeballs -> B-item_description
+77.54 -> B-item_unit_price
+310.16 -> B-item_total
+8 -> B-item_quantity
+unleash seamless markets -> B-item_description
+83.95 -> B-item_unit_price
+671.60 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1265.53 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+202.48 -> B-tax_amount
+TOTAL -> O
+: -> O
+1468.01 -> B-total

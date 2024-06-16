@@ -1,0 +1,66 @@
+Maldonado -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Cañada -> B-issuer_address
+de -> I-issuer_address
+Blas -> I-issuer_address
+Terrón -> I-issuer_address
+313 -> I-issuer_address
+Badajoz, -> I-issuer_address
+38197 -> I-issuer_address
++34925 33 63 58 -> B-issuer_phone
+abellanzaira@familia.es -> B-issuer_email
+BsS170OwV692 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Dolores -> B-recipient_name
+Adán -> I-recipient_name
+Sanz -> I-recipient_name
+Vial -> B-recipient_address
+de -> I-recipient_address
+Merche -> I-recipient_address
+Pinto -> I-recipient_address
+526 -> I-recipient_address
+Málaga, -> I-recipient_address
+11672 -> I-recipient_address
++34985531819 -> B-recipient_phone
+saturnino42@hotmail.com -> B-recipient_email
+mhA496imj514 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+942025 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-09 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+incentivize frictionless niches -> B-item_description
+77.46 -> B-item_unit_price
+232.38 -> B-item_total
+3 -> B-item_quantity
+matrix interactive metrics -> B-item_description
+57.96 -> B-item_unit_price
+173.88 -> B-item_total
+8 -> B-item_quantity
+aggregate granular bandwidth -> B-item_description
+19.51 -> B-item_unit_price
+156.08 -> B-item_total
+Subtotal -> O 
+: -> O
+ 562.34 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+89.97 -> B-tax_amount
+TOTAL -> O
+: -> O
+652.31 -> B-total

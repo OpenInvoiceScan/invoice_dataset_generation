@@ -1,0 +1,61 @@
+Distribuciones -> B-issuer_name
+Infante -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.L. -> I-issuer_name
+Ronda -> B-issuer_address
+Macarena -> I-issuer_address
+Cabrera -> I-issuer_address
+21 -> I-issuer_address
+Cádiz, -> I-issuer_address
+26206 -> I-issuer_address
++34632 68 47 22 -> B-issuer_phone
+begonabayona@banco.com -> B-issuer_email
+jBv676DmB129 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+José -> B-recipient_name
+Manuel -> I-recipient_name
+Barco -> I-recipient_name
+Fuentes -> I-recipient_name
+Cañada -> B-recipient_address
+Olivia -> I-recipient_address
+Soto -> I-recipient_address
+64 -> I-recipient_address
+Puerta -> I-recipient_address
+9 -> I-recipient_address
+Cádiz, -> I-recipient_address
+22201 -> I-recipient_address
++34825 690 004 -> B-recipient_phone
+eliaspriscila@yahoo.com -> B-recipient_email
+lxS604guf347 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+748156 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-12 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+9 -> B-item_quantity
+cultivate cross-media functionalities -> B-item_description
+41.84 -> B-item_unit_price
+376.56 -> B-item_total
+Subtotal -> O
+: -> O
+ 376.56 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+60.25 -> B-tax_amount
+TOTAL -> O
+: -> O
+436.81 -> B-total

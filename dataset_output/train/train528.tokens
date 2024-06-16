@@ -1,0 +1,75 @@
+Consultoría -> B-issuer_name
+Ibáñez -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.C.P -> I-issuer_name
+Cañada -> B-issuer_address
+Eustaquio -> I-issuer_address
+Amo -> I-issuer_address
+99 -> I-issuer_address
+Huesca, -> I-issuer_address
+30057 -> I-issuer_address
++34925 091 456 -> B-issuer_phone
+raznar@mineria.com -> B-issuer_email
+KMn933VkY933 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Quirino -> B-recipient_name
+Salom -> I-recipient_name
+Zabala -> I-recipient_name
+Cañada -> B-recipient_address
+Regina -> I-recipient_address
+Diéguez -> I-recipient_address
+50 -> I-recipient_address
+Piso -> I-recipient_address
+6 -> I-recipient_address
+Huesca, -> I-recipient_address
+15679 -> I-recipient_address
++34703 99 66 12 -> B-recipient_phone
+aguedaramirez@yahoo.com -> B-recipient_email
+Ndp985QkX558 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+604630 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-13 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+architect vertical portals -> B-item_description
+94.10 -> B-item_unit_price
+188.20 -> B-item_total
+10 -> B-item_quantity
+transform 24/7 schemas -> B-item_description
+30.12 -> B-item_unit_price
+301.20 -> B-item_total
+10 -> B-item_quantity
+revolutionize next-generation supply-chains -> B-item_description
+89.96 -> B-item_unit_price
+899.60 -> B-item_total
+4 -> B-item_quantity
+innovate rich relationships -> B-item_description
+70.84 -> B-item_unit_price
+283.36 -> B-item_total
+3 -> B-item_quantity
+brand user-centric systems -> B-item_description
+98.21 -> B-item_unit_price
+294.63 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1966.99 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+314.72 -> B-tax_amount
+TOTAL -> O
+: -> O
+2281.71 -> B-total

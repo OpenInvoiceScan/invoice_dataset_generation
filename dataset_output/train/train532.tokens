@@ -1,0 +1,93 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+koE036cta415 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 928 701 639 -> B-recipient_phone
+Nombre -> O
+: -> O
+Lorena -> B-recipient_name
+Armengol -> I-recipient_name
+Valcárcel -> I-recipient_name
+Correo -> O
+: -> O
+perlita38@gmail.com -> B-recipient_email
+Acceso -> B-recipient_address
+Jovita -> I-recipient_address
+Navarrete -> I-recipient_address
+5 -> I-recipient_address
+Piso -> I-recipient_address
+5 -> I-recipient_address
+Albacete, -> I-recipient_address
+51088 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+590802 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-24 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+envisioneer clicks-and-mortar convergence -> B-item_description
+3 -> B-item_quantity
+97.56 -> B-item_total
+synthesize back-end e-tailers -> B-item_description
+2 -> B-item_quantity
+134.36 -> B-item_total
+harness web-enabled interfaces -> B-item_description
+9 -> B-item_quantity
+281.34 -> B-item_total
+engage vertical web-readiness -> B-item_description
+4 -> B-item_quantity
+337.48 -> B-item_total
+target sticky convergence -> B-item_description
+10 -> B-item_quantity
+868.70 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1719.44 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+275.11 -> B-tax_amount
+TOTAL -> O
+: -> O
+1994.55 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+qIu277TjI798 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 981 28 46 20 -> B-issuer_phone
+Nombre -> O
+: -> O
+Pili -> B-issuer_name
+Pagès -> I-issuer_name
+Porta -> I-issuer_name
+S.Coop. -> I-issuer_name
+Correo -> O
+: -> O
+lupita65@desarrollo.org -> B-issuer_email
+Glorieta -> B-issuer_address
+Nuria -> I-issuer_address
+Yuste -> I-issuer_address
+92 -> I-issuer_address
+La -> I-issuer_address
+Rioja, -> I-issuer_address
+43120 -> I-issuer_address

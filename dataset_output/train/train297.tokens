@@ -1,0 +1,66 @@
+Instalaciones -> B-issuer_name
+Ibéricos -> I-issuer_name
+S.L. -> I-issuer_name
+Vial -> B-issuer_address
+Guiomar -> I-issuer_address
+Carrera -> I-issuer_address
+265 -> I-issuer_address
+Piso -> I-issuer_address
+0 -> I-issuer_address
+Segovia, -> I-issuer_address
+17137 -> I-issuer_address
++34914468026 -> B-issuer_phone
+zaidaandres@farmaceutica.com -> B-issuer_email
+cWe971roo169 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Amor -> B-recipient_name
+Guerra -> I-recipient_name
+Bertrán -> I-recipient_name
+Acceso -> B-recipient_address
+Apolinar -> I-recipient_address
+Prat -> I-recipient_address
+7 -> I-recipient_address
+Ávila, -> I-recipient_address
+14312 -> I-recipient_address
++34986 469 600 -> B-recipient_phone
+eloyginer@hotmail.com -> B-recipient_email
+NyD316rID290 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+34556 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-18 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+optimize best-of-breed web-readiness -> B-item_description
+88.71 -> B-item_unit_price
+266.13 -> B-item_total
+9 -> B-item_quantity
+monetize distributed mindshare -> B-item_description
+96.95 -> B-item_unit_price
+872.55 -> B-item_total
+4 -> B-item_quantity
+deploy dynamic niches -> B-item_description
+39.61 -> B-item_unit_price
+158.44 -> B-item_total
+Subtotal -> O
+: -> O
+ 1297.12 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+207.54 -> B-tax_amount
+TOTAL -> O
+: -> O
+1504.66 -> B-total

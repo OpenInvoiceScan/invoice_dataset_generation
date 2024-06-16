@@ -1,0 +1,90 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+GOc047omz942 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34971 25 01 20 -> B-recipient_phone
+Nombre -> O
+: -> O
+Nacio -> B-recipient_name
+del -> I-recipient_name
+Barrios -> I-recipient_name
+Correo -> O
+: -> O
+calistaamador@yahoo.com -> B-recipient_email
+Calle -> B-recipient_address
+Juan -> I-recipient_address
+Antonio -> I-recipient_address
+Borrás -> I-recipient_address
+97 -> I-recipient_address
+Apt. -> I-recipient_address
+88 -> I-recipient_address
+Sevilla, -> I-recipient_address
+02208 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+21601 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-04 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+drive efficient technologies -> B-item_description
+5 -> B-item_quantity
+81.75 -> B-item_total
+redefine holistic ROI -> B-item_description
+3 -> B-item_quantity
+96.66 -> B-item_total
+strategize user-centric web-readiness -> B-item_description
+5 -> B-item_quantity
+326.05 -> B-item_total
+expedite rich mindshare -> B-item_description
+7 -> B-item_quantity
+360.43 -> B-item_total
+Subtotal -> O
+ : -> O
+ 864.89 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+138.38 -> B-tax_amount
+TOTAL -> O
+: -> O
+1003.27 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+NAz963oMr532 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34845 75 93 17 -> B-issuer_phone
+Nombre -> O
+: -> O
+Goñi -> B-issuer_name
+y -> I-issuer_name
+Llobet -> I-issuer_name
+S.Com. -> I-issuer_name
+Correo -> O
+: -> O
+amancio71@itziar.com -> B-issuer_email
+Via -> B-issuer_address
+Manuelita -> I-issuer_address
+Beltrán -> I-issuer_address
+1 -> I-issuer_address
+Huelva, -> I-issuer_address
+24925 -> I-issuer_address

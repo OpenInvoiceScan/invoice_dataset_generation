@@ -1,0 +1,76 @@
+Finanzas -> B-issuer_name
+Ibérica -> I-issuer_name
+S.L. -> I-issuer_name
+Ronda -> B-issuer_address
+de -> I-issuer_address
+Ruben -> I-issuer_address
+Maldonado -> I-issuer_address
+5 -> I-issuer_address
+Ceuta, -> I-issuer_address
+45796 -> I-issuer_address
++34 834 461 738 -> B-issuer_phone
+modesta97@distribuciones.es -> B-issuer_email
+LZZ197fXz633 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Flavio -> B-recipient_name
+Real -> I-recipient_name
+Mancebo -> I-recipient_name
+Paseo -> B-recipient_address
+de -> I-recipient_address
+Maricela -> I-recipient_address
+Almeida -> I-recipient_address
+14 -> I-recipient_address
+Puerta -> I-recipient_address
+8 -> I-recipient_address
+Huesca, -> I-recipient_address
+07973 -> I-recipient_address
++34863906119 -> B-recipient_phone
+imoles@gmail.com -> B-recipient_email
+MsU025agk487 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+647946 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-07 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+utilize turn-key e-markets -> B-item_description
+76.94 -> B-item_unit_price
+384.70 -> B-item_total
+8 -> B-item_quantity
+repurpose dynamic technologies -> B-item_description
+73.34 -> B-item_unit_price
+586.72 -> B-item_total
+8 -> B-item_quantity
+incentivize integrated web-readiness -> B-item_description
+80.59 -> B-item_unit_price
+644.72 -> B-item_total
+7 -> B-item_quantity
+harness cross-media initiatives -> B-item_description
+34.93 -> B-item_unit_price
+244.51 -> B-item_total
+5 -> B-item_quantity
+deploy dynamic metrics -> B-item_description
+39.80 -> B-item_unit_price
+199.00 -> B-item_total
+Subtotal -> O
+: -> O
+ 2059.65 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+329.54 -> B-tax_amount
+TOTAL -> O
+: -> O
+2389.19 -> B-total

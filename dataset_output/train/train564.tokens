@@ -1,0 +1,90 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+iDZ453KBy117 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34954 75 99 85 -> B-recipient_phone
+Nombre -> O
+: -> O
+Apolinar -> B-recipient_name
+Adán -> I-recipient_name
+Correo -> O
+: -> O
+vivesadolfo@yahoo.com -> B-recipient_email
+Via -> B-recipient_address
+de -> I-recipient_address
+Jacobo -> I-recipient_address
+Prieto -> I-recipient_address
+67 -> I-recipient_address
+Asturias, -> I-recipient_address
+13409 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+604329 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-01 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+matrix magnetic interfaces -> B-item_description
+1 -> B-item_quantity
+87.30 -> B-item_total
+productize mission-critical markets -> B-item_description
+3 -> B-item_quantity
+131.91 -> B-item_total
+aggregate 24/7 deliverables -> B-item_description
+1 -> B-item_quantity
+53.99 -> B-item_total
+harness collaborative systems -> B-item_description
+8 -> B-item_quantity
+464.24 -> B-item_total
+Subtotal -> O
+ : -> O
+ 737.44 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+117.99 -> B-tax_amount
+TOTAL -> O
+: -> O
+855.43 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+BOr201pVJ473 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34973900817 -> B-issuer_phone
+Nombre -> O
+: -> O
+Morera -> B-issuer_name
+y -> I-issuer_name
+Jordá -> I-issuer_name
+S.Coop. -> I-issuer_name
+Correo -> O
+: -> O
+xandres@menendez.com -> B-issuer_email
+Pasaje -> B-issuer_address
+de -> I-issuer_address
+Marino -> I-issuer_address
+Cámara -> I-issuer_address
+38 -> I-issuer_address
+Puerta -> I-issuer_address
+5 -> I-issuer_address
+Pontevedra, -> I-issuer_address
+35523 -> I-issuer_address

@@ -1,0 +1,75 @@
+Invoice -> O
+500080 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-17 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-06 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Infraestructuras -> B-issuer_name
+Ribes -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.C.P -> I-issuer_name
+Via -> B-issuer_address
+Mar -> I-issuer_address
+Polo -> I-issuer_address
+99 -> I-issuer_address
+Córdoba, -> I-issuer_address
+02921 -> I-issuer_address
++34946211858 -> B-issuer_phone
+alvaroposada@felicia.es -> B-issuer_email
+Gsg688Usc163 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Luis -> B-recipient_name
+Miguel -> I-recipient_name
+Teruel -> I-recipient_name
+Avenida -> B-recipient_address
+Dora -> I-recipient_address
+Benavides -> I-recipient_address
+41 -> I-recipient_address
+Piso -> I-recipient_address
+7 -> I-recipient_address
+Cantabria, -> I-recipient_address
+33367 -> I-recipient_address
++34872816889 -> B-recipient_phone
+lorenzoolivares@yahoo.com -> B-recipient_email
+sbJ557BXZ608 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+whiteboard seamless e-markets -> B-item_description
+1 -> B-item_quantity
+54.30 -> B-item_unit_price
+54.30 -> B-item_total
+reinvent vertical applications -> B-item_description
+6 -> B-item_quantity
+24.27 -> B-item_unit_price
+145.62 -> B-item_total
+syndicate scalable e-business -> B-item_description
+1 -> B-item_quantity
+69.11 -> B-item_unit_price
+69.11 -> B-item_total
+Subtotal -> O
+ : -> O
+ 269.03 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+43.04 -> B-tax_amount
+Total -> O
+: -> O
+312.07 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

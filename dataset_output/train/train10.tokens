@@ -1,0 +1,77 @@
+Invoice -> O
+902651 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-13 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-21 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Alimentación -> B-issuer_name
+Linares -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.A. -> I-issuer_name
+Pasaje -> B-issuer_address
+Mario -> I-issuer_address
+Tur -> I-issuer_address
+5 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Salamanca, -> I-issuer_address
+07639 -> I-issuer_address
++34 877409131 -> B-issuer_phone
+felix85@amor.org -> B-issuer_email
+tUV556RUi537 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Ainara -> B-recipient_name
+Leiva -> I-recipient_name
+Samper -> I-recipient_name
+Callejón -> B-recipient_address
+Sabina -> I-recipient_address
+Lamas -> I-recipient_address
+69 -> I-recipient_address
+Puerta -> I-recipient_address
+2 -> I-recipient_address
+Baleares, -> I-recipient_address
+46658 -> I-recipient_address
++34879 96 00 03 -> B-recipient_phone
+ernesto78@hotmail.com -> B-recipient_email
+Qkk450kbg810 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+repurpose compelling paradigms -> B-item_description
+7 -> B-item_quantity
+52.40 -> B-item_unit_price
+366.80 -> B-item_total
+re-intermediate e-business paradigms -> B-item_description
+7 -> B-item_quantity
+29.69 -> B-item_unit_price
+207.83 -> B-item_total
+leverage world-class web-readiness -> B-item_description
+4 -> B-item_quantity
+18.71 -> B-item_unit_price
+74.84 -> B-item_total
+Subtotal -> O
+ : -> O
+ 649.47 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+103.92 -> B-tax_amount
+Total -> O
+: -> O
+753.39 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

@@ -1,0 +1,75 @@
+Manufacturas -> B-issuer_name
+TE -> I-issuer_name
+S.A. -> I-issuer_name
+Plaza -> B-issuer_address
+de -> I-issuer_address
+Pili -> I-issuer_address
+Saavedra -> I-issuer_address
+490 -> I-issuer_address
+Cáceres, -> I-issuer_address
+42155 -> I-issuer_address
++34 971 26 26 43 -> B-issuer_phone
+estherredondo@familia.com -> B-issuer_email
+dBh809UMQ060 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Florinda -> B-recipient_name
+de -> I-recipient_name
+Juárez -> I-recipient_name
+Via -> B-recipient_address
+de -> I-recipient_address
+Cintia -> I-recipient_address
+Duque -> I-recipient_address
+6 -> I-recipient_address
+Piso -> I-recipient_address
+3 -> I-recipient_address
+Granada, -> I-recipient_address
+33977 -> I-recipient_address
++34 948 09 86 51 -> B-recipient_phone
+monrealelodia@gmail.com -> B-recipient_email
+zHv972CJd002 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+145332 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-21 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+e-enable intuitive relationships -> B-item_description
+39.01 -> B-item_unit_price
+234.06 -> B-item_total
+9 -> B-item_quantity
+incubate best-of-breed synergies -> B-item_description
+64.99 -> B-item_unit_price
+584.91 -> B-item_total
+6 -> B-item_quantity
+drive magnetic markets -> B-item_description
+96.00 -> B-item_unit_price
+576.00 -> B-item_total
+9 -> B-item_quantity
+brand 24/365 applications -> B-item_description
+88.75 -> B-item_unit_price
+798.75 -> B-item_total
+5 -> B-item_quantity
+matrix intuitive technologies -> B-item_description
+72.88 -> B-item_unit_price
+364.40 -> B-item_total
+Subtotal -> O 
+: -> O
+ 2558.12 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+409.30 -> B-tax_amount
+TOTAL -> O
+: -> O
+2967.42 -> B-total

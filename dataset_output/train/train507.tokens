@@ -1,0 +1,77 @@
+Factura -> O
+121632 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-11 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-25 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Hermanos -> B-issuer_name
+Espejo -> I-issuer_name
+S.L. -> I-issuer_name
+Plaza -> B-issuer_address
+de -> I-issuer_address
+Anastasia -> I-issuer_address
+Escamilla -> I-issuer_address
+88 -> I-issuer_address
+Piso -> I-issuer_address
+7 -> I-issuer_address
+Zamora, -> I-issuer_address
+29064 -> I-issuer_address
++34982 701 313 -> B-issuer_phone
+zorrillaeva-maria@alonso.net -> B-issuer_email
+vZx236FAd535 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Priscila -> B-recipient_name
+Mulet -> I-recipient_name
+Cuesta -> B-recipient_address
+de -> I-recipient_address
+Sosimo -> I-recipient_address
+Villar -> I-recipient_address
+66 -> I-recipient_address
+Piso -> I-recipient_address
+7 -> I-recipient_address
+Jaén, -> I-recipient_address
+13883 -> I-recipient_address
++34859 23 78 74 -> B-recipient_phone
+hernandezeustaquio@gmail.com -> B-recipient_email
+paZ855xza316 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+re-intermediate rich e-markets -> B-item_description
+4 -> B-item_quantity
+14.91 -> B-item_unit_price
+59.64 -> B-item_total
+strategize mission-critical communities -> B-item_description
+1 -> B-item_quantity
+41.49 -> B-item_unit_price
+41.49 -> B-item_total
+Subtotal -> O
+ : -> O
+ 101.13 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+16.18 -> B-tax_amount
+Total -> O
+: -> O
+117.31 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

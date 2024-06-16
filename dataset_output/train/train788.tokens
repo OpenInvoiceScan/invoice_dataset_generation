@@ -1,0 +1,89 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+IDg827vJx795 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 984 021 244 -> B-recipient_phone
+Nombre -> O
+: -> O
+Sergio -> B-recipient_name
+Pedrosa -> I-recipient_name
+Rueda -> I-recipient_name
+Correo -> O
+: -> O
+heraclio71@hotmail.com -> B-recipient_email
+Glorieta -> B-recipient_address
+Heriberto -> I-recipient_address
+Reina -> I-recipient_address
+54 -> I-recipient_address
+Ciudad, -> I-recipient_address
+04886 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+658809 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-30 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+e-enable vertical bandwidth -> B-item_description
+2 -> B-item_quantity
+60.86 -> B-item_total
+implement wireless ROI -> B-item_description
+2 -> B-item_quantity
+130.86 -> B-item_total
+drive collaborative infrastructures -> B-item_description
+3 -> B-item_quantity
+146.07 -> B-item_total
+integrate killer experiences -> B-item_description
+3 -> B-item_quantity
+296.16 -> B-item_total
+Subtotal -> O
+ : -> O
+ 633.95 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+101.43 -> B-tax_amount
+TOTAL -> O
+: -> O
+735.38 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+oGm513XGD797 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34807333498 -> B-issuer_phone
+Nombre -> O
+: -> O
+Familia -> B-issuer_name
+Vila -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Correo -> O
+: -> O
+qcases@parejo.com -> B-issuer_email
+Rambla -> B-issuer_address
+de -> I-issuer_address
+Ana -> I-issuer_address
+Belén -> I-issuer_address
+Millán -> I-issuer_address
+347 -> I-issuer_address
+Las -> I-issuer_address
+Palmas, -> I-issuer_address
+50377 -> I-issuer_address

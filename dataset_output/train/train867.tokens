@@ -1,0 +1,84 @@
+Factura -> O
+719108 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-17 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-14 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Gaya -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Coop. -> I-issuer_name
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+Ani -> I-issuer_address
+Nuñez -> I-issuer_address
+11 -> I-issuer_address
+Alicante, -> I-issuer_address
+06150 -> I-issuer_address
++34944 106 591 -> B-issuer_phone
+arocaeva-maria@hotel.es -> B-issuer_email
+MUd762uoL614 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Patricio -> B-recipient_name
+Ibarra -> I-recipient_name
+Salvador -> I-recipient_name
+Glorieta -> B-recipient_address
+Faustino -> I-recipient_address
+Pazos -> I-recipient_address
+2 -> I-recipient_address
+Puerta -> I-recipient_address
+7 -> I-recipient_address
+Segovia, -> I-recipient_address
+22260 -> I-recipient_address
++34 921 71 84 40 -> B-recipient_phone
+puigbernardo@gmail.com -> B-recipient_email
+Gee040ToT435 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+aggregate virtual e-services -> B-item_description
+10 -> B-item_quantity
+52.50 -> B-item_unit_price
+525.00 -> B-item_total
+enhance sticky convergence -> B-item_description
+2 -> B-item_quantity
+77.70 -> B-item_unit_price
+155.40 -> B-item_total
+enhance next-generation web-readiness -> B-item_description
+2 -> B-item_quantity
+14.12 -> B-item_unit_price
+28.24 -> B-item_total
+evolve killer web-readiness -> B-item_description
+10 -> B-item_quantity
+62.46 -> B-item_unit_price
+624.60 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1333.24 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+213.32 -> B-tax_amount
+Total -> O
+: -> O
+1546.56 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

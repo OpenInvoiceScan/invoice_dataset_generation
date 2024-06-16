@@ -1,0 +1,64 @@
+Tecnologías -> B-issuer_name
+Quintero -> I-issuer_name
+S.C.P -> I-issuer_name
+Paseo -> B-issuer_address
+Baldomero -> I-issuer_address
+Lopez -> I-issuer_address
+547 -> I-issuer_address
+Lugo, -> I-issuer_address
+39057 -> I-issuer_address
++34737 206 030 -> B-issuer_phone
+primitiva48@dora.com -> B-issuer_email
+MZZ405mAr235 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Lucio -> B-recipient_name
+Contreras -> I-recipient_name
+Ugarte -> I-recipient_name
+Paseo -> B-recipient_address
+Gloria -> I-recipient_address
+Coca -> I-recipient_address
+13 -> I-recipient_address
+Zaragoza, -> I-recipient_address
+49402 -> I-recipient_address
++34 836 02 58 73 -> B-recipient_phone
+carlota99@hotmail.com -> B-recipient_email
+QZV622huI270 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+500725 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-05 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+re-intermediate cross-media partnerships -> B-item_description
+40.30 -> B-item_unit_price
+120.90 -> B-item_total
+5 -> B-item_quantity
+transition global eyeballs -> B-item_description
+17.74 -> B-item_unit_price
+88.70 -> B-item_total
+8 -> B-item_quantity
+enhance bricks-and-clicks e-tailers -> B-item_description
+44.32 -> B-item_unit_price
+354.56 -> B-item_total
+Subtotal -> O
+: -> O
+ 564.16 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+90.27 -> B-tax_amount
+TOTAL -> O
+: -> O
+654.43 -> B-total

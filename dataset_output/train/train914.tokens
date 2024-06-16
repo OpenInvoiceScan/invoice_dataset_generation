@@ -1,0 +1,65 @@
+Invoice -> O
+250881 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-08 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-01 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Bellido -> B-issuer_name
+y -> I-issuer_name
+Vilaplana -> I-issuer_name
+S.L. -> I-issuer_name
+Vial -> B-issuer_address
+de -> I-issuer_address
+Samuel -> I-issuer_address
+Carpio -> I-issuer_address
+39 -> I-issuer_address
+Zamora, -> I-issuer_address
+39249 -> I-issuer_address
++34975 01 22 48 -> B-issuer_phone
+nieves08@tecnologias.es -> B-issuer_email
+vAg362zUY443 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+María -> B-recipient_name
+Peiró -> I-recipient_name
+Palmer -> I-recipient_name
+Alameda -> B-recipient_address
+Saturnina -> I-recipient_address
+Fabregat -> I-recipient_address
+75 -> I-recipient_address
+Huesca, -> I-recipient_address
+15608 -> I-recipient_address
++34 884 59 21 23 -> B-recipient_phone
+fpuig@yahoo.com -> B-recipient_email
+wfp837GuE456 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+deliver vertical schemas -> B-item_description
+6 -> B-item_quantity
+29.92 -> B-item_unit_price
+179.52 -> B-item_total
+Subtotal -> O
+ : -> O
+ 179.52 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+28.72 -> B-tax_amount
+Total -> O
+: -> O
+208.24 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

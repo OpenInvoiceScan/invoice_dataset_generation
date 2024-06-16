@@ -1,0 +1,71 @@
+Oller -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.C.P -> I-issuer_name
+Via -> B-issuer_address
+de -> I-issuer_address
+Guadalupe -> I-issuer_address
+Rosell -> I-issuer_address
+28 -> I-issuer_address
+Apt. -> I-issuer_address
+54 -> I-issuer_address
+Ourense, -> I-issuer_address
+28204 -> I-issuer_address
++34 978 34 99 37 -> B-issuer_phone
+walter46@construccion.es -> B-issuer_email
+XBO694JiW695 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Haroldo -> B-recipient_name
+Guzman -> I-recipient_name
+Llamas -> I-recipient_name
+Paseo -> B-recipient_address
+Bruno -> I-recipient_address
+Baena -> I-recipient_address
+975 -> I-recipient_address
+Navarra, -> I-recipient_address
+44096 -> I-recipient_address
++34 803 64 23 48 -> B-recipient_phone
+ignacio55@hotmail.com -> B-recipient_email
+yqz787QQX455 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+755688 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-01 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+target best-of-breed solutions -> B-item_description
+79.94 -> B-item_unit_price
+399.70 -> B-item_total
+6 -> B-item_quantity
+transform virtual e-business -> B-item_description
+43.67 -> B-item_unit_price
+262.02 -> B-item_total
+5 -> B-item_quantity
+deliver 24/365 e-commerce -> B-item_description
+64.84 -> B-item_unit_price
+324.20 -> B-item_total
+10 -> B-item_quantity
+utilize enterprise experiences -> B-item_description
+22.41 -> B-item_unit_price
+224.10 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1210.02 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+193.60 -> B-tax_amount
+TOTAL -> O
+: -> O
+1403.62 -> B-total

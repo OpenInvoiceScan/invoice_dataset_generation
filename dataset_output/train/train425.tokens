@@ -1,0 +1,64 @@
+Transportes -> B-issuer_name
+Baró -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.L.U. -> I-issuer_name
+Avenida -> B-issuer_address
+Jose -> I-issuer_address
+Carlos -> I-issuer_address
+Llorens -> I-issuer_address
+353 -> I-issuer_address
+Piso -> I-issuer_address
+4 -> I-issuer_address
+Valladolid, -> I-issuer_address
+13039 -> I-issuer_address
++34 827306626 -> B-issuer_phone
+modestoizaguirre@transportes.net -> B-issuer_email
+JDL708Gue500 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Erasmo -> B-recipient_name
+Donoso -> I-recipient_name
+Gimenez -> I-recipient_name
+Pasadizo -> B-recipient_address
+de -> I-recipient_address
+Primitiva -> I-recipient_address
+Morata -> I-recipient_address
+855 -> I-recipient_address
+Puerta -> I-recipient_address
+1 -> I-recipient_address
+Ourense, -> I-recipient_address
+35376 -> I-recipient_address
++34 742 561 575 -> B-recipient_phone
+rufinagoicoechea@hotmail.com -> B-recipient_email
+fDj692Elb479 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+436034 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-07 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+6 -> B-item_quantity
+maximize interactive initiatives -> B-item_description
+97.60 -> B-item_unit_price
+585.60 -> B-item_total
+Subtotal -> O
+: -> O
+ 585.60 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+93.70 -> B-tax_amount
+TOTAL -> O
+: -> O
+679.30 -> B-total

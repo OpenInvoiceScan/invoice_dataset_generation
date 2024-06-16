@@ -1,0 +1,64 @@
+Invoice -> O
+570186 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-09 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-16 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Timoteo -> B-issuer_name
+Pina -> I-issuer_name
+Amores -> I-issuer_name
+S.L. -> I-issuer_name
+Via -> B-issuer_address
+Mónica -> I-issuer_address
+Bermudez -> I-issuer_address
+505 -> I-issuer_address
+Málaga, -> I-issuer_address
+44728 -> I-issuer_address
++34 876 41 43 14 -> B-issuer_phone
+cristina74@quiros.com -> B-issuer_email
+DUc372qkT154 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Leonor -> B-recipient_name
+Fiol -> I-recipient_name
+Castañeda -> I-recipient_name
+Camino -> B-recipient_address
+Azahara -> I-recipient_address
+Quirós -> I-recipient_address
+80 -> I-recipient_address
+Guipúzcoa, -> I-recipient_address
+24838 -> I-recipient_address
++34 847 26 69 57 -> B-recipient_phone
+grandewalter@hotmail.com -> B-recipient_email
+DiN145rQt625 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+iterate extensible mindshare -> B-item_description
+3 -> B-item_quantity
+61.38 -> B-item_unit_price
+184.14 -> B-item_total
+Subtotal -> O
+ : -> O
+ 184.14 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+29.46 -> B-tax_amount
+Total -> O
+: -> O
+213.60 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

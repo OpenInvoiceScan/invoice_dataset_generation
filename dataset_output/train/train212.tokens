@@ -1,0 +1,83 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+JQD757xXx660 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34948 601 536 -> B-recipient_phone
+Nombre -> O
+: -> O
+Selena -> B-recipient_name
+Giménez -> I-recipient_name
+Ríos -> I-recipient_name
+Correo -> O
+: -> O
+angelina32@hotmail.com -> B-recipient_email
+Pasaje -> B-recipient_address
+León -> I-recipient_address
+Marin -> I-recipient_address
+637 -> I-recipient_address
+Piso -> I-recipient_address
+7 -> I-recipient_address
+Álava, -> I-recipient_address
+29525 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+222071 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-15 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+incubate impactful e-commerce -> B-item_description
+3 -> B-item_quantity
+146.85 -> B-item_total
+e-enable extensible users -> B-item_description
+6 -> B-item_quantity
+507.48 -> B-item_total
+Subtotal -> O
+ : -> O
+ 654.33 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+104.69 -> B-tax_amount
+TOTAL -> O
+: -> O
+759.02 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+ikW934CsG217 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 947 47 80 51 -> B-issuer_phone
+Nombre -> O
+: -> O
+Despacho -> B-issuer_name
+del -> I-issuer_name
+Sur -> I-issuer_name
+S.Coop. -> I-issuer_name
+Correo -> O
+: -> O
+luis-miguelfajardo@angelina.com -> B-issuer_email
+Ronda -> B-issuer_address
+Nacho -> I-issuer_address
+Carbajo -> I-issuer_address
+89 -> I-issuer_address
+Jaén, -> I-issuer_address
+10910 -> I-issuer_address

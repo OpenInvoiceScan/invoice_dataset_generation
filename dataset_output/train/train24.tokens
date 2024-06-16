@@ -1,0 +1,56 @@
+Instalaciones -> B-issuer_name
+Integrales -> I-issuer_name
+S.A. -> I-issuer_name
+Paseo -> B-issuer_address
+Fausto -> I-issuer_address
+Arjona -> I-issuer_address
+93 -> I-issuer_address
+León, -> I-issuer_address
+39925 -> I-issuer_address
++34 806 67 90 61 -> B-issuer_phone
+marcelaolivares@consultoria.com -> B-issuer_email
+dwM535jOu013 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Gabino -> B-recipient_name
+Sebastián -> I-recipient_name
+Ortega -> I-recipient_name
+Rambla -> B-recipient_address
+de -> I-recipient_address
+Begoña -> I-recipient_address
+Llamas -> I-recipient_address
+74 -> I-recipient_address
+Murcia, -> I-recipient_address
+40572 -> I-recipient_address
++34 811 44 20 37 -> B-recipient_phone
+nandocueto@yahoo.com -> B-recipient_email
+DxE540OiH456 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+18472 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-21 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+grow magnetic e-commerce -> B-item_description
+75.09 -> B-item_unit_price
+150.18 -> B-item_total
+Subtotal -> O 
+: -> O
+ 150.18 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+24.03 -> B-tax_amount
+TOTAL -> O
+: -> O
+174.21 -> B-total

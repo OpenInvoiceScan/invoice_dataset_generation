@@ -1,0 +1,86 @@
+Factura -> O
+254846 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-22 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-28 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Diaz -> B-issuer_name
+y -> I-issuer_name
+Soler -> I-issuer_name
+S.A. -> I-issuer_name
+Plaza -> B-issuer_address
+Piedad -> I-issuer_address
+Botella -> I-issuer_address
+4 -> I-issuer_address
+Sevilla, -> I-issuer_address
+11454 -> I-issuer_address
++34881 977 169 -> B-issuer_phone
+ogual@familia.org -> B-issuer_email
+LhX207UZq744 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Ibán -> B-recipient_name
+Salomón -> I-recipient_name
+Alvarado -> I-recipient_name
+Bartolomé -> I-recipient_name
+Calle -> B-recipient_address
+Olivia -> I-recipient_address
+Figueroa -> I-recipient_address
+90 -> I-recipient_address
+Teruel, -> I-recipient_address
+20759 -> I-recipient_address
++34983881303 -> B-recipient_phone
+ppastor@gmail.com -> B-recipient_email
+RpQ521sNl050 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+reinvent enterprise applications -> B-item_description
+6 -> B-item_quantity
+69.17 -> B-item_unit_price
+415.02 -> B-item_total
+engage customized metrics -> B-item_description
+5 -> B-item_quantity
+82.02 -> B-item_unit_price
+410.10 -> B-item_total
+extend customized technologies -> B-item_description
+7 -> B-item_quantity
+71.36 -> B-item_unit_price
+499.52 -> B-item_total
+productize one-to-one networks -> B-item_description
+7 -> B-item_quantity
+13.62 -> B-item_unit_price
+95.34 -> B-item_total
+deploy transparent e-services -> B-item_description
+8 -> B-item_quantity
+96.52 -> B-item_unit_price
+772.16 -> B-item_total
+Subtotal -> O
+ : -> O
+ 2192.14 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+350.74 -> B-tax_amount
+Total -> O
+: -> O
+2542.88 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

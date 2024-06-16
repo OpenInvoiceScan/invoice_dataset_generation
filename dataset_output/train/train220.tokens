@@ -1,0 +1,93 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+JYh990aAw704 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 715 329 340 -> B-recipient_phone
+Nombre -> O
+: -> O
+Manola -> B-recipient_name
+Morán -> I-recipient_name
+Sarabia -> I-recipient_name
+Correo -> O
+: -> O
+severiano58@yahoo.com -> B-recipient_email
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Elvira -> I-recipient_address
+Tena -> I-recipient_address
+1 -> I-recipient_address
+Apt. -> I-recipient_address
+65 -> I-recipient_address
+Navarra, -> I-recipient_address
+43014 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+657425 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-28 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+matrix rich functionalities -> B-item_description
+2 -> B-item_quantity
+155.64 -> B-item_total
+enable plug-and-play deliverables -> B-item_description
+1 -> B-item_quantity
+40.00 -> B-item_total
+optimize turn-key web services -> B-item_description
+2 -> B-item_quantity
+32.00 -> B-item_total
+morph plug-and-play architectures -> B-item_description
+9 -> B-item_quantity
+196.02 -> B-item_total
+target back-end web-readiness -> B-item_description
+9 -> B-item_quantity
+667.35 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1091.01 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+174.56 -> B-tax_amount
+TOTAL -> O
+: -> O
+1265.57 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+tRi234obM208 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34872 421 817 -> B-issuer_phone
+Nombre -> O
+: -> O
+Logística -> B-issuer_name
+Villa -> I-issuer_name
+S.Com. -> I-issuer_name
+Correo -> O
+: -> O
+pablomaria-del-carmen@desarrollo.com -> B-issuer_email
+Paseo -> B-issuer_address
+Blas -> I-issuer_address
+Solís -> I-issuer_address
+180 -> I-issuer_address
+Las -> I-issuer_address
+Palmas, -> I-issuer_address
+28084 -> I-issuer_address

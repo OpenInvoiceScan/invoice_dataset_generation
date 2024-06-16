@@ -1,0 +1,71 @@
+Familia -> B-issuer_name
+Teruel -> I-issuer_name
+S.L. -> I-issuer_name
+Cañada -> B-issuer_address
+de -> I-issuer_address
+Martín -> I-issuer_address
+Ortiz -> I-issuer_address
+29 -> I-issuer_address
+Barcelona, -> I-issuer_address
+43453 -> I-issuer_address
++34 888741208 -> B-issuer_phone
+ugartepaloma@alimentacion.com -> B-issuer_email
+HYY392qkx145 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Dorotea -> B-recipient_name
+Gonzalo -> I-recipient_name
+Malo -> I-recipient_name
+Via -> B-recipient_address
+de -> I-recipient_address
+Encarnacion -> I-recipient_address
+Bastida -> I-recipient_address
+15 -> I-recipient_address
+Puerta -> I-recipient_address
+6 -> I-recipient_address
+Barcelona, -> I-recipient_address
+51100 -> I-recipient_address
++34720 17 02 91 -> B-recipient_phone
+borrellconrado@gmail.com -> B-recipient_email
+dKn656MoT899 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+717410 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-15 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+transform front-end markets -> B-item_description
+85.04 -> B-item_unit_price
+425.20 -> B-item_total
+4 -> B-item_quantity
+integrate open-source e-services -> B-item_description
+76.74 -> B-item_unit_price
+306.96 -> B-item_total
+8 -> B-item_quantity
+productize frictionless bandwidth -> B-item_description
+54.25 -> B-item_unit_price
+434.00 -> B-item_total
+2 -> B-item_quantity
+iterate killer e-tailers -> B-item_description
+79.27 -> B-item_unit_price
+158.54 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1324.70 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+211.95 -> B-tax_amount
+TOTAL -> O
+: -> O
+1536.65 -> B-total

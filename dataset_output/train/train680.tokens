@@ -1,0 +1,70 @@
+Transportes -> B-issuer_name
+TFKQ -> I-issuer_name
+S.C.P -> I-issuer_name
+Avenida -> B-issuer_address
+Máxima -> I-issuer_address
+Bayona -> I-issuer_address
+633 -> I-issuer_address
+Zamora, -> I-issuer_address
+17873 -> I-issuer_address
++34 876 25 16 49 -> B-issuer_phone
+comastelmo@soluciones.com -> B-issuer_email
+VfO680HOS490 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Miguela -> B-recipient_name
+Correa -> I-recipient_name
+Oliva -> I-recipient_name
+Urbanización -> B-recipient_address
+de -> I-recipient_address
+Bernabé -> I-recipient_address
+Talavera -> I-recipient_address
+67 -> I-recipient_address
+Puerta -> I-recipient_address
+7 -> I-recipient_address
+Asturias, -> I-recipient_address
+37025 -> I-recipient_address
++34971182933 -> B-recipient_phone
+gracianaestevez@hotmail.com -> B-recipient_email
+ucD465sKl996 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+872076 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-15 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+incentivize intuitive methodologies -> B-item_description
+83.66 -> B-item_unit_price
+836.60 -> B-item_total
+2 -> B-item_quantity
+redefine open-source solutions -> B-item_description
+89.74 -> B-item_unit_price
+179.48 -> B-item_total
+6 -> B-item_quantity
+envisioneer ubiquitous infrastructures -> B-item_description
+82.53 -> B-item_unit_price
+495.18 -> B-item_total
+2 -> B-item_quantity
+synergize interactive experiences -> B-item_description
+42.12 -> B-item_unit_price
+84.24 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1595.50 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+255.28 -> B-tax_amount
+TOTAL -> O
+: -> O
+1850.78 -> B-total

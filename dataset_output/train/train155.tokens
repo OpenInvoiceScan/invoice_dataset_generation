@@ -1,0 +1,71 @@
+Factura -> O
+374930 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-16 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-30 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Tecnologías -> B-issuer_name
+Integrales -> I-issuer_name
+S.Coop. -> I-issuer_name
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+Visitación -> I-issuer_address
+Quintana -> I-issuer_address
+42 -> I-issuer_address
+Piso -> I-issuer_address
+8 -> I-issuer_address
+Cantabria, -> I-issuer_address
+32951 -> I-issuer_address
++34843 43 76 02 -> B-issuer_phone
+solsales@rovira.com -> B-issuer_email
+ogG013ROW893 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Prudencia -> B-recipient_name
+Alcolea -> I-recipient_name
+Ureña -> I-recipient_name
+C. -> B-recipient_address
+Manuela -> I-recipient_address
+Esparza -> I-recipient_address
+475 -> I-recipient_address
+Baleares, -> I-recipient_address
+22103 -> I-recipient_address
++34816 415 251 -> B-recipient_phone
+cortinabautista@gmail.com -> B-recipient_email
+bLG589Xkw353 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+monetize robust web-readiness -> B-item_description
+6 -> B-item_quantity
+26.48 -> B-item_unit_price
+158.88 -> B-item_total
+Subtotal -> O
+ : -> O
+ 158.88 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+25.42 -> B-tax_amount
+Total -> O
+: -> O
+184.30 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

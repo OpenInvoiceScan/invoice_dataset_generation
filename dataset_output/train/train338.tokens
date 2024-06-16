@@ -1,0 +1,70 @@
+Invoice -> O
+539279 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-03 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-09 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Alcalá -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Camino -> B-issuer_address
+de -> I-issuer_address
+Merche -> I-issuer_address
+Palomo -> I-issuer_address
+53 -> I-issuer_address
+Puerta -> I-issuer_address
+7 -> I-issuer_address
+Castellón, -> I-issuer_address
+42198 -> I-issuer_address
++34 923754208 -> B-issuer_phone
+eugenio60@suministros.com -> B-issuer_email
+sBV293gYw437 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Quique -> B-recipient_name
+Quintanilla -> I-recipient_name
+Ripoll -> I-recipient_name
+Avenida -> B-recipient_address
+de -> I-recipient_address
+Cebrián -> I-recipient_address
+Zapata -> I-recipient_address
+47 -> I-recipient_address
+Apt. -> I-recipient_address
+39 -> I-recipient_address
+Ceuta, -> I-recipient_address
+31782 -> I-recipient_address
++34851 820 936 -> B-recipient_phone
+maximiano22@hotmail.com -> B-recipient_email
+xSf969XjB487 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+streamline robust paradigms -> B-item_description
+9 -> B-item_quantity
+41.36 -> B-item_unit_price
+372.24 -> B-item_total
+Subtotal -> O
+ : -> O
+ 372.24 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+59.56 -> B-tax_amount
+Total -> O
+: -> O
+431.80 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

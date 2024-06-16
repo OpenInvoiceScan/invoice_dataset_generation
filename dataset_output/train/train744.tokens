@@ -1,0 +1,73 @@
+Trillo -> B-issuer_name
+y -> I-issuer_name
+Barreda -> I-issuer_name
+S.L. -> I-issuer_name
+Pasaje -> B-issuer_address
+de -> I-issuer_address
+Ana -> I-issuer_address
+Belén -> I-issuer_address
+Cantero -> I-issuer_address
+24 -> I-issuer_address
+Piso -> I-issuer_address
+4 -> I-issuer_address
+Segovia, -> I-issuer_address
+35442 -> I-issuer_address
++34845120047 -> B-issuer_phone
+martin05@comercial.com -> B-issuer_email
+HZS254Zzw055 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Rodrigo -> B-recipient_name
+Acuña -> I-recipient_name
+Carreras -> I-recipient_name
+Vial -> B-recipient_address
+de -> I-recipient_address
+Francisca -> I-recipient_address
+Rocha -> I-recipient_address
+41 -> I-recipient_address
+Alicante, -> I-recipient_address
+14569 -> I-recipient_address
++34 885 76 42 10 -> B-recipient_phone
+joan15@gmail.com -> B-recipient_email
+mCO996wfz373 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+671255 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-08 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+incentivize virtual channels -> B-item_description
+64.87 -> B-item_unit_price
+259.48 -> B-item_total
+5 -> B-item_quantity
+e-enable extensible niches -> B-item_description
+26.98 -> B-item_unit_price
+134.90 -> B-item_total
+8 -> B-item_quantity
+facilitate cutting-edge ROI -> B-item_description
+10.93 -> B-item_unit_price
+87.44 -> B-item_total
+3 -> B-item_quantity
+unleash wireless interfaces -> B-item_description
+63.27 -> B-item_unit_price
+189.81 -> B-item_total
+Subtotal -> O 
+: -> O
+ 671.63 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+107.46 -> B-tax_amount
+TOTAL -> O
+: -> O
+779.09 -> B-total

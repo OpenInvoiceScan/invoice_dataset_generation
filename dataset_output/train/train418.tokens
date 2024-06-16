@@ -1,0 +1,80 @@
+Invoice -> O
+320768 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-08 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-15 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Mamen -> B-issuer_name
+Valverde -> I-issuer_name
+Moraleda -> I-issuer_name
+S.A. -> I-issuer_name
+Cañada -> B-issuer_address
+Fidela -> I-issuer_address
+Falcó -> I-issuer_address
+2 -> I-issuer_address
+Toledo, -> I-issuer_address
+24226 -> I-issuer_address
++34 879688294 -> B-issuer_phone
+ksanchez@supermercados.org -> B-issuer_email
+UQY609laC830 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Ema -> B-recipient_name
+Perera-Palacios -> I-recipient_name
+Alameda -> B-recipient_address
+de -> I-recipient_address
+Lázaro -> I-recipient_address
+Saavedra -> I-recipient_address
+447 -> I-recipient_address
+Melilla, -> I-recipient_address
+48154 -> I-recipient_address
++34925 513 011 -> B-recipient_phone
+gabrielgisbert@yahoo.com -> B-recipient_email
+nmh937HCu238 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+transition 24/365 functionalities -> B-item_description
+7 -> B-item_quantity
+46.44 -> B-item_unit_price
+325.08 -> B-item_total
+repurpose impactful web services -> B-item_description
+1 -> B-item_quantity
+45.55 -> B-item_unit_price
+45.55 -> B-item_total
+envisioneer intuitive metrics -> B-item_description
+1 -> B-item_quantity
+93.66 -> B-item_unit_price
+93.66 -> B-item_total
+visualize visionary info-mediaries -> B-item_description
+8 -> B-item_quantity
+42.88 -> B-item_unit_price
+343.04 -> B-item_total
+envisioneer customized synergies -> B-item_description
+2 -> B-item_quantity
+47.27 -> B-item_unit_price
+94.54 -> B-item_total
+Subtotal -> O
+ : -> O
+ 901.87 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+144.30 -> B-tax_amount
+Total -> O
+: -> O
+1046.17 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

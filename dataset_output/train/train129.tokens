@@ -1,0 +1,75 @@
+Inversiones -> B-issuer_name
+Correa -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.A. -> I-issuer_name
+Cañada -> B-issuer_address
+de -> I-issuer_address
+Javi -> I-issuer_address
+Montserrat -> I-issuer_address
+12 -> I-issuer_address
+Puerta -> I-issuer_address
+5 -> I-issuer_address
+Lleida, -> I-issuer_address
+27872 -> I-issuer_address
++34921 814 395 -> B-issuer_phone
+victoriaazorin@infraestructuras.es -> B-issuer_email
+uyt413LpX880 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Berto -> B-recipient_name
+Donoso -> I-recipient_name
+Prada -> I-recipient_name
+Paseo -> B-recipient_address
+de -> I-recipient_address
+María -> I-recipient_address
+Ángeles -> I-recipient_address
+Oliver -> I-recipient_address
+837 -> I-recipient_address
+León, -> I-recipient_address
+25576 -> I-recipient_address
++34800 52 96 82 -> B-recipient_phone
+molinatimoteo@hotmail.com -> B-recipient_email
+XBz274PiW548 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+881808 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-27 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+enhance clicks-and-mortar schemas -> B-item_description
+86.15 -> B-item_unit_price
+861.50 -> B-item_total
+4 -> B-item_quantity
+repurpose bricks-and-clicks e-services -> B-item_description
+61.20 -> B-item_unit_price
+244.80 -> B-item_total
+6 -> B-item_quantity
+target granular info-mediaries -> B-item_description
+95.74 -> B-item_unit_price
+574.44 -> B-item_total
+4 -> B-item_quantity
+expedite granular metrics -> B-item_description
+64.81 -> B-item_unit_price
+259.24 -> B-item_total
+Subtotal -> O
+: -> O
+ 1939.98 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+310.40 -> B-tax_amount
+TOTAL -> O
+: -> O
+2250.38 -> B-total

@@ -1,0 +1,64 @@
+Restauración -> B-issuer_name
+Delgado -> I-issuer_name
+S.A. -> I-issuer_name
+Camino -> B-issuer_address
+Lorena -> I-issuer_address
+Román -> I-issuer_address
+501 -> I-issuer_address
+Melilla, -> I-issuer_address
+31306 -> I-issuer_address
++34706 73 09 39 -> B-issuer_phone
+encarnacionduque@compania.es -> B-issuer_email
+vlq869wEY754 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Pánfilo -> B-recipient_name
+Botella -> I-recipient_name
+Saldaña -> I-recipient_name
+Vial -> B-recipient_address
+Sosimo -> I-recipient_address
+Báez -> I-recipient_address
+65 -> I-recipient_address
+Murcia, -> I-recipient_address
+35828 -> I-recipient_address
++34 821383788 -> B-recipient_phone
+julianvall@gmail.com -> B-recipient_email
+rLc157Cen605 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+719764 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-11 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+4 -> B-item_quantity
+enable dot-com channels -> B-item_description
+75.46 -> B-item_unit_price
+301.84 -> B-item_total
+1 -> B-item_quantity
+embrace B2C e-services -> B-item_description
+97.23 -> B-item_unit_price
+97.23 -> B-item_total
+3 -> B-item_quantity
+architect customized applications -> B-item_description
+10.80 -> B-item_unit_price
+32.40 -> B-item_total
+Subtotal -> O
+: -> O
+ 431.47 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+69.04 -> B-tax_amount
+TOTAL -> O
+: -> O
+500.51 -> B-total

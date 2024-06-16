@@ -1,0 +1,78 @@
+Factura -> O
+302803 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-04-29 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-29 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Despacho -> B-issuer_name
+del -> I-issuer_name
+Norte -> I-issuer_name
+S.A. -> I-issuer_name
+Paseo -> B-issuer_address
+de -> I-issuer_address
+Luciana -> I-issuer_address
+Díaz -> I-issuer_address
+87 -> I-issuer_address
+Piso -> I-issuer_address
+5 -> I-issuer_address
+Cádiz, -> I-issuer_address
+02978 -> I-issuer_address
++34920 82 20 25 -> B-issuer_phone
+andresmorera@cuesta.es -> B-issuer_email
+Mtj185Rtt157 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Rodrigo -> B-recipient_name
+Damián -> I-recipient_name
+Porras -> I-recipient_name
+Arana -> I-recipient_name
+Acceso -> B-recipient_address
+de -> I-recipient_address
+Nieves -> I-recipient_address
+Heredia -> I-recipient_address
+191 -> I-recipient_address
+Baleares, -> I-recipient_address
+04911 -> I-recipient_address
++34 830 47 85 61 -> B-recipient_phone
+zcortes@hotmail.com -> B-recipient_email
+qDu852QcG598 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+monetize world-class eyeballs -> B-item_description
+3 -> B-item_quantity
+70.64 -> B-item_unit_price
+211.92 -> B-item_total
+deliver 24/365 systems -> B-item_description
+9 -> B-item_quantity
+71.88 -> B-item_unit_price
+646.92 -> B-item_total
+Subtotal -> O
+ : -> O
+ 858.84 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+137.41 -> B-tax_amount
+Total -> O
+: -> O
+996.25 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

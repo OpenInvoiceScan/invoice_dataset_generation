@@ -1,0 +1,90 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+wix993pac135 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34856424056 -> B-recipient_phone
+Nombre -> O
+: -> O
+Joaquín -> B-recipient_name
+Nogueira -> I-recipient_name
+Correo -> O
+: -> O
+lmorante@gmail.com -> B-recipient_email
+Cuesta -> B-recipient_address
+de -> I-recipient_address
+Elvira -> I-recipient_address
+Salom -> I-recipient_address
+29 -> I-recipient_address
+Santa -> I-recipient_address
+Cruz -> I-recipient_address
+de -> I-recipient_address
+Tenerife, -> I-recipient_address
+50217 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+620598 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-01 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+redefine proactive systems -> B-item_description
+3 -> B-item_quantity
+244.98 -> B-item_total
+aggregate granular eyeballs -> B-item_description
+9 -> B-item_quantity
+735.39 -> B-item_total
+morph rich e-tailers -> B-item_description
+6 -> B-item_quantity
+142.62 -> B-item_total
+enable world-class vortals -> B-item_description
+10 -> B-item_quantity
+659.00 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1781.99 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+285.12 -> B-tax_amount
+TOTAL -> O
+: -> O
+2067.11 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+iuJ517vSZ254 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 842340659 -> B-issuer_phone
+Nombre -> O
+: -> O
+Grupo -> B-issuer_name
+Piñeiro -> I-issuer_name
+S.Coop. -> I-issuer_name
+Correo -> O
+: -> O
+jose-luislerma@supermercados.com -> B-issuer_email
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+Virgilio -> I-issuer_address
+Matas -> I-issuer_address
+18 -> I-issuer_address
+Navarra, -> I-issuer_address
+06007 -> I-issuer_address

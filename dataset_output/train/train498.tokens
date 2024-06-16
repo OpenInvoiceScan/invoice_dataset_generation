@@ -1,0 +1,84 @@
+Invoice -> O
+583521 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-03 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-19 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Minería -> B-issuer_name
+XR -> I-issuer_name
+S.Coop. -> I-issuer_name
+Vial -> B-issuer_address
+de -> I-issuer_address
+Ambrosio -> I-issuer_address
+Frías -> I-issuer_address
+78 -> I-issuer_address
+Cuenca, -> I-issuer_address
+07601 -> I-issuer_address
++34983946099 -> B-issuer_phone
+urrutiamayte@familia.org -> B-issuer_email
+fjS374aWD225 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Candelaria -> B-recipient_name
+Torrijos -> I-recipient_name
+Pino -> I-recipient_name
+Vial -> B-recipient_address
+de -> I-recipient_address
+Pili -> I-recipient_address
+Trujillo -> I-recipient_address
+80 -> I-recipient_address
+Puerta -> I-recipient_address
+3 -> I-recipient_address
+La -> I-recipient_address
+Coruña, -> I-recipient_address
+08053 -> I-recipient_address
++34 800560223 -> B-recipient_phone
+celestina10@yahoo.com -> B-recipient_email
+cyh454zJm642 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+engage synergistic e-tailers -> B-item_description
+5 -> B-item_quantity
+16.08 -> B-item_unit_price
+80.40 -> B-item_total
+utilize bleeding-edge e-tailers -> B-item_description
+8 -> B-item_quantity
+42.04 -> B-item_unit_price
+336.32 -> B-item_total
+harness value-added functionalities -> B-item_description
+7 -> B-item_quantity
+83.89 -> B-item_unit_price
+587.23 -> B-item_total
+synthesize dot-com niches -> B-item_description
+9 -> B-item_quantity
+66.63 -> B-item_unit_price
+599.67 -> B-item_total
+re-intermediate distributed niches -> B-item_description
+5 -> B-item_quantity
+54.83 -> B-item_unit_price
+274.15 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1877.77 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+300.44 -> B-tax_amount
+Total -> O
+: -> O
+2178.21 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

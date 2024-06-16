@@ -1,56 +1,56 @@
 {
-  "invoice_id": 887882,
-  "issue_date": "2024-04-27",
-  "due_date": "2024-05-23",
+  "invoice_id": 267939,
+  "issue_date": "2024-05-14",
+  "due_date": "2024-06-12",
   "issuer": {
-    "name": "Snow, Brown and Cain",
-    "address": "11688 Sydney Spur\nFrankstad, WY 53755",
-    "phone": "(292)944-3942",
-    "email": "robert85@mason-crane.com",
-    "tax_id": "SPs522vCg700"
+    "name": "Finanzas PJZS S.A.",
+    "address": "Ronda de Dolores Busquets 70\nGirona, 23320",
+    "phone": "+34888743570",
+    "email": "jose-manuel86@florencia.es",
+    "tax_id": "fma376glU423"
   },
   "recipient": {
-    "name": "Elizabeth Rivera",
-    "address": "34572 Mosley Summit\nSouth Nichole, OR 06627",
-    "phone": "001-442-590-4570x433",
-    "email": "clarkjasmine@gmail.com",
-    "tax_id": "wAD287liO930"
+    "name": "Adela Tejera",
+    "address": "Alameda Reinaldo Vald\u00e9s 603 Puerta 4 \nLa Rioja, 19349",
+    "phone": "+34 807 43 81 82",
+    "email": "ariadnaarevalo@yahoo.com",
+    "tax_id": "CLt525XCI382"
   },
   "items": [
     {
-      "description": "visualize impactful mindshare",
+      "description": "harness out-of-the-box methodologies",
+      "quantity": 5,
+      "unit_price": "28.96",
+      "total": "144.80"
+    },
+    {
+      "description": "whiteboard viral ROI",
+      "quantity": 1,
+      "unit_price": "81.28",
+      "total": "81.28"
+    },
+    {
+      "description": "engage world-class e-tailers",
       "quantity": 4,
-      "unit_price": 10.51,
-      "total": 42.04
+      "unit_price": "61.61",
+      "total": "246.44"
     },
     {
-      "description": "incubate bleeding-edge functionalities",
-      "quantity": 7,
-      "unit_price": 26.17,
-      "total": 183.19
-    },
-    {
-      "description": "unleash seamless web services",
-      "quantity": 7,
-      "unit_price": 26.0,
-      "total": 182.0
-    },
-    {
-      "description": "innovate next-generation e-markets",
+      "description": "incentivize sticky e-commerce",
       "quantity": 9,
-      "unit_price": 71.05,
-      "total": 639.45
+      "unit_price": "67.60",
+      "total": "608.40"
     }
   ],
-  "subtotal": 1046.68,
+  "subtotal": "1080.92",
   "taxes": [
     {
       "description": "VAT",
       "percentage": 16,
-      "amount": 167.47
+      "amount": "172.95"
     }
   ],
-  "total": 1214.15,
-  "payment_method": "PayPal",
+  "total": "1253.87",
+  "payment_method": "Bank Transfer",
   "currency": "EUR"
 }

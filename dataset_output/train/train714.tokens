@@ -1,0 +1,66 @@
+Invoice -> O
+719311 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-01 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-16 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Servicios -> B-issuer_name
+Ibérica -> I-issuer_name
+S.Coop. -> I-issuer_name
+Camino -> B-issuer_address
+de -> I-issuer_address
+Reina -> I-issuer_address
+Jove -> I-issuer_address
+80 -> I-issuer_address
+Navarra, -> I-issuer_address
+49162 -> I-issuer_address
++34842 73 23 60 -> B-issuer_phone
+hsalamanca@comercial.org -> B-issuer_email
+MSC843wQQ942 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Apolinar -> B-recipient_name
+Ballesteros -> I-recipient_name
+Rosa -> I-recipient_name
+Via -> B-recipient_address
+Julián -> I-recipient_address
+Santamaría -> I-recipient_address
+906 -> I-recipient_address
+Piso -> I-recipient_address
+2 -> I-recipient_address
+Madrid, -> I-recipient_address
+18043 -> I-recipient_address
++34 943 944 366 -> B-recipient_phone
+dfarre@yahoo.com -> B-recipient_email
+ezn472Mzh068 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+grow visionary platforms -> B-item_description
+2 -> B-item_quantity
+53.55 -> B-item_unit_price
+107.10 -> B-item_total
+Subtotal -> O
+ : -> O
+ 107.10 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+17.14 -> B-tax_amount
+Total -> O
+: -> O
+124.24 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

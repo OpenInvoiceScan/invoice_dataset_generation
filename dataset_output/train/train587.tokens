@@ -1,0 +1,74 @@
+Factura -> O
+48829 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-04-27 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-23 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Supermercados -> B-issuer_name
+Ochoa -> I-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Ronda -> B-issuer_address
+Lucas -> I-issuer_address
+Morán -> I-issuer_address
+815 -> I-issuer_address
+Cantabria, -> I-issuer_address
+39258 -> I-issuer_address
++34 988 356 682 -> B-issuer_phone
+qblanco@hermanos.com -> B-issuer_email
+JMm052Ezv962 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Julián -> B-recipient_name
+Roura -> I-recipient_name
+Vargas -> I-recipient_name
+Acceso -> B-recipient_address
+Eustaquio -> I-recipient_address
+Sáenz -> I-recipient_address
+9 -> I-recipient_address
+Ávila, -> I-recipient_address
+40524 -> I-recipient_address
++34974 31 44 43 -> B-recipient_phone
+ezequielberrocal@gmail.com -> B-recipient_email
+Mzv940Dqu420 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+orchestrate interactive metrics -> B-item_description
+4 -> B-item_quantity
+48.29 -> B-item_unit_price
+193.16 -> B-item_total
+matrix e-business bandwidth -> B-item_description
+7 -> B-item_quantity
+81.42 -> B-item_unit_price
+569.94 -> B-item_total
+Subtotal -> O
+ : -> O
+ 763.10 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+122.10 -> B-tax_amount
+Total -> O
+: -> O
+885.20 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

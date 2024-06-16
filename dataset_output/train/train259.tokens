@@ -1,0 +1,78 @@
+Factura -> O
+640066 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-19 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-03 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Fuentes -> B-issuer_name
+y -> I-issuer_name
+Hierro -> I-issuer_name
+S.L. -> I-issuer_name
+Cañada -> B-issuer_address
+Ernesto -> I-issuer_address
+Farré -> I-issuer_address
+92 -> I-issuer_address
+Santa -> I-issuer_address
+Cruz -> I-issuer_address
+de -> I-issuer_address
+Tenerife, -> I-issuer_address
+31264 -> I-issuer_address
++34 872405583 -> B-issuer_phone
+jose-mariaibarra@hnos.com -> B-issuer_email
+pwi391IJd403 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Eugenia -> B-recipient_name
+Leal -> I-recipient_name
+Zamora -> I-recipient_name
+Calle -> B-recipient_address
+Basilio -> I-recipient_address
+Serra -> I-recipient_address
+18 -> I-recipient_address
+Puerta -> I-recipient_address
+1 -> I-recipient_address
+Navarra, -> I-recipient_address
+37053 -> I-recipient_address
++34 985 84 67 46 -> B-recipient_phone
+valdesluisa@gmail.com -> B-recipient_email
+EhH515JjK665 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+incubate extensible portals -> B-item_description
+10 -> B-item_quantity
+31.23 -> B-item_unit_price
+312.30 -> B-item_total
+synthesize distributed mindshare -> B-item_description
+2 -> B-item_quantity
+19.67 -> B-item_unit_price
+39.34 -> B-item_total
+Subtotal -> O
+ : -> O
+ 351.64 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+56.26 -> B-tax_amount
+Total -> O
+: -> O
+407.90 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

@@ -1,0 +1,77 @@
+Invoice -> O
+756444 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-01 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-02 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Transportes -> B-issuer_name
+Galvez -> I-issuer_name
+S.Coop. -> I-issuer_name
+Urbanización -> B-issuer_address
+Alexandra -> I-issuer_address
+Roda -> I-issuer_address
+588 -> I-issuer_address
+Pontevedra, -> I-issuer_address
+24345 -> I-issuer_address
++34826 657 391 -> B-issuer_phone
+juan-pabloisern@infraestructuras.es -> B-issuer_email
+tnN970FTE002 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Eduardo -> B-recipient_name
+Ferrer -> I-recipient_name
+Sans -> I-recipient_name
+Vial -> B-recipient_address
+de -> I-recipient_address
+Clementina -> I-recipient_address
+Castell -> I-recipient_address
+42 -> I-recipient_address
+La -> I-recipient_address
+Coruña, -> I-recipient_address
+08829 -> I-recipient_address
++34902 77 88 03 -> B-recipient_phone
+mplaza@gmail.com -> B-recipient_email
+Off698IMm942 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+whiteboard proactive info-mediaries -> B-item_description
+10 -> B-item_quantity
+93.98 -> B-item_unit_price
+939.80 -> B-item_total
+morph granular e-business -> B-item_description
+2 -> B-item_quantity
+28.55 -> B-item_unit_price
+57.10 -> B-item_total
+repurpose transparent solutions -> B-item_description
+10 -> B-item_quantity
+76.46 -> B-item_unit_price
+764.60 -> B-item_total
+enable robust users -> B-item_description
+1 -> B-item_quantity
+67.85 -> B-item_unit_price
+67.85 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1829.35 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+292.70 -> B-tax_amount
+Total -> O
+: -> O
+2122.05 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

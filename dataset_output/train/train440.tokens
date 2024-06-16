@@ -1,0 +1,62 @@
+Comercial -> B-issuer_name
+IDC -> I-issuer_name
+S.A. -> I-issuer_name
+Glorieta -> B-issuer_address
+Susanita -> I-issuer_address
+Núñez -> I-issuer_address
+17 -> I-issuer_address
+Sevilla, -> I-issuer_address
+04467 -> I-issuer_address
++34 706 47 17 33 -> B-issuer_phone
+gbarroso@barco.es -> B-issuer_email
+PFN374OBn646 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Eulalia -> B-recipient_name
+Joaquina -> I-recipient_name
+Gordillo -> I-recipient_name
+Aliaga -> I-recipient_name
+Vial -> B-recipient_address
+Silvia -> I-recipient_address
+Márquez -> I-recipient_address
+89 -> I-recipient_address
+Piso -> I-recipient_address
+8 -> I-recipient_address
+Murcia, -> I-recipient_address
+50055 -> I-recipient_address
++34 981143160 -> B-recipient_phone
+isabelcisneros@gmail.com -> B-recipient_email
+XZC445wyJ998 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+343200 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-27 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+disintermediate world-class vortals -> B-item_description
+22.59 -> B-item_unit_price
+225.90 -> B-item_total
+3 -> B-item_quantity
+target world-class networks -> B-item_description
+39.04 -> B-item_unit_price
+117.12 -> B-item_total
+Subtotal -> O 
+: -> O
+ 343.02 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+54.88 -> B-tax_amount
+TOTAL -> O
+: -> O
+397.90 -> B-total

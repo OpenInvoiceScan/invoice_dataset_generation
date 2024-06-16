@@ -1,0 +1,75 @@
+Invoice -> O
+246014 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-07 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-17 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Industrias -> B-issuer_name
+Alfonso -> I-issuer_name
+S.L.L. -> I-issuer_name
+Alameda -> B-issuer_address
+de -> I-issuer_address
+Carmen -> I-issuer_address
+Iñiguez -> I-issuer_address
+6 -> I-issuer_address
+Puerta -> I-issuer_address
+8 -> I-issuer_address
+Albacete, -> I-issuer_address
+02968 -> I-issuer_address
++34 848 69 07 72 -> B-issuer_phone
+cipriano81@despacho.com -> B-issuer_email
+riq939VvE788 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Adoración -> B-recipient_name
+Llanos -> I-recipient_name
+Mateos -> I-recipient_name
+Calle -> B-recipient_address
+de -> I-recipient_address
+Itziar -> I-recipient_address
+Rodríguez -> I-recipient_address
+80 -> I-recipient_address
+Albacete, -> I-recipient_address
+08010 -> I-recipient_address
++34884 79 69 20 -> B-recipient_phone
+plinio94@hotmail.com -> B-recipient_email
+zfe019ipY866 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+re-contextualize user-centric deliverables -> B-item_description
+3 -> B-item_quantity
+36.11 -> B-item_unit_price
+108.33 -> B-item_total
+target wireless communities -> B-item_description
+7 -> B-item_quantity
+25.05 -> B-item_unit_price
+175.35 -> B-item_total
+strategize vertical functionalities -> B-item_description
+6 -> B-item_quantity
+44.32 -> B-item_unit_price
+265.92 -> B-item_total
+Subtotal -> O
+ : -> O
+ 549.60 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+87.94 -> B-tax_amount
+Total -> O
+: -> O
+637.54 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

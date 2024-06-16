@@ -1,0 +1,80 @@
+Invoice -> O
+164134 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-04-29 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-15 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Manufacturas -> B-issuer_name
+Internacionales -> I-issuer_name
+S.L. -> I-issuer_name
+Rambla -> B-issuer_address
+de -> I-issuer_address
+María -> I-issuer_address
+Dolores -> I-issuer_address
+Noguera -> I-issuer_address
+63 -> I-issuer_address
+Soria, -> I-issuer_address
+43116 -> I-issuer_address
++34941 837 238 -> B-issuer_phone
+fgrau@zurita.org -> B-issuer_email
+Efa642ajR590 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Alex -> B-recipient_name
+Falcó-Coronado -> I-recipient_name
+Paseo -> B-recipient_address
+Román -> I-recipient_address
+Agullo -> I-recipient_address
+11 -> I-recipient_address
+Toledo, -> I-recipient_address
+05628 -> I-recipient_address
++34971 87 54 12 -> B-recipient_phone
+cortinasabas@yahoo.com -> B-recipient_email
+tcs663TAs950 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+monetize bricks-and-clicks networks -> B-item_description
+4 -> B-item_quantity
+82.05 -> B-item_unit_price
+328.20 -> B-item_total
+cultivate dynamic communities -> B-item_description
+2 -> B-item_quantity
+69.78 -> B-item_unit_price
+139.56 -> B-item_total
+e-enable user-centric schemas -> B-item_description
+8 -> B-item_quantity
+78.06 -> B-item_unit_price
+624.48 -> B-item_total
+harness real-time content -> B-item_description
+10 -> B-item_quantity
+53.25 -> B-item_unit_price
+532.50 -> B-item_total
+harness frictionless networks -> B-item_description
+4 -> B-item_quantity
+58.12 -> B-item_unit_price
+232.48 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1857.22 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+297.16 -> B-tax_amount
+Total -> O
+: -> O
+2154.38 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

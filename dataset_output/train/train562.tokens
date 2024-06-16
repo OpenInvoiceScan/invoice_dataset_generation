@@ -1,0 +1,71 @@
+Invoice -> O
+878217 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-06 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-04 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Infraestructuras -> B-issuer_name
+Canales -> I-issuer_name
+S.Coop. -> I-issuer_name
+Acceso -> B-issuer_address
+Ezequiel -> I-issuer_address
+Pascual -> I-issuer_address
+44 -> I-issuer_address
+Apt. -> I-issuer_address
+65 -> I-issuer_address
+Toledo, -> I-issuer_address
+34676 -> I-issuer_address
++34878 59 94 06 -> B-issuer_phone
+martirio81@instalaciones.net -> B-issuer_email
+rlw013fJC798 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Eugenio -> B-recipient_name
+Aramburu -> I-recipient_name
+Peláez -> I-recipient_name
+Paseo -> B-recipient_address
+Aureliano -> I-recipient_address
+Salgado -> I-recipient_address
+97 -> I-recipient_address
+Puerta -> I-recipient_address
+9 -> I-recipient_address
+Melilla, -> I-recipient_address
+15691 -> I-recipient_address
++34 987 65 20 30 -> B-recipient_phone
+jferrandez@hotmail.com -> B-recipient_email
+LWm824yhF375 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+matrix virtual functionalities -> B-item_description
+1 -> B-item_quantity
+71.35 -> B-item_unit_price
+71.35 -> B-item_total
+maximize front-end convergence -> B-item_description
+6 -> B-item_quantity
+28.84 -> B-item_unit_price
+173.04 -> B-item_total
+Subtotal -> O
+ : -> O
+ 244.39 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+39.10 -> B-tax_amount
+Total -> O
+: -> O
+283.49 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

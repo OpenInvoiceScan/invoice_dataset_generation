@@ -1,0 +1,90 @@
+Factura -> O
+142951 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-04-27 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-06 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Construcción -> B-issuer_name
+HR -> I-issuer_name
+S.A. -> I-issuer_name
+Urbanización -> B-issuer_address
+de -> I-issuer_address
+Adoración -> I-issuer_address
+Mascaró -> I-issuer_address
+93 -> I-issuer_address
+Piso -> I-issuer_address
+3 -> I-issuer_address
+La -> I-issuer_address
+Coruña, -> I-issuer_address
+26524 -> I-issuer_address
++34 881446796 -> B-issuer_phone
+oayala@distribuciones.com -> B-issuer_email
+CQz489TSz816 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Ariel -> B-recipient_name
+Larrea -> I-recipient_name
+Cañada -> B-recipient_address
+de -> I-recipient_address
+Abigaíl -> I-recipient_address
+Quevedo -> I-recipient_address
+86 -> I-recipient_address
+Apt. -> I-recipient_address
+31 -> I-recipient_address
+Salamanca, -> I-recipient_address
+29033 -> I-recipient_address
++34 923 51 62 94 -> B-recipient_phone
+carrascovito@gmail.com -> B-recipient_email
+ZkI797Uqo565 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+re-intermediate best-of-breed eyeballs -> B-item_description
+4 -> B-item_quantity
+47.94 -> B-item_unit_price
+191.76 -> B-item_total
+harness best-of-breed web services -> B-item_description
+9 -> B-item_quantity
+27.52 -> B-item_unit_price
+247.68 -> B-item_total
+innovate front-end schemas -> B-item_description
+10 -> B-item_quantity
+28.27 -> B-item_unit_price
+282.70 -> B-item_total
+target virtual eyeballs -> B-item_description
+3 -> B-item_quantity
+85.16 -> B-item_unit_price
+255.48 -> B-item_total
+whiteboard seamless platforms -> B-item_description
+6 -> B-item_quantity
+39.58 -> B-item_unit_price
+237.48 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1215.10 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+194.42 -> B-tax_amount
+Total -> O
+: -> O
+1409.52 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

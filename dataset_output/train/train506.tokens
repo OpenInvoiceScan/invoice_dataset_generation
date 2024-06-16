@@ -1,0 +1,86 @@
+Invoice -> O
+697829 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-15 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-12 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Leoncio -> B-issuer_name
+Monreal -> I-issuer_name
+Cabañas -> I-issuer_name
+S.Com. -> I-issuer_name
+Calle -> B-issuer_address
+de -> I-issuer_address
+Filomena -> I-issuer_address
+Guardiola -> I-issuer_address
+733 -> I-issuer_address
+Puerta -> I-issuer_address
+8 -> I-issuer_address
+Cuenca, -> I-issuer_address
+21378 -> I-issuer_address
++34888 19 32 84 -> B-issuer_phone
+jose-antonio49@torralba.es -> B-issuer_email
+Jnz154lVk401 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Belen -> B-recipient_name
+Cervantes -> I-recipient_name
+Teruel -> I-recipient_name
+Avenida -> B-recipient_address
+de -> I-recipient_address
+Águeda -> I-recipient_address
+Conde -> I-recipient_address
+14 -> I-recipient_address
+Apt. -> I-recipient_address
+06 -> I-recipient_address
+Segovia, -> I-recipient_address
+33522 -> I-recipient_address
++34984 210 707 -> B-recipient_phone
+hpineiro@yahoo.com -> B-recipient_email
+qLR417tPq307 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+benchmark 24/365 models -> B-item_description
+5 -> B-item_quantity
+87.60 -> B-item_unit_price
+438.00 -> B-item_total
+productize strategic interfaces -> B-item_description
+5 -> B-item_quantity
+59.61 -> B-item_unit_price
+298.05 -> B-item_total
+re-contextualize cross-media portals -> B-item_description
+6 -> B-item_quantity
+41.47 -> B-item_unit_price
+248.82 -> B-item_total
+exploit magnetic action-items -> B-item_description
+4 -> B-item_quantity
+83.40 -> B-item_unit_price
+333.60 -> B-item_total
+exploit viral info-mediaries -> B-item_description
+8 -> B-item_quantity
+63.38 -> B-item_unit_price
+507.04 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1825.51 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+292.08 -> B-tax_amount
+Total -> O
+: -> O
+2117.59 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

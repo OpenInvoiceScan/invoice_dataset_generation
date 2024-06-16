@@ -1,0 +1,87 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+NTi047Guq225 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 975 30 15 42 -> B-recipient_phone
+Nombre -> O
+: -> O
+Dolores -> B-recipient_name
+Anglada -> I-recipient_name
+Coloma -> I-recipient_name
+Correo -> O
+: -> O
+xboix@gmail.com -> B-recipient_email
+Glorieta -> B-recipient_address
+Calisto -> I-recipient_address
+Valdés -> I-recipient_address
+899 -> I-recipient_address
+Zamora, -> I-recipient_address
+40649 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+348139 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-27 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+target strategic methodologies -> B-item_description
+9 -> B-item_quantity
+663.84 -> B-item_total
+generate collaborative info-mediaries -> B-item_description
+5 -> B-item_quantity
+448.85 -> B-item_total
+morph real-time info-mediaries -> B-item_description
+10 -> B-item_quantity
+463.40 -> B-item_total
+cultivate bleeding-edge interfaces -> B-item_description
+7 -> B-item_quantity
+124.88 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1700.97 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+272.16 -> B-tax_amount
+TOTAL -> O
+: -> O
+1973.13 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+lZs162Xlr252 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34965365600 -> B-issuer_phone
+Nombre -> O
+: -> O
+Pozuelo -> B-issuer_name
+y -> I-issuer_name
+Morán -> I-issuer_name
+S.L. -> I-issuer_name
+Correo -> O
+: -> O
+clarisacespedes@luna.com -> B-issuer_email
+Urbanización -> B-issuer_address
+Lorena -> I-issuer_address
+Peñalver -> I-issuer_address
+37 -> I-issuer_address
+Cuenca, -> I-issuer_address
+38261 -> I-issuer_address

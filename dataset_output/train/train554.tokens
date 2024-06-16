@@ -1,0 +1,79 @@
+Invoice -> O
+46933 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-26 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-17 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Grupo -> B-issuer_name
+Barón -> I-issuer_name
+S.L. -> I-issuer_name
+Camino -> B-issuer_address
+Cornelio -> I-issuer_address
+Camino -> I-issuer_address
+66 -> I-issuer_address
+Ciudad, -> I-issuer_address
+22712 -> I-issuer_address
++34807 441 301 -> B-issuer_phone
+agustin74@construccion.net -> B-issuer_email
+xug779MbF409 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Jessica -> B-recipient_name
+Nieto-Mate -> I-recipient_name
+Via -> B-recipient_address
+de -> I-recipient_address
+Blas -> I-recipient_address
+Parra -> I-recipient_address
+60 -> I-recipient_address
+Madrid, -> I-recipient_address
+42318 -> I-recipient_address
++34 878405682 -> B-recipient_phone
+juan-pabloquero@gmail.com -> B-recipient_email
+EFv523lJx230 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+generate real-time technologies -> B-item_description
+7 -> B-item_quantity
+89.47 -> B-item_unit_price
+626.29 -> B-item_total
+monetize end-to-end bandwidth -> B-item_description
+6 -> B-item_quantity
+68.19 -> B-item_unit_price
+409.14 -> B-item_total
+evolve seamless communities -> B-item_description
+8 -> B-item_quantity
+89.18 -> B-item_unit_price
+713.44 -> B-item_total
+embrace cross-platform supply-chains -> B-item_description
+2 -> B-item_quantity
+10.07 -> B-item_unit_price
+20.14 -> B-item_total
+enable seamless portals -> B-item_description
+4 -> B-item_quantity
+74.10 -> B-item_unit_price
+296.40 -> B-item_total
+Subtotal -> O
+ : -> O
+ 2065.41 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+330.47 -> B-tax_amount
+Total -> O
+: -> O
+2395.88 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

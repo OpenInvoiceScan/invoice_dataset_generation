@@ -1,0 +1,71 @@
+Invoice -> O
+232298 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-16 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-29 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Cámara -> B-issuer_name
+y -> I-issuer_name
+Pina -> I-issuer_name
+S.Coop. -> I-issuer_name
+Urbanización -> B-issuer_address
+de -> I-issuer_address
+Ana -> I-issuer_address
+Belmonte -> I-issuer_address
+57 -> I-issuer_address
+Pontevedra, -> I-issuer_address
+14527 -> I-issuer_address
++34976455777 -> B-issuer_phone
+soraya63@candelaria.com -> B-issuer_email
+uXt668WgQ407 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Calixto -> B-recipient_name
+del -> I-recipient_name
+Asensio -> I-recipient_name
+Callejón -> B-recipient_address
+Hector -> I-recipient_address
+Larrañaga -> I-recipient_address
+79 -> I-recipient_address
+Apt. -> I-recipient_address
+05 -> I-recipient_address
+Toledo, -> I-recipient_address
+11377 -> I-recipient_address
++34 828432510 -> B-recipient_phone
+patricia14@gmail.com -> B-recipient_email
+jPP617eYc407 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+integrate cross-platform info-mediaries -> B-item_description
+6 -> B-item_quantity
+90.44 -> B-item_unit_price
+542.64 -> B-item_total
+maximize next-generation action-items -> B-item_description
+2 -> B-item_quantity
+77.24 -> B-item_unit_price
+154.48 -> B-item_total
+Subtotal -> O
+ : -> O
+ 697.12 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+111.54 -> B-tax_amount
+Total -> O
+: -> O
+808.66 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

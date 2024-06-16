@@ -1,0 +1,88 @@
+Factura -> O
+367205 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-25 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-23 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Emma -> B-issuer_name
+Roca -> I-issuer_name
+Carpio -> I-issuer_name
+S.Coop. -> I-issuer_name
+Alameda -> B-issuer_address
+de -> I-issuer_address
+Germán -> I-issuer_address
+Arce -> I-issuer_address
+4 -> I-issuer_address
+Valencia, -> I-issuer_address
+33595 -> I-issuer_address
++34 902 298 108 -> B-issuer_phone
+aitanaalemany@soluciones.com -> B-issuer_email
+pTa440esT010 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Manola -> B-recipient_name
+Arregui -> I-recipient_name
+Paseo -> B-recipient_address
+de -> I-recipient_address
+Sebastian -> I-recipient_address
+Benavente -> I-recipient_address
+54 -> I-recipient_address
+Piso -> I-recipient_address
+4 -> I-recipient_address
+Valencia, -> I-recipient_address
+30546 -> I-recipient_address
++34 807 29 66 07 -> B-recipient_phone
+susanamorillo@hotmail.com -> B-recipient_email
+ttQ889yfP410 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+scale ubiquitous mindshare -> B-item_description
+7 -> B-item_quantity
+76.19 -> B-item_unit_price
+533.33 -> B-item_total
+enhance compelling communities -> B-item_description
+3 -> B-item_quantity
+35.07 -> B-item_unit_price
+105.21 -> B-item_total
+revolutionize global ROI -> B-item_description
+1 -> B-item_quantity
+41.32 -> B-item_unit_price
+41.32 -> B-item_total
+benchmark open-source partnerships -> B-item_description
+1 -> B-item_quantity
+97.38 -> B-item_unit_price
+97.38 -> B-item_total
+whiteboard extensible functionalities -> B-item_description
+4 -> B-item_quantity
+53.79 -> B-item_unit_price
+215.16 -> B-item_total
+Subtotal -> O
+ : -> O
+ 992.40 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+158.78 -> B-tax_amount
+Total -> O
+: -> O
+1151.18 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

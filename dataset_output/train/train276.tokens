@@ -1,0 +1,85 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+Zrq705Jxl491 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 947717713 -> B-recipient_phone
+Nombre -> O
+: -> O
+Amancio -> B-recipient_name
+Carretero -> I-recipient_name
+Costa -> I-recipient_name
+Correo -> O
+: -> O
+natividadreal@yahoo.com -> B-recipient_email
+Callejón -> B-recipient_address
+Ignacio -> I-recipient_address
+Pedrero -> I-recipient_address
+70 -> I-recipient_address
+La -> I-recipient_address
+Coruña, -> I-recipient_address
+46468 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+825261 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-06 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+leverage extensible paradigms -> B-item_description
+9 -> B-item_quantity
+120.69 -> B-item_total
+strategize visionary metrics -> B-item_description
+2 -> B-item_quantity
+158.16 -> B-item_total
+empower sticky platforms -> B-item_description
+3 -> B-item_quantity
+229.56 -> B-item_total
+Subtotal -> O
+ : -> O
+ 508.41 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+81.35 -> B-tax_amount
+TOTAL -> O
+: -> O
+589.76 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+VAf300wbh186 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34983 77 97 80 -> B-issuer_phone
+Nombre -> O
+: -> O
+Ballesteros -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.C.P -> I-issuer_name
+Correo -> O
+: -> O
+nluque@piedad.es -> B-issuer_email
+Avenida -> B-issuer_address
+Gabriel -> I-issuer_address
+Bueno -> I-issuer_address
+577 -> I-issuer_address
+Cantabria, -> I-issuer_address
+08501 -> I-issuer_address

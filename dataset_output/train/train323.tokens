@@ -1,0 +1,80 @@
+Factura -> O
+873182 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-11 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-23 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Arcelia -> B-issuer_name
+Plaza -> I-issuer_name
+Tamarit -> I-issuer_name
+S.L. -> I-issuer_name
+Rambla -> B-issuer_address
+de -> I-issuer_address
+Joan -> I-issuer_address
+Gárate -> I-issuer_address
+16 -> I-issuer_address
+Piso -> I-issuer_address
+8 -> I-issuer_address
+Álava, -> I-issuer_address
+32144 -> I-issuer_address
++34980 086 150 -> B-issuer_phone
+kreguera@suministros.es -> B-issuer_email
+OqU687qyo237 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Lucio -> B-recipient_name
+Corral -> I-recipient_name
+Trujillo -> I-recipient_name
+C. -> B-recipient_address
+Marcia -> I-recipient_address
+Linares -> I-recipient_address
+990 -> I-recipient_address
+Burgos, -> I-recipient_address
+38448 -> I-recipient_address
++34 825 930 155 -> B-recipient_phone
+guiomar89@hotmail.com -> B-recipient_email
+IQO116IUf240 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+utilize mission-critical platforms -> B-item_description
+5 -> B-item_quantity
+26.23 -> B-item_unit_price
+131.15 -> B-item_total
+unleash collaborative relationships -> B-item_description
+6 -> B-item_quantity
+21.03 -> B-item_unit_price
+126.18 -> B-item_total
+leverage viral vortals -> B-item_description
+3 -> B-item_quantity
+93.08 -> B-item_unit_price
+279.24 -> B-item_total
+Subtotal -> O
+ : -> O
+ 536.57 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+85.85 -> B-tax_amount
+Total -> O
+: -> O
+622.42 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

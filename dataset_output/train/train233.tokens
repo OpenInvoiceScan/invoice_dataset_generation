@@ -1,0 +1,76 @@
+Industrias -> B-issuer_name
+Gisbert -> I-issuer_name
+S.Com. -> I-issuer_name
+Ronda -> B-issuer_address
+Isabela -> I-issuer_address
+Villar -> I-issuer_address
+7 -> I-issuer_address
+Piso -> I-issuer_address
+6 -> I-issuer_address
+Vizcaya, -> I-issuer_address
+22106 -> I-issuer_address
++34 704771588 -> B-issuer_phone
+palmiraadadia@ortiz.net -> B-issuer_email
+phQ214bpg132 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Isidoro -> B-recipient_name
+Menendez -> I-recipient_name
+Blázquez -> I-recipient_name
+Ronda -> B-recipient_address
+Porfirio -> I-recipient_address
+Ribes -> I-recipient_address
+562 -> I-recipient_address
+Piso -> I-recipient_address
+7 -> I-recipient_address
+Barcelona, -> I-recipient_address
+37818 -> I-recipient_address
++34828 804 832 -> B-recipient_phone
+jvendrell@gmail.com -> B-recipient_email
+njo806KJV344 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+464513 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-16 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+syndicate e-business e-business -> B-item_description
+25.61 -> B-item_unit_price
+256.10 -> B-item_total
+10 -> B-item_quantity
+aggregate real-time communities -> B-item_description
+67.87 -> B-item_unit_price
+678.70 -> B-item_total
+8 -> B-item_quantity
+innovate granular eyeballs -> B-item_description
+67.07 -> B-item_unit_price
+536.56 -> B-item_total
+10 -> B-item_quantity
+seize cutting-edge paradigms -> B-item_description
+90.83 -> B-item_unit_price
+908.30 -> B-item_total
+9 -> B-item_quantity
+utilize real-time experiences -> B-item_description
+59.12 -> B-item_unit_price
+532.08 -> B-item_total
+Subtotal -> O
+: -> O
+ 2911.74 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+465.88 -> B-tax_amount
+TOTAL -> O
+: -> O
+3377.62 -> B-total

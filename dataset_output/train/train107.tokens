@@ -1,0 +1,79 @@
+Factura -> O
+851923 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-08 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-02 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Instalaciones -> B-issuer_name
+Española -> I-issuer_name
+S.A.U -> I-issuer_name
+Plaza -> B-issuer_address
+de -> I-issuer_address
+Edgardo -> I-issuer_address
+Lasa -> I-issuer_address
+54 -> I-issuer_address
+Santa -> I-issuer_address
+Cruz -> I-issuer_address
+de -> I-issuer_address
+Tenerife, -> I-issuer_address
+48586 -> I-issuer_address
++34879 15 96 59 -> B-issuer_phone
+estela80@promociones.es -> B-issuer_email
+mTB371cBf844 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Lara -> B-recipient_name
+de -> I-recipient_name
+Villa -> I-recipient_name
+Urbanización -> B-recipient_address
+de -> I-recipient_address
+Yéssica -> I-recipient_address
+Palomo -> I-recipient_address
+77 -> I-recipient_address
+Puerta -> I-recipient_address
+2 -> I-recipient_address
+Badajoz, -> I-recipient_address
+42271 -> I-recipient_address
++34 882224480 -> B-recipient_phone
+zaragozahugo@gmail.com -> B-recipient_email
+NHx112BuN948 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+architect rich e-tailers -> B-item_description
+9 -> B-item_quantity
+21.03 -> B-item_unit_price
+189.27 -> B-item_total
+disintermediate extensible channels -> B-item_description
+8 -> B-item_quantity
+66.72 -> B-item_unit_price
+533.76 -> B-item_total
+Subtotal -> O
+ : -> O
+ 723.03 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+115.68 -> B-tax_amount
+Total -> O
+: -> O
+838.71 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

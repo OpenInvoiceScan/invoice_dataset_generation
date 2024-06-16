@@ -1,0 +1,72 @@
+Distribuciones -> B-issuer_name
+del -> I-issuer_name
+Norte -> I-issuer_name
+S.Coop. -> I-issuer_name
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+Rogelio -> I-issuer_address
+Sedano -> I-issuer_address
+26 -> I-issuer_address
+Vizcaya, -> I-issuer_address
+37039 -> I-issuer_address
++34 816499478 -> B-issuer_phone
+barrancoainoa@comercial.net -> B-issuer_email
+JQb780qPm188 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Victor -> B-recipient_name
+Manuel -> I-recipient_name
+Escudero-Perales -> I-recipient_name
+Avenida -> B-recipient_address
+Dafne -> I-recipient_address
+Borrell -> I-recipient_address
+79 -> I-recipient_address
+Puerta -> I-recipient_address
+8 -> I-recipient_address
+Palencia, -> I-recipient_address
+47994 -> I-recipient_address
++34973476590 -> B-recipient_phone
+ciprianoarce@gmail.com -> B-recipient_email
+WCf569Csg339 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+149877 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-22 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+strategize cross-platform users -> B-item_description
+17.80 -> B-item_unit_price
+178.00 -> B-item_total
+3 -> B-item_quantity
+utilize extensible e-commerce -> B-item_description
+71.39 -> B-item_unit_price
+214.17 -> B-item_total
+9 -> B-item_quantity
+incubate magnetic e-commerce -> B-item_description
+86.60 -> B-item_unit_price
+779.40 -> B-item_total
+4 -> B-item_quantity
+orchestrate proactive e-business -> B-item_description
+61.46 -> B-item_unit_price
+245.84 -> B-item_total
+Subtotal -> O
+: -> O
+ 1417.41 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+226.79 -> B-tax_amount
+TOTAL -> O
+: -> O
+1644.20 -> B-total

@@ -1,0 +1,74 @@
+España -> B-issuer_name
+y -> I-issuer_name
+Romero -> I-issuer_name
+S.Com. -> I-issuer_name
+Glorieta -> B-issuer_address
+Prudencia -> I-issuer_address
+Cruz -> I-issuer_address
+8 -> I-issuer_address
+Albacete, -> I-issuer_address
+07699 -> I-issuer_address
++34945 12 21 32 -> B-issuer_phone
+flormoliner@comercial.net -> B-issuer_email
+FUh677oVB020 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Manuelita -> B-recipient_name
+Torrijos -> I-recipient_name
+Badía -> I-recipient_name
+Glorieta -> B-recipient_address
+de -> I-recipient_address
+Brunilda -> I-recipient_address
+Bello -> I-recipient_address
+75 -> I-recipient_address
+Zamora, -> I-recipient_address
+40169 -> I-recipient_address
++34 958 462 586 -> B-recipient_phone
+emiliarosell@yahoo.com -> B-recipient_email
+dJU104ibN625 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+910622 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-14 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+7 -> B-item_quantity
+strategize enterprise e-tailers -> B-item_description
+46.00 -> B-item_unit_price
+322.00 -> B-item_total
+10 -> B-item_quantity
+integrate strategic supply-chains -> B-item_description
+79.02 -> B-item_unit_price
+790.20 -> B-item_total
+5 -> B-item_quantity
+integrate holistic content -> B-item_description
+18.46 -> B-item_unit_price
+92.30 -> B-item_total
+9 -> B-item_quantity
+reinvent customized architectures -> B-item_description
+66.54 -> B-item_unit_price
+598.86 -> B-item_total
+8 -> B-item_quantity
+scale strategic experiences -> B-item_description
+77.60 -> B-item_unit_price
+620.80 -> B-item_total
+Subtotal -> O
+: -> O
+ 2424.16 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+387.87 -> B-tax_amount
+TOTAL -> O
+: -> O
+2812.03 -> B-total

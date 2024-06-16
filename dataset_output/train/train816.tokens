@@ -1,0 +1,64 @@
+Geraldo -> B-issuer_name
+Daza -> I-issuer_name
+Blanch -> I-issuer_name
+S.A. -> I-issuer_name
+Cuesta -> B-issuer_address
+de -> I-issuer_address
+Casemiro -> I-issuer_address
+Mir -> I-issuer_address
+37 -> I-issuer_address
+León, -> I-issuer_address
+22534 -> I-issuer_address
++34 874 41 00 76 -> B-issuer_phone
+linaporta@grupo.net -> B-issuer_email
+GQM113GBY827 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Daniela -> B-recipient_name
+Juliá -> I-recipient_name
+Valdés -> I-recipient_name
+C. -> B-recipient_address
+de -> I-recipient_address
+Amado -> I-recipient_address
+Arellano -> I-recipient_address
+81 -> I-recipient_address
+Apt. -> I-recipient_address
+13 -> I-recipient_address
+Zaragoza, -> I-recipient_address
+43212 -> I-recipient_address
++34 803 86 59 27 -> B-recipient_phone
+tbilbao@gmail.com -> B-recipient_email
+qIo169DoN599 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+40200 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-09 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+morph virtual eyeballs -> B-item_description
+80.02 -> B-item_unit_price
+160.04 -> B-item_total
+3 -> B-item_quantity
+synthesize viral solutions -> B-item_description
+81.73 -> B-item_unit_price
+245.19 -> B-item_total
+Subtotal -> O 
+: -> O
+ 405.23 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+64.84 -> B-tax_amount
+TOTAL -> O
+: -> O
+470.07 -> B-total

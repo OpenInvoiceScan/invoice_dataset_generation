@@ -1,0 +1,78 @@
+Anastasio -> B-issuer_name
+Espinosa -> I-issuer_name
+Santana -> I-issuer_name
+S.L. -> I-issuer_name
+Via -> B-issuer_address
+de -> I-issuer_address
+Salomé -> I-issuer_address
+López -> I-issuer_address
+65 -> I-issuer_address
+Puerta -> I-issuer_address
+2 -> I-issuer_address
+La -> I-issuer_address
+Coruña, -> I-issuer_address
+39480 -> I-issuer_address
++34 800846849 -> B-issuer_phone
+vherrera@industrias.es -> B-issuer_email
+icr901jJi917 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Teodoro -> B-recipient_name
+Tirado -> I-recipient_name
+Palau -> I-recipient_name
+Via -> B-recipient_address
+de -> I-recipient_address
+Fernanda -> I-recipient_address
+Bou -> I-recipient_address
+530 -> I-recipient_address
+La -> I-recipient_address
+Coruña, -> I-recipient_address
+35678 -> I-recipient_address
++34846767848 -> B-recipient_phone
+dafnecarlos@yahoo.com -> B-recipient_email
+xIh695Clq320 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+188681 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-30 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+2 -> B-item_quantity
+enhance frictionless mindshare -> B-item_description
+19.65 -> B-item_unit_price
+39.30 -> B-item_total
+6 -> B-item_quantity
+target e-business solutions -> B-item_description
+84.23 -> B-item_unit_price
+505.38 -> B-item_total
+5 -> B-item_quantity
+optimize back-end solutions -> B-item_description
+11.51 -> B-item_unit_price
+57.55 -> B-item_total
+4 -> B-item_quantity
+enable world-class deliverables -> B-item_description
+26.49 -> B-item_unit_price
+105.96 -> B-item_total
+9 -> B-item_quantity
+maximize best-of-breed infrastructures -> B-item_description
+14.64 -> B-item_unit_price
+131.76 -> B-item_total
+Subtotal -> O 
+: -> O
+ 839.95 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+134.39 -> B-tax_amount
+TOTAL -> O
+: -> O
+974.34 -> B-total

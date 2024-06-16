@@ -1,0 +1,72 @@
+Invoice -> O
+744642 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-03 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-08 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Familia -> B-issuer_name
+Jove -> I-issuer_name
+S.A.T. -> I-issuer_name
+Via -> B-issuer_address
+Haydée -> I-issuer_address
+Andres -> I-issuer_address
+24 -> I-issuer_address
+Apt. -> I-issuer_address
+28 -> I-issuer_address
+Cáceres, -> I-issuer_address
+29814 -> I-issuer_address
++34 982 692 112 -> B-issuer_phone
+aleleon@diaz.org -> B-issuer_email
+nQs405mgH614 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Anunciación -> B-recipient_name
+Valls -> I-recipient_name
+Baró -> I-recipient_name
+Urbanización -> B-recipient_address
+de -> I-recipient_address
+Gabriel -> I-recipient_address
+Ocaña -> I-recipient_address
+26 -> I-recipient_address
+Puerta -> I-recipient_address
+8 -> I-recipient_address
+Navarra, -> I-recipient_address
+08082 -> I-recipient_address
++34 924 841 575 -> B-recipient_phone
+venceslasmateo@yahoo.com -> B-recipient_email
+UbT129yCf040 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+repurpose magnetic functionalities -> B-item_description
+10 -> B-item_quantity
+15.13 -> B-item_unit_price
+151.30 -> B-item_total
+scale strategic initiatives -> B-item_description
+5 -> B-item_quantity
+62.99 -> B-item_unit_price
+314.95 -> B-item_total
+Subtotal -> O
+ : -> O
+ 466.25 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+74.60 -> B-tax_amount
+Total -> O
+: -> O
+540.85 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Bank Transfer -> B-payment_method

@@ -1,0 +1,95 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+DCV831WuD823 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34828000873 -> B-recipient_phone
+Nombre -> O
+: -> O
+Haydée -> B-recipient_name
+Agudo -> I-recipient_name
+Rodrigo -> I-recipient_name
+Correo -> O
+: -> O
+amparo82@yahoo.com -> B-recipient_email
+Callejón -> B-recipient_address
+de -> I-recipient_address
+Paola -> I-recipient_address
+Bello -> I-recipient_address
+44 -> I-recipient_address
+Puerta -> I-recipient_address
+9 -> I-recipient_address
+Badajoz, -> I-recipient_address
+34617 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+30830 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-19 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+morph collaborative interfaces -> B-item_description
+4 -> B-item_quantity
+290.96 -> B-item_total
+facilitate robust paradigms -> B-item_description
+8 -> B-item_quantity
+639.76 -> B-item_total
+incubate end-to-end e-business -> B-item_description
+8 -> B-item_quantity
+520.96 -> B-item_total
+transform web-enabled supply-chains -> B-item_description
+10 -> B-item_quantity
+438.20 -> B-item_total
+engineer bricks-and-clicks supply-chains -> B-item_description
+7 -> B-item_quantity
+329.35 -> B-item_total
+Subtotal -> O
+ : -> O
+ 2219.23 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+355.08 -> B-tax_amount
+TOTAL -> O
+: -> O
+2574.31 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+miO942Mpe400 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34708261813 -> B-issuer_phone
+Nombre -> O
+: -> O
+Comercializadora -> B-issuer_name
+RMZK -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Correo -> O
+: -> O
+usalas@anabel.es -> B-issuer_email
+Calle -> B-issuer_address
+de -> I-issuer_address
+Gracia -> I-issuer_address
+Lumbreras -> I-issuer_address
+62 -> I-issuer_address
+Puerta -> I-issuer_address
+4 -> I-issuer_address
+Córdoba, -> I-issuer_address
+18315 -> I-issuer_address

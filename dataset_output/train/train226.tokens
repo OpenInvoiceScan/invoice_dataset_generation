@@ -1,0 +1,81 @@
+Invoice -> O
+19945 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-08 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-05-30 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Minería -> B-issuer_name
+Zapata -> I-issuer_name
+S.L.U. -> I-issuer_name
+Vial -> B-issuer_address
+de -> I-issuer_address
+Carmelita -> I-issuer_address
+Goñi -> I-issuer_address
+8 -> I-issuer_address
+Guadalajara, -> I-issuer_address
+41054 -> I-issuer_address
++34 948 499 826 -> B-issuer_phone
+hquintanilla@instalaciones.es -> B-issuer_email
+wEu650WcE595 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Pepito -> B-recipient_name
+Rivas -> I-recipient_name
+Juan -> I-recipient_name
+Via -> B-recipient_address
+de -> I-recipient_address
+Gisela -> I-recipient_address
+Cervera -> I-recipient_address
+83 -> I-recipient_address
+Guadalajara, -> I-recipient_address
+50828 -> I-recipient_address
++34807 433 196 -> B-recipient_phone
+baldomero11@gmail.com -> B-recipient_email
+ltY140vJN447 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+deploy virtual relationships -> B-item_description
+9 -> B-item_quantity
+70.40 -> B-item_unit_price
+633.60 -> B-item_total
+embrace end-to-end systems -> B-item_description
+8 -> B-item_quantity
+41.02 -> B-item_unit_price
+328.16 -> B-item_total
+engage enterprise supply-chains -> B-item_description
+4 -> B-item_quantity
+61.88 -> B-item_unit_price
+247.52 -> B-item_total
+productize vertical experiences -> B-item_description
+6 -> B-item_quantity
+77.71 -> B-item_unit_price
+466.26 -> B-item_total
+extend dot-com schemas -> B-item_description
+4 -> B-item_quantity
+17.12 -> B-item_unit_price
+68.48 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1744.02 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+279.04 -> B-tax_amount
+Total -> O
+: -> O
+2023.06 -> B-total
+Payment -> O
+Method -> O
+: -> O
+PayPal -> B-payment_method

@@ -1,0 +1,85 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+afK906VDs182 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34 946 365 236 -> B-recipient_phone
+Nombre -> O
+: -> O
+Reinaldo -> B-recipient_name
+Robledo -> I-recipient_name
+Zabaleta -> I-recipient_name
+Correo -> O
+: -> O
+espejotrinidad@yahoo.com -> B-recipient_email
+Via -> B-recipient_address
+Maricela -> I-recipient_address
+Batlle -> I-recipient_address
+43 -> I-recipient_address
+Barcelona, -> I-recipient_address
+07451 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+522657 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-03 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+orchestrate end-to-end e-services -> B-item_description
+4 -> B-item_quantity
+348.12 -> B-item_total
+maximize end-to-end supply-chains -> B-item_description
+6 -> B-item_quantity
+290.70 -> B-item_total
+mesh robust relationships -> B-item_description
+10 -> B-item_quantity
+109.40 -> B-item_total
+Subtotal -> O
+ : -> O
+ 748.22 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+119.72 -> B-tax_amount
+TOTAL -> O
+: -> O
+867.94 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+rgH502qMj297 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34971172176 -> B-issuer_phone
+Nombre -> O
+: -> O
+Hermanos -> B-issuer_name
+Mínguez -> I-issuer_name
+S.L. -> I-issuer_name
+Correo -> O
+: -> O
+fanny70@logistica.com -> B-issuer_email
+Glorieta -> B-issuer_address
+Charo -> I-issuer_address
+Alcalá -> I-issuer_address
+96 -> I-issuer_address
+Apt. -> I-issuer_address
+46 -> I-issuer_address
+Melilla, -> I-issuer_address
+16789 -> I-issuer_address

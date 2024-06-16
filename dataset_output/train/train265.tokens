@@ -1,0 +1,69 @@
+Grupo -> B-issuer_name
+Bauzà -> I-issuer_name
+S.A. -> I-issuer_name
+Avenida -> B-issuer_address
+Clarisa -> I-issuer_address
+Torrents -> I-issuer_address
+15 -> I-issuer_address
+Apt. -> I-issuer_address
+18 -> I-issuer_address
+Ourense, -> I-issuer_address
+47098 -> I-issuer_address
++34 920 548 517 -> B-issuer_phone
+walterpalomares@farmaceutica.es -> B-issuer_email
+fZj570Sxm539 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Agustín -> B-recipient_name
+Salgado -> I-recipient_name
+Aguirre -> I-recipient_name
+Urbanización -> B-recipient_address
+Vicente -> I-recipient_address
+Bueno -> I-recipient_address
+43 -> I-recipient_address
+Puerta -> I-recipient_address
+0 -> I-recipient_address
+La -> I-recipient_address
+Rioja, -> I-recipient_address
+25736 -> I-recipient_address
++34913 42 54 50 -> B-recipient_phone
+valderramasusanita@yahoo.com -> B-recipient_email
+EpF765GwP209 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+394630 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-18 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+PayPal -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+10 -> B-item_quantity
+harness rich niches -> B-item_description
+60.03 -> B-item_unit_price
+600.30 -> B-item_total
+5 -> B-item_quantity
+engage bricks-and-clicks synergies -> B-item_description
+55.08 -> B-item_unit_price
+275.40 -> B-item_total
+1 -> B-item_quantity
+drive transparent architectures -> B-item_description
+47.08 -> B-item_unit_price
+47.08 -> B-item_total
+Subtotal -> O
+: -> O
+ 922.78 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+147.64 -> B-tax_amount
+TOTAL -> O
+: -> O
+1070.42 -> B-total

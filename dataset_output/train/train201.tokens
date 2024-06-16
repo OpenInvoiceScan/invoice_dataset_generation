@@ -1,0 +1,75 @@
+Familia -> B-issuer_name
+Diéguez -> I-issuer_name
+S.Com. -> I-issuer_name
+C. -> B-issuer_address
+de -> I-issuer_address
+Miguel -> I-issuer_address
+Lozano -> I-issuer_address
+12 -> I-issuer_address
+Huesca, -> I-issuer_address
+16481 -> I-issuer_address
++34 884954295 -> B-issuer_phone
+fajardobalduino@morillo.com -> B-issuer_email
+xyF066JSy292 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Susana -> B-recipient_name
+Escudero -> I-recipient_name
+Luís -> I-recipient_name
+Vial -> B-recipient_address
+Fabiana -> I-recipient_address
+Casanova -> I-recipient_address
+8 -> I-recipient_address
+Piso -> I-recipient_address
+4 -> I-recipient_address
+Málaga, -> I-recipient_address
+12094 -> I-recipient_address
++34924892908 -> B-recipient_phone
+francisco-josemelero@gmail.com -> B-recipient_email
+eMK046gCQ287 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+705645 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-23 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+redefine real-time e-business -> B-item_description
+46.46 -> B-item_unit_price
+232.30 -> B-item_total
+9 -> B-item_quantity
+seize turn-key schemas -> B-item_description
+33.45 -> B-item_unit_price
+301.05 -> B-item_total
+6 -> B-item_quantity
+synergize intuitive applications -> B-item_description
+30.47 -> B-item_unit_price
+182.82 -> B-item_total
+5 -> B-item_quantity
+drive cutting-edge methodologies -> B-item_description
+46.15 -> B-item_unit_price
+230.75 -> B-item_total
+7 -> B-item_quantity
+integrate web-enabled technologies -> B-item_description
+28.15 -> B-item_unit_price
+197.05 -> B-item_total
+Subtotal -> O
+: -> O
+ 1143.97 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+183.04 -> B-tax_amount
+TOTAL -> O
+: -> O
+1327.01 -> B-total

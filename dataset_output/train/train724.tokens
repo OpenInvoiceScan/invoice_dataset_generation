@@ -1,0 +1,91 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+LFk918zRb094 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34988568026 -> B-recipient_phone
+Nombre -> O
+: -> O
+Jesús -> B-recipient_name
+del -> I-recipient_name
+Arranz -> I-recipient_name
+Correo -> O
+: -> O
+marcosanselmo@hotmail.com -> B-recipient_email
+Pasaje -> B-recipient_address
+de -> I-recipient_address
+Artemio -> I-recipient_address
+Jaén -> I-recipient_address
+7 -> I-recipient_address
+Madrid, -> I-recipient_address
+35202 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+737599 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-20 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+drive rich portals -> B-item_description
+2 -> B-item_quantity
+27.20 -> B-item_total
+streamline real-time markets -> B-item_description
+3 -> B-item_quantity
+121.62 -> B-item_total
+transition front-end ROI -> B-item_description
+9 -> B-item_quantity
+271.35 -> B-item_total
+integrate plug-and-play info-mediaries -> B-item_description
+8 -> B-item_quantity
+246.72 -> B-item_total
+expedite dynamic e-markets -> B-item_description
+3 -> B-item_quantity
+50.01 -> B-item_total
+Subtotal -> O
+ : -> O
+ 716.90 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+114.70 -> B-tax_amount
+TOTAL -> O
+: -> O
+831.60 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+IBI383Xsc165 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34 987 49 23 47 -> B-issuer_phone
+Nombre -> O
+: -> O
+Inversiones -> B-issuer_name
+IVS -> I-issuer_name
+S.A. -> I-issuer_name
+Correo -> O
+: -> O
+amado41@familia.com -> B-issuer_email
+Via -> B-issuer_address
+de -> I-issuer_address
+Heliodoro -> I-issuer_address
+González -> I-issuer_address
+95 -> I-issuer_address
+Cuenca, -> I-issuer_address
+20763 -> I-issuer_address

@@ -1,0 +1,82 @@
+Invoice -> O
+796874 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-04-29 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-23 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Manufacturas -> B-issuer_name
+SEI -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Cuesta -> B-issuer_address
+Nélida -> I-issuer_address
+Palomo -> I-issuer_address
+114 -> I-issuer_address
+Vizcaya, -> I-issuer_address
+46802 -> I-issuer_address
++34849 104 821 -> B-issuer_phone
+harjona@folch.com -> B-issuer_email
+Fus526xVN175 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Carina -> B-recipient_name
+Mir -> I-recipient_name
+Ballester -> I-recipient_name
+Plaza -> B-recipient_address
+Susanita -> I-recipient_address
+Folch -> I-recipient_address
+77 -> I-recipient_address
+Santa -> I-recipient_address
+Cruz -> I-recipient_address
+de -> I-recipient_address
+Tenerife, -> I-recipient_address
+24720 -> I-recipient_address
++34845 63 08 23 -> B-recipient_phone
+juan-manuelgracia@hotmail.com -> B-recipient_email
+MGc703Abg108 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+morph front-end action-items -> B-item_description
+6 -> B-item_quantity
+18.69 -> B-item_unit_price
+112.14 -> B-item_total
+harness extensible deliverables -> B-item_description
+1 -> B-item_quantity
+62.96 -> B-item_unit_price
+62.96 -> B-item_total
+strategize cross-media content -> B-item_description
+6 -> B-item_quantity
+82.09 -> B-item_unit_price
+492.54 -> B-item_total
+utilize leading-edge eyeballs -> B-item_description
+2 -> B-item_quantity
+43.33 -> B-item_unit_price
+86.66 -> B-item_total
+evolve web-enabled functionalities -> B-item_description
+8 -> B-item_quantity
+87.99 -> B-item_unit_price
+703.92 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1458.22 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+233.32 -> B-tax_amount
+Total -> O
+: -> O
+1691.54 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

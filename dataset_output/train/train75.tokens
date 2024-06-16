@@ -1,0 +1,88 @@
+Factura -> O
+124403 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-04 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-16 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Luz -> B-issuer_name
+Ballester -> I-issuer_name
+Alcalde -> I-issuer_name
+S.Com. -> I-issuer_name
+Pasadizo -> B-issuer_address
+de -> I-issuer_address
+Porfirio -> I-issuer_address
+Mora -> I-issuer_address
+40 -> I-issuer_address
+Piso -> I-issuer_address
+2 -> I-issuer_address
+Ceuta, -> I-issuer_address
+21547 -> I-issuer_address
++34875 666 930 -> B-issuer_phone
+efrainperello@marco.org -> B-issuer_email
+mxz572Zur736 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Rosa -> B-recipient_name
+María -> I-recipient_name
+Lledó -> I-recipient_name
+Baquero -> I-recipient_name
+Alameda -> B-recipient_address
+Demetrio -> I-recipient_address
+Urrutia -> I-recipient_address
+74 -> I-recipient_address
+Apt. -> I-recipient_address
+56 -> I-recipient_address
+Las -> I-recipient_address
+Palmas, -> I-recipient_address
+36309 -> I-recipient_address
++34 944032118 -> B-recipient_phone
+jcanton@gmail.com -> B-recipient_email
+fkS368sdo656 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+deliver bleeding-edge architectures -> B-item_description
+9 -> B-item_quantity
+38.61 -> B-item_unit_price
+347.49 -> B-item_total
+e-enable B2C niches -> B-item_description
+9 -> B-item_quantity
+13.13 -> B-item_unit_price
+118.17 -> B-item_total
+exploit B2B models -> B-item_description
+5 -> B-item_quantity
+81.10 -> B-item_unit_price
+405.50 -> B-item_total
+envisioneer best-of-breed convergence -> B-item_description
+8 -> B-item_quantity
+29.07 -> B-item_unit_price
+232.56 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1103.72 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+176.60 -> B-tax_amount
+Total -> O
+: -> O
+1280.32 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

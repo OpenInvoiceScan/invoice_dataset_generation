@@ -1,0 +1,74 @@
+Invoice -> O
+805647 -> B-invoice_id
+Issue -> O
+Date -> O
+: -> O
+2024-05-04 -> B-issue_date
+Due -> O
+Date -> O
+: -> O
+2024-06-01 -> B-due_date
+Issuer -> O
+Details -> O
+: -> O
+Tenorio -> B-issuer_name
+& -> I-issuer_name
+Asociados -> I-issuer_name
+S.A. -> I-issuer_name
+Cuesta -> B-issuer_address
+Juan -> I-issuer_address
+Pablo -> I-issuer_address
+Ribes -> I-issuer_address
+30 -> I-issuer_address
+Apt. -> I-issuer_address
+98 -> I-issuer_address
+Ciudad, -> I-issuer_address
+15932 -> I-issuer_address
++34872 272 319 -> B-issuer_phone
+osvaldo62@grupo.es -> B-issuer_email
+VSF867vgh357 -> B-issuer_tax_id
+Recipient -> O
+Details -> O
+: -> O
+Pascual -> B-recipient_name
+Casal -> I-recipient_name
+Pasadizo -> B-recipient_address
+Cristian -> I-recipient_address
+Manrique -> I-recipient_address
+79 -> I-recipient_address
+Melilla, -> I-recipient_address
+06671 -> I-recipient_address
++34901 96 20 16 -> B-recipient_phone
+amorleiva@yahoo.com -> B-recipient_email
+aJd970qAS163 -> B-recipient_tax_id
+Description -> O
+Quantity -> O
+Unit -> O
+Price -> O
+Total -> O
+enhance revolutionary networks -> B-item_description
+5 -> B-item_quantity
+18.72 -> B-item_unit_price
+93.60 -> B-item_total
+target visionary solutions -> B-item_description
+4 -> B-item_quantity
+72.85 -> B-item_unit_price
+291.40 -> B-item_total
+synthesize synergistic infrastructures -> B-item_description
+4 -> B-item_quantity
+59.74 -> B-item_unit_price
+238.96 -> B-item_total
+Subtotal -> O
+ : -> O
+ 623.96 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+99.83 -> B-tax_amount
+Total -> O
+: -> O
+723.79 -> B-total
+Payment -> O
+Method -> O
+: -> O
+Credit Card -> B-payment_method

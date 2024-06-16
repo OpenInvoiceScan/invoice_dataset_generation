@@ -1,0 +1,82 @@
+Factura -> O
+448165 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-13 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-06 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Familia -> B-issuer_name
+Sevilla -> I-issuer_name
+S.L.N.E -> I-issuer_name
+Camino -> B-issuer_address
+Florencia -> I-issuer_address
+Luján -> I-issuer_address
+7 -> I-issuer_address
+Segovia, -> I-issuer_address
+05217 -> I-issuer_address
++34987 649 363 -> B-issuer_phone
+hernandotomas@fortuny.es -> B-issuer_email
+eeX601vTR641 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Pili -> B-recipient_name
+del -> I-recipient_name
+Elías -> I-recipient_name
+Rambla -> B-recipient_address
+Faustino -> I-recipient_address
+Cazorla -> I-recipient_address
+708 -> I-recipient_address
+Apt. -> I-recipient_address
+63 -> I-recipient_address
+Badajoz, -> I-recipient_address
+37012 -> I-recipient_address
++34 877 38 55 18 -> B-recipient_phone
+maria36@gmail.com -> B-recipient_email
+tBq710erN458 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+embrace magnetic web services -> B-item_description
+3 -> B-item_quantity
+27.29 -> B-item_unit_price
+81.87 -> B-item_total
+matrix mission-critical models -> B-item_description
+7 -> B-item_quantity
+62.27 -> B-item_unit_price
+435.89 -> B-item_total
+enable back-end content -> B-item_description
+7 -> B-item_quantity
+52.84 -> B-item_unit_price
+369.88 -> B-item_total
+engage web-enabled schemas -> B-item_description
+7 -> B-item_quantity
+22.13 -> B-item_unit_price
+154.91 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1042.55 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+166.81 -> B-tax_amount
+Total -> O
+: -> O
+1209.36 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

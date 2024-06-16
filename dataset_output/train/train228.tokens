@@ -1,0 +1,93 @@
+FACTURA -> O
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+CIF -> O
+: -> O
+IJd877GDp360 -> B-recipient_tax_id
+Telf -> O
+: -> O
++34902 85 01 30 -> B-recipient_phone
+Nombre -> O
+: -> O
+Ibán -> B-recipient_name
+Piña -> I-recipient_name
+Naranjo -> I-recipient_name
+Correo -> O
+: -> O
+tarevalo@yahoo.com -> B-recipient_email
+Cuesta -> B-recipient_address
+Violeta -> I-recipient_address
+Almansa -> I-recipient_address
+43 -> I-recipient_address
+Piso -> I-recipient_address
+0 -> I-recipient_address
+Granada, -> I-recipient_address
+33765 -> I-recipient_address
+No -> O
+FACTURA -> O
+: -> O
+69839 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-02 -> B-issue_date
+Descripcion -> O
+Cantidad -> O
+TOTAL -> O
+revolutionize interactive content -> B-item_description
+7 -> B-item_quantity
+412.23 -> B-item_total
+brand seamless niches -> B-item_description
+3 -> B-item_quantity
+133.02 -> B-item_total
+disintermediate real-time web-readiness -> B-item_description
+4 -> B-item_quantity
+332.68 -> B-item_total
+deliver frictionless metrics -> B-item_description
+3 -> B-item_quantity
+211.08 -> B-item_total
+Subtotal -> O
+ : -> O
+ 1089.01 -> B-subtotal
+VAT -> O
+(16%) -> B-tax_percentage
+: -> O
+174.24 -> B-tax_amount
+TOTAL -> O
+: -> O
+1263.25 -> B-total
+Forma -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+CIF -> O
+: -> O
+tCQ526viL781 -> B-issuer_tax_id
+Telf -> O
+: -> O
++34821 386 361 -> B-issuer_phone
+Nombre -> O
+: -> O
+Suministros -> B-issuer_name
+Osuna -> I-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.Com. -> I-issuer_name
+Correo -> O
+: -> O
+alexandraarteaga@hnos.com -> B-issuer_email
+Alameda -> B-issuer_address
+de -> I-issuer_address
+Espiridión -> I-issuer_address
+Serrano -> I-issuer_address
+56 -> I-issuer_address
+Piso -> I-issuer_address
+0 -> I-issuer_address
+Ourense, -> I-issuer_address
+28428 -> I-issuer_address

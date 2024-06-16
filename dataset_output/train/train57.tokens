@@ -1,0 +1,57 @@
+Meléndez -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L. -> I-issuer_name
+Pasaje -> B-issuer_address
+de -> I-issuer_address
+Coral -> I-issuer_address
+Blanco -> I-issuer_address
+7 -> I-issuer_address
+Huelva, -> I-issuer_address
+17858 -> I-issuer_address
++34 823 71 60 79 -> B-issuer_phone
+maria-jesusespejo@comercial.com -> B-issuer_email
+NMU337Trq840 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Candelaria -> B-recipient_name
+Lumbreras-Girona -> I-recipient_name
+Urbanización -> B-recipient_address
+Maribel -> I-recipient_address
+Agullo -> I-recipient_address
+7 -> I-recipient_address
+Ciudad, -> I-recipient_address
+04321 -> I-recipient_address
++34 827 823 481 -> B-recipient_phone
+froyo@gmail.com -> B-recipient_email
+CDY112nMm119 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+946559 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-03 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Credit Card -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+3 -> B-item_quantity
+reinvent transparent experiences -> B-item_description
+60.13 -> B-item_unit_price
+180.39 -> B-item_total
+Subtotal -> O
+: -> O
+ 180.39 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+28.86 -> B-tax_amount
+TOTAL -> O
+: -> O
+209.25 -> B-total

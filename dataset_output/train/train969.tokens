@@ -1,0 +1,71 @@
+Jaume -> B-issuer_name
+y -> I-issuer_name
+asociados -> I-issuer_name
+S.L.L. -> I-issuer_name
+Paseo -> B-issuer_address
+Nazaret -> I-issuer_address
+Enríquez -> I-issuer_address
+2 -> I-issuer_address
+Piso -> I-issuer_address
+1 -> I-issuer_address
+Málaga, -> I-issuer_address
+11879 -> I-issuer_address
++34872456002 -> B-issuer_phone
+hervasbelen@pedrosa.es -> B-issuer_email
+Mgi994RAM861 -> B-issuer_tax_id
+Cliente -> O
+: -> O
+Jerónimo -> B-recipient_name
+Sola-Ariza -> I-recipient_name
+Via -> B-recipient_address
+de -> I-recipient_address
+Mario -> I-recipient_address
+Vall -> I-recipient_address
+9 -> I-recipient_address
+Málaga, -> I-recipient_address
+18315 -> I-recipient_address
++34 946 27 88 47 -> B-recipient_phone
+lizaguirre@hotmail.com -> B-recipient_email
+seA510TaP507 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+189467 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-04-27 -> B-issue_date
+PAGADO -> O
+CON -> O
+: -> O
+Bank Transfer -> B-payment_method
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+utilize plug-and-play methodologies -> B-item_description
+92.15 -> B-item_unit_price
+460.75 -> B-item_total
+10 -> B-item_quantity
+repurpose e-business info-mediaries -> B-item_description
+36.37 -> B-item_unit_price
+363.70 -> B-item_total
+4 -> B-item_quantity
+enable granular web services -> B-item_description
+96.87 -> B-item_unit_price
+387.48 -> B-item_total
+8 -> B-item_quantity
+exploit intuitive metrics -> B-item_description
+15.18 -> B-item_unit_price
+121.44 -> B-item_total
+Subtotal -> O
+: -> O
+ 1333.37 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+213.34 -> B-tax_amount
+TOTAL -> O
+: -> O
+1546.71 -> B-total

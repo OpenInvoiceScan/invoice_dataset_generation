@@ -1,0 +1,87 @@
+Factura -> O
+695785 -> B-invoice_id
+Fecha -> O
+de -> O
+emision -> O
+: -> O
+2024-05-10 -> B-issue_date
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-06-20 -> B-due_date
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Banca -> B-issuer_name
+Privada -> I-issuer_name
+RE -> I-issuer_name
+S.Coop. -> I-issuer_name
+Ronda -> B-issuer_address
+de -> I-issuer_address
+Valentina -> I-issuer_address
+Valdés -> I-issuer_address
+63 -> I-issuer_address
+Valencia, -> I-issuer_address
+17151 -> I-issuer_address
++34877 34 70 22 -> B-issuer_phone
+abiliocastellanos@alexandra.es -> B-issuer_email
+mnj952aED476 -> B-issuer_tax_id
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Salvador -> B-recipient_name
+Eutropio -> I-recipient_name
+Anguita -> I-recipient_name
+Gallego -> I-recipient_name
+Calle -> B-recipient_address
+Íñigo -> I-recipient_address
+Mariscal -> I-recipient_address
+83 -> I-recipient_address
+Valladolid, -> I-recipient_address
+39260 -> I-recipient_address
++34975 47 09 51 -> B-recipient_phone
+ibayo@yahoo.com -> B-recipient_email
+imx402kSI550 -> B-recipient_tax_id
+Descripcion -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+transition vertical action-items -> B-item_description
+4 -> B-item_quantity
+25.17 -> B-item_unit_price
+100.68 -> B-item_total
+engage collaborative initiatives -> B-item_description
+8 -> B-item_quantity
+78.93 -> B-item_unit_price
+631.44 -> B-item_total
+maximize plug-and-play solutions -> B-item_description
+9 -> B-item_quantity
+92.57 -> B-item_unit_price
+833.13 -> B-item_total
+exploit user-centric supply-chains -> B-item_description
+10 -> B-item_quantity
+91.28 -> B-item_unit_price
+912.80 -> B-item_total
+engineer next-generation eyeballs -> B-item_description
+8 -> B-item_quantity
+79.23 -> B-item_unit_price
+633.84 -> B-item_total
+Subtotal -> O
+ : -> O
+ 3111.89 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+497.90 -> B-tax_amount
+Total -> O
+: -> O
+3609.79 -> B-total
+Metodo -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

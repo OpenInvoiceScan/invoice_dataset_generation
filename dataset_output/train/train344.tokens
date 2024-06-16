@@ -1,0 +1,72 @@
+Hermanos -> B-issuer_name
+Carrión -> I-issuer_name
+S.Coop. -> I-issuer_name
+Cañada -> B-issuer_address
+de -> I-issuer_address
+Encarnacion -> I-issuer_address
+Aznar -> I-issuer_address
+46 -> I-issuer_address
+Guipúzcoa, -> I-issuer_address
+04019 -> I-issuer_address
++34971 30 16 38 -> B-issuer_phone
+diegocalleja@jeronimo.es -> B-issuer_email
+chP039rAR898 -> B-issuer_tax_id
+FACTURA -> O                         
+Datos -> O
+del -> O
+cliente -> O
+: -> O
+Andrés -> B-recipient_name
+Zaragoza -> I-recipient_name
+Iniesta -> I-recipient_name
+Urbanización -> B-recipient_address
+Lilia -> I-recipient_address
+Borrell -> I-recipient_address
+37 -> I-recipient_address
+Pontevedra, -> I-recipient_address
+33685 -> I-recipient_address
++34 885 737 696 -> B-recipient_phone
+jdavila@hotmail.com -> B-recipient_email
+hTE744Ncp524 -> B-recipient_tax_id
+No -> O
+FACTURA -> O
+: -> O
+435398 -> B-invoice_id
+FECHA -> O
+: -> O
+2024-05-26 -> B-issue_date
+CANTIDAD -> O
+DESCRIPCION -> O
+PRECIO -> O
+UNITARIO -> O
+TOTAL -> O
+5 -> B-item_quantity
+visualize best-of-breed niches -> B-item_description
+29.51 -> B-item_unit_price
+147.55 -> B-item_total
+6 -> B-item_quantity
+mesh user-centric experiences -> B-item_description
+94.76 -> B-item_unit_price
+568.56 -> B-item_total
+7 -> B-item_quantity
+revolutionize value-added e-services -> B-item_description
+61.82 -> B-item_unit_price
+432.74 -> B-item_total
+6 -> B-item_quantity
+strategize plug-and-play schemas -> B-item_description
+61.66 -> B-item_unit_price
+369.96 -> B-item_total
+8 -> B-item_quantity
+re-contextualize customized relationships -> B-item_description
+59.23 -> B-item_unit_price
+473.84 -> B-item_total
+Subtotal -> O 
+: -> O
+ 1992.65 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+318.82 -> B-tax_amount
+TOTAL -> O
+: -> O
+2311.47 -> B-total
