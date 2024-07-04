@@ -1,0 +1,50 @@
+{
+  "invoice_id": 274142,
+  "issue_date": "2024-06-06",
+  "due_date": "2024-07-17",
+  "issuer": {
+    "name": "Distribuciones Alberto S.A.",
+    "address": "Cañada Yaiza Martorell 69 Piso 1 \nMálaga, 04119",
+    "phone": "+34871 122 520",
+    "email": "lupealvarado@llabres.es",
+    "tax_id": "myg637WwJ102"
+  },
+  "recipient": {
+    "name": "Lino de Pulido",
+    "address": "Rambla de Valero Codina 84\nGranada, 38799",
+    "phone": "+34920 52 35 44",
+    "email": "riveroramon@gmail.com",
+    "tax_id": "kKh207VuB510"
+  },
+  "items": [
+    {
+      "description": "aggregate compelling networks",
+      "quantity": 10,
+      "unit_price": "61.04",
+      "total": "610.40"
+    },
+    {
+      "description": "transform bricks-and-clicks e-commerce",
+      "quantity": 9,
+      "unit_price": "40.17",
+      "total": "361.53"
+    },
+    {
+      "description": "matrix ubiquitous deliverables",
+      "quantity": 9,
+      "unit_price": "65.07",
+      "total": "585.63"
+    }
+  ],
+  "subtotal": "1557.56",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "249.21"
+    }
+  ],
+  "total": "1806.77",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

@@ -1,0 +1,44 @@
+{
+  "invoice_id": 376329,
+  "issue_date": "2024-06-10",
+  "due_date": "2024-07-05",
+  "issuer": {
+    "name": "Servicios Armengol & Asociados S.C.P",
+    "address": "Ronda Maximiano Franco 48\nGuipúzcoa, 17524",
+    "phone": "+34 810449192",
+    "email": "molesroberto@anglada.com",
+    "tax_id": "VqK011rtf090"
+  },
+  "recipient": {
+    "name": "Donato Rueda Gomila",
+    "address": "Urbanización Matilde Cortés 51 Piso 8 \nÁvila, 20785",
+    "phone": "+34 973906406",
+    "email": "silvestrevigil@gmail.com",
+    "tax_id": "smC008wZg596"
+  },
+  "items": [
+    {
+      "description": "repurpose back-end e-commerce",
+      "quantity": 4,
+      "unit_price": "75.04",
+      "total": "300.16"
+    },
+    {
+      "description": "harness dynamic action-items",
+      "quantity": 10,
+      "unit_price": "40.98",
+      "total": "409.80"
+    }
+  ],
+  "subtotal": "709.96",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "113.59"
+    }
+  ],
+  "total": "823.55",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

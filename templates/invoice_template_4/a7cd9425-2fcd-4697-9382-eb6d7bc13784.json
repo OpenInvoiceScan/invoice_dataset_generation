@@ -1,0 +1,44 @@
+{
+  "invoice_id": 754975,
+  "issue_date": "2024-06-04",
+  "due_date": "2024-07-14",
+  "issuer": {
+    "name": "Parra & Asociados S.L.",
+    "address": "Pasadizo Flor Lerma 37 Puerta 9 \nLa Coruña, 03101",
+    "phone": "+34 620917030",
+    "email": "gertrudisanton@bueno.es",
+    "tax_id": "FFc215aen984"
+  },
+  "recipient": {
+    "name": "Valero Badía Fuentes",
+    "address": "Pasadizo de Inés Carrillo 9 Puerta 3 \nNavarra, 01200",
+    "phone": "+34862 10 77 35",
+    "email": "ribaantonio@hotmail.com",
+    "tax_id": "unv115jIN678"
+  },
+  "items": [
+    {
+      "description": "enable distributed users",
+      "quantity": 1,
+      "unit_price": "99.73",
+      "total": "99.73"
+    },
+    {
+      "description": "visualize world-class interfaces",
+      "quantity": 5,
+      "unit_price": "81.28",
+      "total": "406.40"
+    }
+  ],
+  "subtotal": "506.13",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "80.98"
+    }
+  ],
+  "total": "587.11",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

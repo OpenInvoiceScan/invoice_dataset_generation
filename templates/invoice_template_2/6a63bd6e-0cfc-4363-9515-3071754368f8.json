@@ -1,0 +1,56 @@
+{
+  "invoice_id": 496733,
+  "issue_date": "2024-06-22",
+  "due_date": "2024-07-16",
+  "issuer": {
+    "name": "Inmobiliaria Gracia S.Coop.",
+    "address": "Cuesta Elisabet Barrera 623 Apt. 22 \nLugo, 04690",
+    "phone": "+34981 24 97 05",
+    "email": "samuel99@banca.es",
+    "tax_id": "AJc115rPj367"
+  },
+  "recipient": {
+    "name": "Augusto Teruel-Cantero",
+    "address": "Urbanización Feliciana Noriega 900\nLa Rioja, 36051",
+    "phone": "+34 849 730 273",
+    "email": "adoracionlopez@yahoo.com",
+    "tax_id": "ieR049shF765"
+  },
+  "items": [
+    {
+      "description": "deliver B2B content",
+      "quantity": 4,
+      "unit_price": "78.09",
+      "total": "312.36"
+    },
+    {
+      "description": "whiteboard bleeding-edge metrics",
+      "quantity": 9,
+      "unit_price": "99.98",
+      "total": "899.82"
+    },
+    {
+      "description": "deploy one-to-one supply-chains",
+      "quantity": 3,
+      "unit_price": "44.78",
+      "total": "134.34"
+    },
+    {
+      "description": "envisioneer turn-key schemas",
+      "quantity": 10,
+      "unit_price": "31.73",
+      "total": "317.30"
+    }
+  ],
+  "subtotal": "1663.82",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "266.21"
+    }
+  ],
+  "total": "1930.03",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

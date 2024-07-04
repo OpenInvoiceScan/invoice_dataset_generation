@@ -1,0 +1,56 @@
+{
+  "invoice_id": 216103,
+  "issue_date": "2024-06-17",
+  "due_date": "2024-07-28",
+  "issuer": {
+    "name": "Ruth Reguera Macías S.L.L.",
+    "address": "Alameda Ani Peña 48 Puerta 7 \nGuipúzcoa, 32788",
+    "phone": "+34822 616 384",
+    "email": "gilbertolobato@mora.es",
+    "tax_id": "SHh622SRc270"
+  },
+  "recipient": {
+    "name": "Alex del Santiago",
+    "address": "Calle María José Solís 66 Puerta 1 \nLas Palmas, 01330",
+    "phone": "+34922 29 17 19",
+    "email": "blancomaura@yahoo.com",
+    "tax_id": "XPX524zSR471"
+  },
+  "items": [
+    {
+      "description": "syndicate end-to-end architectures",
+      "quantity": 2,
+      "unit_price": "74.19",
+      "total": "148.38"
+    },
+    {
+      "description": "cultivate 24/7 e-services",
+      "quantity": 9,
+      "unit_price": "59.11",
+      "total": "531.99"
+    },
+    {
+      "description": "engage impactful niches",
+      "quantity": 3,
+      "unit_price": "27.12",
+      "total": "81.36"
+    },
+    {
+      "description": "transform ubiquitous e-commerce",
+      "quantity": 8,
+      "unit_price": "95.07",
+      "total": "760.56"
+    }
+  ],
+  "subtotal": "1522.29",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "243.57"
+    }
+  ],
+  "total": "1765.86",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

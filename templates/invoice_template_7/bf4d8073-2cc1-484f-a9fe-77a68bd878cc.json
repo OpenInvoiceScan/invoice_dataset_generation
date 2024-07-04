@@ -1,0 +1,44 @@
+{
+  "invoice_id": 998254,
+  "issue_date": "2024-07-01",
+  "due_date": "2024-07-25",
+  "issuer": {
+    "name": "Paz Arranz Agustín S.L.L.",
+    "address": "Glorieta Ricarda Castilla 10\nAlicante, 34000",
+    "phone": "+34885 39 54 14",
+    "email": "ramoseloisa@servicios.org",
+    "tax_id": "ifo469okh966"
+  },
+  "recipient": {
+    "name": "Marciano Jurado",
+    "address": "Camino de Édgar Torrecilla 777 Apt. 71 \nHuesca, 10067",
+    "phone": "+34823 87 09 15",
+    "email": "oescribano@gmail.com",
+    "tax_id": "uXP038FJl709"
+  },
+  "items": [
+    {
+      "description": "unleash interactive architectures",
+      "quantity": 1,
+      "unit_price": "10.22",
+      "total": "10.22"
+    },
+    {
+      "description": "innovate clicks-and-mortar mindshare",
+      "quantity": 10,
+      "unit_price": "84.52",
+      "total": "845.20"
+    }
+  ],
+  "subtotal": "855.42",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "136.87"
+    }
+  ],
+  "total": "992.29",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

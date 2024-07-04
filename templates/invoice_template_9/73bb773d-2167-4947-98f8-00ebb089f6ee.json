@@ -1,0 +1,38 @@
+{
+  "invoice_id": 925439,
+  "issue_date": "2024-06-27",
+  "due_date": "2024-07-09",
+  "issuer": {
+    "name": "Construcción Baños y asociados S.C.P",
+    "address": "Pasaje de Graciano Figueras 63\nZamora, 28735",
+    "phone": "+34971 384 863",
+    "email": "jzaragoza@restauracion.com",
+    "tax_id": "MvM787kVV514"
+  },
+  "recipient": {
+    "name": "Agapito Niño Expósito",
+    "address": "Cuesta de Berto Quero 23 Piso 8 \nAlbacete, 19879",
+    "phone": "+34943 069 848",
+    "email": "canetenidia@hotmail.com",
+    "tax_id": "pKA892hXE229"
+  },
+  "items": [
+    {
+      "description": "envisioneer web-enabled e-markets",
+      "quantity": 10,
+      "unit_price": "23.03",
+      "total": "230.30"
+    }
+  ],
+  "subtotal": "230.30",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "36.85"
+    }
+  ],
+  "total": "267.15",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

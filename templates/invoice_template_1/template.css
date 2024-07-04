@@ -93,7 +93,6 @@ table {
     border-collapse: collapse;
     margin-top: 20px;
     width: 100%;
-    box-shadow: 0 2px 15px rgba(0,0,0,0.1); /* Sombra suave para dar profundidad */
     font-family: Arial, sans-serif; /* Tipografía más moderna */
 }
 

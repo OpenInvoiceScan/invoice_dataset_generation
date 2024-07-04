@@ -1,0 +1,44 @@
+{
+  "invoice_id": 935240,
+  "issue_date": "2024-06-14",
+  "due_date": "2024-07-15",
+  "issuer": {
+    "name": "Bautista y Sanabria S.A.",
+    "address": "Glorieta José Manuel Aguilar 9 Apt. 02 \nTeruel, 11470",
+    "phone": "+34 988 38 47 71",
+    "email": "seve93@xiomara.com",
+    "tax_id": "vda388WbF769"
+  },
+  "recipient": {
+    "name": "Luís Iván Oliva Barranco",
+    "address": "Urbanización de Rosalía Ballesteros 16\nCeuta, 46758",
+    "phone": "+34 705658988",
+    "email": "rogelio55@gmail.com",
+    "tax_id": "Wdn112bJY000"
+  },
+  "items": [
+    {
+      "description": "facilitate cross-platform markets",
+      "quantity": 2,
+      "unit_price": "74.62",
+      "total": "149.24"
+    },
+    {
+      "description": "leverage out-of-the-box ROI",
+      "quantity": 7,
+      "unit_price": "13.65",
+      "total": "95.55"
+    }
+  ],
+  "subtotal": "244.79",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "39.17"
+    }
+  ],
+  "total": "283.96",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

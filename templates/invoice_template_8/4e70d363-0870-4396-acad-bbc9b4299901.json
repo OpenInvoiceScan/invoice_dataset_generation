@@ -1,0 +1,62 @@
+{
+  "invoice_id": 67619,
+  "issue_date": "2024-06-29",
+  "due_date": "2024-07-12",
+  "issuer": {
+    "name": "Industrias Guerrero & Asociados S.C.P",
+    "address": "Rambla de Donato Lamas 31\nSanta Cruz de Tenerife, 30884",
+    "phone": "+34 859 98 38 52",
+    "email": "amosquera@rosa.net",
+    "tax_id": "Iic822lef631"
+  },
+  "recipient": {
+    "name": "Mireia Noemí Gascón Romeu",
+    "address": "Rambla Irma Soriano 33 Piso 2 \nAlbacete, 04376",
+    "phone": "+34 876 173 184",
+    "email": "sevillanojavi@hotmail.com",
+    "tax_id": "byx916gBm111"
+  },
+  "items": [
+    {
+      "description": "productize front-end models",
+      "quantity": 10,
+      "unit_price": "67.89",
+      "total": "678.90"
+    },
+    {
+      "description": "target best-of-breed methodologies",
+      "quantity": 6,
+      "unit_price": "10.80",
+      "total": "64.80"
+    },
+    {
+      "description": "unleash cross-media schemas",
+      "quantity": 5,
+      "unit_price": "74.30",
+      "total": "371.50"
+    },
+    {
+      "description": "synthesize strategic content",
+      "quantity": 6,
+      "unit_price": "98.77",
+      "total": "592.62"
+    },
+    {
+      "description": "aggregate synergistic info-mediaries",
+      "quantity": 4,
+      "unit_price": "72.54",
+      "total": "290.16"
+    }
+  ],
+  "subtotal": "1997.98",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "319.68"
+    }
+  ],
+  "total": "2317.66",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

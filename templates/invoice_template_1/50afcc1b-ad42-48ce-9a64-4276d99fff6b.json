@@ -1,0 +1,44 @@
+{
+  "invoice_id": 803500,
+  "issue_date": "2024-06-04",
+  "due_date": "2024-07-19",
+  "issuer": {
+    "name": "Familia Azcona S.A.T.",
+    "address": "Ronda de Gilberto Pavón 87\nCuenca, 46228",
+    "phone": "+34 877 284 066",
+    "email": "wcarmona@tello.com",
+    "tax_id": "wOG483mah394"
+  },
+  "recipient": {
+    "name": "Ruth Sedano Caballero",
+    "address": "Callejón de Sandalio García 98\nCáceres, 15947",
+    "phone": "+34843 308 916",
+    "email": "olivia03@yahoo.com",
+    "tax_id": "vMk627KTX722"
+  },
+  "items": [
+    {
+      "description": "implement clicks-and-mortar functionalities",
+      "quantity": 5,
+      "unit_price": "36.12",
+      "total": "180.60"
+    },
+    {
+      "description": "optimize rich mindshare",
+      "quantity": 6,
+      "unit_price": "61.70",
+      "total": "370.20"
+    }
+  ],
+  "subtotal": "550.80",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "88.13"
+    }
+  ],
+  "total": "638.93",
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

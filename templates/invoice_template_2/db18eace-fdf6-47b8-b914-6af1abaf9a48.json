@@ -1,0 +1,38 @@
+{
+  "invoice_id": 520537,
+  "issue_date": "2024-06-22",
+  "due_date": "2024-07-12",
+  "issuer": {
+    "name": "Agullo & Asociados S.L.L.",
+    "address": "Rambla Gerónimo Acosta 35 Apt. 80 \nJaén, 09109",
+    "phone": "+34879 00 72 74",
+    "email": "oriana11@inversiones.com",
+    "tax_id": "Xes750Jas271"
+  },
+  "recipient": {
+    "name": "Victoria Jordana Pol Palomar",
+    "address": "Rambla Martirio Caparrós 72\nBadajoz, 26347",
+    "phone": "+34 945687879",
+    "email": "romuloiriarte@hotmail.com",
+    "tax_id": "NNJ467hao799"
+  },
+  "items": [
+    {
+      "description": "e-enable next-generation technologies",
+      "quantity": 5,
+      "unit_price": "30.66",
+      "total": "153.30"
+    }
+  ],
+  "subtotal": "153.30",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "24.53"
+    }
+  ],
+  "total": "177.83",
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

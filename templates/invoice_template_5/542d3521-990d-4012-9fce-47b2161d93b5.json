@@ -1,0 +1,50 @@
+{
+  "invoice_id": 854599,
+  "issue_date": "2024-06-29",
+  "due_date": "2024-07-08",
+  "issuer": {
+    "name": "Olivares y asociados S.L.L.",
+    "address": "Acceso Isidoro Coloma 70\nZamora, 14184",
+    "phone": "+34945 58 92 03",
+    "email": "chaconlorenzo@clementina.com",
+    "tax_id": "kRT961tiI718"
+  },
+  "recipient": {
+    "name": "Cándida Martínez-Vidal",
+    "address": "Acceso de Selena Cervantes 763 Piso 7 \nBarcelona, 32120",
+    "phone": "+34973 387 926",
+    "email": "mazamacarena@gmail.com",
+    "tax_id": "iNy466Fww818"
+  },
+  "items": [
+    {
+      "description": "exploit interactive channels",
+      "quantity": 8,
+      "unit_price": "74.38",
+      "total": "595.04"
+    },
+    {
+      "description": "iterate B2C e-markets",
+      "quantity": 2,
+      "unit_price": "70.12",
+      "total": "140.24"
+    },
+    {
+      "description": "streamline end-to-end info-mediaries",
+      "quantity": 7,
+      "unit_price": "24.85",
+      "total": "173.95"
+    }
+  ],
+  "subtotal": "909.23",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "145.48"
+    }
+  ],
+  "total": "1054.71",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

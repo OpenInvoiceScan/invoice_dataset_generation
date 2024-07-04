@@ -1,0 +1,50 @@
+{
+  "invoice_id": 862741,
+  "issue_date": "2024-06-04",
+  "due_date": "2024-07-13",
+  "issuer": {
+    "name": "Cañellas y Cal S.Coop.",
+    "address": "Via Cintia Romeu 1 Puerta 1 \nValencia, 14561",
+    "phone": "+34 856 65 72 08",
+    "email": "xrodenas@banco.com",
+    "tax_id": "nnd211nvG471"
+  },
+  "recipient": {
+    "name": "Eugenio Carvajal Vicens",
+    "address": "Urbanización de Eleuterio Yáñez 94 Puerta 3 \nCórdoba, 49716",
+    "phone": "+34 719625479",
+    "email": "ramisadelaida@gmail.com",
+    "tax_id": "Lmn387AIW698"
+  },
+  "items": [
+    {
+      "description": "productize virtual e-commerce",
+      "quantity": 7,
+      "unit_price": "13.41",
+      "total": "93.87"
+    },
+    {
+      "description": "leverage frictionless relationships",
+      "quantity": 8,
+      "unit_price": "62.56",
+      "total": "500.48"
+    },
+    {
+      "description": "utilize frictionless niches",
+      "quantity": 7,
+      "unit_price": "28.36",
+      "total": "198.52"
+    }
+  ],
+  "subtotal": "792.87",
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": "126.86"
+    }
+  ],
+  "total": "919.73",
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}
